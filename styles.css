@@ -92,7 +92,7 @@ header {
   border-bottom: 1px solid var(--border);
   padding: 12px 0;
   position: sticky;
-  top: 69px;
+  top: var(--header-h, 69px);
   z-index: 99;
 }
 
@@ -331,10 +331,80 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
 .gh-link:hover { text-decoration: underline; }
 
 /* ── Responsive ── */
+
+/* Tablet */
+@media (max-width: 900px) {
+  .grid { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+}
+
+/* Mobile */
 @media (max-width: 640px) {
-  .header-inner { flex-direction: column; align-items: flex-start; gap: 8px; }
-  .toolbar-inner { flex-direction: column; align-items: flex-start; }
-  .search-wrap { max-width: 100%; width: 100%; }
-  .grid { grid-template-columns: 1fr; }
-  .brand h1 { font-size: 18px; }
+  /* Header stacks brand and meta vertically */
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 16px 16px;
+  }
+
+  .brand h1 { font-size: 17px; }
+  .tagline { display: none; }
+
+  .header-meta { gap: 8px; }
+
+  /* Toolbar */
+  .toolbar { padding: 10px 0; }
+
+  .toolbar-inner {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 10px;
+    padding: 0 16px;
+  }
+
+  /* Search: full width, larger tap target, prevent iOS zoom (needs 16px) */
+  .search-wrap { max-width: 100%; min-width: 0; }
+  #search { font-size: 16px; padding: 10px 12px 10px 36px; }
+
+  /* Categories: single-row horizontal scroll instead of wrapping */
+  .categories {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 2px;
+    margin: 0 -16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .categories::-webkit-scrollbar { display: none; }
+  .cat-btn { flex-shrink: 0; min-height: 36px; }
+
+  /* Main */
+  main { padding: 16px; }
+
+  .stats-bar { margin-bottom: 14px; }
+
+  /* Single-column card grid */
+  .grid { grid-template-columns: 1fr; gap: 14px; }
+
+  /* Cards */
+  .card { padding: 16px; gap: 10px; }
+  .card-title { font-size: 15px; }
+  .card-summary { font-size: 13px; }
+
+  /* Disable lift animation on touch devices */
+  @media (hover: none) {
+    .card:hover { transform: none; box-shadow: none; }
+  }
+
+  /* Footer */
+  footer { padding: 20px 16px; }
+  .footer-sources { display: none; }
+}
+
+/* Very small screens (≤ 380px) */
+@media (max-width: 380px) {
+  .brand h1 { font-size: 15px; }
+  .card-title { font-size: 14px; }
 }

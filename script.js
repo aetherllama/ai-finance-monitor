@@ -112,4 +112,11 @@ document.getElementById('search').addEventListener('input', e => {
   }, 200);
 });
 
+function syncHeaderHeight() {
+  const h = document.querySelector('header').offsetHeight;
+  document.documentElement.style.setProperty('--header-h', h + 'px');
+}
+syncHeaderHeight();
+window.addEventListener('resize', syncHeaderHeight);
+
 loadData();
