@@ -1,0 +1,125 @@
+{
+  "last_updated": "2026-05-07T00:00:00Z",
+  "articles": [
+    {
+      "id": "1",
+      "title": "JPMorgan Deploys AI Underwriting Engine Across 40 Markets",
+      "summary": "JPMorgan Chase has rolled out its AI-powered credit underwriting platform to 40 global markets, using large language models to synthesize earnings reports, macro signals, and borrower history into real-time risk scores.",
+      "source": "Financial Times",
+      "url": "https://ft.com",
+      "date": "2026-05-07",
+      "category": "Banking",
+      "tags": ["credit", "LLM", "JPMorgan"]
+    },
+    {
+      "id": "2",
+      "title": "SEC Proposes Mandatory AI Disclosure Rules for Hedge Funds",
+      "summary": "The Securities and Exchange Commission has put forward a rule requiring hedge funds managing over $1B to disclose material AI-driven trading strategies, including model lineage and backtesting methodology.",
+      "source": "Reuters",
+      "url": "https://reuters.com",
+      "date": "2026-05-06",
+      "category": "RegTech",
+      "tags": ["SEC", "regulation", "hedge funds"]
+    },
+    {
+      "id": "3",
+      "title": "Visa Launches Real-Time Fraud Neural Network Processing 800M Daily Transactions",
+      "summary": "Visa's new Cognitive Fraud Intelligence network replaces its previous rules-based system with a transformer model that evaluates 500+ behavioral signals per transaction, reducing false positives by 38%.",
+      "source": "American Banker",
+      "url": "https://americanbanker.com",
+      "date": "2026-05-06",
+      "category": "Payments",
+      "tags": ["fraud", "Visa", "neural network"]
+    },
+    {
+      "id": "4",
+      "title": "Goldman Sachs Autonomous Trading Desk Generates $2.1B in Q1 Revenue",
+      "summary": "Goldman's AI-driven quantitative trading unit outperformed its human counterparts for the third consecutive quarter, with autonomous systems now executing 73% of the bank's fixed-income trades.",
+      "source": "Bloomberg",
+      "url": "https://bloomberg.com",
+      "date": "2026-05-05",
+      "category": "Trading",
+      "tags": ["Goldman Sachs", "quant", "autonomous"]
+    },
+    {
+      "id": "5",
+      "title": "Lemonade's AI Claims Adjudicator Settles Policies in Under 3 Seconds",
+      "summary": "InsurTech leader Lemonade reports its next-gen AI adjudicator now processes 94% of property claims without human review, using computer vision and NLP to assess damage photos and policy documents simultaneously.",
+      "source": "Finextra",
+      "url": "https://finextra.com",
+      "date": "2026-05-05",
+      "category": "InsurTech",
+      "tags": ["insurance", "claims", "Lemonade"]
+    },
+    {
+      "id": "6",
+      "title": "ECB Publishes Framework for AI Risk in Systemically Important Banks",
+      "summary": "The European Central Bank released its long-awaited guidance on AI governance for G-SIBs, requiring explainability audits, model inventory registries, and independent AI risk committees at board level by 2027.",
+      "source": "ECB Press",
+      "url": "https://ecb.europa.eu",
+      "date": "2026-05-04",
+      "category": "RegTech",
+      "tags": ["ECB", "governance", "G-SIB"]
+    },
+    {
+      "id": "7",
+      "title": "Stripe Acquires AI Financial Forecasting Startup Parity for $890M",
+      "summary": "Stripe has acquired Parity, a YC-backed startup that built cash-flow forecasting models for SMBs. The technology will be integrated into Stripe's revenue intelligence dashboard, available to 4M+ merchants.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com",
+      "date": "2026-05-04",
+      "category": "Payments",
+      "tags": ["Stripe", "acquisition", "forecasting"]
+    },
+    {
+      "id": "8",
+      "title": "BlackRock Aladdin 3.0 Integrates Multimodal AI for Portfolio Construction",
+      "summary": "BlackRock's Aladdin platform upgrade adds multimodal AI capabilities, allowing portfolio managers to query market data, earnings call audio, and satellite imagery within a single co-pilot interface.",
+      "source": "Institutional Investor",
+      "url": "https://institutionalinvestor.com",
+      "date": "2026-05-03",
+      "category": "Trading",
+      "tags": ["BlackRock", "Aladdin", "portfolio"]
+    },
+    {
+      "id": "9",
+      "title": "CFPB Warns Against AI Chatbots Providing Unlicensed Financial Advice",
+      "summary": "The Consumer Financial Protection Bureau issued a supervisory bulletin cautioning banks that AI chatbots dispensing personalized investment or credit recommendations may violate licensing and disclosure requirements.",
+      "source": "CFPB",
+      "url": "https://cfpb.gov",
+      "date": "2026-05-03",
+      "category": "RegTech",
+      "tags": ["CFPB", "chatbot", "compliance"]
+    },
+    {
+      "id": "10",
+      "title": "Klarna AI Customer Service Handles 87% of Interactions Without Human Escalation",
+      "summary": "Buy-now-pay-later giant Klarna reported its AI assistant now manages nearly nine in ten customer service interactions, equivalent to 700 full-time agents, while maintaining CSAT scores above pre-AI benchmarks.",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com",
+      "date": "2026-05-02",
+      "category": "Banking",
+      "tags": ["Klarna", "customer service", "BNPL"]
+    },
+    {
+      "id": "11",
+      "title": "Citadel Securities Builds Proprietary LLM for Equity Research Synthesis",
+      "summary": "Citadel Securities confirmed it has trained an in-house large language model on 20 years of sell-side research, earnings transcripts, and trade flow data to generate differentiated alpha signals ahead of earnings seasons.",
+      "source": "Wall Street Journal",
+      "url": "https://wsj.com",
+      "date": "2026-05-01",
+      "category": "Trading",
+      "tags": ["Citadel", "LLM", "equity"]
+    },
+    {
+      "id": "12",
+      "title": "HSBC AI KYC Platform Cuts Onboarding Time From 14 Days to 4 Hours",
+      "summary": "HSBC's global rollout of its AI-powered Know Your Customer platform uses document intelligence and adverse media screening to compress corporate client onboarding from two weeks to under four hours.",
+      "source": "Banking Technology",
+      "url": "https://bankingtechnology.com",
+      "date": "2026-04-30",
+      "category": "Banking",
+      "tags": ["HSBC", "KYC", "onboarding"]
+    }
+  ]
+}

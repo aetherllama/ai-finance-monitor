@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Finance Monitor — Latest Developments in AI & Finance</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon">◈</span>
+        <div>
+          <h1>AI Finance Monitor</h1>
+          <p class="tagline">Tracking artificial intelligence across global financial markets</p>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span class="live-badge">● LIVE</span>
+        <span id="last-updated" class="last-updated">Loading...</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="toolbar">
+    <div class="toolbar-inner">
+      <div class="search-wrap">
+        <span class="search-icon">⌕</span>
+        <input type="text" id="search" placeholder="Search developments..." autocomplete="off" />
+      </div>
+      <div class="categories" id="categories">
+        <button class="cat-btn active" data-cat="All">All</button>
+        <button class="cat-btn" data-cat="Banking">Banking</button>
+        <button class="cat-btn" data-cat="Trading">Trading</button>
+        <button class="cat-btn" data-cat="RegTech">RegTech</button>
+        <button class="cat-btn" data-cat="InsurTech">InsurTech</button>
+        <button class="cat-btn" data-cat="Payments">Payments</button>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <div class="stats-bar" id="stats-bar">
+      <span id="article-count">Loading...</span>
+      <span class="sort-label">Sorted by most recent</span>
+    </div>
+    <div class="grid" id="articles-grid">
+      <div class="loading-state">
+        <div class="spinner"></div>
+        <p>Loading latest developments...</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="footer-inner">
+      <p>AI Finance Monitor — auto-updated daily via GitHub Actions</p>
+      <p class="footer-sources">Sources: Reuters · Bloomberg · Financial Times · American Banker · Finextra · ECB · CFPB</p>
+      <a href="https://github.com/aetherllama/ai-finance-monitor" target="_blank" class="gh-link">View on GitHub ↗</a>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
