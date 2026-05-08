@@ -1,6 +1,89 @@
 {
-  "last_updated": "2026-05-07T00:00:00Z",
+  "last_updated": "2026-05-08T08:19:10Z",
   "articles": [
+    {
+      "id": "789499397",
+      "title": "The jury is still out on AI in finance",
+      "summary": "Recruiting digital natives with critical thinking skills is going to be crucial",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c0aec3de-b553-4089-b5d3-074c5b83be57",
+      "date": "2026-05-08",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "recruiting"
+      ]
+    },
+    {
+      "id": "715241376",
+      "title": "GITEX AI Kazakhstan opens doors to global tech leaders in Almaty",
+      "summary": "GITEX AI Kazakhstan launches in Almaty, bringing startups, investors and leaders together to advance AI and digital growth in Central Asia. The post GITEX AI Kazakhstan opens doors to global tech leaders in Almaty appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/gitex-ai-kazakhstan-opens-doors-to-global-tech-leaders-in-almaty/",
+      "date": "2026-05-08",
+      "category": "Payments",
+      "tags": [
+        "gitex ai",
+        "kazakhstan",
+        "almaty gitex"
+      ]
+    },
+    {
+      "id": "547944974",
+      "title": "Block Rallies as AI Push Turns Cash App Into a Lending Hub",
+      "summary": "Block’s first-quarter earnings report was the company’s first since its sweeping organizational restructuring and staff reductions earlier this year, and management used the call to highlight accelerating toward artificial intelligence-driven automation, embedded financial servic…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/block-rallies-as-ai-push-turns-cash-app-into-a-lending-hub/",
+      "date": "2026-05-08",
+      "category": "Banking",
+      "tags": [
+        "block rallies",
+        "ai push",
+        "turns cash"
+      ]
+    },
+    {
+      "id": "745215615",
+      "title": "Lloyds Banking Group Unveils ‘Envoy’ Platform to Scale AI Agents Safely",
+      "summary": "Lloyds Banking Group has officially launched \"Envoy,\" a new internal platform built with Google Cloud. The platform provides a secure, governed environment for teams across the organisation to build, deploy, and share AI agents safely at scale. The post Lloyds Banking Group Unvei…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/lloyds-banking-group-unveils-envoy-platform-to-scale-ai-agents-safely/",
+      "date": "2026-05-07",
+      "category": "Payments",
+      "tags": [
+        "lloyds banking",
+        "group unveils",
+        "envoy"
+      ]
+    },
+    {
+      "id": "14740942",
+      "title": "Amazon’s new AI wallet: AWS, Coinbase, and Stripe build payment rails for bots",
+      "summary": "Amazon said AI agents for now will be allowed to buy APIs, web content and other online services, but that future versions would enable hotel bookings, travel reservations and payments to merchants.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/05/07/amazon-rolls-out-ai-agent-stablecoin-payments-platform-with-coinbase-and-stripe",
+      "date": "2026-05-07",
+      "category": "Payments",
+      "tags": [
+        "amazon",
+        "ai",
+        "aws"
+      ]
+    },
+    {
+      "id": "535421646",
+      "title": "Bitcoin ending May above $76,000 would confirm new bull market, Tom Lee says",
+      "summary": "Tokenization and AI agentic finance are the main narratives driving the next bull cycle in crypto, Lee said at Consensus 2026.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/05/07/bitcoin-ending-may-above-usd76-000-would-confirm-new-bull-market-tom-lee-says",
+      "date": "2026-05-07",
+      "category": "Banking",
+      "tags": [
+        "bitcoin",
+        "may",
+        "tom lee"
+      ]
+    },
     {
       "id": "1",
       "title": "JPMorgan Deploys AI Underwriting Engine Across 40 Markets",
@@ -9,7 +92,25 @@
       "url": "https://ft.com",
       "date": "2026-05-07",
       "category": "Banking",
-      "tags": ["credit", "LLM", "JPMorgan"]
+      "tags": [
+        "credit",
+        "LLM",
+        "JPMorgan"
+      ]
+    },
+    {
+      "id": "791272952",
+      "title": "AI Shopping Agents Trigger ‘False Decline’ Crisis for Merchants, Warns Chargebacks911",
+      "summary": "Chargebacks911 warns that agentic AI shopping is being misclassified as bot traffic, causing false declines, revenue loss, and outdated fraud systems in global commerce. The post AI Shopping Agents Trigger ‘False Decline’ Crisis for Merchants, Warns Chargebacks911 appeared first …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-shopping-agents-trigger-false-decline-crisis-for-merchants-warns-chargebacks911/",
+      "date": "2026-05-06",
+      "category": "Payments",
+      "tags": [
+        "ai shopping",
+        "agents trigger",
+        "false decline"
+      ]
     },
     {
       "id": "2",
@@ -19,7 +120,11 @@
       "url": "https://reuters.com",
       "date": "2026-05-06",
       "category": "RegTech",
-      "tags": ["SEC", "regulation", "hedge funds"]
+      "tags": [
+        "SEC",
+        "regulation",
+        "hedge funds"
+      ]
     },
     {
       "id": "3",
@@ -29,7 +134,11 @@
       "url": "https://americanbanker.com",
       "date": "2026-05-06",
       "category": "Payments",
-      "tags": ["fraud", "Visa", "neural network"]
+      "tags": [
+        "fraud",
+        "Visa",
+        "neural network"
+      ]
     },
     {
       "id": "4",
@@ -39,7 +148,11 @@
       "url": "https://bloomberg.com",
       "date": "2026-05-05",
       "category": "Trading",
-      "tags": ["Goldman Sachs", "quant", "autonomous"]
+      "tags": [
+        "Goldman Sachs",
+        "quant",
+        "autonomous"
+      ]
     },
     {
       "id": "5",
@@ -49,7 +162,25 @@
       "url": "https://finextra.com",
       "date": "2026-05-05",
       "category": "InsurTech",
-      "tags": ["insurance", "claims", "Lemonade"]
+      "tags": [
+        "insurance",
+        "claims",
+        "Lemonade"
+      ]
+    },
+    {
+      "id": "30584656",
+      "title": "Tailoring AI solutions for health care needs",
+      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widel…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
+      "date": "2026-05-04",
+      "category": "Banking",
+      "tags": [
+        "tailoring ai",
+        "the ai",
+        "health"
+      ]
     },
     {
       "id": "6",
@@ -59,7 +190,11 @@
       "url": "https://ecb.europa.eu",
       "date": "2026-05-04",
       "category": "RegTech",
-      "tags": ["ECB", "governance", "G-SIB"]
+      "tags": [
+        "ECB",
+        "governance",
+        "G-SIB"
+      ]
     },
     {
       "id": "7",
@@ -69,7 +204,11 @@
       "url": "https://techcrunch.com",
       "date": "2026-05-04",
       "category": "Payments",
-      "tags": ["Stripe", "acquisition", "forecasting"]
+      "tags": [
+        "Stripe",
+        "acquisition",
+        "forecasting"
+      ]
     },
     {
       "id": "8",
@@ -79,7 +218,11 @@
       "url": "https://institutionalinvestor.com",
       "date": "2026-05-03",
       "category": "Trading",
-      "tags": ["BlackRock", "Aladdin", "portfolio"]
+      "tags": [
+        "BlackRock",
+        "Aladdin",
+        "portfolio"
+      ]
     },
     {
       "id": "9",
@@ -89,7 +232,11 @@
       "url": "https://cfpb.gov",
       "date": "2026-05-03",
       "category": "RegTech",
-      "tags": ["CFPB", "chatbot", "compliance"]
+      "tags": [
+        "CFPB",
+        "chatbot",
+        "compliance"
+      ]
     },
     {
       "id": "10",
@@ -99,7 +246,11 @@
       "url": "https://thefintechtimes.com",
       "date": "2026-05-02",
       "category": "Banking",
-      "tags": ["Klarna", "customer service", "BNPL"]
+      "tags": [
+        "Klarna",
+        "customer service",
+        "BNPL"
+      ]
     },
     {
       "id": "11",
@@ -109,7 +260,11 @@
       "url": "https://wsj.com",
       "date": "2026-05-01",
       "category": "Trading",
-      "tags": ["Citadel", "LLM", "equity"]
+      "tags": [
+        "Citadel",
+        "LLM",
+        "equity"
+      ]
     },
     {
       "id": "12",
@@ -119,7 +274,11 @@
       "url": "https://bankingtechnology.com",
       "date": "2026-04-30",
       "category": "Banking",
-      "tags": ["HSBC", "KYC", "onboarding"]
+      "tags": [
+        "HSBC",
+        "KYC",
+        "onboarding"
+      ]
     }
   ]
 }
