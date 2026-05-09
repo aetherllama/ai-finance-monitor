@@ -162,6 +162,178 @@ header {
   color: #fff;
 }
 
+/* ── Dashboard ── */
+.dashboard {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 24px 24px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.dash-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+
+.panel-header {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.panel-title {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: var(--muted2);
+}
+
+.panel-sub {
+  font-size: 11px;
+  color: var(--muted);
+}
+
+/* Trending rows */
+.trending-list {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.trend-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: none;
+  border: none;
+  padding: 5px 6px;
+  border-radius: 6px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  transition: background 0.15s;
+}
+
+.trend-row:hover { background: var(--surface2); }
+
+.trend-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text);
+  width: 110px;
+  flex-shrink: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.trend-bar-wrap {
+  flex: 1;
+  height: 6px;
+  background: var(--surface2);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.trend-bar {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent) 0%, var(--accent2) 100%);
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+
+.trend-count {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted2);
+  width: 22px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+/* Category breakdown rows */
+.cat-breakdown {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.cat-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: none;
+  border: none;
+  padding: 5px 6px;
+  border-radius: 6px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  transition: background 0.15s;
+  font-family: inherit;
+}
+
+.cat-row:hover { background: var(--surface2); }
+
+.cat-row-label {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text);
+  width: 80px;
+  flex-shrink: 0;
+}
+
+.cat-row-bar-wrap {
+  flex: 1;
+  height: 6px;
+  background: var(--surface2);
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.cat-row-bar {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.4s ease;
+}
+
+.cat-row-Banking   .cat-row-bar { background: #60a5fa; }
+.cat-row-Trading   .cat-row-bar { background: #4ade80; }
+.cat-row-RegTech   .cat-row-bar { background: #fb923c; }
+.cat-row-InsurTech .cat-row-bar { background: #c084fc; }
+.cat-row-Payments  .cat-row-bar { background: #f472b6; }
+
+.cat-row-count {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted2);
+  width: 22px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.dash-loading {
+  height: 80px;
+  background: var(--surface2);
+  border-radius: 8px;
+  animation: shimmer 1.5s ease-in-out infinite;
+}
+
+.dash-empty { font-size: 13px; color: var(--muted); }
+
+@keyframes shimmer {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+
 /* ── Main ── */
 main {
   max-width: 1280px;
@@ -335,6 +507,7 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
 /* Tablet */
 @media (max-width: 900px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
+  .dashboard { grid-template-columns: 1fr; }
 }
 
 /* Mobile */
@@ -380,8 +553,11 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
   .categories::-webkit-scrollbar { display: none; }
   .cat-btn { flex-shrink: 0; min-height: 36px; }
 
-  /* Main */
+  /* Main + dashboard */
   main { padding: 16px; }
+  .dashboard { padding: 16px 16px 0; gap: 12px; }
+  .dash-panel { padding: 14px 16px; }
+  .trend-label { width: 90px; }
 
   .stats-bar { margin-bottom: 14px; }
 

@@ -82,6 +82,74 @@ function renderArticles() {
   filtered.forEach(article => grid.appendChild(buildCard(article)));
 }
 
+const CAT_ORDER = ['Banking', 'Trading', 'RegTech', 'Payments', 'InsurTech'];
+
+function renderTrending(trending) {
+  const list = document.getElementById('trending-list');
+  if (!trending || trending.length === 0) {
+    list.innerHTML = '<span class="dash-empty">Not enough data yet</span>';
+    return;
+  }
+  const max = trending[0].count;
+  list.innerHTML = trending.map(({ topic, count }) => `
+    <button class="trend-row" data-query="${topic.toLowerCase()}">
+      <span class="trend-label">${topic}</span>
+      <span class="trend-bar-wrap">
+        <span class="trend-bar" style="width:${Math.round((count / max) * 100)}%"></span>
+      </span>
+      <span class="trend-count">${count}</span>
+    </button>
+  `).join('');
+
+  list.querySelectorAll('.trend-row').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const q = btn.dataset.query;
+      const input = document.getElementById('search');
+      input.value = q;
+      searchQuery = q;
+      renderArticles();
+      document.getElementById('articles-grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+}
+
+function renderCategoryBreakdown() {
+  const breakdown = document.getElementById('cat-breakdown');
+  const totalEl = document.getElementById('cat-total');
+  const counts = {};
+  CAT_ORDER.forEach(c => { counts[c] = 0; });
+  allArticles.forEach(a => { counts[a.category] = (counts[a.category] || 0) + 1; });
+
+  const total = allArticles.length;
+  totalEl.textContent = `${total} article${total !== 1 ? 's' : ''}`;
+
+  const max = Math.max(...Object.values(counts), 1);
+  breakdown.innerHTML = CAT_ORDER.map(cat => {
+    const n = counts[cat] || 0;
+    const pct = Math.round((n / max) * 100);
+    return `
+      <button class="cat-row cat-row-${cat}" data-cat="${cat}">
+        <span class="cat-row-label">${cat}</span>
+        <span class="cat-row-bar-wrap">
+          <span class="cat-row-bar" style="width:${pct}%"></span>
+        </span>
+        <span class="cat-row-count">${n}</span>
+      </button>
+    `;
+  }).join('');
+
+  breakdown.querySelectorAll('.cat-row').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const cat = btn.dataset.cat;
+      document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+      document.querySelector(`.cat-btn[data-cat="${cat}"]`)?.classList.add('active');
+      activeCategory = cat;
+      renderArticles();
+      document.getElementById('articles-grid').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+}
+
 async function fetchData(silent = false) {
   try {
     const res = await fetch(DATA_URL + '?t=' + Date.now());
@@ -92,6 +160,8 @@ async function fetchData(silent = false) {
     currentLastUpdated = data.last_updated;
     allArticles = data.articles || [];
     document.getElementById('last-updated').textContent = formatUpdated(data.last_updated);
+    renderTrending(data.trending || []);
+    renderCategoryBreakdown();
     renderArticles();
   } catch (err) {
     if (!silent) {

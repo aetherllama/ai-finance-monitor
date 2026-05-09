@@ -31,18 +31,28 @@ RSS_FEEDS = [
 AI_KEYWORDS = [
     r"\bai\b", r"\bartificial intelligence\b", r"\bmachine learning\b",
     r"\bdeep learning\b", r"\bllm\b", r"\blarge language model\b",
-    r"\bgenerative ai\b", r"\bneural network\b", r"\balgorithm\b",
+    r"\bgenerative ai\b", r"\bneural network\b", r"\balgorithm(?:ic)?\b",
     r"\bautomat(?:ed|ion)\b", r"\bpredictive\b", r"\bnatural language\b",
-    r"\bcomputer vision\b", r"\btransformer model\b",
+    r"\bcomputer vision\b", r"\btransformer model\b", r"\bai[- ]driven\b",
+    r"\bai[- ]powered\b", r"\bai[- ]agent\b", r"\bcopilot\b",
 ]
 
 FINANCE_KEYWORDS = [
     r"\bbank(?:ing)?\b", r"\bfinance\b", r"\bfinancial\b", r"\bfintech\b",
-    r"\btrading\b", r"\binvestment\b", r"\bhedge fund\b", r"\binsurance\b",
+    r"\btrading\b", r"\binvestment\b", r"\bhedge fund\b", r"\binsur(?:ance|tech)\b",
     r"\bpayment\b", r"\bcredit\b", r"\bfraud\b", r"\bkyc\b", r"\baml\b",
-    r"\bregulat\b", r"\bsec\b", r"\bcfpb\b", r"\becb\b", r"\bfed\b",
+    r"\bregulat\b", r"\bsec\b", r"\bcfpb\b", r"\becb\b", r"\bocc\b",
     r"\bwall street\b", r"\bstock\b", r"\bequit\b", r"\bfixed income\b",
-    r"\bmortgage\b", r"\bloan\b", r"\bcompliance\b", r"\brisk\b",
+    r"\bmortgage\b", r"\bloan\b", r"\bcompliance\b", r"\blender\b",
+    r"\bwealth\b", r"\basset manag\b", r"\bcapital market\b",
+    r"\bunderwriting\b", r"\bclaim\b", r"\bportfolio\b",
+]
+
+# Titles containing any of these (and nothing redemptive) are discarded
+EXCLUSION_PATTERNS = [
+    r"\bbitcoin\b", r"\bcrypto(?!currency.*finance)\b", r"\bnft\b",
+    r"\bgaming\b", r"\bhealthcare\b", r"\bmedical\b", r"\bclimate\b",
+    r"\bagriculture\b", r"\bretail(?! bank)\b",
 ]
 
 CATEGORY_MAP = {
@@ -99,11 +109,27 @@ def strip_html(text: str) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def is_relevant(text: str) -> bool:
-    t = text.lower()
-    has_ai = any(re.search(p, t) for p in AI_KEYWORDS)
-    has_finance = any(re.search(p, t) for p in FINANCE_KEYWORDS)
-    return has_ai and has_finance
+def is_relevant(title: str, body: str) -> bool:
+    title_l = title.lower()
+    body_l = body.lower()
+    combined = title_l + " " + body_l
+
+    # Hard exclusions on title
+    if any(re.search(p, title_l) for p in EXCLUSION_PATTERNS):
+        return False
+
+    has_ai_title = any(re.search(p, title_l) for p in AI_KEYWORDS)
+    has_finance_title = any(re.search(p, title_l) for p in FINANCE_KEYWORDS)
+    has_ai_body = any(re.search(p, body_l) for p in AI_KEYWORDS)
+    has_finance_body = any(re.search(p, body_l) for p in FINANCE_KEYWORDS)
+
+    # Both AI and finance must appear somewhere
+    if not ((has_ai_title or has_ai_body) and (has_finance_title or has_finance_body)):
+        return False
+
+    # At least one must be explicit in the title — prevents tangential matches
+    # buried in a long summary
+    return has_ai_title or has_finance_title
 
 
 def classify(text: str) -> str:
@@ -141,6 +167,58 @@ def extract_tags(text: str, category: str) -> list[str]:
     return tags or [category.lower()]
 
 
+TREND_STOPWORDS = {
+    "the", "a", "an", "of", "in", "at", "to", "for", "and", "or", "is", "as",
+    "on", "with", "by", "from", "its", "into", "not", "all", "this", "that",
+    "says", "say", "said", "will", "can", "has", "have", "are", "be", "been",
+    "launch", "launches", "launched", "build", "builds", "built", "bring",
+    "brings", "make", "makes", "turns", "warns", "signals", "urges", "opens",
+    "over", "now", "new", "more", "top", "best", "first", "next", "last",
+    "finance", "financial", "banking", "payment", "payments", "artificial",
+    "intelligence", "machine", "learning", "technology", "market", "markets",
+    "digital", "data", "platform", "systems", "services", "global", "latest",
+    "report", "reports", "using", "based", "powered", "amid", "help", "helps",
+    "news", "how", "what", "why", "when", "who", "which",
+}
+
+# Terms that are always present and don't signal anything trending
+ALWAYS_PRESENT = {"ai", "bank", "fintech", "trading", "payment", "credit"}
+
+
+def compute_trending(articles: list[dict], top_n: int = 10) -> list[dict]:
+    cutoff = datetime.now(timezone.utc) - timedelta(days=14)
+    counts: dict[str, int] = {}
+
+    for article in articles:
+        art_date = datetime.strptime(article["date"], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        if art_date < cutoff:
+            continue
+
+        words = re.findall(r"\b[A-Za-z][a-z]{2,}\b", article["title"])
+        seen_in_article: set[str] = set()
+
+        for w in words:
+            key = w.lower()
+            if key in TREND_STOPWORDS or key in ALWAYS_PRESENT or len(key) < 4:
+                continue
+            if key not in seen_in_article:
+                counts[key] = counts.get(key, 0) + 1
+                seen_in_article.add(key)
+
+        # Also count tags (lower weight — tags are 3 per article, very common)
+        for tag in article.get("tags", []):
+            key = tag.lower().strip()
+            if key and key not in TREND_STOPWORDS and key not in ALWAYS_PRESENT and len(key) >= 4:
+                counts[key] = counts.get(key, 0) + 1
+
+    ranked = sorted(counts.items(), key=lambda x: x[1], reverse=True)
+    return [
+        {"topic": term.capitalize(), "count": cnt}
+        for term, cnt in ranked[:top_n]
+        if cnt >= 2
+    ]
+
+
 def slug(title: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", title.lower())[:80]
 
@@ -166,7 +244,7 @@ def main():
         items = parse_rss(xml)
         for item in items:
             title = item["title"]
-            if not title or not is_relevant(title + " " + item["summary"]):
+            if not title or not is_relevant(title, item["summary"]):
                 continue
             s = slug(title)
             if s in seen_slugs:
@@ -198,8 +276,12 @@ def main():
     all_articles.sort(key=lambda a: a["date"], reverse=True)
     all_articles = all_articles[:60]  # cap at 60 articles
 
+    trending = compute_trending(all_articles)
+    print(f"Trending topics: {[t['topic'] for t in trending]}", file=sys.stderr)
+
     output = {
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "trending": trending,
         "articles": all_articles,
     }
 

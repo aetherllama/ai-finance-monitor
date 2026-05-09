@@ -43,6 +43,27 @@
   </div>
 
   <main>
+    <section class="dashboard" id="dashboard">
+      <div class="dash-panel dash-trending">
+        <div class="panel-header">
+          <span class="panel-title">Trending Topics</span>
+          <span class="panel-sub">last 14 days · click to filter</span>
+        </div>
+        <div class="trending-list" id="trending-list">
+          <div class="dash-loading"></div>
+        </div>
+      </div>
+      <div class="dash-panel dash-categories">
+        <div class="panel-header">
+          <span class="panel-title">By Category</span>
+          <span class="panel-sub" id="cat-total"></span>
+        </div>
+        <div class="cat-breakdown" id="cat-breakdown">
+          <div class="dash-loading"></div>
+        </div>
+      </div>
+    </section>
+
     <div class="stats-bar" id="stats-bar">
       <span id="article-count">Loading...</span>
       <span class="sort-label">Sorted by most recent</span>

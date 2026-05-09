@@ -336,5 +336,39 @@
         "onboarding"
       ]
     }
+  ],
+  "trending": [
+    {
+      "topic": "Rules",
+      "count": 3
+    },
+    {
+      "topic": "Agents",
+      "count": 3
+    },
+    {
+      "topic": "Wallet",
+      "count": 2
+    },
+    {
+      "topic": "Markets",
+      "count": 2
+    },
+    {
+      "topic": "Banks",
+      "count": 2
+    },
+    {
+      "topic": "Platform",
+      "count": 2
+    },
+    {
+      "topic": "Stripe",
+      "count": 2
+    },
+    {
+      "topic": "Time",
+      "count": 2
+    }
   ]
 }
