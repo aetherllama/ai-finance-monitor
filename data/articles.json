@@ -339,36 +339,44 @@
   ],
   "trending": [
     {
-      "topic": "Rules",
+      "topic": "AI Agents",
+      "count": 5
+    },
+    {
+      "topic": "Automation",
       "count": 3
     },
     {
-      "topic": "Agents",
-      "count": 3
-    },
-    {
-      "topic": "Wallet",
+      "topic": "Large Language Models",
       "count": 2
     },
     {
-      "topic": "Markets",
+      "topic": "Risk Management",
       "count": 2
     },
     {
-      "topic": "Banks",
-      "count": 2
+      "topic": "Payments AI",
+      "count": 1
     },
     {
-      "topic": "Platform",
-      "count": 2
+      "topic": "Stablecoin AI",
+      "count": 1
     },
     {
-      "topic": "Stripe",
-      "count": 2
+      "topic": "Credit & Underwriting",
+      "count": 1
     },
     {
-      "topic": "Time",
-      "count": 2
+      "topic": "Neural Networks",
+      "count": 1
+    },
+    {
+      "topic": "Algorithmic Trading",
+      "count": 1
+    },
+    {
+      "topic": "Generative AI",
+      "count": 1
     }
   ]
 }

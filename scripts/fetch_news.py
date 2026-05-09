@@ -167,22 +167,32 @@ def extract_tags(text: str, category: str) -> list[str]:
     return tags or [category.lower()]
 
 
-TREND_STOPWORDS = {
-    "the", "a", "an", "of", "in", "at", "to", "for", "and", "or", "is", "as",
-    "on", "with", "by", "from", "its", "into", "not", "all", "this", "that",
-    "says", "say", "said", "will", "can", "has", "have", "are", "be", "been",
-    "launch", "launches", "launched", "build", "builds", "built", "bring",
-    "brings", "make", "makes", "turns", "warns", "signals", "urges", "opens",
-    "over", "now", "new", "more", "top", "best", "first", "next", "last",
-    "finance", "financial", "banking", "payment", "payments", "artificial",
-    "intelligence", "machine", "learning", "technology", "market", "markets",
-    "digital", "data", "platform", "systems", "services", "global", "latest",
-    "report", "reports", "using", "based", "powered", "amid", "help", "helps",
-    "news", "how", "what", "why", "when", "who", "which",
-}
-
-# Terms that are always present and don't signal anything trending
-ALWAYS_PRESENT = {"ai", "bank", "fintech", "trading", "payment", "credit"}
+# Curated AI topics: each entry is (display_name, [regex_patterns])
+# Patterns are matched against article title + summary (case-insensitive).
+AI_TOPICS = [
+    ("AI Agents",              [r"\bai[- ]agent", r"\bagentic\b", r"\bagent(?:ic)?\s+ai\b"]),
+    ("Generative AI",          [r"\bgenerative\s+ai\b", r"\bgen[- ]ai\b"]),
+    ("Large Language Models",  [r"\bllm\b", r"\blarge\s+language\s+model"]),
+    ("Machine Learning",       [r"\bmachine\s+learning\b"]),
+    ("Neural Networks",        [r"\bneural\s+network"]),
+    ("Natural Language",       [r"\bnlp\b", r"\bnatural\s+language\s+process"]),
+    ("Computer Vision",        [r"\bcomputer\s+vision\b"]),
+    ("Deep Learning",          [r"\bdeep\s+learning\b"]),
+    ("Automation",             [r"\bautonomous\b", r"\bautomat(?:ed|ion|ing)\b"]),
+    ("Predictive Analytics",   [r"\bpredictive\s+anal", r"\bpredictive\s+model", r"\bpredictive\b"]),
+    ("Fraud Detection",        [r"\bfraud\s+detect", r"\bfraud\s+prevent", r"\banti[- ]fraud\b"]),
+    ("Algorithmic Trading",    [r"\balgorithm(?:ic)?\s+trad", r"\bquant(?:itative)?\s+trad", r"\bautomat\w+\s+trad"]),
+    ("Risk Management",        [r"\bai[- \w]{0,10}risk\b", r"\brisk\s+(?:model|score|assess)"]),
+    ("Credit & Underwriting",  [r"\bai[- \w]{0,10}credit\b", r"\bai[- \w]{0,10}underwr", r"\bai[- \w]{0,10}lend"]),
+    ("Regulatory AI",          [r"\bregtech\b", r"\bai[- \w]{0,10}regulat", r"\bregulat\w+\s+ai\b", r"\bai[- \w]{0,10}compli"]),
+    ("Customer Service AI",    [r"\bai[- \w]{0,10}customer", r"\bchatbot\b", r"\bvirtual\s+assistant\b", r"\bai\s+assistant\b"]),
+    ("Payments AI",            [r"\bai[- \w]{0,10}payment", r"\bpayment[- \w]{0,10}ai\b"]),
+    ("KYC / AML",              [r"\bai[- \w]{0,10}kyc\b", r"\bai[- \w]{0,10}aml\b"]),
+    ("Robo-Advisory",          [r"\brobo[- ]advis"]),
+    ("Copilot / Assistants",   [r"\bcopilot\b", r"\bai[- ]powered\s+assist"]),
+    ("Stablecoin AI",          [r"\bstablecoin\b", r"\bcbdc\b"]),
+    ("Portfolio Management",   [r"\bportfolio\s+(?:manag|construct|optim)", r"\basset\s+manag\w+\s+ai\b"]),
+]
 
 
 def compute_trending(articles: list[dict], top_n: int = 10) -> list[dict]:
@@ -190,33 +200,21 @@ def compute_trending(articles: list[dict], top_n: int = 10) -> list[dict]:
     counts: dict[str, int] = {}
 
     for article in articles:
-        art_date = datetime.strptime(article["date"], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        try:
+            art_date = datetime.strptime(article["date"], "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        except ValueError:
+            continue
         if art_date < cutoff:
             continue
 
-        words = re.findall(r"\b[A-Za-z][a-z]{2,}\b", article["title"])
-        seen_in_article: set[str] = set()
+        text = (article.get("title", "") + " " + article.get("summary", "")).lower()
 
-        for w in words:
-            key = w.lower()
-            if key in TREND_STOPWORDS or key in ALWAYS_PRESENT or len(key) < 4:
-                continue
-            if key not in seen_in_article:
-                counts[key] = counts.get(key, 0) + 1
-                seen_in_article.add(key)
-
-        # Also count tags (lower weight — tags are 3 per article, very common)
-        for tag in article.get("tags", []):
-            key = tag.lower().strip()
-            if key and key not in TREND_STOPWORDS and key not in ALWAYS_PRESENT and len(key) >= 4:
-                counts[key] = counts.get(key, 0) + 1
+        for topic_name, patterns in AI_TOPICS:
+            if any(re.search(p, text) for p in patterns):
+                counts[topic_name] = counts.get(topic_name, 0) + 1
 
     ranked = sorted(counts.items(), key=lambda x: x[1], reverse=True)
-    return [
-        {"topic": term.capitalize(), "count": cnt}
-        for term, cnt in ranked[:top_n]
-        if cnt >= 2
-    ]
+    return [{"topic": name, "count": cnt} for name, cnt in ranked[:top_n] if cnt >= 1]
 
 
 def slug(title: str) -> str:
