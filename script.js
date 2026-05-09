@@ -11,7 +11,7 @@ let allArticles = [];
 let activeCategory = 'All';
 let searchQuery = '';
 let currentLastUpdated = null;
-const POLL_INTERVAL = 5 * 60 * 1000; // 5 minutes
+const POLL_INTERVAL = 60 * 60 * 1000; // 60 minutes
 
 function formatDate(dateStr) {
   const d = new Date(dateStr + 'T00:00:00');

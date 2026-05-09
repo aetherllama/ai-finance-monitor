@@ -2,7 +2,7 @@ name: Update AI Finance News
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # daily at 07:00 UTC
+    - cron: '0 7,19 * * *'   # twice daily: 07:00 and 19:00 UTC
   workflow_dispatch:        # allow manual trigger from Actions tab
 
 permissions:
