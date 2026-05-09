@@ -10,6 +10,8 @@ const CATEGORY_COLORS = {
 let allArticles = [];
 let activeCategory = 'All';
 let searchQuery = '';
+let currentLastUpdated = null;
+const POLL_INTERVAL = 5 * 60 * 1000; // 5 minutes
 
 function formatDate(dateStr) {
   const d = new Date(dateStr + 'T00:00:00');
@@ -80,19 +82,33 @@ function renderArticles() {
   filtered.forEach(article => grid.appendChild(buildCard(article)));
 }
 
-async function loadData() {
+async function fetchData(silent = false) {
   try {
     const res = await fetch(DATA_URL + '?t=' + Date.now());
     const data = await res.json();
+
+    if (silent && data.last_updated === currentLastUpdated) return; // nothing new
+
+    currentLastUpdated = data.last_updated;
     allArticles = data.articles || [];
     document.getElementById('last-updated').textContent = formatUpdated(data.last_updated);
     renderArticles();
   } catch (err) {
-    document.getElementById('articles-grid').innerHTML =
-      `<div class="empty-state"><p>Could not load articles. Please refresh.</p></div>`;
-    console.error('Failed to load articles:', err);
+    if (!silent) {
+      document.getElementById('articles-grid').innerHTML =
+        `<div class="empty-state"><p>Could not load articles. Please refresh.</p></div>`;
+      console.error('Failed to load articles:', err);
+    }
   }
 }
+
+function loadData() { return fetchData(false); }
+
+setInterval(() => fetchData(true), POLL_INTERVAL);
+
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') fetchData(true);
+});
 
 document.getElementById('categories').addEventListener('click', e => {
   const btn = e.target.closest('.cat-btn');
