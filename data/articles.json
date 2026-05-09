@@ -1,5 +1,47 @@
 {
-  "last_updated": "2026-05-09T08:25:05Z",
+  "last_updated": "2026-05-09T19:58:33Z",
+  "trending": [
+    {
+      "topic": "AI Agents",
+      "count": 5
+    },
+    {
+      "topic": "Automation",
+      "count": 3
+    },
+    {
+      "topic": "Large Language Models",
+      "count": 2
+    },
+    {
+      "topic": "Risk Management",
+      "count": 2
+    },
+    {
+      "topic": "Payments AI",
+      "count": 1
+    },
+    {
+      "topic": "Stablecoin AI",
+      "count": 1
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 1
+    },
+    {
+      "topic": "Neural Networks",
+      "count": 1
+    },
+    {
+      "topic": "Algorithmic Trading",
+      "count": 1
+    },
+    {
+      "topic": "Generative AI",
+      "count": 1
+    }
+  ],
   "articles": [
     {
       "id": "497676081",
@@ -335,48 +377,6 @@
         "KYC",
         "onboarding"
       ]
-    }
-  ],
-  "trending": [
-    {
-      "topic": "AI Agents",
-      "count": 5
-    },
-    {
-      "topic": "Automation",
-      "count": 3
-    },
-    {
-      "topic": "Large Language Models",
-      "count": 2
-    },
-    {
-      "topic": "Risk Management",
-      "count": 2
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
-    },
-    {
-      "topic": "Neural Networks",
-      "count": 1
-    },
-    {
-      "topic": "Algorithmic Trading",
-      "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
     }
   ]
 }
