@@ -1,6 +1,62 @@
 {
-  "last_updated": "2026-05-08T08:19:10Z",
+  "last_updated": "2026-05-09T08:25:05Z",
   "articles": [
+    {
+      "id": "497676081",
+      "title": "SEC Chairman Urges Clear Rules for On-Chain Trading",
+      "summary": "Securities and Exchange Commission (SEC) Chairman Paul S. Atkins said Friday (May 8) that he believes the SEC must provide greater clarity around on-chain financial markets and that he continues to encourage Congress to pass the CLARITY Act to future-proof these efforts. In a spe…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/regulation/2026/sec-chairman-urges-clear-rules-for-on-chain-trading/",
+      "date": "2026-05-09",
+      "category": "Trading",
+      "tags": [
+        "sec chairman",
+        "urges clear",
+        "rules"
+      ]
+    },
+    {
+      "id": "113721650",
+      "title": "OwlTing Launches Self-Custody Wallet to Bring Regulated Stablecoin Payments to AI Agents",
+      "summary": "OwlTing Group launches OwlPay Agent Wallet, enabling AI agents to autonomously manage and transfer stablecoins via regulated payment rails. The post OwlTing Launches Self-Custody Wallet to Bring Regulated Stablecoin Payments to AI Agents appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/owlting-launches-self-custody-wallet-to-bring-regulated-stablecoin-payments-to-ai-agents/",
+      "date": "2026-05-08",
+      "category": "Payments",
+      "tags": [
+        "owlting launches",
+        "self",
+        "custody wallet"
+      ]
+    },
+    {
+      "id": "338729169",
+      "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
+      "summary": "The SEC chair linked the rise of AI-powered financial systems with growing demand for blockchain-based market infrastructure and automated settlement.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
+      "date": "2026-05-08",
+      "category": "RegTech",
+      "tags": [
+        "sec",
+        "atkins",
+        "ai"
+      ]
+    },
+    {
+      "id": "632185045",
+      "title": "OCC Recommends Banks Sharpen AI Defense Tactics",
+      "summary": "The Office of the Comptroller of the Currency highlighted artificial intelligence as both a risk and an opportunity for innovation in its spring 2026 Semiannual Risk Perspective. AI is one of several key issues facing banks surveyed in the report released Thursday (May 7). “Artif…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/2026/occ-recommends-banks-sharpen-ai-defense-tactics/",
+      "date": "2026-05-08",
+      "category": "Banking",
+      "tags": [
+        "occ recommends",
+        "banks sharpen",
+        "ai defense"
+      ]
+    },
     {
       "id": "789499397",
       "title": "The jury is still out on AI in finance",
