@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T20:00:28Z",
+  "last_updated": "2026-05-10T22:33:18Z",
   "trending": [
     {
       "topic": "AI Agents",
@@ -43,6 +43,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "257324241",
+      "title": "Tech Giants’ Cash Reserve Shrinks Amid $725 Billion AI Investment",
+      "summary": "Record spending on artificial intelligence by America’s tech giants has reportedly eaten into their cash flow. Big Tech is investing a record $725 billion in AI projects, leaving the combined free cash flow of Amazon, Google, Microsoft and Meta to fall a projected $4 billion duri…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/tech-giants-cash-reserve-shrinks-amid-725-billion-ai-investment/",
+      "date": "2026-05-10",
+      "category": "Banking",
+      "tags": [
+        "tech giants",
+        "cash reserve",
+        "shrinks amid"
+      ]
+    },
     {
       "id": "929345114",
       "title": "Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers",
