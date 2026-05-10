@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T08:58:13Z",
+  "last_updated": "2026-05-10T20:00:28Z",
   "trending": [
     {
       "topic": "AI Agents",
@@ -16,6 +16,10 @@
     {
       "topic": "Risk Management",
       "count": 2
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 1
     },
     {
       "topic": "Payments AI",
@@ -36,13 +40,23 @@
     {
       "topic": "Algorithmic Trading",
       "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "929345114",
+      "title": "Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers",
+      "summary": "Ncontracts launches ‘Nquiry Ntelligence’, an AI compliance tool delivering fast, fully cited and auditable answers to regulatory queries. The post Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ncontracts-launches-ai-platform-to-deliver-rapid-auditable-compliance-answers/",
+      "date": "2026-05-10",
+      "category": "RegTech",
+      "tags": [
+        "ncontracts launches",
+        "ai platform",
+        "deliver rapid"
+      ]
+    },
     {
       "id": "497676081",
       "title": "SEC Chairman Urges Clear Rules for On-Chain Trading",
