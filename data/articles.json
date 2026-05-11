@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T22:33:18Z",
+  "last_updated": "2026-05-11T10:40:33Z",
   "trending": [
     {
       "topic": "AI Agents",
@@ -43,6 +43,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "33857313",
+      "title": "Blueprint for European Digital Sovereignty Revealed in New GITEX AI EUROPE Study",
+      "summary": "GITEX AI EUROPE and LUE release a whitepaper outlining four pillars—compute, cloud, open source and capital—shaping Europe’s digital sovereignty. The post Blueprint for European Digital Sovereignty Revealed in New GITEX AI EUROPE Study appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/blueprint-for-european-digital-sovereignty-revealed-in-new-gitex-ai-europe-study/",
+      "date": "2026-05-11",
+      "category": "Payments",
+      "tags": [
+        "blueprint",
+        "european digital",
+        "sovereignty revealed"
+      ]
+    },
+    {
+      "id": "268578953",
+      "title": "Zenskar Raises $15 Million to Fix the Billing Problems Every CFO Hates With AI",
+      "summary": "Watch more: Monday Conversation With Zenskar’s Apurv Bansal Here’s something most people in finance don’t talk about. The billing systems that run the back office were built for a world that doesn’t really exist anymore. These typical toolkits, the ERPs, revenue recognition platf…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/zenskar-raises-15-million-to-fix-the-billing-problems-every-cfo-hates-with-ai/",
+      "date": "2026-05-11",
+      "category": "Banking",
+      "tags": [
+        "zenskar raises",
+        "million",
+        "fix"
+      ]
+    },
+    {
+      "id": "552036287",
+      "title": "ECB Governor Sounds Warnings on AI and Stablecoins",
+      "summary": "A European Central Bank official wants bankers to test their infrastructure for artificial intelligence-related threats. That warning came from European Central Bank Governing Council member José Luis Escrivá, who spoke at an event in the Spanish city of Tarragona on Saturday (Ma…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/2026/ecb-governor-sounds-warnings-on-ai-and-stablecoins/",
+      "date": "2026-05-11",
+      "category": "Banking",
+      "tags": [
+        "ecb governor",
+        "sounds warnings",
+        "ai"
+      ]
+    },
     {
       "id": "257324241",
       "title": "Tech Giants’ Cash Reserve Shrinks Amid $725 Billion AI Investment",
