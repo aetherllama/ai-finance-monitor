@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-11T10:40:33Z",
+  "last_updated": "2026-05-11T20:49:27Z",
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Automation",
@@ -43,6 +43,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "711478333",
+      "title": "Implementing advanced AI technologies in finance",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result …",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "date": "2026-05-11",
+      "category": "Banking",
+      "tags": [
+        "implementing",
+        "ai",
+        "employees"
+      ]
+    },
+    {
+      "id": "174238168",
+      "title": "The Rise of Agentic Finance",
+      "summary": "Stripe and U.S. fintech players signal a shift toward agent-driven finance, where AI systems execute payments, manage workflows, and enable machine-native commerce at scale. The post The Rise of Agentic Finance appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-rise-of-agentic-finance/",
+      "date": "2026-05-11",
+      "category": "Payments",
+      "tags": [
+        "the rise",
+        "agentic finance",
+        "stripe"
+      ]
+    },
+    {
+      "id": "529522067",
+      "title": "RingCentral’s AI Stopped Answering Calls and Started Closing Deals",
+      "summary": "RingCentral’s AI Receptionist handles roughly 11,800 businesses across healthcare, financial services, construction, and legal. Until last week, it answered calls. Now it books appointments, processes orders and responds to messages without looping in a human. The company added S…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ringcentrals-ai-stopped-answering-calls-and-started-closing-deals/",
+      "date": "2026-05-11",
+      "category": "Banking",
+      "tags": [
+        "ringcentral",
+        "ai stopped",
+        "answering calls"
+      ]
+    },
     {
       "id": "33857313",
       "title": "Blueprint for European Digital Sovereignty Revealed in New GITEX AI EUROPE Study",
