@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-12T09:44:25Z",
+  "last_updated": "2026-05-12T20:43:07Z",
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 7
+      "count": 9
     },
     {
       "topic": "Automation",
@@ -43,6 +43,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "505108487",
+      "title": "Better.com’s AI Agent Resolved 35% of Mortgage Calls Alone",
+      "summary": "Mortgage follow-up calls have long been a bottleneck that loan officers absorb one conversation at a time. Better.com is routing that call volume through AI. Betsy, the company’s generative artificial intelligence loan agent, handled nearly 100,000 mortgage-related calls per mont…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/better-coms-ai-agent-resolved-35-of-mortgage-calls-alone/",
+      "date": "2026-05-12",
+      "category": "Banking",
+      "tags": [
+        "better",
+        "ai agent",
+        "resolved"
+      ]
+    },
+    {
+      "id": "902641170",
+      "title": "Affirm Brings Pay-Over-Time Options to Google AI Platforms",
+      "summary": "Affirm’s pay-over-time options will be integrated into the Gemini app and Google Search, including AI Mode, through Google Pay in the coming weeks. The companies are working together on the integration and will make the payment options available to people and artificial intellige…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/buy-now-pay-later/2026/affirm-brings-pay-over-time-options-google-ai-platforms/",
+      "date": "2026-05-12",
+      "category": "Payments",
+      "tags": [
+        "affirm brings",
+        "pay",
+        "over"
+      ]
+    },
+    {
+      "id": "648939846",
+      "title": "SAP Integrates n8n to Scale Agentic AI for Enterprises",
+      "summary": "SAP has invested in and formed a partnership with artificial intelligence orchestration platform n8n to help enterprises scale agentic AI. The strategic investment that n8n secured from SAP that values n8n at $5.2 billion, which is more than double the previous valuation of $2.5 …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/sap-integrates-n8n-to-scale-agentic-ai-for-enterprises/",
+      "date": "2026-05-12",
+      "category": "Banking",
+      "tags": [
+        "sap integrates",
+        "scale agentic",
+        "ai"
+      ]
+    },
     {
       "id": "364413716",
       "title": "When Process Breaks Down, Fraud Finds a Way: Through Invoices, Expenses or Both!",
