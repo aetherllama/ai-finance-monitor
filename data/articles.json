@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-11T20:49:27Z",
+  "last_updated": "2026-05-12T09:44:25Z",
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 4
     },
     {
       "topic": "Large Language Models",
@@ -43,6 +43,61 @@
     }
   ],
   "articles": [
+    {
+      "id": "364413716",
+      "title": "When Process Breaks Down, Fraud Finds a Way: Through Invoices, Expenses or Both!",
+      "summary": "Invoice fraud can drain 1% of turnover over years when payments go unrecorded and fake expenses offset funds. Strong controls, automation, reconciliation and segregation of duties are key to prevention. The post When Process Breaks Down, Fraud Finds a Way: Through Invoices, Expen…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/when-process-breaks-down-fraud-finds-a-way-through-invoices-expenses-or-both/",
+      "date": "2026-05-12",
+      "category": "Payments",
+      "tags": [
+        "when process",
+        "breaks down",
+        "fraud finds"
+      ]
+    },
+    {
+      "id": "306752830",
+      "title": "Anthropic warns against unauthorized stock exposure as token markets imply trillion-dollar valuation",
+      "summary": "The AI firm says investors should assume indirect access to its private shares is invalid, and transfers of its stock or interests in its stock will not be recognized.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/anthropic-fights-unauthorized-stock-exposure-as-token-markets-imply-trillion-dollar-valuation",
+      "date": "2026-05-12",
+      "category": "Trading",
+      "tags": [
+        "anthropic",
+        "the ai"
+      ]
+    },
+    {
+      "id": "759384925",
+      "title": "Defending the Member: How Credit Unions Are Responding to a New Fraud Landscape",
+      "summary": "Fraud is entering a new phase of complexity for credit unions (CUs), driven by the rapid expansion of digital channels, increasingly sophisticated attack methods and the growing use of artificial intelligence (AI) by bad actors. What was once a contained risk is now a persistent,…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/tracker_posts/defending-the-member-how-credit-unions-are-responding-to-a-new-fraud-landscape/",
+      "date": "2026-05-12",
+      "category": "Banking",
+      "tags": [
+        "defending",
+        "member",
+        "how credit"
+      ]
+    },
+    {
+      "id": "597260768",
+      "title": "Shoppers Are Ready for AI to Steer the Cart, Not Swipe the Card",
+      "summary": "It’s certainly nice to imagine a digital assistant that can take over the weekly grocery trip, but not if that assistant is going to steal the shopper’s identity and drain their bank account. New research from the latest edition of PYMNTS Intelligence’s exclusive Agentic AI Repor…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/retail/2026/shoppers-are-ready-for-ai-to-steer-the-cart-not-swipe-the-card/",
+      "date": "2026-05-12",
+      "category": "Banking",
+      "tags": [
+        "shoppers are",
+        "ready",
+        "ai"
+      ]
+    },
     {
       "id": "711478333",
       "title": "Implementing advanced AI technologies in finance",
