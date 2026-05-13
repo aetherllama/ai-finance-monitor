@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T09:48:25Z",
+  "last_updated": "2026-05-13T20:48:00Z",
   "trending": [
     {
       "topic": "AI Agents",
@@ -43,6 +43,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "822216510",
+      "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid",
+      "summary": "Tokens on Solana that claim to track the private-market valuations of Anthropic and OpenAI dropped sharply this week after both AI companies warned that the structures used to back the tokens may be invalid.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
+      "date": "2026-05-13",
+      "category": "InsurTech",
+      "tags": [
+        "anthropic",
+        "openai",
+        "ai"
+      ]
+    },
     {
       "id": "852994712",
       "title": "Europe’s few AI plays soar as US tech frenzy goes global",
