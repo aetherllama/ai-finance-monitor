@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T20:43:07Z",
+  "last_updated": "2026-05-13T09:48:25Z",
   "trending": [
     {
       "topic": "AI Agents",
@@ -16,6 +16,10 @@
     {
       "topic": "Risk Management",
       "count": 2
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
     },
     {
       "topic": "Regulatory AI",
@@ -36,13 +40,51 @@
     {
       "topic": "Neural Networks",
       "count": 1
-    },
-    {
-      "topic": "Algorithmic Trading",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "852994712",
+      "title": "Europe’s few AI plays soar as US tech frenzy goes global",
+      "summary": "Investors hunt for winners in market that for years has lagged behind Wall Street’s rally",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/adabe0fe-3418-4f06-8c08-98db21250a49",
+      "date": "2026-05-13",
+      "category": "Banking",
+      "tags": [
+        "europe",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "514883195",
+      "title": "24% of Bank CEOs Put AI Cybersecurity First",
+      "summary": "Embedded payments are forcing businesses to rethink fraud prevention as a design challenge, not just a cleanup job after something goes wrong. That was the central theme of “Embedding Security: Designing Fraud Risk Out of Business Transactions,” a March PYMNTS Intelligence Busine…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/2026/24percent-bank-ceos-put-ai-cybersecurity-first/",
+      "date": "2026-05-13",
+      "category": "Banking",
+      "tags": [
+        "bank ceos",
+        "put ai",
+        "cybersecurity first"
+      ]
+    },
+    {
+      "id": "420110308",
+      "title": "China’s big tech groups miss out on AI stock market frenzy",
+      "summary": "Tencent and Alibaba left behind as investors focus on pure AI plays",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/cba72e03-e47d-4d59-b59b-7dc4259b1265",
+      "date": "2026-05-12",
+      "category": "Trading",
+      "tags": [
+        "china",
+        "ai",
+        "tencent"
+      ]
+    },
     {
       "id": "505108487",
       "title": "Better.com’s AI Agent Resolved 35% of Mortgage Calls Alone",
