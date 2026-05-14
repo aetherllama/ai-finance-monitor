@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-14T09:36:53Z",
+  "last_updated": "2026-05-14T20:39:00Z",
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 11
     },
     {
       "topic": "Automation",
       "count": 4
     },
     {
-      "topic": "Large Language Models",
-      "count": 2
+      "topic": "Risk Management",
+      "count": 3
     },
     {
-      "topic": "Risk Management",
+      "topic": "Large Language Models",
       "count": 2
     },
     {
@@ -55,6 +55,76 @@
         "ai",
         "hr",
         "modernising"
+      ]
+    },
+    {
+      "id": "373205294",
+      "title": "AI chipmaker Cerebras surges more than 100% in Wall Street debut",
+      "summary": "Trading pop underscores strong demand for shares in companies linked to AI boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814",
+      "date": "2026-05-14",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "cerebras",
+        "wall street"
+      ]
+    },
+    {
+      "id": "75696824",
+      "title": "Why Financial Services AI Needs a Responsibility Layer — Not Just Smarter Models",
+      "summary": "Enterprise AI risk is no longer just about model accuracy. It is about representation quality, reaso...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31714/why-financial-services-ai-needs-a-responsibility-layer--not-just-smarter-models?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-14",
+      "category": "Banking",
+      "tags": [
+        "why financial",
+        "services ai",
+        "needs"
+      ]
+    },
+    {
+      "id": "933734443",
+      "title": "Data readiness for agentic AI in financial services",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on t…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "date": "2026-05-14",
+      "category": "Banking",
+      "tags": [
+        "data",
+        "ai",
+        "financial"
+      ]
+    },
+    {
+      "id": "124698263",
+      "title": "Cerebras shares skyrocket 100% after $5.5 billion IPO amid AI stock frenzy",
+      "summary": "The AI infrastructure company began trading Thursday as investors continue pouring capital into artificial intelligence stocks.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-shares-skyrocket-100-after-usd5-5b-ipo-amid-ai-stock-frenzy",
+      "date": "2026-05-14",
+      "category": "Trading",
+      "tags": [
+        "cerebras",
+        "ipo",
+        "ai"
+      ]
+    },
+    {
+      "id": "17455420",
+      "title": "Anthropic Launches Claude AI Agents for Small Business Finance",
+      "summary": "A Manhattan marketing agency founder stopped spending hours each week generating invoices and chasing payments. A coffee roaster’s COO found operational problems he didn’t know existed. Neither hired anyone new. They plugged in an artificial intelligence agent. Anthropic launched…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-launches-claude-ai-agents-for-small-business-finance/",
+      "date": "2026-05-14",
+      "category": "Banking",
+      "tags": [
+        "anthropic launches",
+        "claude ai",
+        "agents"
       ]
     },
     {
