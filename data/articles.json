@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T20:48:00Z",
+  "last_updated": "2026-05-14T09:36:53Z",
   "trending": [
     {
       "topic": "AI Agents",
@@ -43,6 +43,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "914837213",
+      "title": "AI, HR and financial services: Modernising banking systems from front to back",
+      "summary": "How should FIs embed AI into their core banking systems?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/619/ai-hr-and-financial-services-modernising-banking-systems-from-front-to-back?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-30",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "hr",
+        "modernising"
+      ]
+    },
+    {
+      "id": "822627282",
+      "title": "Alibaba Sacrifices Profits to Fuel AI Growth",
+      "summary": "Artificial intelligence accounts for a rapidly growing share of Alibaba Group’s revenue, and it will deliver a return on the substantial investment the company is making in AI infrastructure, CEO Eddie Wu said Wednesday (May 13). Speaking during the company’s earnings call for th…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/alibaba-sacrifices-profits-to-fuel-ai-growth/",
+      "date": "2026-05-14",
+      "category": "Banking",
+      "tags": [
+        "alibaba sacrifices",
+        "profits",
+        "fuel ai"
+      ]
+    },
+    {
+      "id": "773666681",
+      "title": "BaFin preps IT spotlight inspections amidst growing AI cybersecurity risks",
+      "summary": "German financial regulator BaFin is setting up a division to carry out targeted inspections at firms as it seeks to ward of the threat of AI-enabled cyber attacks on the sector.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47740/bafin-preps-it-spotlight-inspections-amidst-growing-ai-cybersecurity-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-13",
+      "category": "Banking",
+      "tags": [
+        "bafin",
+        "it",
+        "ai"
+      ]
+    },
     {
       "id": "822216510",
       "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid",
