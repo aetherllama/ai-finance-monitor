@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T20:39:00Z",
+  "last_updated": "2026-05-15T09:50:19Z",
   "trending": [
     {
       "topic": "AI Agents",
@@ -7,15 +7,15 @@
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Risk Management",
       "count": 3
     },
     {
-      "topic": "Large Language Models",
-      "count": 2
+      "topic": "Robo-Advisory",
+      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -34,11 +34,11 @@
       "count": 1
     },
     {
-      "topic": "Credit & Underwriting",
+      "topic": "Large Language Models",
       "count": 1
     },
     {
-      "topic": "Neural Networks",
+      "topic": "Credit & Underwriting",
       "count": 1
     }
   ],
@@ -55,6 +55,34 @@
         "ai",
         "hr",
         "modernising"
+      ]
+    },
+    {
+      "id": "947966853",
+      "title": "Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform",
+      "summary": "Legaline launches as the UAE’s first AI-native legal services platform, automating research, drafting and cross-border payments to navigate complex regulations. The post Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/dubais-legaline-debuts-as-uaes-first-ai-native-legal-platform/",
+      "date": "2026-05-15",
+      "category": "Payments",
+      "tags": [
+        "dubai",
+        "legaline debuts",
+        "uae"
+      ]
+    },
+    {
+      "id": "225992125",
+      "title": "Banks Discover AI’s Best Trick Is Boring",
+      "summary": "Artificial intelligence got its start by hitting customer-facing home runs. For financial services, the technology appeared poised at first to stay there. Chatbots would redefine service, robo-advisors would democratize wealth management, and sleek digital assistants would become…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-discover-ais-best-trick-is-boring/",
+      "date": "2026-05-15",
+      "category": "Banking",
+      "tags": [
+        "banks discover",
+        "ai",
+        "best trick"
       ]
     },
     {
