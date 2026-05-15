@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-15T09:50:19Z",
+  "last_updated": "2026-05-15T20:18:25Z",
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -14,11 +14,11 @@
       "count": 3
     },
     {
-      "topic": "Robo-Advisory",
-      "count": 1
+      "topic": "Fraud Detection",
+      "count": 2
     },
     {
-      "topic": "Fraud Detection",
+      "topic": "Robo-Advisory",
       "count": 1
     },
     {
@@ -55,6 +55,62 @@
         "ai",
         "hr",
         "modernising"
+      ]
+    },
+    {
+      "id": "561317638",
+      "title": "Fiserv unveils agentic AI operating system",
+      "summary": "Fiserv has launched AgentOS, an agentic AI operating system designed to help financial institutions deploy, manage, and scale agents across their banking workflows.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47762/fiserv-unveils-agentic-ai-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-15",
+      "category": "Banking",
+      "tags": [
+        "fiserv",
+        "ai",
+        "agentos"
+      ]
+    },
+    {
+      "id": "275886638",
+      "title": "From Big Data to Smart Data: How AI Is Creating New Opportunities Around Digital Identity",
+      "summary": "For years, KYC was treated primarily as a compliance layer – a way to verify identity, satisfy regul...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31722/from-big-data-to-smart-data-how-ai-is-creating-new-opportunities-around-digital-identity?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-15",
+      "category": "Banking",
+      "tags": [
+        "from big",
+        "data",
+        "smart data"
+      ]
+    },
+    {
+      "id": "199184869",
+      "title": "The Next Bank Run May Start With an AI Hack, Not Bad Loans",
+      "summary": "Artificial intelligence is becoming part of the everyday operating system of financial services, from fraud detection and identity checks to customer service and transaction monitoring. While AI is useful for banks, it also raises a question for risk officers and regulators. What…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/security-and-risk/2026/next-bank-run-may-start-with-ai-hack-not-bad-loans/",
+      "date": "2026-05-15",
+      "category": "Banking",
+      "tags": [
+        "the next",
+        "bank run",
+        "may start"
+      ]
+    },
+    {
+      "id": "905281251",
+      "title": "OpenAI Considers Raising More Capital to Meet AI Demand",
+      "summary": "OpenAI may raise more capital, Chief Financial Officer Sarah Friar said Friday (May 15), about six weeks after the company closed a funding round in which it raised $122 billion. In an interview with Bloomberg TV, Friar said OpenAI may do so because of the need for compute. She s…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-considers-raising-more-capital-meet-ai-demand/",
+      "date": "2026-05-15",
+      "category": "Banking",
+      "tags": [
+        "openai considers",
+        "raising more",
+        "capital"
       ]
     },
     {
