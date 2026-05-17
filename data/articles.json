@@ -1,5 +1,11 @@
 {
-  "last_updated": "2026-05-17T09:09:14Z",
+  "last_updated": "2026-05-17T20:06:24Z",
+  "insights": [
+    "Trading: AI chipmaker Cerebras surges more than 100% in Wall Street debut.",
+    "Banking: AI, HR and financial services: Modernising banking systems from front to back.",
+    "Payments: Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform.",
+    "InsurTech: Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid."
+  ],
   "trending": [
     {
       "topic": "AI Agents",
@@ -839,12 +845,5 @@
         "onboarding"
       ]
     }
-  ],
-  "insights": [
-    "Regulatory: Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers.",
-    "Trading: SEC Chairman Urges Clear Rules for On-Chain Trading.",
-    "Banking: OCC Recommends Banks Sharpen AI Defense Tactics.",
-    "Payments: OwlTing Launches Self-Custody Wallet to Bring Regulated Stablecoin Payments to AI Agents.",
-    "InsurTech: Lemonade's AI Claims Adjudicator Settles Policies in Under 3 Seconds."
   ]
 }
