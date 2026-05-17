@@ -30,6 +30,8 @@ jobs:
           python-version: '3.12'
 
       - name: Fetch latest news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/fetch_news.py
 
       - name: Commit updated articles

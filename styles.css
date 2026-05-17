@@ -162,176 +162,109 @@ header {
   color: #fff;
 }
 
-/* ── Dashboard ── */
-.dashboard {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 24px 24px 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 16px;
-}
-
-.dash-panel {
-  background: var(--surface);
+/* ── Executive Insights Bar ── */
+.insights-bar {
+  background: linear-gradient(135deg, #0c1a30 0%, #0e2040 100%);
   border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
   border-radius: 12px;
-  padding: 18px 20px;
+  padding: 20px 24px;
+  margin: 24px 24px 0;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  margin-bottom: 0;
 }
 
-.panel-header {
+.insights-header {
   display: flex;
-  align-items: baseline;
-  gap: 8px;
-  margin-bottom: 14px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  gap: 12px;
 }
 
-.panel-title {
-  font-size: 13px;
-  font-weight: 600;
+.insights-title-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.insights-icon {
+  color: var(--accent);
+  font-size: 15px;
+  flex-shrink: 0;
+}
+
+.insights-title {
+  font-size: 11px;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.6px;
+  letter-spacing: 1px;
   color: var(--muted2);
 }
 
-.panel-sub {
-  font-size: 11px;
+.insights-meta {
+  font-size: 12px;
   color: var(--muted);
 }
 
-/* Trending rows */
-.trending-list {
-  display: flex;
-  flex-direction: column;
-  gap: 7px;
-}
-
-.trend-row {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  background: none;
-  border: none;
-  padding: 5px 6px;
-  border-radius: 6px;
-  cursor: pointer;
-  width: 100%;
-  text-align: left;
-  transition: background 0.15s;
-}
-
-.trend-row:hover { background: var(--surface2); }
-
-.trend-label {
-  font-size: 13px;
-  font-weight: 500;
-  color: var(--text);
-  width: 110px;
-  flex-shrink: 0;
+.insights-badge {
+  font-size: 11px;
+  color: var(--accent2);
+  background: rgba(59, 130, 246, 0.1);
+  border: 1px solid rgba(59, 130, 246, 0.25);
+  padding: 2px 10px;
+  border-radius: 10px;
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-.trend-bar-wrap {
-  flex: 1;
-  height: 6px;
-  background: var(--surface2);
-  border-radius: 3px;
-  overflow: hidden;
-}
-
-.trend-bar {
-  display: block;
-  height: 100%;
-  background: linear-gradient(90deg, var(--accent) 0%, var(--accent2) 100%);
-  border-radius: 3px;
-  transition: width 0.4s ease;
-}
-
-.trend-count {
-  font-size: 12px;
-  font-weight: 600;
-  color: var(--muted2);
-  width: 22px;
-  text-align: right;
   flex-shrink: 0;
 }
 
-/* Category breakdown rows */
-.cat-breakdown {
-  display: flex;
-  flex-direction: column;
-  gap: 7px;
+.insights-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px 32px;
 }
 
-.cat-row {
+.insight-item {
   display: flex;
-  align-items: center;
   gap: 10px;
-  background: none;
-  border: none;
-  padding: 5px 6px;
-  border-radius: 6px;
-  cursor: pointer;
-  width: 100%;
-  text-align: left;
-  transition: background 0.15s;
-  font-family: inherit;
+  padding: 9px 0;
+  border-bottom: 1px solid rgba(30, 45, 68, 0.7);
+  align-items: flex-start;
 }
 
-.cat-row:hover { background: var(--surface2); }
+.insight-item:nth-last-child(-n+2) { border-bottom: none; }
 
-.cat-row-label {
-  font-size: 13px;
-  font-weight: 500;
+.insight-bullet {
+  color: var(--accent);
+  font-size: 10px;
+  flex-shrink: 0;
+  margin-top: 4px;
+}
+
+.insight-text {
+  font-size: 13.5px;
   color: var(--text);
-  width: 80px;
-  flex-shrink: 0;
+  line-height: 1.55;
+  margin: 0;
 }
 
-.cat-row-bar-wrap {
-  flex: 1;
-  height: 6px;
-  background: var(--surface2);
-  border-radius: 3px;
-  overflow: hidden;
-}
-
-.cat-row-bar {
-  display: block;
-  height: 100%;
-  border-radius: 3px;
-  transition: width 0.4s ease;
-}
-
-.cat-row-Banking   .cat-row-bar { background: #60a5fa; }
-.cat-row-Trading   .cat-row-bar { background: #4ade80; }
-.cat-row-RegTech   .cat-row-bar { background: #fb923c; }
-.cat-row-InsurTech .cat-row-bar { background: #c084fc; }
-.cat-row-Payments  .cat-row-bar { background: #f472b6; }
-
-.cat-row-count {
-  font-size: 12px;
-  font-weight: 600;
-  color: var(--muted2);
-  width: 22px;
-  text-align: right;
-  flex-shrink: 0;
-}
-
-.dash-loading {
-  height: 80px;
-  background: var(--surface2);
+.insights-loading {
+  grid-column: 1 / -1;
+  height: 72px;
+  background: rgba(255,255,255,0.03);
   border-radius: 8px;
   animation: shimmer 1.5s ease-in-out infinite;
 }
 
-.dash-empty { font-size: 13px; color: var(--muted); }
+.insights-empty { font-size: 13px; color: var(--muted); margin: 0; }
 
 @keyframes shimmer {
-  0%, 100% { opacity: 0.5; }
-  50% { opacity: 1; }
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
 }
 
 /* ── Main ── */
@@ -507,7 +440,9 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
 /* Tablet */
 @media (max-width: 900px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); }
-  .dashboard { grid-template-columns: 1fr; }
+  .insights-grid { grid-template-columns: 1fr; }
+  .insight-item:nth-last-child(-n+2) { border-bottom: 1px solid rgba(30, 45, 68, 0.7); }
+  .insight-item:last-child { border-bottom: none; }
 }
 
 /* Mobile */
@@ -553,11 +488,10 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
   .categories::-webkit-scrollbar { display: none; }
   .cat-btn { flex-shrink: 0; min-height: 36px; }
 
-  /* Main + dashboard */
+  /* Main + insights */
   main { padding: 16px; }
-  .dashboard { padding: 16px 16px 0; gap: 12px; }
-  .dash-panel { padding: 14px 16px; }
-  .trend-label { width: 90px; }
+  .insights-bar { margin: 16px 16px 0; padding: 16px; }
+  .insights-grid { grid-template-columns: 1fr; gap: 0; }
 
   .stats-bar { margin-bottom: 14px; }
 

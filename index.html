@@ -43,24 +43,17 @@
   </div>
 
   <main>
-    <section class="dashboard" id="dashboard">
-      <div class="dash-panel dash-trending">
-        <div class="panel-header">
-          <span class="panel-title">Trending Topics</span>
-          <span class="panel-sub">last 14 days · click to filter</span>
+    <section class="insights-bar" id="insights-bar">
+      <div class="insights-header">
+        <div class="insights-title-wrap">
+          <span class="insights-icon">◈</span>
+          <span class="insights-title">Executive Insights</span>
+          <span class="insights-meta" id="insights-meta">Synthesizing latest developments…</span>
         </div>
-        <div class="trending-list" id="trending-list">
-          <div class="dash-loading"></div>
-        </div>
+        <span class="insights-badge">AI-synthesized</span>
       </div>
-      <div class="dash-panel dash-categories">
-        <div class="panel-header">
-          <span class="panel-title">By Category</span>
-          <span class="panel-sub" id="cat-total"></span>
-        </div>
-        <div class="cat-breakdown" id="cat-breakdown">
-          <div class="dash-loading"></div>
-        </div>
+      <div class="insights-grid" id="insights-grid">
+        <div class="insights-loading"></div>
       </div>
     </section>
 

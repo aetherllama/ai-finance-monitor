@@ -5,6 +5,7 @@ deduplicates by title similarity, and writes the updated file.
 """
 
 import json
+import os
 import re
 import sys
 import urllib.request
@@ -140,7 +141,9 @@ def classify(text: str) -> str:
     return "Banking"
 
 
-def parse_pub_date(pub: str) -> str:
+def parse_pub_date(pub: str) -> "str | None":
+    """Return YYYY-MM-DD if date is valid and not in the future; else None."""
+    today = datetime.now(timezone.utc).date()
     for fmt in (
         "%a, %d %b %Y %H:%M:%S %z",
         "%a, %d %b %Y %H:%M:%S GMT",
@@ -148,10 +151,19 @@ def parse_pub_date(pub: str) -> str:
         "%Y-%m-%dT%H:%M:%S%z",
     ):
         try:
-            return datetime.strptime(pub.strip(), fmt).strftime("%Y-%m-%d")
+            dt = datetime.strptime(pub.strip(), fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            d = dt.date()
+            if d > today:
+                print(f"  Skipping future date {d}", file=sys.stderr)
+                return None
+            return d.strftime("%Y-%m-%d")
         except ValueError:
             continue
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    # Cannot parse — skip rather than assume today
+    print(f"  Cannot parse date: {pub!r} — skipping", file=sys.stderr)
+    return None
 
 
 def extract_tags(text: str, category: str) -> list[str]:
@@ -217,6 +229,79 @@ def compute_trending(articles: list[dict], top_n: int = 10) -> list[dict]:
     return [{"topic": name, "count": cnt} for name, cnt in ranked[:top_n] if cnt >= 1]
 
 
+def _claude_insights(api_key: str, articles: list[dict]) -> list[str]:
+    items = "\n".join(
+        f"[{a['category']}] {a['title']}: {a['summary'][:220]}"
+        for a in articles
+    )
+    prompt = (
+        "You are a financial intelligence analyst briefing a Chief Investment Officer. "
+        "Based solely on these recent AI-in-finance developments, write exactly 5 "
+        "concise bullet insights (1–2 sentences each). Focus on: regulatory shifts, "
+        "competitive dynamics, strategic risks, emerging opportunities, and operational "
+        "implications. Be specific—name institutions, regulators, or technologies where "
+        "relevant. Return only a JSON array of 5 strings, no preamble or markdown fences.\n\n"
+        f"Developments:\n{items}"
+    )
+    payload = {
+        "model": "claude-haiku-4-5-20251001",
+        "max_tokens": 700,
+        "messages": [{"role": "user", "content": prompt}],
+    }
+    req = urllib.request.Request(
+        "https://api.anthropic.com/v1/messages",
+        data=json.dumps(payload).encode(),
+        headers={
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        result = json.loads(resp.read())
+    text = result["content"][0]["text"].strip()
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
+    insights = json.loads(text)
+    if isinstance(insights, list) and len(insights) >= 3:
+        return [str(s) for s in insights[:5]]
+    raise ValueError("Unexpected response shape")
+
+
+def _fallback_insights(articles: list[dict]) -> list[str]:
+    """Rule-based fallback when Claude API is unavailable."""
+    cats: dict[str, dict] = {}
+    for a in articles:
+        if a["category"] not in cats:
+            cats[a["category"]] = a
+    order = ["RegTech", "Trading", "Banking", "Payments", "InsurTech"]
+    labels = {
+        "RegTech": "Regulatory",
+        "Trading": "Trading",
+        "Banking": "Banking",
+        "Payments": "Payments",
+        "InsurTech": "InsurTech",
+    }
+    insights = [
+        f"{labels[c]}: {cats[c]['title']}."
+        for c in order if c in cats
+    ]
+    return insights[:5] or ["Monitoring AI-finance developments — check back soon."]
+
+
+def generate_insights(articles: list[dict]) -> list[str]:
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+    recent = sorted(articles, key=lambda a: a["date"], reverse=True)[:15]
+    if api_key:
+        try:
+            result = _claude_insights(api_key, recent)
+            print("Insights generated via Claude API", file=sys.stderr)
+            return result
+        except Exception as e:
+            print(f"Claude API error ({e}), using fallback", file=sys.stderr)
+    return _fallback_insights(recent)
+
+
 def slug(title: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", title.lower())[:80]
 
@@ -244,14 +329,16 @@ def main():
             title = item["title"]
             if not title or not is_relevant(title, item["summary"]):
                 continue
+            date_str = parse_pub_date(item["pub"])
+            if date_str is None:
+                continue  # future-dated or unparseable — skip
+            art_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            if art_date < cutoff:
+                continue
             s = slug(title)
             if s in seen_slugs:
                 continue
             seen_slugs.add(s)
-            date_str = parse_pub_date(item["pub"])
-            art_date = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
-            if art_date < cutoff:
-                continue
             cat = classify(title + " " + item["summary"])
             tags = extract_tags(title + " " + item["summary"], cat)
             summary = item["summary"][:280] + "…" if len(item["summary"]) > 280 else item["summary"]
@@ -277,8 +364,12 @@ def main():
     trending = compute_trending(all_articles)
     print(f"Trending topics: {[t['topic'] for t in trending]}", file=sys.stderr)
 
+    insights = generate_insights(all_articles)
+    print(f"Insights: {insights}", file=sys.stderr)
+
     output = {
         "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "insights": insights,
         "trending": trending,
         "articles": all_articles,
     }

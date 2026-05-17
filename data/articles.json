@@ -839,5 +839,12 @@
         "onboarding"
       ]
     }
+  ],
+  "insights": [
+    "Regulatory: Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers.",
+    "Trading: SEC Chairman Urges Clear Rules for On-Chain Trading.",
+    "Banking: OCC Recommends Banks Sharpen AI Defense Tactics.",
+    "Payments: OwlTing Launches Self-Custody Wallet to Bring Regulated Stablecoin Payments to AI Agents.",
+    "InsurTech: Lemonade's AI Claims Adjudicator Settles Policies in Under 3 Seconds."
   ]
 }
