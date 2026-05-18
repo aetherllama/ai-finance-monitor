@@ -1,26 +1,25 @@
 {
-  "last_updated": "2026-05-17T20:06:24Z",
+  "last_updated": "2026-05-18T11:09:51Z",
   "insights": [
     "Trading: AI chipmaker Cerebras surges more than 100% in Wall Street debut.",
     "Banking: AI, HR and financial services: Modernising banking systems from front to back.",
-    "Payments: Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform.",
-    "InsurTech: Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid."
+    "Payments: Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform."
   ],
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 15
     },
     {
       "topic": "Automation",
-      "count": 5
-    },
-    {
-      "topic": "Risk Management",
-      "count": 3
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
+      "count": 2
+    },
+    {
+      "topic": "Risk Management",
       "count": 2
     },
     {
@@ -61,6 +60,90 @@
         "ai",
         "hr",
         "modernising"
+      ]
+    },
+    {
+      "id": "545450363",
+      "title": "Anthropic to brief global financial watchdog on cyber flaws exposed by Mythos",
+      "summary": "US tech group will discuss capabilities of its new AI model with members of the Financial Stability Board",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7d309f94-3618-4511-9778-d1447799c5e4",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "anthropic",
+        "mythos us",
+        "ai"
+      ]
+    },
+    {
+      "id": "136583617",
+      "title": "UK regulators warn of new threats from frontier AI models",
+      "summary": "The FCA, Bank of England and HM Treasury are warning banks to prepare for a new wave of powerful cyber attacks from AI-driven 'frontier' models.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47768/uk-regulators-warn-of-new-threats-from-frontier-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "uk",
+        "ai",
+        "the fca"
+      ]
+    },
+    {
+      "id": "81698461",
+      "title": "Sygnum delivers AI agent-driven digital asset transactions",
+      "summary": "Swiss digital asset bank Sygnum is to use AI agents to test live on-chain transactions using a 'human-in-the-loop' design, with the client signing every action and private keys never leaving their device.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47765/sygnum-delivers-ai-agent-driven-digital-asset-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "sygnum",
+        "ai",
+        "swiss"
+      ]
+    },
+    {
+      "id": "40795127",
+      "title": "CFOs See AR Automation Driving Growth in B2B Payments",
+      "summary": "For today’s CFO, modernization isn’t about efficiency alone. It’s about removing the manual, painstaking work that keeps finance teams stuck in the back office — and freeing them to focus on more strategic, customer-focused initiatives that drive growth. Yet many accounts receiva…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/accounts-receivable/2026/cfos-see-ar-automation-driving-growth-in-b2b-payments/",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "cfos see",
+        "ar automation",
+        "driving growth"
+      ]
+    },
+    {
+      "id": "526257839",
+      "title": "AI Agents Turn Open Banking Into an Accountability Test",
+      "summary": "Banks have spent years building the data pipes. This week, the industry confronted what happens when artificial intelligence (AI) agents start running through them: who builds the infrastructure, who sets the rules and who captures the value. Inside Fiserv’s Bet on a Single AI Op…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-agents-turn-open-banking-into-an-accountability-test/",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "ai agents",
+        "turn open",
+        "banking into"
+      ]
+    },
+    {
+      "id": "843044154",
+      "title": "The Hidden Risk of Agentic AI in Financial Services",
+      "summary": "Agentic AI Is Coming to Banking - But Governance Is Not Ready Over the past two years, the banking s...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31731/the-hidden-risk-of-agentic-ai-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-16",
+      "category": "Banking",
+      "tags": [
+        "the hidden",
+        "risk",
+        "agentic ai"
       ]
     },
     {
@@ -801,48 +884,6 @@
         "CFPB",
         "chatbot",
         "compliance"
-      ]
-    },
-    {
-      "id": "10",
-      "title": "Klarna AI Customer Service Handles 87% of Interactions Without Human Escalation",
-      "summary": "Buy-now-pay-later giant Klarna reported its AI assistant now manages nearly nine in ten customer service interactions, equivalent to 700 full-time agents, while maintaining CSAT scores above pre-AI benchmarks.",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com",
-      "date": "2026-05-02",
-      "category": "Banking",
-      "tags": [
-        "Klarna",
-        "customer service",
-        "BNPL"
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Citadel Securities Builds Proprietary LLM for Equity Research Synthesis",
-      "summary": "Citadel Securities confirmed it has trained an in-house large language model on 20 years of sell-side research, earnings transcripts, and trade flow data to generate differentiated alpha signals ahead of earnings seasons.",
-      "source": "Wall Street Journal",
-      "url": "https://wsj.com",
-      "date": "2026-05-01",
-      "category": "Trading",
-      "tags": [
-        "Citadel",
-        "LLM",
-        "equity"
-      ]
-    },
-    {
-      "id": "12",
-      "title": "HSBC AI KYC Platform Cuts Onboarding Time From 14 Days to 4 Hours",
-      "summary": "HSBC's global rollout of its AI-powered Know Your Customer platform uses document intelligence and adverse media screening to compress corporate client onboarding from two weeks to under four hours.",
-      "source": "Banking Technology",
-      "url": "https://bankingtechnology.com",
-      "date": "2026-04-30",
-      "category": "Banking",
-      "tags": [
-        "HSBC",
-        "KYC",
-        "onboarding"
       ]
     }
   ]
