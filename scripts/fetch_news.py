@@ -382,7 +382,16 @@ def main():
 
     print(f"Found {len(new_articles)} new relevant articles", file=sys.stderr)
 
-    all_articles = new_articles + existing.get("articles", [])
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    clean_existing = [
+        a for a in existing.get("articles", [])
+        if a.get("date", "") <= today_str
+    ]
+    dropped = len(existing.get("articles", [])) - len(clean_existing)
+    if dropped:
+        print(f"Dropped {dropped} future-dated article(s) from existing store", file=sys.stderr)
+
+    all_articles = new_articles + clean_existing
     all_articles.sort(key=lambda a: a["date"], reverse=True)
     all_articles = all_articles[:60]  # cap at 60 articles
 

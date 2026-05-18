@@ -44,20 +44,6 @@
   ],
   "articles": [
     {
-      "id": "914837213",
-      "title": "AI, HR and financial services: Modernising banking systems from front to back",
-      "summary": "How should FIs embed AI into their core banking systems?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/619/ai-hr-and-financial-services-modernising-banking-systems-from-front-to-back?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-30",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "hr",
-        "modernising"
-      ]
-    },
-    {
       "id": "561317638",
       "title": "Fiserv unveils agentic AI operating system",
       "summary": "Fiserv has launched AgentOS, an agentic AI operating system designed to help financial institutions deploy, manage, and scale agents across their banking workflows.",
