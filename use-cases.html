@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Use Cases in Finance — AI Finance Monitor</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="brand">
+      <span class="brand-icon">◈</span>
+      <div>
+        <h1>AI Finance Monitor</h1>
+        <p class="tagline">Tracking artificial intelligence across global financial markets</p>
+      </div>
+    </div>
+    <nav class="site-nav">
+      <a href="index.html" class="nav-link">News Feed</a>
+      <a href="use-cases.html" class="nav-link active">AI Use Cases</a>
+    </nav>
+    <div class="header-meta">
+      <span class="live-badge">● LIVE</span>
+    </div>
+  </div>
+</header>
+
+<div class="uc-main">
+
+  <div class="uc-intro">
+    <h2>AI in Finance — Use Cases</h2>
+    <p>A curated registry of live AI deployments across banking, trading, regulatory technology, payments, insurance, and wealth management. Includes the financial institutions deploying each solution and the technology providers behind them.</p>
+    <div class="uc-stats">
+      <div class="uc-stat"><span class="uc-stat-value" id="stat-total">—</span><span class="uc-stat-label">Use Cases</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="stat-deployed">—</span><span class="uc-stat-label">Deployed</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="stat-inst">—</span><span class="uc-stat-label">Institutions</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="stat-providers">—</span><span class="uc-stat-label">Providers</span></div>
+    </div>
+  </div>
+
+  <div class="uc-filters" id="uc-filters">
+    <button class="cat-btn active" data-filter="All">All</button>
+    <button class="cat-btn" data-filter="Banking">Banking</button>
+    <button class="cat-btn" data-filter="Trading">Trading</button>
+    <button class="cat-btn" data-filter="RegTech">RegTech</button>
+    <button class="cat-btn" data-filter="Payments">Payments</button>
+    <button class="cat-btn" data-filter="InsurTech">InsurTech</button>
+    <button class="cat-btn" data-filter="Wealth">Wealth</button>
+  </div>
+
+  <div class="uc-table-wrap">
+    <table class="uc-table" id="uc-table">
+      <thead>
+        <tr>
+          <th data-col="usecase">Use Case <span class="sort-arrow">↕</span></th>
+          <th data-col="category">Category <span class="sort-arrow">↕</span></th>
+          <th data-col="institutions">Financial Institutions</th>
+          <th data-col="providers">AI / Tech Provider</th>
+          <th data-col="status">Status <span class="sort-arrow">↕</span></th>
+        </tr>
+      </thead>
+      <tbody id="uc-tbody"></tbody>
+    </table>
+  </div>
+
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <p>AI Finance Monitor — auto-updated daily via GitHub Actions</p>
+    <p class="footer-sources">Sources: Reuters · Bloomberg · Financial Times · American Banker · Finextra · ECB · CFPB</p>
+    <a href="https://github.com/aetherllama/ai-finance-monitor" target="_blank" class="gh-link">View on GitHub ↗</a>
+  </div>
+</footer>
+
+<script>
+const USE_CASES = [
+  // ── Banking ─────────────────────────────────────────────────────────────
+  {
+    usecase: "AI Credit Underwriting",
+    desc: "LLM-based models synthesise earnings reports, macro signals, and borrower history into real-time credit decisions.",
+    category: "Banking",
+    institutions: ["JPMorgan Chase", "Goldman Sachs", "Citibank"],
+    providers: ["In-house (IndexGPT)", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "KYC / Customer Onboarding",
+    desc: "Automated identity verification, document intelligence, and adverse media screening to compress onboarding timelines.",
+    category: "Banking",
+    institutions: ["HSBC", "Standard Chartered", "Deutsche Bank", "Lloyds Banking Group"],
+    providers: ["Quantexa", "ComplyAdvantage", "Napier AI"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Customer Service Chatbot",
+    desc: "Conversational AI assistant handling retail banking queries, account management, and personalised product recommendations.",
+    category: "Banking",
+    institutions: ["Bank of America (Erica)", "Wells Fargo (Fargo)", "Capital One (Eno)", "Klarna"],
+    providers: ["In-house", "Nuance / Microsoft"],
+    status: "deployed"
+  },
+  {
+    usecase: "Document Intelligence",
+    desc: "AI extraction and review of contracts, prospectuses, loan agreements, and regulatory filings.",
+    category: "Banking",
+    institutions: ["Goldman Sachs", "Barclays", "Morgan Stanley"],
+    providers: ["Harvey AI", "Kira Systems", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI-Driven Core Banking Modernisation",
+    desc: "Machine learning to migrate and validate legacy core banking data, automate reconciliation, and predict system failures.",
+    category: "Banking",
+    institutions: ["NatWest", "Santander", "ING"],
+    providers: ["Google Cloud (AI)", "IBM watsonx", "Thought Machine"],
+    status: "pilot"
+  },
+  {
+    usecase: "AI Governance & Model Risk",
+    desc: "Automated model inventory, bias testing, and explainability audits to satisfy regulatory model risk management requirements.",
+    category: "Banking",
+    institutions: ["JPMorgan Chase", "Bank of America", "HSBC"],
+    providers: ["Ncontracts", "ModelOp", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI HR & Workforce Analytics",
+    desc: "Predictive attrition modelling, skills gap analysis, and automated compliance training tailored to banking roles.",
+    category: "Banking",
+    institutions: ["Lloyds Banking Group", "HSBC", "UBS"],
+    providers: ["Workday AI", "In-house"],
+    status: "deployed"
+  },
+
+  // ── Trading ──────────────────────────────────────────────────────────────
+  {
+    usecase: "Algorithmic / Quantitative Trading",
+    desc: "ML models that generate alpha signals, execute high-frequency strategies, and manage intraday risk autonomously.",
+    category: "Trading",
+    institutions: ["Two Sigma", "Citadel Securities", "Renaissance Technologies", "D.E. Shaw"],
+    providers: ["In-house proprietary"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Portfolio Construction",
+    desc: "Multimodal AI combining market data, earnings audio, satellite imagery, and alternative data for portfolio optimisation.",
+    category: "Trading",
+    institutions: ["BlackRock (Aladdin 3.0)", "Vanguard", "Man Group"],
+    providers: ["In-house (Aladdin)", "Kensho (S&P Global)"],
+    status: "deployed"
+  },
+  {
+    usecase: "Earnings Sentiment & NLP Analysis",
+    desc: "Natural language processing of earnings calls, analyst reports, and news to generate pre-earnings alpha signals.",
+    category: "Trading",
+    institutions: ["JPMorgan Asset Management", "Morgan Stanley", "Fidelity"],
+    providers: ["Bloomberg AI", "Refinitiv (LSEG)", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Risk Analytics",
+    desc: "Deep learning models for real-time value-at-risk, scenario simulation, and tail-risk identification across portfolios.",
+    category: "Trading",
+    institutions: ["Goldman Sachs", "JPMorgan", "BNP Paribas"],
+    providers: ["In-house", "Palantir", "Axiom SL"],
+    status: "deployed"
+  },
+  {
+    usecase: "Autonomous Fixed-Income Trading",
+    desc: "AI systems executing bond and rate trades with minimal human intervention, optimising execution across liquidity venues.",
+    category: "Trading",
+    institutions: ["Goldman Sachs (73% autonomous)", "JPMorgan", "UBS"],
+    providers: ["In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "Alternative Data Integration",
+    desc: "AI pipelines ingesting web-scraped data, geolocation signals, ESG datasets, and satellite feeds into quantitative models.",
+    category: "Trading",
+    institutions: ["Point72", "Bridgewater", "AQR Capital"],
+    providers: ["Orbital Insight", "SpaceKnow", "Eagle Alpha"],
+    status: "deployed"
+  },
+
+  // ── RegTech ───────────────────────────────────────────────────────────────
+  {
+    usecase: "Transaction Monitoring / AML",
+    desc: "AI models detecting suspicious transaction patterns, reducing false-positive rates and analyst review burden.",
+    category: "RegTech",
+    institutions: ["Standard Chartered", "BNY Mellon", "Lloyds", "MUFG"],
+    providers: ["NICE Actimize", "Temenos", "Featurespace", "Napier AI"],
+    status: "deployed"
+  },
+  {
+    usecase: "Regulatory Reporting Automation",
+    desc: "End-to-end automation of FINREP, COREP, MiFID II, and Basel IV reporting, reducing manual reconciliation effort.",
+    category: "RegTech",
+    institutions: ["HSBC", "Barclays", "Deutsche Bank", "BNP Paribas"],
+    providers: ["Wolters Kluwer (OneSumX)", "AxiomSL", "Lombard Risk"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Compliance Q&A Platform",
+    desc: "LLM-powered platform delivering rapid, auditable answers to internal compliance questions grounded in regulatory text.",
+    category: "RegTech",
+    institutions: ["Multiple US banks", "EU credit institutions"],
+    providers: ["Ncontracts", "Compliance.ai", "Ascent RegTech"],
+    status: "deployed"
+  },
+  {
+    usecase: "Sanctions Screening",
+    desc: "AI-augmented entity resolution and name-matching for OFAC, EU, and UN sanctions lists with explainable match scores.",
+    category: "RegTech",
+    institutions: ["Citibank", "HSBC", "Deutsche Bank"],
+    providers: ["Quantexa", "LexisNexis Risk", "Dow Jones Risk"],
+    status: "deployed"
+  },
+  {
+    usecase: "Market Surveillance",
+    desc: "AI systems monitoring trading activity across venues to detect manipulation, front-running, and insider trading patterns.",
+    category: "RegTech",
+    institutions: ["NYSE", "Nasdaq", "FCA-regulated brokers"],
+    providers: ["NICE Actimize", "OneMarketData", "Eventus Systems"],
+    status: "deployed"
+  },
+
+  // ── Payments ──────────────────────────────────────────────────────────────
+  {
+    usecase: "Real-Time Fraud Detection",
+    desc: "Transformer neural networks evaluating 500+ behavioural signals per transaction to flag fraud in under 100ms.",
+    category: "Payments",
+    institutions: ["Visa", "Mastercard", "PayPal", "American Express"],
+    providers: ["In-house (Visa CognitiveFraud)", "Feedzai", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Payment Routing & Optimisation",
+    desc: "ML models selecting optimal payment rails, reducing decline rates and transaction costs across global networks.",
+    category: "Payments",
+    institutions: ["Stripe", "Adyen", "Braintree"],
+    providers: ["In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "BNPL Credit Risk Scoring",
+    desc: "Alternative data and behavioural ML to score creditworthiness at checkout in real time without credit bureau pulls.",
+    category: "Payments",
+    institutions: ["Klarna", "Affirm", "Afterpay"],
+    providers: ["In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Agent Stablecoin Payments",
+    desc: "Autonomous AI agents transacting directly over regulated stablecoin rails to enable machine-to-machine payments.",
+    category: "Payments",
+    institutions: ["Amazon (agent purchases)", "OwlTing"],
+    providers: ["Coinbase (Base)", "Stripe", "AWS", "OwlPay"],
+    status: "emerging"
+  },
+  {
+    usecase: "CBDC Infrastructure",
+    desc: "AI-driven transaction validation, anomaly detection, and programmable compliance logic for central bank digital currencies.",
+    category: "Payments",
+    institutions: ["ECB (Digital Euro pilot)", "Bank of England", "Monetary Authority of Singapore"],
+    providers: ["R3 Corda", "Hyperledger", "In-house"],
+    status: "pilot"
+  },
+
+  // ── InsurTech ─────────────────────────────────────────────────────────────
+  {
+    usecase: "AI Claims Adjudication",
+    desc: "Computer vision and NLP to assess property damage photos and policy documents, settling claims in under 3 seconds.",
+    category: "InsurTech",
+    institutions: ["Lemonade", "Root Insurance"],
+    providers: ["In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Underwriting Automation",
+    desc: "Machine learning models ingesting satellite imagery, IoT sensor data, and historical claims to price risk dynamically.",
+    category: "InsurTech",
+    institutions: ["Swiss Re", "Munich Re", "Zurich Insurance", "AXA"],
+    providers: ["Tractable", "Cape Analytics", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "Usage-Based Insurance (Telematics)",
+    desc: "Real-time driving behaviour analysis via mobile and OBD sensors to dynamically price auto insurance premiums.",
+    category: "InsurTech",
+    institutions: ["Progressive (Snapshot)", "Allstate (Drivewise)", "Direct Line"],
+    providers: ["Cambridge Mobile Telematics", "LexisNexis Telematics"],
+    status: "deployed"
+  },
+  {
+    usecase: "Fraud Detection in Claims",
+    desc: "AI network analysis linking claimants, providers, and attorneys to detect organised fraud rings at scale.",
+    category: "InsurTech",
+    institutions: ["Allianz", "Aviva", "Lloyd's syndicates"],
+    providers: ["Shift Technology", "FRISS", "Verisk"],
+    status: "deployed"
+  },
+
+  // ── Wealth ────────────────────────────────────────────────────────────────
+  {
+    usecase: "Robo-Advisory",
+    desc: "Automated portfolio construction, tax-loss harvesting, and rebalancing based on risk profile and market conditions.",
+    category: "Wealth",
+    institutions: ["Betterment", "Wealthfront", "Vanguard Digital Advisor", "Schwab Intelligent Portfolios"],
+    providers: ["In-house", "Envestnet | Yodlee"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Financial Planning Copilot",
+    desc: "LLM-powered assistant providing personalised financial planning guidance, drawing on client data and market context.",
+    category: "Wealth",
+    institutions: ["Morgan Stanley (AI @ Morgan Stanley)", "UBS", "Merrill Lynch"],
+    providers: ["OpenAI (GPT-4)", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI-Powered Investment Research",
+    desc: "Automated synthesis of sell-side research, earnings transcripts, and macro data into differentiated investment theses.",
+    category: "Wealth",
+    institutions: ["Citadel Securities", "Fidelity", "T. Rowe Price"],
+    providers: ["Kensho (S&P Global)", "In-house LLM", "Visible Alpha"],
+    status: "deployed"
+  },
+  {
+    usecase: "Client Suitability & Personalisation",
+    desc: "ML models matching products to client risk profiles, life events, and tax situations in real time.",
+    category: "Wealth",
+    institutions: ["UBS", "Deutsche Bank Wealth", "Julius Bär"],
+    providers: ["In-house", "Salesforce Einstein"],
+    status: "pilot"
+  }
+];
+
+// ── Category colours ─────────────────────────────────────────────────────────
+const CAT_STYLE = {
+  Banking:   "background:#1e3a5f;color:#60a5fa",
+  Trading:   "background:#1e3b2e;color:#4ade80",
+  RegTech:   "background:#3b2e1e;color:#fb923c",
+  InsurTech: "background:#2e1e3b;color:#c084fc",
+  Payments:  "background:#3b1e2e;color:#f472b6",
+  Wealth:    "background:#1e3a3b;color:#22d3ee",
+};
+
+let activeFilter = "All";
+let sortCol = null;
+let sortAsc = true;
+
+function statusBadge(s) {
+  return `<span class="status-badge status-${s}">${s.charAt(0).toUpperCase()+s.slice(1)}</span>`;
+}
+
+function renderTable() {
+  const tbody = document.getElementById("uc-tbody");
+  let rows = activeFilter === "All" ? [...USE_CASES] : USE_CASES.filter(r => r.category === activeFilter);
+
+  if (sortCol === "usecase") rows.sort((a, b) => sortAsc ? a.usecase.localeCompare(b.usecase) : b.usecase.localeCompare(a.usecase));
+  if (sortCol === "category") rows.sort((a, b) => sortAsc ? a.category.localeCompare(b.category) : b.category.localeCompare(a.category));
+  if (sortCol === "status") rows.sort((a, b) => sortAsc ? a.status.localeCompare(b.status) : b.status.localeCompare(a.status));
+
+  if (rows.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="5" class="uc-empty">No use cases in this category yet.</td></tr>`;
+    return;
+  }
+
+  tbody.innerHTML = rows.map(r => {
+    const catStyle = CAT_STYLE[r.category] || "";
+    const insts = r.institutions.map(i => `<span class="inst-name">${i}</span>`).join("");
+    const provs = r.providers.map(p =>
+      p.startsWith("In-house") ? `<span class="provider-inhouse">${p}</span>` : `<span class="provider-name">${p}</span>`
+    ).join("");
+    return `
+      <tr data-category="${r.category}">
+        <td>
+          <div class="uc-use-case">${r.usecase}</div>
+          <div class="uc-desc">${r.desc}</div>
+        </td>
+        <td><span class="uc-badge" style="${catStyle}">${r.category}</span></td>
+        <td><div class="uc-institutions">${insts}</div></td>
+        <td><div class="uc-providers">${provs}</div></td>
+        <td>${statusBadge(r.status)}</td>
+      </tr>`;
+  }).join("");
+}
+
+function updateStats() {
+  const all = USE_CASES;
+  const deployed = all.filter(r => r.status === "deployed").length;
+  const insts = new Set(all.flatMap(r => r.institutions)).size;
+  const provs = new Set(all.flatMap(r => r.providers).filter(p => !p.startsWith("In-house"))).size;
+  document.getElementById("stat-total").textContent = all.length;
+  document.getElementById("stat-deployed").textContent = deployed;
+  document.getElementById("stat-inst").textContent = "60+";
+  document.getElementById("stat-providers").textContent = provs + "+";
+}
+
+// Category filter
+document.getElementById("uc-filters").addEventListener("click", e => {
+  const btn = e.target.closest(".cat-btn");
+  if (!btn) return;
+  document.querySelectorAll("#uc-filters .cat-btn").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  activeFilter = btn.dataset.filter;
+  renderTable();
+});
+
+// Column sort
+document.querySelector(".uc-table thead").addEventListener("click", e => {
+  const th = e.target.closest("th[data-col]");
+  if (!th) return;
+  const col = th.dataset.col;
+  if (!["usecase", "category", "status"].includes(col)) return;
+  sortAsc = sortCol === col ? !sortAsc : true;
+  sortCol = col;
+  document.querySelectorAll(".uc-table th").forEach(t => t.classList.remove("sorted"));
+  th.classList.add("sorted");
+  th.querySelector(".sort-arrow").textContent = sortAsc ? "↑" : "↓";
+  renderTable();
+});
+
+function syncHeaderHeight() {
+  const h = document.querySelector("header").offsetHeight;
+  document.documentElement.style.setProperty("--header-h", h + "px");
+}
+syncHeaderHeight();
+window.addEventListener("resize", syncHeaderHeight);
+
+updateStats();
+renderTable();
+</script>
+
+</body>
+</html>
