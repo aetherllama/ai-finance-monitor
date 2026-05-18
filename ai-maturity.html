@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Maturity Benchmark — AI Finance Monitor</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <button class="hamburger-btn" id="hamburger-btn" aria-label="Toggle navigation">&#9776;</button>
+    <div class="brand">
+      <span class="brand-icon">◈</span>
+      <div>
+        <h1>AI Finance Monitor</h1>
+        <p class="tagline">Tracking artificial intelligence across global financial markets</p>
+      </div>
+    </div>
+    <nav class="site-nav">
+      <a href="index.html" class="nav-link">News Feed</a>
+      <a href="use-cases.html" class="nav-link">AI Use Cases</a>
+      <a href="ai-maturity.html" class="nav-link active">AI Maturity</a>
+    </nav>
+    <div class="header-meta">
+      <span class="live-badge">● LIVE</span>
+    </div>
+  </div>
+</header>
+
+<div class="maturity-main">
+
+  <!-- Intro -->
+  <div class="maturity-intro">
+    <h2>AI Maturity Benchmark</h2>
+    <p>An independent scoring framework ranking 14 major financial institutions on their AI readiness, deployment breadth, and innovation capability across five weighted dimensions. Scores are indicative, derived from publicly available disclosures, earnings commentary, regulatory filings, and industry research.</p>
+    <div class="uc-stats" style="margin-top:16px">
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-total">14</span><span class="uc-stat-label">Institutions</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-leaders">3</span><span class="uc-stat-label">Leaders</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-advanced">5</span><span class="uc-stat-label">Advanced</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-developing">6</span><span class="uc-stat-label">Developing</span></div>
+    </div>
+  </div>
+
+  <!-- Methodology accordion -->
+  <div class="methodology-panel" id="methodology-panel">
+    <button class="methodology-toggle" id="methodology-toggle">
+      <span class="methodology-toggle-left">
+        <span class="methodology-toggle-arrow">▶</span>
+        <span>Benchmark Methodology</span>
+      </span>
+      <span class="methodology-toggle-hint">Click to expand</span>
+    </button>
+    <div class="methodology-body" id="methodology-body">
+      <p class="methodology-intro-text">
+        The <strong>AI Finance Maturity Index (AFMI)</strong> scores each institution out of 100 across five equally weighted dimensions (20 points each). Scores are calibrated against peer group disclosures and third-party research; institutions receive partial credit for pilots and programmes in progress. The framework is reviewed annually to reflect the evolving regulatory and technology landscape.
+      </p>
+
+      <div class="methodology-dims">
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Strategy &amp; Governance</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Board-level AI commitment, a named Chief AI Officer or equivalent, published AI strategy, independent model risk management framework, AI ethics committee, and integration of AI into long-term capital planning.</div>
+        </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Data &amp; Infrastructure</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Investment in cloud-native data platforms, real-time pipelines, data governance, and proprietary data assets. Leaders operate enterprise data lakes with sub-second latency serving AI workloads at scale.</div>
+        </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Deployment at Scale</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Number and breadth of live AI use cases across business lines — retail banking, trading, compliance, risk, and wealth management. Partial credit for supervised pilots; full credit requires production deployments with measurable outcomes.</div>
+        </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Talent &amp; Investment</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Disclosed AI/ML headcount, R&amp;D spend as a proportion of revenue, structured upskilling programmes, university and research partnerships, and demonstrated retention of senior AI talent. Scores are normalised for institution size.</div>
+        </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Innovation &amp; IP</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">AI-related patent filings, development of proprietary foundation models, published peer-reviewed research, and participation in standards bodies and industry consortia (e.g., Partnership on AI, BIS Innovation Hub, FS-ISAC AI working groups).</div>
+        </div>
+      </div>
+
+      <div class="methodology-tiers-title">Maturity Tiers</div>
+      <div class="methodology-tier-list">
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-leader" style="font-size:10px;padding:2px 8px">Leader</span>
+          <span>85–100 · Enterprise-wide AI; significant proprietary model development</span>
+        </div>
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-advanced" style="font-size:10px;padding:2px 8px">Advanced</span>
+          <span>65–84 · Broad deployment; strong governance; active investment</span>
+        </div>
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-developing" style="font-size:10px;padding:2px 8px">Developing</span>
+          <span>50–64 · Meaningful AI in select functions; governance maturing</span>
+        </div>
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-emerging" style="font-size:10px;padding:2px 8px">Emerging</span>
+          <span>0–49 · Early-stage deployment; foundational infrastructure underway</span>
+        </div>
+      </div>
+
+      <p class="methodology-disclaimer">
+        <strong>Disclaimer:</strong> Scores are indicative assessments for informational purposes only. They are not credit ratings, investment recommendations, or regulatory determinations. AI programmes evolve rapidly; scores reflect the state of public information as of Q2 2026. Institutions may score differently on proprietary or internal assessments.
+      </p>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <div class="maturity-controls">
+    <div class="maturity-filters" id="maturity-filters">
+      <button class="cat-btn active" data-filter="All">All</button>
+      <button class="cat-btn" data-filter="leader">Leader</button>
+      <button class="cat-btn" data-filter="advanced">Advanced</button>
+      <button class="cat-btn" data-filter="developing">Developing</button>
+    </div>
+    <div class="maturity-sort-wrap">
+      <span>Sort by</span>
+      <select class="maturity-sort-select" id="maturity-sort">
+        <option value="total">Overall Score</option>
+        <option value="strategy">Strategy &amp; Governance</option>
+        <option value="data">Data &amp; Infrastructure</option>
+        <option value="deployment">Deployment Scale</option>
+        <option value="talent">Talent &amp; Investment</option>
+        <option value="innovation">Innovation &amp; IP</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- Institution cards -->
+  <div class="maturity-grid" id="maturity-grid"></div>
+
+</div>
+
+<footer>
+  <div class="footer-inner">
+    <p>AI Finance Monitor — auto-updated daily via GitHub Actions</p>
+    <p class="footer-sources">Sources: Reuters · Bloomberg · Financial Times · American Banker · Finextra · ECB · CFPB</p>
+    <a href="https://github.com/aetherllama/ai-finance-monitor" target="_blank" class="gh-link">View on GitHub ↗</a>
+  </div>
+</footer>
+
+<script>
+const INSTITUTIONS = [
+  {
+    name: "JPMorgan Chase",
+    hq: "USA", type: "Universal Bank",
+    tier: "leader",
+    scores: { strategy: 19, data: 19, deployment: 19, talent: 20, innovation: 18 },
+    total: 95,
+    highlight: "The industry benchmark. $2B+ annual AI spend, a proprietary LLM Suite deployed to 60,000+ employees, IndexGPT for investment research, autonomous fixed-income trading, and the COiN contract intelligence platform handling 360,000 work-hours of legal review."
+  },
+  {
+    name: "Goldman Sachs",
+    hq: "USA", type: "Investment Bank",
+    tier: "leader",
+    scores: { strategy: 18, data: 18, deployment: 18, talent: 17, innovation: 19 },
+    total: 90,
+    highlight: "73% of fixed-income trades executed autonomously. GS AI Platform underpins equity research and risk management. Harvey AI partnership for legal. Active LLM research agenda and growing AI patent portfolio."
+  },
+  {
+    name: "BlackRock",
+    hq: "USA", type: "Asset Manager",
+    tier: "leader",
+    scores: { strategy: 18, data: 19, deployment: 17, talent: 16, innovation: 17 },
+    total: 87,
+    highlight: "Aladdin risk analytics platform manages $21T+ in assets. Systematic investing division integrates satellite imagery, web-scraped signals, and alternative datasets. Proprietary ML models power ESG scoring and portfolio construction."
+  },
+  {
+    name: "Morgan Stanley",
+    hq: "USA", type: "Investment Bank",
+    tier: "advanced",
+    scores: { strategy: 17, data: 16, deployment: 18, talent: 16, innovation: 16 },
+    total: 83,
+    highlight: "OpenAI partnership powers AI @ Morgan Stanley — the first at-scale LLM deployment in wealth management. The assistant synthesises 100,000+ research reports and earnings transcripts for 16,000+ financial advisors in real time."
+  },
+  {
+    name: "Citigroup",
+    hq: "USA", type: "Universal Bank",
+    tier: "advanced",
+    scores: { strategy: 16, data: 16, deployment: 15, talent: 15, innovation: 15 },
+    total: 77,
+    highlight: "Dedicated AI Centre of Excellence and enterprise AI governance framework. AI-driven sanctions screening, AML transaction monitoring, and a multi-year cloud transformation to enable AI at scale across 160+ markets."
+  },
+  {
+    name: "Bank of America",
+    hq: "USA", type: "Universal Bank",
+    tier: "advanced",
+    scores: { strategy: 15, data: 16, deployment: 16, talent: 15, innovation: 14 },
+    total: 76,
+    highlight: "Erica virtual assistant has logged 2B+ client interactions across 37M+ users — one of the most adopted bank AI products globally. Responsible AI team, 40+ ML models in credit risk, and named AI Innovator of the Year (2024)."
+  },
+  {
+    name: "UBS",
+    hq: "Switzerland", type: "Wealth Manager",
+    tier: "advanced",
+    scores: { strategy: 15, data: 14, deployment: 14, talent: 14, innovation: 13 },
+    total: 70,
+    highlight: "UBS Neo AI platform drives wealth management and investment banking workflows. AI-powered client suitability, portfolio construction, and Salesforce Einstein integration across a global footprint of 70+ countries."
+  },
+  {
+    name: "HSBC",
+    hq: "UK", type: "Universal Bank",
+    tier: "advanced",
+    scores: { strategy: 14, data: 14, deployment: 14, talent: 13, innovation: 12 },
+    total: 67,
+    highlight: "Global AI strategy with regional AI Centres. Quantexa entity resolution across KYC and financial crime. AI-assisted trade finance, FX risk management, and an AI Principles framework covering fairness, accountability, and explainability."
+  },
+  {
+    name: "Deutsche Bank",
+    hq: "Germany", type: "Universal Bank",
+    tier: "developing",
+    scores: { strategy: 13, data: 13, deployment: 13, talent: 12, innovation: 12 },
+    total: 63,
+    highlight: "Google Cloud partnership for AI-powered banking and risk applications. IBM watsonx integration for core banking automation. AI governance falling under the Chief Data Officer as the bank executes its multi-year technology transformation."
+  },
+  {
+    name: "Barclays",
+    hq: "UK", type: "Universal Bank",
+    tier: "developing",
+    scores: { strategy: 13, data: 12, deployment: 13, talent: 12, innovation: 11 },
+    total: 61,
+    highlight: "Harvey AI for legal and compliance document review. AI-driven fraud detection across the Barclaycard network. Machine learning for IFRS 9 expected credit loss modelling and automated regulatory reporting."
+  },
+  {
+    name: "BNP Paribas",
+    hq: "France", type: "Universal Bank",
+    tier: "developing",
+    scores: { strategy: 12, data: 13, deployment: 12, talent: 12, innovation: 11 },
+    total: 60,
+    highlight: "Data & AI programme across Corporate & Institutional Banking. AI for FINREP/COREP regulatory reporting and market surveillance. Research collaboration with Institut Louis Bachelier on AI in financial markets."
+  },
+  {
+    name: "Wells Fargo",
+    hq: "USA", type: "Universal Bank",
+    tier: "developing",
+    scores: { strategy: 13, data: 12, deployment: 12, talent: 11, innovation: 10 },
+    total: 58,
+    highlight: "Fargo virtual assistant and AI-driven fraud analytics across the consumer bank. Active cloud migration to enable AI at scale. Legacy consent order constraints have historically limited technology investment breadth, though restrictions have now largely lifted."
+  },
+  {
+    name: "Standard Chartered",
+    hq: "UK", type: "Universal Bank",
+    tier: "developing",
+    scores: { strategy: 11, data: 12, deployment: 11, talent: 10, innovation: 10 },
+    total: 54,
+    highlight: "SC Ventures innovation arm incubating AI-native fintech partnerships across Asia, Africa, and the Middle East. ComplyAdvantage and Napier AI deployments for AML. Focused AI investments in high-growth emerging market corridors."
+  },
+  {
+    name: "ING Group",
+    hq: "Netherlands", type: "Universal Bank",
+    tier: "developing",
+    scores: { strategy: 12, data: 12, deployment: 11, talent: 10, innovation: 9 },
+    total: 54,
+    highlight: "ING.ai centre of excellence with 400+ data scientists. AI-powered credit decisioning in retail banking. Strong open banking heritage and data-driven personalisation capabilities across 40+ million customers in Europe."
+  }
+];
+
+const DIM_KEYS   = ['strategy', 'data', 'deployment', 'talent', 'innovation'];
+const DIM_LABELS = ['Strategy & Gov.', 'Data & Infra.', 'Deployment', 'Talent & Inv.', 'Innovation & IP'];
+const FILL_CLASSES = ['fill-d1', 'fill-d2', 'fill-d3', 'fill-d4', 'fill-d5'];
+
+let activeFilter = 'All';
+let sortKey = 'total';
+let baseRanks = {}; // rank by total score, fixed
+
+INSTITUTIONS.slice()
+  .sort((a, b) => b.total - a.total)
+  .forEach((inst, i) => { baseRanks[inst.name] = i + 1; });
+
+function tierLabel(t) {
+  return { leader: 'Leader', advanced: 'Advanced', developing: 'Developing', emerging: 'Emerging' }[t] || t;
+}
+
+function rankClass(rank) {
+  if (rank === 1) return 'rank-1';
+  if (rank === 2) return 'rank-2';
+  if (rank === 3) return 'rank-3';
+  return '';
+}
+
+function buildCard(inst) {
+  const rank = baseRanks[inst.name];
+  const pct  = inst.total;
+
+  const dimsHTML = DIM_KEYS.map((k, i) => {
+    const val = inst.scores[k];
+    return `
+      <div class="mat-dim">
+        <div class="mat-dim-name">${DIM_LABELS[i]}</div>
+        <div class="mat-dim-row">
+          <div class="mat-dim-track">
+            <div class="mat-dim-fill ${FILL_CLASSES[i]}" style="width:${val / 20 * 100}%"></div>
+          </div>
+          <span class="mat-dim-val">${val}/20</span>
+        </div>
+      </div>`;
+  }).join('');
+
+  return `
+    <div class="mat-card" data-tier="${inst.tier}">
+      <div class="mat-header">
+        <div class="mat-rank ${rankClass(rank)}">${rank}</div>
+        <div class="mat-name-wrap">
+          <span class="mat-name">${inst.name}</span>
+          <span class="mat-sub">${inst.hq} &middot; ${inst.type}</span>
+        </div>
+        <span class="mat-tier tier-${inst.tier}">${tierLabel(inst.tier)}</span>
+      </div>
+      <div class="mat-score-wrap">
+        <div class="mat-score-top">
+          <span class="mat-score-lbl">AI Maturity Score</span>
+          <span class="mat-score-num">${inst.total}<span class="mat-score-denom">/100</span></span>
+        </div>
+        <div class="mat-bar">
+          <div class="mat-bar-fill fill-${inst.tier}" style="width:${pct}%"></div>
+        </div>
+      </div>
+      <div class="mat-dims">${dimsHTML}</div>
+      <p class="mat-highlight">${inst.highlight}</p>
+    </div>`;
+}
+
+function render() {
+  let list = activeFilter === 'All'
+    ? [...INSTITUTIONS]
+    : INSTITUTIONS.filter(i => i.tier === activeFilter);
+
+  list.sort((a, b) =>
+    sortKey === 'total'
+      ? b.total - a.total
+      : b.scores[sortKey] - a.scores[sortKey]
+  );
+
+  const grid = document.getElementById('maturity-grid');
+  grid.innerHTML = list.length
+    ? list.map(buildCard).join('')
+    : '<div class="empty-state" style="grid-column:1/-1"><p>No institutions match this filter.</p></div>';
+}
+
+// Filters
+document.getElementById('maturity-filters').addEventListener('click', e => {
+  const btn = e.target.closest('.cat-btn');
+  if (!btn) return;
+  document.querySelectorAll('#maturity-filters .cat-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeFilter = btn.dataset.filter;
+  render();
+});
+
+// Sort
+document.getElementById('maturity-sort').addEventListener('change', e => {
+  sortKey = e.target.value;
+  render();
+});
+
+// Methodology accordion
+document.getElementById('methodology-toggle').addEventListener('click', () => {
+  document.getElementById('methodology-panel').classList.toggle('open');
+});
+
+// Hamburger
+(function() {
+  const btn = document.getElementById('hamburger-btn');
+  const hdr = document.querySelector('header');
+  btn.addEventListener('click', function() {
+    hdr.classList.toggle('nav-open');
+    btn.innerHTML = hdr.classList.contains('nav-open') ? '&#10005;' : '&#9776;';
+  });
+  document.querySelectorAll('.nav-link').forEach(function(l) {
+    l.addEventListener('click', function() {
+      hdr.classList.remove('nav-open');
+      btn.innerHTML = '&#9776;';
+    });
+  });
+})();
+
+function syncHeaderHeight() {
+  const h = document.querySelector('header').offsetHeight;
+  document.documentElement.style.setProperty('--header-h', h + 'px');
+}
+syncHeaderHeight();
+window.addEventListener('resize', syncHeaderHeight);
+
+render();
+</script>
+
+</body>
+</html>
