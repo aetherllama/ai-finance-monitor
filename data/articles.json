@@ -1,20 +1,30 @@
 {
-  "last_updated": "2026-05-17T09:09:14Z",
+  "last_updated": "2026-05-18T20:27:44Z",
+  "insights": {
+    "risks": [
+      "Trading risk: AI chipmaker Cerebras surges more than 100% in Wall Street debut — assess algorithmic exposure.",
+      "Operational: UK regulators warn of new threats from frontier AI models — evaluate model governance gaps."
+    ],
+    "opportunities": [
+      "Payments: Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform — potential infrastructure advantage.",
+      "Banking efficiency: UK regulators warn of new threats from frontier AI models — cost reduction opportunity."
+    ]
+  },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Automation",
       "count": 5
     },
     {
-      "topic": "Risk Management",
-      "count": 3
+      "topic": "Fraud Detection",
+      "count": 2
     },
     {
-      "topic": "Fraud Detection",
+      "topic": "Risk Management",
       "count": 2
     },
     {
@@ -43,6 +53,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "774908772",
+      "title": "UK regulators warn of new threats from frontier AI models",
+      "summary": "The FCA, Bank of England and HM Treasury are warning banks to prepare for a new wave of powerful cyber attacks from AI-driven 'frontier' models.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47768/uk-regulators-warn-of-new-threats-from-frontier-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "uk",
+        "ai",
+        "the fca"
+      ]
+    },
+    {
+      "id": "2920630",
+      "title": "Sygnum delivers AI agent-driven digital asset transactions",
+      "summary": "Swiss digital asset bank Sygnum is to use AI agents to test live on-chain transactions using a 'human-in-the-loop' design, with the client signing every action and private keys never leaving their device.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47765/sygnum-delivers-ai-agent-driven-digital-asset-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "sygnum",
+        "ai",
+        "swiss"
+      ]
+    },
+    {
+      "id": "86682280",
+      "title": "HIVE buys $58 million Toronto plot for AI facility; shares climb",
+      "summary": "The bitcoin mining firm continues on its investment path into AI data centers after raising $115 million to expand its global footprint in the industry.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/05/18/hive-buys-usd58-million-toronto-plot-for-ai-facility-shares-climb",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "hive",
+        "toronto",
+        "ai"
+      ]
+    },
+    {
+      "id": "761034700",
+      "title": "AWS Chief Rejects Notion of AI-Driven Job Wipeout",
+      "summary": "Some tech executives warn that artificial intelligence (AI) will usher in mass waves of layoffs. Amazon Web Services (AWS) CEO Matt Garman is not one of them. “Everybody’s entitled to their opinion, but I don’t think that’s true,” Garman told the Wall Street Journal (WSJ) Monday …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/economy/2026/aws-chief-rejects-notion-of-ai-driven-job-wipeout/",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "aws chief",
+        "rejects notion",
+        "ai"
+      ]
+    },
     {
       "id": "561317638",
       "title": "Fiserv unveils agentic AI operating system",
@@ -825,17 +891,5 @@
         "onboarding"
       ]
     }
-  ],
-  "insights": {
-    "risks": [
-      "Regulatory: Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers — review compliance obligations and model governance frameworks.",
-      "Trading risk: AI chipmaker Cerebras surges more than 100% in Wall Street debut — assess algorithmic exposure and systemic concentration.",
-      "Operational: AI, HR and financial services: Modernising banking systems from front to back — evaluate AI model risk and explainability gaps."
-    ],
-    "opportunities": [
-      "Payments infrastructure: Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform — first-mover advantage in AI-native payment rails.",
-      "Efficiency: AI, HR and financial services: Modernising banking systems from front to back — AI automation creating significant cost-to-income ratio improvement potential.",
-      "InsurTech: Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid — AI underwriting modernisation can reduce loss ratios and onboarding friction."
-    ]
-  }
+  ]
 }
