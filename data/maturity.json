@@ -1,0 +1,218 @@
+{
+  "last_updated": "2026-05-18",
+  "next_review": "2026-08-18",
+  "update_frequency": "quarterly",
+  "methodology_version": "1.0",
+  "institutions": [
+    {
+      "name": "JPMorgan Chase",
+      "hq": "USA", "type": "Universal Bank", "region": "Americas",
+      "tier": "leader",
+      "scores": {"strategy": 19, "data": 19, "deployment": 19, "talent": 20, "innovation": 18},
+      "total": 95, "previous_total": 95, "score_delta": 0,
+      "aliases": ["JPMorgan", "J.P. Morgan", "Chase"],
+      "highlight": "The industry benchmark. $2B+ annual AI spend, a proprietary LLM Suite deployed to 60,000+ employees, IndexGPT for investment research, autonomous fixed-income trading, and the COiN contract intelligence platform handling 360,000 work-hours of legal review.",
+      "latest_development": ""
+    },
+    {
+      "name": "Ping An Group",
+      "hq": "China", "type": "Insurance & Financial Conglomerate", "region": "Asia-Pacific",
+      "tier": "leader",
+      "scores": {"strategy": 18, "data": 18, "deployment": 19, "talent": 18, "innovation": 19},
+      "total": 92, "previous_total": 92, "score_delta": 0,
+      "aliases": ["Ping An", "Ping An Insurance", "Ping An Bank"],
+      "highlight": "One of the world's most prolific AI patent filers with 50,000+ AI and technology patents. Proprietary Xingchen LLM and OneConnect fintech platform serve insurance, banking, and healthcare verticals. 30,000+ technology and AI staff embedded across all business lines.",
+      "latest_development": ""
+    },
+    {
+      "name": "Goldman Sachs",
+      "hq": "USA", "type": "Investment Bank", "region": "Americas",
+      "tier": "leader",
+      "scores": {"strategy": 18, "data": 18, "deployment": 18, "talent": 17, "innovation": 19},
+      "total": 90, "previous_total": 90, "score_delta": 0,
+      "aliases": ["Goldman", "GS"],
+      "highlight": "73% of fixed-income trades executed autonomously. GS AI Platform underpins equity research and risk management. Harvey AI partnership for legal. Active LLM research agenda and growing AI patent portfolio.",
+      "latest_development": ""
+    },
+    {
+      "name": "Ant Group",
+      "hq": "China", "type": "Fintech / Digital Financial Services", "region": "Asia-Pacific",
+      "tier": "leader",
+      "scores": {"strategy": 17, "data": 19, "deployment": 18, "talent": 17, "innovation": 18},
+      "total": 89, "previous_total": 89, "score_delta": 0,
+      "aliases": ["Ant Financial", "Alipay", "Ant"],
+      "highlight": "Lingyue foundation model powers Zhixiaobao AI financial assistant. Real-time fraud detection at millisecond latency across 1.3B Alipay users. Sesame Credit AI scores underpin digital lending across China's consumer finance market.",
+      "latest_development": ""
+    },
+    {
+      "name": "BlackRock",
+      "hq": "USA", "type": "Asset Manager", "region": "Americas",
+      "tier": "leader",
+      "scores": {"strategy": 18, "data": 19, "deployment": 17, "talent": 16, "innovation": 17},
+      "total": 87, "previous_total": 87, "score_delta": 0,
+      "aliases": ["Aladdin"],
+      "highlight": "Aladdin risk analytics platform manages $21T+ in assets. Systematic investing division integrates satellite imagery, web-scraped signals, and alternative datasets. Proprietary ML models power ESG scoring and portfolio construction.",
+      "latest_development": ""
+    },
+    {
+      "name": "DBS Bank",
+      "hq": "Singapore", "type": "Universal Bank", "region": "Asia-Pacific",
+      "tier": "advanced",
+      "scores": {"strategy": 18, "data": 17, "deployment": 17, "talent": 16, "innovation": 16},
+      "total": 84, "previous_total": 84, "score_delta": 0,
+      "aliases": ["DBS", "DBS Group", "Development Bank of Singapore"],
+      "highlight": "Named world's best digital bank seven consecutive times by Euromoney. Hypatia ML platform drives customer intelligence across 4M+ customers. AI-powered AML, trade finance, and NLP correspondence review. GANDALF machine learning infrastructure serves real-time decisioning.",
+      "latest_development": ""
+    },
+    {
+      "name": "Morgan Stanley",
+      "hq": "USA", "type": "Investment Bank", "region": "Americas",
+      "tier": "advanced",
+      "scores": {"strategy": 17, "data": 16, "deployment": 18, "talent": 16, "innovation": 16},
+      "total": 83, "previous_total": 83, "score_delta": 0,
+      "aliases": ["MS"],
+      "highlight": "OpenAI partnership powers AI @ Morgan Stanley — the first at-scale LLM deployment in wealth management. The assistant synthesises 100,000+ research reports and earnings transcripts for 16,000+ financial advisors in real time.",
+      "latest_development": ""
+    },
+    {
+      "name": "Citigroup",
+      "hq": "USA", "type": "Universal Bank", "region": "Americas",
+      "tier": "advanced",
+      "scores": {"strategy": 16, "data": 16, "deployment": 15, "talent": 15, "innovation": 15},
+      "total": 77, "previous_total": 77, "score_delta": 0,
+      "aliases": ["Citi", "Citibank", "Citicorp"],
+      "highlight": "Dedicated AI Centre of Excellence and enterprise AI governance framework. AI-driven sanctions screening, AML transaction monitoring, and a multi-year cloud transformation to enable AI at scale across 160+ markets.",
+      "latest_development": ""
+    },
+    {
+      "name": "Bank of America",
+      "hq": "USA", "type": "Universal Bank", "region": "Americas",
+      "tier": "advanced",
+      "scores": {"strategy": 15, "data": 16, "deployment": 16, "talent": 15, "innovation": 14},
+      "total": 76, "previous_total": 76, "score_delta": 0,
+      "aliases": ["BofA", "BoA", "Erica"],
+      "highlight": "Erica virtual assistant has logged 2B+ client interactions across 37M+ users — one of the most adopted bank AI products globally. Responsible AI team, 40+ ML models in credit risk, and named AI Innovator of the Year (2024).",
+      "latest_development": ""
+    },
+    {
+      "name": "WeBank",
+      "hq": "China", "type": "Digital Bank", "region": "Asia-Pacific",
+      "tier": "advanced",
+      "scores": {"strategy": 15, "data": 15, "deployment": 16, "talent": 15, "innovation": 14},
+      "total": 75, "previous_total": 75, "score_delta": 0,
+      "aliases": ["WeBank China"],
+      "highlight": "China's first licensed internet bank — AI makes 99.9% of credit decisions with no human involvement. Open-source FATE (Federated AI Technology Enabler) framework adopted by 3,000+ organisations globally for privacy-preserving machine learning.",
+      "latest_development": ""
+    },
+    {
+      "name": "Kakao Bank",
+      "hq": "South Korea", "type": "Digital Bank", "region": "Asia-Pacific",
+      "tier": "advanced",
+      "scores": {"strategy": 15, "data": 15, "deployment": 15, "talent": 14, "innovation": 13},
+      "total": 72, "previous_total": 72, "score_delta": 0,
+      "aliases": ["KakaoBank"],
+      "highlight": "AI-native challenger bank built on Kakao's mobile ecosystem. ML alternative credit scoring serves 22M+ customers with zero physical branches. AI-driven fraud detection and personalised product recommendations across the entire Kakao super-app.",
+      "latest_development": ""
+    },
+    {
+      "name": "UBS",
+      "hq": "Switzerland", "type": "Wealth Manager", "region": "Europe",
+      "tier": "advanced",
+      "scores": {"strategy": 15, "data": 14, "deployment": 14, "talent": 14, "innovation": 13},
+      "total": 70, "previous_total": 70, "score_delta": 0,
+      "aliases": ["UBS Group"],
+      "highlight": "UBS Neo AI platform drives wealth management and investment banking workflows. AI-powered client suitability, portfolio construction, and Salesforce Einstein integration across a global footprint of 70+ countries.",
+      "latest_development": ""
+    },
+    {
+      "name": "MUFG",
+      "hq": "Japan", "type": "Universal Bank", "region": "Asia-Pacific",
+      "tier": "advanced",
+      "scores": {"strategy": 14, "data": 14, "deployment": 14, "talent": 13, "innovation": 13},
+      "total": 68, "previous_total": 68, "score_delta": 0,
+      "aliases": ["Mitsubishi UFJ", "MUFG Bank", "Bank of Tokyo-Mitsubishi"],
+      "highlight": "Microsoft Azure AI partnership deployed across 140,000 employees. AI compliance surveillance, intelligent document processing, and credit risk models. Targeting 50% automation of clerical operations by 2026 through its digital transformation roadmap.",
+      "latest_development": ""
+    },
+    {
+      "name": "HSBC",
+      "hq": "UK", "type": "Universal Bank", "region": "Europe",
+      "tier": "advanced",
+      "scores": {"strategy": 14, "data": 14, "deployment": 14, "talent": 13, "innovation": 12},
+      "total": 67, "previous_total": 67, "score_delta": 0,
+      "aliases": ["HSBC Holdings", "Hongkong Shanghai Banking"],
+      "highlight": "Global AI strategy with regional AI Centres of Excellence. Quantexa entity resolution across KYC and financial crime. AI-assisted trade finance, FX risk management, and a published AI Principles framework covering fairness, accountability, and explainability.",
+      "latest_development": ""
+    },
+    {
+      "name": "Deutsche Bank",
+      "hq": "Germany", "type": "Universal Bank", "region": "Europe",
+      "tier": "developing",
+      "scores": {"strategy": 13, "data": 13, "deployment": 13, "talent": 12, "innovation": 12},
+      "total": 63, "previous_total": 63, "score_delta": 0,
+      "aliases": ["DB", "Deutsche"],
+      "highlight": "Google Cloud partnership for AI-powered banking and risk applications. IBM watsonx integration for core banking automation. AI governance falling under the Chief Data Officer as the bank executes its multi-year technology transformation.",
+      "latest_development": ""
+    },
+    {
+      "name": "HDFC Bank",
+      "hq": "India", "type": "Universal Bank", "region": "Asia-Pacific",
+      "tier": "developing",
+      "scores": {"strategy": 13, "data": 13, "deployment": 13, "talent": 12, "innovation": 11},
+      "total": 62, "previous_total": 62, "score_delta": 0,
+      "aliases": ["HDFC"],
+      "highlight": "Eva AI chatbot handles 10M+ monthly queries; AI credit decisioning enables 10-second personal loan approvals. Google Cloud partnership for AI infrastructure. India's largest private sector bank with rapid AI adoption across retail and SME banking.",
+      "latest_development": ""
+    },
+    {
+      "name": "Barclays",
+      "hq": "UK", "type": "Universal Bank", "region": "Europe",
+      "tier": "developing",
+      "scores": {"strategy": 13, "data": 12, "deployment": 13, "talent": 12, "innovation": 11},
+      "total": 61, "previous_total": 61, "score_delta": 0,
+      "aliases": ["Barclays Bank", "Barclaycard"],
+      "highlight": "Harvey AI for legal and compliance document review. AI-driven fraud detection across the Barclaycard network. Machine learning for IFRS 9 expected credit loss modelling and automated regulatory reporting.",
+      "latest_development": ""
+    },
+    {
+      "name": "BNP Paribas",
+      "hq": "France", "type": "Universal Bank", "region": "Europe",
+      "tier": "developing",
+      "scores": {"strategy": 12, "data": 13, "deployment": 12, "talent": 12, "innovation": 11},
+      "total": 60, "previous_total": 60, "score_delta": 0,
+      "aliases": ["BNP", "Paribas"],
+      "highlight": "Data & AI programme across Corporate & Institutional Banking. AI for FINREP/COREP regulatory reporting and market surveillance. Research collaboration with Institut Louis Bachelier on AI in financial markets.",
+      "latest_development": ""
+    },
+    {
+      "name": "Wells Fargo",
+      "hq": "USA", "type": "Universal Bank", "region": "Americas",
+      "tier": "developing",
+      "scores": {"strategy": 13, "data": 12, "deployment": 12, "talent": 11, "innovation": 10},
+      "total": 58, "previous_total": 58, "score_delta": 0,
+      "aliases": ["WF", "Wells"],
+      "highlight": "Fargo virtual assistant and AI-driven fraud analytics across the consumer bank. Active cloud migration to enable AI at scale. Legacy consent order constraints historically limited technology investment, though restrictions have now largely lifted.",
+      "latest_development": ""
+    },
+    {
+      "name": "Standard Chartered",
+      "hq": "UK", "type": "Universal Bank", "region": "Europe",
+      "tier": "developing",
+      "scores": {"strategy": 11, "data": 12, "deployment": 11, "talent": 10, "innovation": 10},
+      "total": 54, "previous_total": 54, "score_delta": 0,
+      "aliases": ["StanChart", "Standard Chartered Bank"],
+      "highlight": "SC Ventures innovation arm incubating AI-native fintech partnerships across Asia, Africa, and the Middle East. ComplyAdvantage and Napier AI for AML. Focused AI investments in high-growth emerging market corridors.",
+      "latest_development": ""
+    },
+    {
+      "name": "ING Group",
+      "hq": "Netherlands", "type": "Universal Bank", "region": "Europe",
+      "tier": "developing",
+      "scores": {"strategy": 12, "data": 12, "deployment": 11, "talent": 10, "innovation": 9},
+      "total": 54, "previous_total": 54, "score_delta": 0,
+      "aliases": ["ING", "ING Bank"],
+      "highlight": "ING.ai centre of excellence with 400+ data scientists. AI-powered credit decisioning in retail banking. Strong open banking heritage and data-driven personalisation capabilities across 40+ million customers in Europe.",
+      "latest_development": ""
+    }
+  ]
+}

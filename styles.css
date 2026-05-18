@@ -824,12 +824,59 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
   border-top: 1px solid var(--border);
 }
 
+/* Cadence banner */
+.maturity-cadence-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  color: var(--muted);
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 16px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+.cadence-sep { color: var(--border); }
+
+/* Score delta badge */
+.mat-delta {
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+.delta-up   { color: #34d399; background: rgba(16,185,129,0.12); border: 1px solid rgba(16,185,129,0.25); }
+.delta-down { color: #f87171; background: rgba(239,68,68,0.12);  border: 1px solid rgba(239,68,68,0.25); }
+
+/* Card header right cluster */
+.mat-header-right { display: flex; align-items: center; gap: 6px; flex-shrink: 0; flex-wrap: wrap; justify-content: flex-end; }
+
+/* Latest development callout */
+.mat-latest-dev {
+  font-size: 12px;
+  color: var(--accent2);
+  background: rgba(59,130,246,0.07);
+  border: 1px solid rgba(59,130,246,0.15);
+  border-radius: 6px;
+  padding: 6px 10px;
+  margin: 0 0 10px;
+  line-height: 1.5;
+}
+.mat-latest-label { font-weight: 600; margin-right: 4px; }
+
+/* Filter label + group */
+.maturity-filter-group { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.maturity-filter-label { font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: var(--muted); white-space: nowrap; }
+
 /* Controls row */
 .maturity-controls {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
-  gap: 12px;
+  gap: 14px;
   margin-bottom: 24px;
   flex-wrap: wrap;
 }
@@ -1015,6 +1062,8 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
   .maturity-grid { grid-template-columns: 1fr; }
   .methodology-dims { grid-template-columns: 1fr; }
   .maturity-controls { flex-direction: column; align-items: flex-start; }
+  .maturity-cadence-bar { flex-direction: column; gap: 4px; }
+  .cadence-sep { display: none; }
 }
 
 /* ── Responsive ── */

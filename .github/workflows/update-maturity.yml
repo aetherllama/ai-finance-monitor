@@ -1,0 +1,61 @@
+name: Update AI Maturity Benchmark
+
+on:
+  schedule:
+    # 06:00 UTC on the 1st of January, April, July, October (quarterly)
+    - cron: '0 6 1 1,4,7,10 *'
+  workflow_dispatch:   # manual trigger from GitHub Actions UI
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run maturity benchmark updater
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/update_maturity.py
+
+      - name: Commit updated benchmark
+        run: |
+          git config user.name  "AI Finance Monitor Bot"
+          git config user.email "bot@ai-finance-monitor.github.io"
+          git add data/maturity.json
+          if git diff --cached --quiet; then
+            echo "No score changes — nothing to commit."
+          else
+            git commit -m "chore: quarterly AI maturity benchmark update [skip ci]"
+            git push
+          fi
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # pull latest after the update job may have pushed
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
