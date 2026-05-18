@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18",
+  "last_updated": "2026-05-19",
   "next_review": "2026-08-18",
   "update_frequency": "quarterly",
   "methodology_version": "1.0",
@@ -125,6 +125,16 @@
       "latest_development": ""
     },
     {
+      "name": "OCBC Bank",
+      "hq": "Singapore", "type": "Universal Bank", "region": "Asia-Pacific",
+      "tier": "advanced",
+      "scores": {"strategy": 15, "data": 14, "deployment": 14, "talent": 13, "innovation": 13},
+      "total": 69, "previous_total": 69, "score_delta": 0,
+      "aliases": ["OCBC", "Oversea-Chinese Banking", "OCBC Group"],
+      "highlight": "Open Vault fintech accelerator co-creates AI solutions with 500+ startups and tech partners. Emma AI chatbot handles retail banking queries with contextual product recommendations. Google Cloud partnership underpins the data infrastructure, with AI applied across credit decisioning, trade finance automation, and financial crime detection.",
+      "latest_development": ""
+    },
+    {
       "name": "MUFG",
       "hq": "Japan", "type": "Universal Bank", "region": "Asia-Pacific",
       "tier": "advanced",
@@ -142,6 +152,16 @@
       "total": 67, "previous_total": 67, "score_delta": 0,
       "aliases": ["HSBC Holdings", "Hongkong Shanghai Banking"],
       "highlight": "Global AI strategy with regional AI Centres of Excellence. Quantexa entity resolution across KYC and financial crime. AI-assisted trade finance, FX risk management, and a published AI Principles framework covering fairness, accountability, and explainability.",
+      "latest_development": ""
+    },
+    {
+      "name": "UOB",
+      "hq": "Singapore", "type": "Universal Bank", "region": "Asia-Pacific",
+      "tier": "advanced",
+      "scores": {"strategy": 14, "data": 13, "deployment": 14, "talent": 13, "innovation": 12},
+      "total": 66, "previous_total": 66, "score_delta": 0,
+      "aliases": ["United Overseas Bank", "UOB Group", "TMRW"],
+      "highlight": "TMRW digital bank — UOB's AI-first mobile platform — deployed across Thailand, Indonesia, Malaysia, and Vietnam with personalised financial insights powered by Personetics. AI applied to trade finance, customer analytics, and fraud detection, supporting UOB's ASEAN digital banking expansion strategy.",
       "latest_development": ""
     },
     {
