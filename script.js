@@ -82,22 +82,29 @@ function renderArticles() {
   filtered.forEach(article => grid.appendChild(buildCard(article)));
 }
 
-function renderInsights(insights, articleCount) {
-  const grid = document.getElementById('insights-grid');
-  const meta = document.getElementById('insights-meta');
-  meta.textContent = `synthesized from ${articleCount} development${articleCount !== 1 ? 's' : ''}`;
-
-  if (!insights || insights.length === 0) {
-    grid.innerHTML = '<p class="insights-empty">Insights will appear after the next data refresh.</p>';
+function renderInsightList(containerId, items, bulletClass) {
+  const el = document.getElementById(containerId);
+  if (!items || items.length === 0) {
+    el.innerHTML = '<p class="insights-empty">Updating…</p>';
     return;
   }
-
-  grid.innerHTML = insights.map(text => `
+  el.innerHTML = items.map(text => `
     <div class="insight-item">
-      <span class="insight-bullet">◆</span>
+      <span class="insight-bullet ${bulletClass}">◆</span>
       <p class="insight-text">${text}</p>
     </div>
   `).join('');
+}
+
+function renderInsights(insights, articleCount) {
+  const meta = document.getElementById('insights-meta');
+  meta.textContent = `synthesized from ${articleCount} development${articleCount !== 1 ? 's' : ''}`;
+
+  const risks = insights && insights.risks ? insights.risks : (Array.isArray(insights) ? [] : []);
+  const opps  = insights && insights.opportunities ? insights.opportunities : (Array.isArray(insights) ? [] : []);
+
+  renderInsightList('insights-risks-list', risks, 'bullet-risk');
+  renderInsightList('insights-opps-list',  opps,  'bullet-opp');
 }
 
 async function fetchData(silent = false) {

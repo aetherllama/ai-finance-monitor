@@ -229,23 +229,30 @@ def compute_trending(articles: list[dict], top_n: int = 10) -> list[dict]:
     return [{"topic": name, "count": cnt} for name, cnt in ranked[:top_n] if cnt >= 1]
 
 
-def _claude_insights(api_key: str, articles: list[dict]) -> list[str]:
+def _claude_insights(api_key: str, articles: list[dict]) -> dict:
     items = "\n".join(
         f"[{a['category']}] {a['title']}: {a['summary'][:220]}"
         for a in articles
     )
     prompt = (
-        "You are a financial intelligence analyst briefing a Chief Investment Officer. "
-        "Based solely on these recent AI-in-finance developments, write exactly 5 "
-        "concise bullet insights (1–2 sentences each). Focus on: regulatory shifts, "
-        "competitive dynamics, strategic risks, emerging opportunities, and operational "
-        "implications. Be specific—name institutions, regulators, or technologies where "
-        "relevant. Return only a JSON array of 5 strings, no preamble or markdown fences.\n\n"
+        "You are a financial policy analyst briefing senior executives at central banks, "
+        "regulators, and systemically important financial institutions. "
+        "Based solely on these recent AI-in-finance developments, identify:\n"
+        "- 3 RISKS: concrete threats to financial stability, regulatory compliance, "
+        "operational resilience, or competitive position that policymakers and "
+        "financial institutions must address now.\n"
+        "- 3 OPPORTUNITIES: actionable advantages in policy design, product innovation, "
+        "cost reduction, or market positioning that policymakers and financial "
+        "institutions can capture from these developments.\n\n"
+        "Rules: 1–2 sentences each. Be specific—name institutions, regulators, "
+        "or technologies. No generic statements. No preamble or markdown.\n\n"
+        "Return only valid JSON in this exact shape:\n"
+        '{"risks": ["...", "...", "..."], "opportunities": ["...", "...", "..."]}\n\n'
         f"Developments:\n{items}"
     )
     payload = {
         "model": "claude-haiku-4-5-20251001",
-        "max_tokens": 700,
+        "max_tokens": 900,
         "messages": [{"role": "user", "content": prompt}],
     }
     req = urllib.request.Request(
@@ -262,34 +269,52 @@ def _claude_insights(api_key: str, articles: list[dict]) -> list[str]:
         result = json.loads(resp.read())
     text = result["content"][0]["text"].strip()
     text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text, flags=re.MULTILINE).strip()
-    insights = json.loads(text)
-    if isinstance(insights, list) and len(insights) >= 3:
-        return [str(s) for s in insights[:5]]
-    raise ValueError("Unexpected response shape")
+    parsed = json.loads(text)
+    if (
+        isinstance(parsed, dict)
+        and isinstance(parsed.get("risks"), list)
+        and isinstance(parsed.get("opportunities"), list)
+        and len(parsed["risks"]) >= 2
+        and len(parsed["opportunities"]) >= 2
+    ):
+        return {
+            "risks": [str(s) for s in parsed["risks"][:3]],
+            "opportunities": [str(s) for s in parsed["opportunities"][:3]],
+        }
+    raise ValueError(f"Unexpected response shape: {text[:200]}")
 
 
-def _fallback_insights(articles: list[dict]) -> list[str]:
+def _fallback_insights(articles: list[dict]) -> dict:
     """Rule-based fallback when Claude API is unavailable."""
     cats: dict[str, dict] = {}
     for a in articles:
         if a["category"] not in cats:
             cats[a["category"]] = a
-    order = ["RegTech", "Trading", "Banking", "Payments", "InsurTech"]
-    labels = {
-        "RegTech": "Regulatory",
-        "Trading": "Trading",
-        "Banking": "Banking",
-        "Payments": "Payments",
-        "InsurTech": "InsurTech",
+
+    risks = []
+    opps = []
+
+    if "RegTech" in cats:
+        risks.append(f"Regulatory: {cats['RegTech']['title']} — review compliance obligations.")
+    if "Trading" in cats:
+        risks.append(f"Trading risk: {cats['Trading']['title']} — assess algorithmic exposure.")
+    if "Banking" in cats:
+        risks.append(f"Operational: {cats['Banking']['title']} — evaluate model governance gaps.")
+
+    if "Payments" in cats:
+        opps.append(f"Payments: {cats['Payments']['title']} — potential infrastructure advantage.")
+    if "Banking" in cats:
+        opps.append(f"Banking efficiency: {cats['Banking']['title']} — cost reduction opportunity.")
+    if "InsurTech" in cats:
+        opps.append(f"InsurTech: {cats['InsurTech']['title']} — underwriting modernisation potential.")
+
+    return {
+        "risks": risks[:3] or ["Monitor AI developments for emerging regulatory risks."],
+        "opportunities": opps[:3] or ["AI adoption creating operational efficiency opportunities."],
     }
-    insights = [
-        f"{labels[c]}: {cats[c]['title']}."
-        for c in order if c in cats
-    ]
-    return insights[:5] or ["Monitoring AI-finance developments — check back soon."]
 
 
-def generate_insights(articles: list[dict]) -> list[str]:
+def generate_insights(articles: list[dict]) -> dict:
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     recent = sorted(articles, key=lambda a: a["date"], reverse=True)[:15]
     if api_key:
