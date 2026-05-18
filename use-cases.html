@@ -25,6 +25,7 @@
     </nav>
     <div class="header-meta">
       <span class="live-badge">● LIVE</span>
+      <button class="hamburger-btn" id="hamburger-btn" aria-label="Toggle navigation">&#9776;</button>
     </div>
   </div>
 </header>
@@ -373,9 +374,9 @@ function renderTable() {
 
   tbody.innerHTML = rows.map(r => {
     const catStyle = CAT_STYLE[r.category] || "";
-    const insts = r.institutions.map(i => `<span class="inst-name">${i}</span>`).join("");
+    const insts = r.institutions.map(i => `<span class="inst-chip">${i}</span>`).join("");
     const provs = r.providers.map(p =>
-      p.startsWith("In-house") ? `<span class="provider-inhouse">${p}</span>` : `<span class="provider-name">${p}</span>`
+      p.startsWith("In-house") ? `<span class="provider-chip inhouse">${p}</span>` : `<span class="provider-chip">${p}</span>`
     ).join("");
     return `
       <tr data-category="${r.category}">
@@ -435,6 +436,22 @@ window.addEventListener("resize", syncHeaderHeight);
 
 updateStats();
 renderTable();
+
+// Hamburger menu
+(function() {
+  const btn = document.getElementById('hamburger-btn');
+  const hdr = document.querySelector('header');
+  btn.addEventListener('click', function() {
+    hdr.classList.toggle('nav-open');
+    btn.innerHTML = hdr.classList.contains('nav-open') ? '&#10005;' : '&#9776;';
+  });
+  document.querySelectorAll('.nav-link').forEach(function(l) {
+    l.addEventListener('click', function() {
+      hdr.classList.remove('nav-open');
+      btn.innerHTML = '&#9776;';
+    });
+  });
+})();
 </script>
 
 </body>

@@ -74,6 +74,27 @@ header {
   flex-shrink: 0;
 }
 
+/* ── Hamburger (hidden on desktop) ── */
+.hamburger-btn {
+  display: none;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  color: var(--muted2);
+  font-size: 19px;
+  line-height: 1;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: color 0.15s, border-color 0.15s;
+  font-family: inherit;
+  padding: 0;
+}
+.hamburger-btn:hover { color: #fff; border-color: var(--accent); }
+
 .nav-link {
   font-size: 13px;
   font-weight: 500;
@@ -627,25 +648,49 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
   border-radius: 4px;
 }
 
-.uc-institutions { display: flex; flex-direction: column; gap: 3px; }
+.uc-institutions { display: flex; flex-wrap: wrap; gap: 5px; }
+.uc-providers    { display: flex; flex-wrap: wrap; gap: 5px; }
 
-.inst-name {
-  font-size: 13px;
+.inst-chip {
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 500;
   color: var(--text);
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: 4px;
+  padding: 2px 8px;
+  line-height: 1.7;
+  white-space: nowrap;
 }
 
-.uc-providers { display: flex; flex-direction: column; gap: 3px; }
-
-.provider-name {
-  font-size: 13px;
+.provider-chip {
+  display: inline-block;
+  font-size: 11.5px;
+  font-weight: 500;
   color: var(--accent2);
+  background: rgba(59,130,246,0.1);
+  border: 1px solid rgba(59,130,246,0.2);
+  border-radius: 4px;
+  padding: 2px 8px;
+  line-height: 1.7;
+  white-space: nowrap;
 }
 
-.provider-inhouse {
-  font-size: 13px;
+.provider-chip.inhouse {
   color: var(--muted2);
+  background: rgba(255,255,255,0.04);
+  border-color: rgba(255,255,255,0.08);
   font-style: italic;
 }
+
+/* Category colour accent on left edge of each row */
+.uc-table tbody tr[data-category="Banking"]   td:first-child { box-shadow: inset 3px 0 0 #3b82f6; }
+.uc-table tbody tr[data-category="Trading"]   td:first-child { box-shadow: inset 3px 0 0 #4ade80; }
+.uc-table tbody tr[data-category="RegTech"]   td:first-child { box-shadow: inset 3px 0 0 #fb923c; }
+.uc-table tbody tr[data-category="InsurTech"] td:first-child { box-shadow: inset 3px 0 0 #c084fc; }
+.uc-table tbody tr[data-category="Payments"]  td:first-child { box-shadow: inset 3px 0 0 #f472b6; }
+.uc-table tbody tr[data-category="Wealth"]    td:first-child { box-shadow: inset 3px 0 0 #22d3ee; }
 
 .status-badge {
   display: inline-block;
@@ -676,19 +721,35 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
 
 /* Mobile */
 @media (max-width: 640px) {
-  /* Header stacks brand and meta vertically */
+  /* Header: single row with hamburger */
   .header-inner {
-    flex-direction: column;
-    align-items: flex-start;
+    flex-direction: row;
+    align-items: center;
     gap: 10px;
-    padding: 16px 16px;
+    padding: 14px 16px;
   }
-
-  .brand h1 { font-size: 17px; }
+  .brand { flex: 1; min-width: 0; }
+  .brand h1 { font-size: 16px; }
   .tagline { display: none; }
-  .site-nav { order: 3; width: 100%; }
-  .nav-link { font-size: 13px; padding: 6px 12px; }
   .header-meta { gap: 8px; }
+  .hamburger-btn { display: flex; }
+
+  /* Nav as dropdown */
+  .site-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #0d1b2e;
+    border-bottom: 1px solid var(--border);
+    padding: 8px 16px 12px;
+    flex-direction: column;
+    gap: 4px;
+    z-index: 99;
+  }
+  header.nav-open .site-nav { display: flex; }
+  .nav-link { font-size: 14px; padding: 10px 14px; width: 100%; }
 
   /* Toolbar */
   .toolbar { padding: 10px 0; }

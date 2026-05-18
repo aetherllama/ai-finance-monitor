@@ -23,6 +23,7 @@
         <a href="use-cases.html" class="nav-link">AI Use Cases</a>
       </nav>
       <div class="header-meta">
+        <button class="hamburger-btn" id="hamburger-btn" aria-label="Toggle navigation">&#9776;</button>
         <span class="live-badge">● LIVE</span>
         <span id="last-updated" class="last-updated">Loading...</span>
       </div>
@@ -97,5 +98,21 @@
   </footer>
 
   <script src="script.js"></script>
+  <script>
+    (function() {
+      const btn = document.getElementById('hamburger-btn');
+      const hdr = document.querySelector('header');
+      btn.addEventListener('click', function() {
+        hdr.classList.toggle('nav-open');
+        btn.innerHTML = hdr.classList.contains('nav-open') ? '&#10005;' : '&#9776;';
+      });
+      document.querySelectorAll('.nav-link').forEach(function(l) {
+        l.addEventListener('click', function() {
+          hdr.classList.remove('nav-open');
+          btn.innerHTML = '&#9776;';
+        });
+      });
+    })();
+  </script>
 </body>
 </html>
