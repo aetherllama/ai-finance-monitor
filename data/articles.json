@@ -1,42 +1,46 @@
 {
-  "last_updated": "2026-05-19T10:39:12Z",
+  "last_updated": "2026-05-19T20:47:14Z",
   "insights": {
     "risks": [
-      "Regulatory: World Liberty Financial treasury company AI Financial warns that it may not survive the year in SEC filing — review compliance obligations.",
-      "Operational: Google makes chip push with Blackstone-backed AI cloud group — evaluate model governance gaps."
+      "Regulatory: Compliance firm Eisen secures $18.5 million in funding — review compliance obligations.",
+      "Operational: Google DeepMind founder’s investment in AI arch-rival Anthropic revealed — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Google makes chip push with Blackstone-backed AI cloud group — cost reduction opportunity.",
+      "Banking efficiency: Google DeepMind founder’s investment in AI arch-rival Anthropic revealed — cost reduction opportunity.",
       "InsurTech: Why AI‑Driven Fintech Innovation Still Lags on Trust and How to Fix It? — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 4
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 3
+      "count": 5
     },
     {
       "topic": "Fraud Detection",
       "count": 3
     },
     {
+      "topic": "Regulatory AI",
+      "count": 2
+    },
+    {
       "topic": "Risk Management",
       "count": 2
     },
     {
-      "topic": "Robo-Advisory",
+      "topic": "Credit & Underwriting",
+      "count": 2
+    },
+    {
+      "topic": "Machine Learning",
       "count": 1
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Robo-Advisory",
       "count": 1
     },
     {
@@ -46,13 +50,107 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Large Language Models",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "632244717",
+      "title": "Google DeepMind founder’s investment in AI arch-rival Anthropic revealed",
+      "summary": "Nobel laureate’s protégés are raising billions and spreading his influence across the AI industry",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "google deepmind",
+        "ai",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "20751216",
+      "title": "AI crosses strucutural threshold for banks - Accenture",
+      "summary": "Artificial intelligence has crossed a quiet but consequential threshold in UK financial services, becoming operationally critical to how core processes now function.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109888/ai-crosses-strucutural-threshold-for-banks---accenture?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "accenture artificial",
+        "uk"
+      ]
+    },
+    {
+      "id": "408326621",
+      "title": "Compliance firm Eisen secures $18.5 million in funding",
+      "summary": "Eisen, the AI-enabled compliance operations infrastructure for financial services, today announced $18.5 million in funding, including a $10 million Series A led by MissionOG and a previously unannounced $8.5 million seed round led by Index Ventures, with participation from Cowbo…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109885/compliance-firm-eisen-secures-185-million-in-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "RegTech",
+      "tags": [
+        "compliance",
+        "eisen",
+        "ai"
+      ]
+    },
+    {
+      "id": "133345486",
+      "title": "AI WealthTech Moment raises $78 million",
+      "summary": "Moment, the AI operating system for investment management, has raised $78 million in a Series C funding round led by Index Ventures, with participation from Andreessen Horowitz, Avra, and other existing investors.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109884/ai-wealthtech-moment-raises-78-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "ai wealthtech",
+        "moment",
+        "ai"
+      ]
+    },
+    {
+      "id": "366362347",
+      "title": "Why India's Credit Gap Won't Be Closed by Better Machine Learning",
+      "summary": "Why India's Credit Gap Won't Be Closed by Better Machine Learning The 500 million thin-file problem ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31761/why-indias-credit-gap-wont-be-closed-by-better-machine-learning?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "why india",
+        "credit gap",
+        "won"
+      ]
+    },
+    {
+      "id": "466852487",
+      "title": "The Trust–Oversight Paradox: Why More Accurate AI May Become Harder to Govern in Financial Services",
+      "summary": "Financial institutions are under pressure to scale AI. Boards want productivity. Business leaders wa...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31760/the-trustoversight-paradox-why-more-accurate-ai-may-become-harder-to-govern-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "the trust",
+        "oversight paradox",
+        "why more"
+      ]
+    },
+    {
+      "id": "724083486",
+      "title": "The Governance Illusion in Financial Services: Why Human Oversight Is Not Enough for Autonomous AI",
+      "summary": "Financial institutions have long trusted one comforting idea about AI risk: When the system is uncer...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31758/the-governance-illusion-in-financial-services-why-human-oversight-is-not-enough-for-autonomous-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "the governance",
+        "illusion",
+        "financial services"
+      ]
+    },
     {
       "id": "221817252",
       "title": "Google makes chip push with Blackstone-backed AI cloud group",
@@ -791,104 +889,6 @@
         "amazon",
         "ai",
         "aws"
-      ]
-    },
-    {
-      "id": "535421646",
-      "title": "Bitcoin ending May above $76,000 would confirm new bull market, Tom Lee says",
-      "summary": "Tokenization and AI agentic finance are the main narratives driving the next bull cycle in crypto, Lee said at Consensus 2026.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/05/07/bitcoin-ending-may-above-usd76-000-would-confirm-new-bull-market-tom-lee-says",
-      "date": "2026-05-07",
-      "category": "Banking",
-      "tags": [
-        "bitcoin",
-        "may",
-        "tom lee"
-      ]
-    },
-    {
-      "id": "1",
-      "title": "JPMorgan Deploys AI Underwriting Engine Across 40 Markets",
-      "summary": "JPMorgan Chase has rolled out its AI-powered credit underwriting platform to 40 global markets, using large language models to synthesize earnings reports, macro signals, and borrower history into real-time risk scores.",
-      "source": "Financial Times",
-      "url": "https://ft.com",
-      "date": "2026-05-07",
-      "category": "Banking",
-      "tags": [
-        "credit",
-        "LLM",
-        "JPMorgan"
-      ]
-    },
-    {
-      "id": "791272952",
-      "title": "AI Shopping Agents Trigger ‘False Decline’ Crisis for Merchants, Warns Chargebacks911",
-      "summary": "Chargebacks911 warns that agentic AI shopping is being misclassified as bot traffic, causing false declines, revenue loss, and outdated fraud systems in global commerce. The post AI Shopping Agents Trigger ‘False Decline’ Crisis for Merchants, Warns Chargebacks911 appeared first …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-shopping-agents-trigger-false-decline-crisis-for-merchants-warns-chargebacks911/",
-      "date": "2026-05-06",
-      "category": "Payments",
-      "tags": [
-        "ai shopping",
-        "agents trigger",
-        "false decline"
-      ]
-    },
-    {
-      "id": "2",
-      "title": "SEC Proposes Mandatory AI Disclosure Rules for Hedge Funds",
-      "summary": "The Securities and Exchange Commission has put forward a rule requiring hedge funds managing over $1B to disclose material AI-driven trading strategies, including model lineage and backtesting methodology.",
-      "source": "Reuters",
-      "url": "https://reuters.com",
-      "date": "2026-05-06",
-      "category": "RegTech",
-      "tags": [
-        "SEC",
-        "regulation",
-        "hedge funds"
-      ]
-    },
-    {
-      "id": "3",
-      "title": "Visa Launches Real-Time Fraud Neural Network Processing 800M Daily Transactions",
-      "summary": "Visa's new Cognitive Fraud Intelligence network replaces its previous rules-based system with a transformer model that evaluates 500+ behavioral signals per transaction, reducing false positives by 38%.",
-      "source": "American Banker",
-      "url": "https://americanbanker.com",
-      "date": "2026-05-06",
-      "category": "Payments",
-      "tags": [
-        "fraud",
-        "Visa",
-        "neural network"
-      ]
-    },
-    {
-      "id": "4",
-      "title": "Goldman Sachs Autonomous Trading Desk Generates $2.1B in Q1 Revenue",
-      "summary": "Goldman's AI-driven quantitative trading unit outperformed its human counterparts for the third consecutive quarter, with autonomous systems now executing 73% of the bank's fixed-income trades.",
-      "source": "Bloomberg",
-      "url": "https://bloomberg.com",
-      "date": "2026-05-05",
-      "category": "Trading",
-      "tags": [
-        "Goldman Sachs",
-        "quant",
-        "autonomous"
-      ]
-    },
-    {
-      "id": "5",
-      "title": "Lemonade's AI Claims Adjudicator Settles Policies in Under 3 Seconds",
-      "summary": "InsurTech leader Lemonade reports its next-gen AI adjudicator now processes 94% of property claims without human review, using computer vision and NLP to assess damage photos and policy documents simultaneously.",
-      "source": "Finextra",
-      "url": "https://finextra.com",
-      "date": "2026-05-05",
-      "category": "InsurTech",
-      "tags": [
-        "insurance",
-        "claims",
-        "Lemonade"
       ]
     }
   ]
