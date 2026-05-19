@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-18T20:27:44Z",
+  "last_updated": "2026-05-19T10:39:12Z",
   "insights": {
     "risks": [
-      "Trading risk: AI chipmaker Cerebras surges more than 100% in Wall Street debut — assess algorithmic exposure.",
-      "Operational: UK regulators warn of new threats from frontier AI models — evaluate model governance gaps."
+      "Regulatory: World Liberty Financial treasury company AI Financial warns that it may not survive the year in SEC filing — review compliance obligations.",
+      "Operational: Google makes chip push with Blackstone-backed AI cloud group — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform — potential infrastructure advantage.",
-      "Banking efficiency: UK regulators warn of new threats from frontier AI models — cost reduction opportunity."
+      "Banking efficiency: Google makes chip push with Blackstone-backed AI cloud group — cost reduction opportunity.",
+      "InsurTech: Why AI‑Driven Fintech Innovation Still Lags on Trust and How to Fix It? — underwriting modernisation potential."
     ]
   },
   "trending": [
@@ -17,11 +17,15 @@
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 3
     },
     {
       "topic": "Fraud Detection",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Risk Management",
@@ -46,13 +50,121 @@
     {
       "topic": "Large Language Models",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "221817252",
+      "title": "Google makes chip push with Blackstone-backed AI cloud group",
+      "summary": "Investment of $5bn by private capital group set to help bring 500MW of data centre capacity online next year",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "google",
+        "blackstone",
+        "ai"
+      ]
+    },
+    {
+      "id": "643261236",
+      "title": "CommBank appoints Professor Mary-Anne Williams as its first chief AI scientist",
+      "summary": "Commonwealth Bank (CommBank) has appointed Professor Mary-Anne Williams as its first Chief AI Scientist following an extensive global search.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109881/commbank-appoints-professor-mary-anne-williams-as-its-first-chief-ai-scientist?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "commbank",
+        "professor mary",
+        "anne williams"
+      ]
+    },
+    {
+      "id": "650072643",
+      "title": "Clarity AI and Climcycle to embed AI-dirven sustainability data into bank operating systems",
+      "summary": "Clarity AI, the leading global technology platform for extra-financial intelligence, and Climcycle, the integrated ESG risk management and regulatory compliance platform for banks, today announced a partnership to embed audit-ready sustainability data directly into banking system…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109877/clarity-ai-and-climcycle-to-embed-ai-dirven-sustainability-data-into-bank-operating-systems?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "clarity ai",
+        "climcycle",
+        "ai"
+      ]
+    },
+    {
+      "id": "77509672",
+      "title": "AU Small Finance Bank adopts Intellect’s Purple Fabric AI platform",
+      "summary": "AU Small Finance Bank (AU SFB), India’s largest Small Finance Bank and the first in over a decade to receive in-principle approval to transition into a Universal Bank, today announced its collaboration with Intellect Design Arena, a global leader in AI-First, enterprise-grade fin…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109875/au-small-finance-bank-adopts-intellects-purple-fabric-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "au small",
+        "finance bank",
+        "intellect"
+      ]
+    },
+    {
+      "id": "635968140",
+      "title": "Why AI‑Driven Fintech Innovation Still Lags on Trust and How to Fix It?",
+      "summary": "Artificial intelligence is everywhere in financial services today. Banks deploy AI for underwriting ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31754/why-aidriven-fintech-innovation-still-lags-on-trust-and-how-to-fix-it?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-19",
+      "category": "InsurTech",
+      "tags": [
+        "why ai",
+        "driven fintech",
+        "innovation still"
+      ]
+    },
+    {
+      "id": "692438623",
+      "title": "World Liberty Financial treasury company AI Financial warns that it may not survive the year in SEC filing",
+      "summary": "The former Alt5 Sigma marked its 7.28 billion WLFI tokens at $706 million, down from a roughly $1.46 billion cost basis, while disclosing that the holdings remain locked amid liquidity concerns.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
+      "date": "2026-05-19",
+      "category": "RegTech",
+      "tags": [
+        "world liberty",
+        "financial",
+        "ai financial"
+      ]
+    },
+    {
+      "id": "840552068",
+      "title": "Demand for Always-On Commerce Strains Legacy Credit Platforms",
+      "summary": "Change is endemic to payments. But that doesn’t mean legacy environments can always keep up. Findings in the inaugural “ABCs of AI Credit: A Playbook for Issuers,” a PYMNTS Intelligence collaboration with Thredd, confirm that’s the case with the credit landscape, where legacy arc…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/demand-for-always-on-commerce-strains-legacy-credit-platforms/",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "demand",
+        "always",
+        "on commerce"
+      ]
+    },
+    {
+      "id": "634946830",
+      "title": "AI Fraud Turns Big Companies Into Bigger Targets",
+      "summary": "Conventional wisdom has long held that larger enterprises possess natural advantages in cybersecurity and fraud prevention. Bigger budgets, deeper technical teams and greater access to advanced tooling should theoretically produce stronger defenses. In practice, those scale advan…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/fraud-prevention/2026/ai-fraud-turns-big-companies-into-bigger-targets/",
+      "date": "2026-05-19",
+      "category": "Banking",
+      "tags": [
+        "ai fraud",
+        "turns big",
+        "companies into"
+      ]
+    },
     {
       "id": "774908772",
       "title": "UK regulators warn of new threats from frontier AI models",
@@ -777,118 +889,6 @@
         "insurance",
         "claims",
         "Lemonade"
-      ]
-    },
-    {
-      "id": "30584656",
-      "title": "Tailoring AI solutions for health care needs",
-      "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widel…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-      "date": "2026-05-04",
-      "category": "Banking",
-      "tags": [
-        "tailoring ai",
-        "the ai",
-        "health"
-      ]
-    },
-    {
-      "id": "6",
-      "title": "ECB Publishes Framework for AI Risk in Systemically Important Banks",
-      "summary": "The European Central Bank released its long-awaited guidance on AI governance for G-SIBs, requiring explainability audits, model inventory registries, and independent AI risk committees at board level by 2027.",
-      "source": "ECB Press",
-      "url": "https://ecb.europa.eu",
-      "date": "2026-05-04",
-      "category": "RegTech",
-      "tags": [
-        "ECB",
-        "governance",
-        "G-SIB"
-      ]
-    },
-    {
-      "id": "7",
-      "title": "Stripe Acquires AI Financial Forecasting Startup Parity for $890M",
-      "summary": "Stripe has acquired Parity, a YC-backed startup that built cash-flow forecasting models for SMBs. The technology will be integrated into Stripe's revenue intelligence dashboard, available to 4M+ merchants.",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com",
-      "date": "2026-05-04",
-      "category": "Payments",
-      "tags": [
-        "Stripe",
-        "acquisition",
-        "forecasting"
-      ]
-    },
-    {
-      "id": "8",
-      "title": "BlackRock Aladdin 3.0 Integrates Multimodal AI for Portfolio Construction",
-      "summary": "BlackRock's Aladdin platform upgrade adds multimodal AI capabilities, allowing portfolio managers to query market data, earnings call audio, and satellite imagery within a single co-pilot interface.",
-      "source": "Institutional Investor",
-      "url": "https://institutionalinvestor.com",
-      "date": "2026-05-03",
-      "category": "Trading",
-      "tags": [
-        "BlackRock",
-        "Aladdin",
-        "portfolio"
-      ]
-    },
-    {
-      "id": "9",
-      "title": "CFPB Warns Against AI Chatbots Providing Unlicensed Financial Advice",
-      "summary": "The Consumer Financial Protection Bureau issued a supervisory bulletin cautioning banks that AI chatbots dispensing personalized investment or credit recommendations may violate licensing and disclosure requirements.",
-      "source": "CFPB",
-      "url": "https://cfpb.gov",
-      "date": "2026-05-03",
-      "category": "RegTech",
-      "tags": [
-        "CFPB",
-        "chatbot",
-        "compliance"
-      ]
-    },
-    {
-      "id": "10",
-      "title": "Klarna AI Customer Service Handles 87% of Interactions Without Human Escalation",
-      "summary": "Buy-now-pay-later giant Klarna reported its AI assistant now manages nearly nine in ten customer service interactions, equivalent to 700 full-time agents, while maintaining CSAT scores above pre-AI benchmarks.",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com",
-      "date": "2026-05-02",
-      "category": "Banking",
-      "tags": [
-        "Klarna",
-        "customer service",
-        "BNPL"
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Citadel Securities Builds Proprietary LLM for Equity Research Synthesis",
-      "summary": "Citadel Securities confirmed it has trained an in-house large language model on 20 years of sell-side research, earnings transcripts, and trade flow data to generate differentiated alpha signals ahead of earnings seasons.",
-      "source": "Wall Street Journal",
-      "url": "https://wsj.com",
-      "date": "2026-05-01",
-      "category": "Trading",
-      "tags": [
-        "Citadel",
-        "LLM",
-        "equity"
-      ]
-    },
-    {
-      "id": "12",
-      "title": "HSBC AI KYC Platform Cuts Onboarding Time From 14 Days to 4 Hours",
-      "summary": "HSBC's global rollout of its AI-powered Know Your Customer platform uses document intelligence and adverse media screening to compress corporate client onboarding from two weeks to under four hours.",
-      "source": "Banking Technology",
-      "url": "https://bankingtechnology.com",
-      "date": "2026-04-30",
-      "category": "Banking",
-      "tags": [
-        "HSBC",
-        "KYC",
-        "onboarding"
       ]
     }
   ]
