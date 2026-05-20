@@ -1167,8 +1167,19 @@ footer p { font-size: 13px; color: var(--muted); margin-bottom: 4px; }
 .fill-elite  { background: linear-gradient(90deg, #b45309, #f59e0b); }
 .fill-growth { background: linear-gradient(90deg, #059669, #34d399); }
 
-/* Category badge (colour applied inline via JS) */
+/* Category badge base */
 .ft-cat-badge { font-size: 11px; font-weight: 600; padding: 3px 9px; border-radius: 20px; white-space: nowrap; }
+
+/* Per-category badge colours — aligned with site palette */
+.ft-cat-FraudAML      { background: rgba(251,146,60,0.12);  color: #fb923c; border: 1px solid rgba(251,146,60,0.28); }
+.ft-cat-DataAnalytics { background: rgba(74,222,128,0.1);   color: #4ade80; border: 1px solid rgba(74,222,128,0.25); }
+.ft-cat-LendingAI     { background: rgba(96,165,250,0.12);  color: #60a5fa; border: 1px solid rgba(96,165,250,0.28); }
+.ft-cat-IdentityKYC   { background: rgba(251,191,36,0.12);  color: #fbbf24; border: 1px solid rgba(251,191,36,0.28); }
+.ft-cat-Compliance    { background: rgba(251,146,60,0.12);  color: #fb923c; border: 1px solid rgba(251,146,60,0.28); }
+.ft-cat-InsuranceAI   { background: rgba(192,132,252,0.12); color: #c084fc; border: 1px solid rgba(192,132,252,0.25); }
+.ft-cat-CustomerCX    { background: rgba(244,114,182,0.12); color: #f472b6; border: 1px solid rgba(244,114,182,0.25); }
+.ft-cat-WealthInv     { background: rgba(34,211,238,0.1);   color: #22d3ee; border: 1px solid rgba(34,211,238,0.25); }
+.ft-cat-EnterpriseAI  { background: rgba(148,163,184,0.1);  color: #94a3b8; border: 1px solid rgba(148,163,184,0.2); }
 
 /* Notable client chips */
 .ft-clients-row  { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }

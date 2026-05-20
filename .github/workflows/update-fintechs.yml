@@ -1,0 +1,48 @@
+name: Monthly FinTech Score Update
+
+on:
+  schedule:
+    # 06:00 UTC on the 20th of every month
+    - cron: '0 6 20 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-fintechs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic feedparser
+
+      - name: Run FinTech score updater
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/update_fintechs.py
+
+      - name: Commit updated scores
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/fintechs.json
+          if git diff --cached --quiet; then
+            echo "No score changes — skipping commit"
+          else
+            git commit -m "chore: monthly AFPI score update $(date +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        if: ${{ !env.ACT }}
+        continue-on-error: true

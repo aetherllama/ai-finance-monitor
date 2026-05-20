@@ -37,7 +37,7 @@
   <!-- Intro -->
   <div class="maturity-intro">
     <h2>AI FinTech Leaderboard</h2>
-    <p>The <strong>AI FinTech Performance Index (AFPI)</strong> ranks AI-native financial technology companies by solution strength and depth of deployment across financial institutions. Each company is scored across five dimensions covering AI capability, client adoption, operational scale, global reach, and commercial traction. Scores are reviewed quarterly.</p>
+    <p>The <strong>AI FinTech Performance Index (AFPI)</strong> ranks AI-native financial technology companies by solution strength and depth of deployment across financial institutions. Each company is scored across five dimensions covering AI capability, client adoption, operational scale, global reach, and commercial traction. Scores are reviewed monthly.</p>
     <div class="uc-stats" style="margin-top:16px;">
       <div class="uc-stat"><span class="uc-stat-value" id="kpi-total">—</span><span class="uc-stat-label">Companies</span></div>
       <div class="uc-stat"><span class="uc-stat-value" id="kpi-elite" style="color:#f59e0b;">—</span><span class="uc-stat-label">Elite</span></div>
@@ -53,7 +53,7 @@
     <span class="cadence-sep">·</span>
     <span id="cadence-next">Next review —</span>
     <span class="cadence-sep">·</span>
-    <span>Updated quarterly via AI analysis</span>
+    <span>Updated monthly via AI analysis</span>
   </div>
 
   <!-- Methodology accordion -->
@@ -175,7 +175,7 @@
 <footer>
   <div class="footer-inner">
     <p>AI Finance Monitor — AI FinTech Performance Index v1.0</p>
-    <p class="footer-sources">Scores based on public disclosures, funding announcements, and AI capability assessments. Updated quarterly.</p>
+    <p class="footer-sources">Scores based on public disclosures, funding announcements, and AI capability assessments. Updated monthly.</p>
     <a href="https://github.com/aetherllama/ai-finance-monitor" target="_blank" class="gh-link">View on GitHub ↗</a>
   </div>
 </footer>
@@ -186,16 +186,16 @@ const DATA_URL = 'data/fintechs.json';
 const DIM_KEYS   = ['ai_innovation', 'fi_client_depth', 'processing_scale', 'global_reach', 'commercial_traction'];
 const DIM_LABELS = ['AI Innovation', 'FI Client Depth', 'Processing Scale', 'Global Reach', 'Commercial Traction'];
 
-const CATEGORY_COLORS = {
-  'Fraud & AML':         '#ef4444',
-  'Data & Analytics':    '#6366f1',
-  'Lending AI':          '#14b8a6',
-  'Identity & KYC':      '#8b5cf6',
-  'Compliance':          '#f97316',
-  'Insurance AI':        '#06b6d4',
-  'Customer & CX':       '#ec4899',
-  'Wealth & Investment': '#d97706',
-  'Enterprise AI':       '#64748b'
+const CATEGORY_CLASS = {
+  'Fraud & AML':         'ft-cat-FraudAML',
+  'Data & Analytics':    'ft-cat-DataAnalytics',
+  'Lending AI':          'ft-cat-LendingAI',
+  'Identity & KYC':      'ft-cat-IdentityKYC',
+  'Compliance':          'ft-cat-Compliance',
+  'Insurance AI':        'ft-cat-InsuranceAI',
+  'Customer & CX':       'ft-cat-CustomerCX',
+  'Wealth & Investment': 'ft-cat-WealthInv',
+  'Enterprise AI':       'ft-cat-EnterpriseAI'
 };
 
 let allCompanies = [];
@@ -245,7 +245,7 @@ function buildCategoryFilters(companies) {
 function buildCard(company) {
   const rank    = baseRanks[company.name];
   const rankCls = rank === 1 ? 'rank-1' : rank === 2 ? 'rank-2' : rank === 3 ? 'rank-3' : '';
-  const catColor = CATEGORY_COLORS[company.category] || '#64748b';
+  const catCls  = CATEGORY_CLASS[company.category] || 'ft-cat-EnterpriseAI';
 
   const dimsHTML = DIM_KEYS.map((key, i) => {
     const val = company.scores[key] || 0;
@@ -277,7 +277,7 @@ function buildCard(company) {
           <span class="mat-sub">${company.hq}${parentStr}${foundedStr}</span>
         </div>
         <div class="mat-header-right">
-          <span class="ft-cat-badge" style="background:${catColor}18; color:${catColor}; border:1px solid ${catColor}35;">${company.category}</span>
+          <span class="ft-cat-badge ${catCls}">${company.category}</span>
           <span class="mat-tier tier-${company.tier}">${company.tier.charAt(0).toUpperCase() + company.tier.slice(1)}</span>
         </div>
       </div>
