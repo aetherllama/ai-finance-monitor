@@ -86,32 +86,32 @@ const USE_CASES = [
     usecase: "AI Credit Underwriting",
     desc: "LLM-based models synthesise earnings reports, macro signals, and borrower history into real-time credit decisions.",
     category: "Banking",
-    institutions: ["JPMorgan Chase", "Goldman Sachs", "Citibank"],
-    providers: ["In-house (IndexGPT)", "In-house"],
+    institutions: ["JPMorgan Chase", "Goldman Sachs", "Citibank", "DBS Bank", "Ant Group"],
+    providers: ["In-house (IndexGPT)", "In-house", "WeBank (FATE)"],
     status: "deployed"
   },
   {
     usecase: "KYC / Customer Onboarding",
     desc: "Automated identity verification, document intelligence, and adverse media screening to compress onboarding timelines.",
     category: "Banking",
-    institutions: ["HSBC", "Standard Chartered", "Deutsche Bank", "Lloyds Banking Group"],
-    providers: ["Quantexa", "ComplyAdvantage", "Napier AI"],
+    institutions: ["HSBC", "Standard Chartered", "Deutsche Bank", "Lloyds Banking Group", "DBS Bank", "OCBC Bank", "UOB"],
+    providers: ["Quantexa", "ComplyAdvantage", "Napier AI", "Sumsub"],
     status: "deployed"
   },
   {
     usecase: "AI Customer Service Chatbot",
     desc: "Conversational AI assistant handling retail banking queries, account management, and personalised product recommendations.",
     category: "Banking",
-    institutions: ["Bank of America (Erica)", "Wells Fargo (Fargo)", "Capital One (Eno)", "Klarna"],
-    providers: ["In-house", "Nuance / Microsoft"],
+    institutions: ["Bank of America (Erica)", "Wells Fargo (Fargo)", "Capital One (Eno)", "Klarna", "OCBC (Emma)", "DBS (Digibot)", "UOB (TMRW)"],
+    providers: ["In-house", "Nuance / Microsoft", "Kore.ai"],
     status: "deployed"
   },
   {
     usecase: "Document Intelligence",
     desc: "AI extraction and review of contracts, prospectuses, loan agreements, and regulatory filings.",
     category: "Banking",
-    institutions: ["Goldman Sachs", "Barclays", "Morgan Stanley"],
-    providers: ["Harvey AI", "Kira Systems", "In-house"],
+    institutions: ["Goldman Sachs", "Barclays", "Morgan Stanley", "DBS Bank", "MUFG"],
+    providers: ["Harvey AI", "Kira Systems", "In-house", "ABBYY"],
     status: "deployed"
   },
   {
@@ -160,7 +160,7 @@ const USE_CASES = [
     usecase: "Earnings Sentiment & NLP Analysis",
     desc: "Natural language processing of earnings calls, analyst reports, and news to generate pre-earnings alpha signals.",
     category: "Trading",
-    institutions: ["JPMorgan Asset Management", "Morgan Stanley", "Fidelity"],
+    institutions: ["JPMorgan Asset Management", "Morgan Stanley", "Fidelity", "Nomura", "Ping An Asset Mgmt"],
     providers: ["Bloomberg AI", "Refinitiv (LSEG)", "In-house"],
     status: "deployed"
   },
@@ -194,7 +194,7 @@ const USE_CASES = [
     usecase: "Transaction Monitoring / AML",
     desc: "AI models detecting suspicious transaction patterns, reducing false-positive rates and analyst review burden.",
     category: "RegTech",
-    institutions: ["Standard Chartered", "BNY Mellon", "Lloyds", "MUFG"],
+    institutions: ["Standard Chartered", "BNY Mellon", "Lloyds", "MUFG", "DBS Bank", "OCBC Bank", "Kakao Bank"],
     providers: ["NICE Actimize", "Temenos", "Featurespace", "Napier AI"],
     status: "deployed"
   },
@@ -236,7 +236,7 @@ const USE_CASES = [
     usecase: "Real-Time Fraud Detection",
     desc: "Transformer neural networks evaluating 500+ behavioural signals per transaction to flag fraud in under 100ms.",
     category: "Payments",
-    institutions: ["Visa", "Mastercard", "PayPal", "American Express"],
+    institutions: ["Visa", "Mastercard", "PayPal", "American Express", "Ant Group (Alipay)", "Kakao Pay", "GrabPay"],
     providers: ["In-house (Visa CognitiveFraud)", "Feedzai", "In-house"],
     status: "deployed"
   },
@@ -286,8 +286,8 @@ const USE_CASES = [
     usecase: "AI Underwriting Automation",
     desc: "Machine learning models ingesting satellite imagery, IoT sensor data, and historical claims to price risk dynamically.",
     category: "InsurTech",
-    institutions: ["Swiss Re", "Munich Re", "Zurich Insurance", "AXA"],
-    providers: ["Tractable", "Cape Analytics", "In-house"],
+    institutions: ["Swiss Re", "Munich Re", "Zurich Insurance", "AXA", "Ping An Insurance", "AIA Group", "Tokio Marine"],
+    providers: ["Tractable", "Cape Analytics", "In-house", "Bdeo"],
     status: "deployed"
   },
   {
@@ -312,8 +312,8 @@ const USE_CASES = [
     usecase: "Robo-Advisory",
     desc: "Automated portfolio construction, tax-loss harvesting, and rebalancing based on risk profile and market conditions.",
     category: "Wealth",
-    institutions: ["Betterment", "Wealthfront", "Vanguard Digital Advisor", "Schwab Intelligent Portfolios"],
-    providers: ["In-house", "Envestnet | Yodlee"],
+    institutions: ["Betterment", "Wealthfront", "Vanguard Digital Advisor", "Schwab Intelligent Portfolios", "DBS (digiPortfolio)", "OCBC (RoboInvest)", "Kakao Bank"],
+    providers: ["In-house", "Envestnet | Yodlee", "Quantifeed"],
     status: "deployed"
   },
   {
@@ -336,8 +336,58 @@ const USE_CASES = [
     usecase: "Client Suitability & Personalisation",
     desc: "ML models matching products to client risk profiles, life events, and tax situations in real time.",
     category: "Wealth",
-    institutions: ["UBS", "Deutsche Bank Wealth", "Julius Bär"],
+    institutions: ["UBS", "Deutsche Bank Wealth", "Julius Bär", "DBS (NAV Planner)", "Ping An (AI Planner)"],
     providers: ["In-house", "Salesforce Einstein"],
+    status: "pilot"
+  },
+
+  // ── APAC-specific use cases ───────────────────────────────────────────────
+  {
+    usecase: "Super-App Embedded Finance AI",
+    desc: "AI-powered lending, insurance, and wealth products embedded directly in consumer super-apps, using behavioural and transaction data unavailable to traditional banks.",
+    category: "Payments",
+    institutions: ["Ant Group (Alipay)", "Tencent (WeChat Pay)", "Grab Financial", "Kakao Pay", "Sea Money (SeaMoney)"],
+    providers: ["In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI-Only Digital Bank Credit",
+    desc: "Fully automated credit underwriting with zero human underwriters — AI processes alternative behavioural data, mobile signals, and repayment history in milliseconds at population scale.",
+    category: "Banking",
+    institutions: ["WeBank (China)", "TMRW by UOB", "GXS Bank (Singapore)", "Trust Bank (Singapore)", "Kakao Bank"],
+    providers: ["In-house (FATE)", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "Federated Machine Learning",
+    desc: "Privacy-preserving AI allowing institutions to train shared models across siloed data without exposing raw customer records — compliant with PDPA, PIPL, and GDPR.",
+    category: "RegTech",
+    institutions: ["WeBank", "DBS Bank", "OCBC Bank", "HSBC Asia", "MAS (Project Guardian)"],
+    providers: ["WeBank (FATE)", "PrimiHub", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Trade Finance Automation",
+    desc: "NLP extraction from letters of credit, bills of lading, and invoices; AI fraud detection and counterparty risk scoring across cross-border trade corridors.",
+    category: "Banking",
+    institutions: ["DBS Bank", "OCBC Bank", "MUFG", "Standard Chartered", "HSBC"],
+    providers: ["Contour", "Finastra", "In-house"],
+    status: "deployed"
+  },
+  {
+    usecase: "AI Insurance — APAC",
+    desc: "Claims triage, micro-insurance underwriting, and fraud detection optimised for high-frequency APAC products including health, crop, and parametric weather insurance.",
+    category: "InsurTech",
+    institutions: ["Ping An Insurance", "AIA Group", "FWD Group", "Tokio Marine", "NTUC Income"],
+    providers: ["In-house (Ping An AI)", "Quantium", "Bdeo"],
+    status: "deployed"
+  },
+  {
+    usecase: "RegTech for APAC Multi-Jurisdiction",
+    desc: "AI platforms reconciling fragmented regulatory requirements across MAS, HKMA, JFSA, SEBI, and PBOC to automate reporting and flag cross-border compliance gaps.",
+    category: "RegTech",
+    institutions: ["DBS Bank", "OCBC Bank", "Standard Chartered Asia", "MUFG", "Hang Seng Bank"],
+    providers: ["Ascent RegTech", "Tookitaki", "In-house"],
     status: "pilot"
   }
 ];
