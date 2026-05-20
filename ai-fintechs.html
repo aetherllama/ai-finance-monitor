@@ -32,144 +32,126 @@
   </div>
 </header>
 
-<main class="container" style="padding-top:32px; padding-bottom:48px;">
+<div class="ft-main">
 
-  <!-- Hero -->
-  <section style="margin-bottom:28px;">
-    <div style="display:flex; align-items:flex-start; justify-content:space-between; gap:16px; flex-wrap:wrap;">
-      <div>
-        <h2 style="font-size:26px; font-weight:700; color:var(--text); margin-bottom:6px;">
-          AI FinTech Leaderboard
-        </h2>
-        <p style="color:var(--muted2); font-size:14px; max-width:640px; line-height:1.6;">
-          The <strong style="color:var(--text);">AI FinTech Performance Index (AFPI)</strong> ranks AI-native financial technology companies by solution strength and depth of deployment across financial institutions. Scores are updated quarterly.
-        </p>
-      </div>
-      <div id="cadence-bar" class="mat-cadence-bar" style="white-space:nowrap; flex-shrink:0; margin-top:4px;"></div>
+  <!-- Intro -->
+  <div class="maturity-intro">
+    <h2>AI FinTech Leaderboard</h2>
+    <p>The <strong>AI FinTech Performance Index (AFPI)</strong> ranks AI-native financial technology companies by solution strength and depth of deployment across financial institutions. Each company is scored across five dimensions covering AI capability, client adoption, operational scale, global reach, and commercial traction. Scores are reviewed quarterly.</p>
+    <div class="uc-stats" style="margin-top:16px;">
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-total">—</span><span class="uc-stat-label">Companies</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-elite" style="color:#f59e0b;">—</span><span class="uc-stat-label">Elite</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-leader" style="color:#60a5fa;">—</span><span class="uc-stat-label">Leader</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-growth" style="color:#34d399;">—</span><span class="uc-stat-label">Growth</span></div>
+      <div class="uc-stat"><span class="uc-stat-value" id="kpi-categories">—</span><span class="uc-stat-label">Categories</span></div>
     </div>
+  </div>
 
-    <div class="ft-hero-stats" id="hero-stats">
-      <div class="ft-stat-pill"><span class="ft-stat-num" id="stat-total">—</span><span class="ft-stat-label">Companies</span></div>
-      <div class="ft-stat-pill"><span class="ft-stat-num" id="stat-elite" style="color:#f59e0b;">—</span><span class="ft-stat-label">Elite</span></div>
-      <div class="ft-stat-pill"><span class="ft-stat-num" id="stat-leader" style="color:#3b82f6;">—</span><span class="ft-stat-label">Leader</span></div>
-      <div class="ft-stat-pill"><span class="ft-stat-num" id="stat-growth" style="color:#10b981;">—</span><span class="ft-stat-label">Growth</span></div>
-      <div class="ft-stat-pill"><span class="ft-stat-num" id="stat-cats">—</span><span class="ft-stat-label">Categories</span></div>
-    </div>
-  </section>
+  <!-- Cadence bar -->
+  <div class="maturity-cadence-bar" id="cadence-bar">
+    <span id="cadence-last">Last reviewed —</span>
+    <span class="cadence-sep">·</span>
+    <span id="cadence-next">Next review —</span>
+    <span class="cadence-sep">·</span>
+    <span>Updated quarterly via AI analysis</span>
+  </div>
 
-  <!-- Methodology -->
-  <section class="mat-method-section" style="margin-bottom:28px;">
-    <button class="mat-method-toggle" id="method-toggle" onclick="toggleMethod()">
-      <span>Ranking Methodology</span>
-      <span id="method-arrow">▾</span>
+  <!-- Methodology accordion -->
+  <div class="methodology-panel" id="methodology-panel">
+    <button class="methodology-toggle" id="methodology-toggle">
+      <span class="methodology-toggle-left">
+        <span class="methodology-toggle-arrow">▶</span>
+        <span>Ranking Methodology — AI FinTech Performance Index (AFPI)</span>
+      </span>
+      <span class="methodology-toggle-hint">Click to expand</span>
     </button>
-    <div class="mat-method-body" id="method-body" style="display:none;">
-      <div class="mat-method-grid">
-        <div>
-          <h4 style="color:var(--text); margin-bottom:12px; font-size:14px; font-weight:600;">AI FinTech Performance Index (AFPI)</h4>
-          <p style="color:var(--muted2); font-size:13px; line-height:1.7; margin-bottom:12px;">
-            The AFPI evaluates AI-native FinTech companies across five equally-weighted dimensions (20 pts each, 100 pts total), focusing on the strength of the AI solution and its depth of adoption within regulated financial institutions.
-          </p>
-          <p style="color:var(--muted2); font-size:13px; line-height:1.7;">
-            <strong style="color:var(--muted2);">Scope:</strong> AI-native FinTechs and AI-first divisions of financial technology vendors where machine learning is core to the product — not peripheral. Traditional software vendors with AI add-ons are excluded.
-          </p>
+    <div class="methodology-body">
+      <p class="methodology-intro-text">
+        The <strong>AI FinTech Performance Index (AFPI)</strong> scores each company out of 100 across five equally weighted dimensions (20 points each). The index focuses specifically on the strength of the company's AI technology and its depth of production adoption within regulated financial institutions — banks, asset managers, insurers, and payment processors. Companies must have AI as a core product capability (not a feature add-on) to qualify. Scores are calibrated against peer disclosures, funding announcements, client references, and product capability assessments.
+      </p>
+      <div class="methodology-dims">
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">AI Innovation</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Sophistication, novelty, and production depth of AI capabilities — proprietary model development, research pedigree, patent activity, and technical differentiation from rule-based alternatives. Frontier AI (graph neural networks, LLMs, adaptive behavioral ML) deployed at scale scores near 20.</div>
         </div>
-        <div>
-          <h4 style="color:var(--text); margin-bottom:12px; font-size:14px; font-weight:600;">Scoring Tiers</h4>
-          <div style="display:flex; flex-direction:column; gap:8px;">
-            <div style="display:flex; align-items:center; gap:10px;">
-              <span class="ft-tier-badge ft-tier-elite" style="min-width:72px; text-align:center;">Elite</span>
-              <span style="color:var(--muted2); font-size:13px;">80–100 · Category-defining with global Tier-1 FI deployment</span>
-            </div>
-            <div style="display:flex; align-items:center; gap:10px;">
-              <span class="ft-tier-badge ft-tier-leader" style="min-width:72px; text-align:center;">Leader</span>
-              <span style="color:var(--muted2); font-size:13px;">65–79 · Strong institutional adoption across multiple product lines</span>
-            </div>
-            <div style="display:flex; align-items:center; gap:10px;">
-              <span class="ft-tier-badge ft-tier-growth" style="min-width:72px; text-align:center;">Growth</span>
-              <span style="color:var(--muted2); font-size:13px;">50–64 · Validated solutions gaining enterprise traction</span>
-            </div>
-            <div style="display:flex; align-items:center; gap:10px;">
-              <span class="ft-tier-badge ft-tier-emerging" style="min-width:72px; text-align:center;">Emerging</span>
-              <span style="color:var(--muted2); font-size:13px;">0–49 · Early-stage deployment, product-market fit forming</span>
-            </div>
-          </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">FI Client Depth</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Breadth and quality of financial institution clients in production — number of banks, asset managers, insurers, and payment processors; client tier (G-SIBs score higher than community banks); and integration depth (core infrastructure vs. peripheral tooling).</div>
+        </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Processing Scale</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Operational scale of the deployed solution: transaction volumes processed, assets under analysis, or data volume handled daily. Solutions processing trillions in transactions score near 20; early-stage platforms with limited throughput score below 10.</div>
+        </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Global Reach</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">International deployment footprint: number of regulatory jurisdictions covered, multi-currency and multi-language support, and presence across both mature markets (US, UK, EU) and high-growth regions (APAC, Middle East, LatAm).</div>
+        </div>
+        <div class="methodology-dim">
+          <div class="methodology-dim-title">Commercial Traction</div>
+          <div class="methodology-dim-pts">Up to 20 points</div>
+          <div class="methodology-dim-desc">Financial health and market validation: ARR growth trajectory, funding rounds and valuations, strategic acquisitions by major FIs or tech firms, flagship FI partnerships, and public market performance where applicable.</div>
         </div>
       </div>
-
-      <div class="ft-dim-method-grid" style="margin-top:20px;">
-        <div class="ft-dim-method-card">
-          <div class="ft-dim-method-num" style="background:rgba(99,102,241,0.15); color:#818cf8;">1</div>
-          <div>
-            <div class="ft-dim-method-title">AI Innovation <span style="color:var(--muted); font-weight:400;">/ 20</span></div>
-            <div class="ft-dim-method-desc">Sophistication, novelty, and production depth of AI capabilities — proprietary models, research pedigree, technical differentiation from rule-based alternatives. Frontier AI (graph neural networks, LLMs, adaptive ML) deployed at scale scores near 20.</div>
-          </div>
+      <div class="methodology-tiers-title">AFPI Tiers</div>
+      <div class="methodology-tier-list">
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-elite" style="font-size:10px; padding:2px 8px;">Elite</span>
+          <span>80–100 · Category-defining platform with global Tier-1 FI deployment</span>
         </div>
-        <div class="ft-dim-method-card">
-          <div class="ft-dim-method-num" style="background:rgba(20,184,166,0.15); color:#2dd4bf;">2</div>
-          <div>
-            <div class="ft-dim-method-title">FI Client Depth <span style="color:var(--muted); font-weight:400;">/ 20</span></div>
-            <div class="ft-dim-method-desc">Breadth and quality of financial institution clients in production — number of banks, asset managers, insurers, and payment processors; client tier (G-SIBs score higher than community banks); and integration depth (core infrastructure vs. peripheral tooling).</div>
-          </div>
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-leader" style="font-size:10px; padding:2px 8px;">Leader</span>
+          <span>65–79 · Strong institutional adoption across multiple product lines</span>
         </div>
-        <div class="ft-dim-method-card">
-          <div class="ft-dim-method-num" style="background:rgba(59,130,246,0.15); color:#60a5fa;">3</div>
-          <div>
-            <div class="ft-dim-method-title">Processing Scale <span style="color:var(--muted); font-weight:400;">/ 20</span></div>
-            <div class="ft-dim-method-desc">Operational scale: transaction volumes processed, assets under analysis, data volume handled daily. Solutions processing trillions in transactions score near 20; early-stage platforms with limited throughput score below 10.</div>
-          </div>
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-growth" style="font-size:10px; padding:2px 8px;">Growth</span>
+          <span>50–64 · Validated solution gaining enterprise traction</span>
         </div>
-        <div class="ft-dim-method-card">
-          <div class="ft-dim-method-num" style="background:rgba(245,158,11,0.15); color:#fbbf24;">4</div>
-          <div>
-            <div class="ft-dim-method-title">Global Reach <span style="color:var(--muted); font-weight:400;">/ 20</span></div>
-            <div class="ft-dim-method-desc">International footprint: regulatory jurisdictions covered, multi-currency and multi-language support, and presence across mature markets (US, UK, EU) and high-growth regions (APAC, Middle East, LatAm).</div>
-          </div>
-        </div>
-        <div class="ft-dim-method-card">
-          <div class="ft-dim-method-num" style="background:rgba(236,72,153,0.15); color:#f472b6;">5</div>
-          <div>
-            <div class="ft-dim-method-title">Commercial Traction <span style="color:var(--muted); font-weight:400;">/ 20</span></div>
-            <div class="ft-dim-method-desc">Financial health and market validation: ARR growth trajectory, funding rounds and valuations, strategic acquisitions, major FI partnerships, and public market performance where applicable.</div>
-          </div>
+        <div class="methodology-tier-item">
+          <span class="mat-tier tier-emerging" style="font-size:10px; padding:2px 8px;">Emerging</span>
+          <span>0–49 · Early-stage deployment; product-market fit forming</span>
         </div>
       </div>
-
-      <p style="color:var(--muted); font-size:12px; margin-top:20px; padding-top:16px; border-top:1px solid var(--border);">
-        Scores are based on publicly available information: press releases, funding announcements, company disclosures, and AI capability assessments. Updated quarterly. v1.0 — Last reviewed 2026-05-20.
+      <p class="methodology-disclaimer">
+        <strong>Disclaimer:</strong> Scores are indicative assessments based on publicly available information — press releases, funding announcements, company disclosures, and product capability assessments. They are not investment recommendations, credit ratings, or regulatory determinations. AI capabilities evolve rapidly; scores reflect the state of public information as of the last review date.
       </p>
     </div>
-  </section>
+  </div>
 
-  <!-- Filters -->
-  <div class="maturity-filter-group" style="margin-bottom:24px;">
-    <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center; flex:1;">
-      <span style="color:var(--muted); font-size:13px; white-space:nowrap;">Category:</span>
-      <div class="mat-filter-row" id="cat-filters">
-        <button class="mat-filter-btn active" data-cat="all">All</button>
+  <!-- Category filter row -->
+  <div class="ft-cat-row">
+    <span class="maturity-filter-label">Category</span>
+    <div class="maturity-filters" id="cat-filters">
+      <button class="cat-btn active" data-cat="all">All</button>
+    </div>
+  </div>
+
+  <!-- Controls: Tier + Region + Sort -->
+  <div class="maturity-controls">
+    <div class="maturity-filter-group">
+      <div class="maturity-filter-label">Tier</div>
+      <div class="maturity-filters" id="tier-filters">
+        <button class="cat-btn active" data-tier="all">All</button>
+        <button class="cat-btn" data-tier="elite">Elite</button>
+        <button class="cat-btn" data-tier="leader">Leader</button>
+        <button class="cat-btn" data-tier="growth">Growth</button>
       </div>
     </div>
-    <div style="display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
-      <span style="color:var(--muted); font-size:13px; white-space:nowrap;">Tier:</span>
-      <div class="mat-filter-row">
-        <button class="mat-filter-btn active" data-tier="all" onclick="setTier('all')">All</button>
-        <button class="mat-filter-btn" data-tier="elite" onclick="setTier('elite')">Elite</button>
-        <button class="mat-filter-btn" data-tier="leader" onclick="setTier('leader')">Leader</button>
-        <button class="mat-filter-btn" data-tier="growth" onclick="setTier('growth')">Growth</button>
+    <div class="maturity-filter-group">
+      <div class="maturity-filter-label">Region</div>
+      <div class="maturity-filters" id="region-filters">
+        <button class="cat-btn active" data-region="all">All Regions</button>
+        <button class="cat-btn" data-region="americas">Americas</button>
+        <button class="cat-btn" data-region="europe">Europe</button>
+        <button class="cat-btn" data-region="apac">Asia-Pacific</button>
       </div>
     </div>
-    <div style="display:flex; gap:8px; align-items:center;">
-      <span style="color:var(--muted); font-size:13px; white-space:nowrap;">Region:</span>
-      <select class="mat-sort-select" id="region-select" onchange="applyFilters()">
-        <option value="all">All Regions</option>
-        <option value="americas">Americas</option>
-        <option value="europe">Europe</option>
-        <option value="apac">Asia-Pacific</option>
-      </select>
-    </div>
-    <div style="display:flex; gap:8px; align-items:center;">
-      <span style="color:var(--muted); font-size:13px; white-space:nowrap;">Sort:</span>
-      <select class="mat-sort-select" id="sort-select" onchange="applyFilters()">
+    <div class="maturity-sort-wrap">
+      <span>Sort by</span>
+      <select class="maturity-sort-select" id="ft-sort">
         <option value="total">Overall Score</option>
         <option value="ai_innovation">AI Innovation</option>
         <option value="fi_client_depth">FI Client Depth</option>
@@ -180,262 +162,259 @@
     </div>
   </div>
 
-  <!-- Results count -->
-  <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
-    <span id="result-count" style="color:var(--muted); font-size:13px;"></span>
+  <!-- Cards -->
+  <div class="ft-grid" id="ft-grid">
+    <div class="loading-state" style="grid-column:1/-1">
+      <div class="spinner"></div>
+      <p>Loading FinTech data…</p>
+    </div>
   </div>
 
-  <!-- Cards grid -->
-  <div id="ft-grid" class="ft-grid"></div>
+</div>
 
-  <!-- Empty state -->
-  <div id="ft-empty" style="display:none; text-align:center; padding:60px 0; color:var(--muted);">
-    <div style="font-size:40px; margin-bottom:12px;">🔍</div>
-    <div style="font-size:16px; margin-bottom:6px;">No companies match these filters</div>
-    <div style="font-size:13px;">Try adjusting the category, tier, or region selection</div>
-  </div>
-
-</main>
-
-<footer style="background:var(--surface); border-top:1px solid var(--border); padding:28px 0; margin-top:40px;">
-  <div style="max-width:1280px; margin:0 auto; padding:0 24px; display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
-    <span style="color:var(--muted); font-size:13px;">AI Finance Monitor · AI FinTech Performance Index v1.0</span>
-    <span style="color:var(--muted); font-size:12px;">Scores reflect publicly available information. Updated quarterly.</span>
+<footer>
+  <div class="footer-inner">
+    <p>AI Finance Monitor — AI FinTech Performance Index v1.0</p>
+    <p class="footer-sources">Scores based on public disclosures, funding announcements, and AI capability assessments. Updated quarterly.</p>
+    <a href="https://github.com/aetherllama/ai-finance-monitor" target="_blank" class="gh-link">View on GitHub ↗</a>
   </div>
 </footer>
 
 <script>
 const DATA_URL = 'data/fintechs.json';
 
-const DIMENSION_LABELS = {
-  ai_innovation: 'AI Innovation',
-  fi_client_depth: 'FI Client Depth',
-  processing_scale: 'Processing Scale',
-  global_reach: 'Global Reach',
-  commercial_traction: 'Commercial Traction'
-};
-
-const TIER_COLORS = {
-  elite: '#f59e0b',
-  leader: '#3b82f6',
-  growth: '#10b981',
-  emerging: '#94a3b8'
-};
+const DIM_KEYS   = ['ai_innovation', 'fi_client_depth', 'processing_scale', 'global_reach', 'commercial_traction'];
+const DIM_LABELS = ['AI Innovation', 'FI Client Depth', 'Processing Scale', 'Global Reach', 'Commercial Traction'];
 
 const CATEGORY_COLORS = {
-  'Fraud & AML':       '#ef4444',
-  'Data & Analytics':  '#6366f1',
-  'Lending AI':        '#14b8a6',
-  'Identity & KYC':    '#8b5cf6',
-  'Compliance':        '#f97316',
-  'Insurance AI':      '#06b6d4',
-  'Customer & CX':     '#ec4899',
+  'Fraud & AML':         '#ef4444',
+  'Data & Analytics':    '#6366f1',
+  'Lending AI':          '#14b8a6',
+  'Identity & KYC':      '#8b5cf6',
+  'Compliance':          '#f97316',
+  'Insurance AI':        '#06b6d4',
+  'Customer & CX':       '#ec4899',
   'Wealth & Investment': '#d97706',
-  'Enterprise AI':     '#64748b'
+  'Enterprise AI':       '#64748b'
 };
 
 let allCompanies = [];
-let baseRanks = {};
-let activeCat = 'all';
-let activeTier = 'all';
+let baseRanks    = {};
+let activeCat    = 'all';
+let activeTier   = 'all';
+let activeRegion = 'all';
+let sortKey      = 'total';
 
-function toggleMethod() {
-  const body = document.getElementById('method-body');
-  const arrow = document.getElementById('method-arrow');
-  const open = body.style.display !== 'none';
-  body.style.display = open ? 'none' : 'block';
-  arrow.textContent = open ? '▾' : '▴';
+// ── Date formatting ────────────────────────────────────────────────────────────
+function fmtDate(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 }
 
-function setCat(cat) {
-  activeCat = cat;
-  document.querySelectorAll('[data-cat]').forEach(b => b.classList.toggle('active', b.dataset.cat === cat));
-  applyFilters();
+// ── Cadence bar ────────────────────────────────────────────────────────────────
+function updateCadenceBar(data) {
+  document.getElementById('cadence-last').textContent = 'Last reviewed ' + fmtDate(data.last_updated);
+  document.getElementById('cadence-next').textContent = 'Next review '   + fmtDate(data.next_review);
 }
 
-function setTier(tier) {
-  activeTier = tier;
-  document.querySelectorAll('[data-tier]').forEach(b => b.classList.toggle('active', b.dataset.tier === tier));
-  applyFilters();
+// ── KPIs ───────────────────────────────────────────────────────────────────────
+function updateKPIs(companies) {
+  const tiers = companies.reduce((acc, c) => { acc[c.tier] = (acc[c.tier] || 0) + 1; return acc; }, {});
+  document.getElementById('kpi-total').textContent      = companies.length;
+  document.getElementById('kpi-elite').textContent      = tiers['elite']   || 0;
+  document.getElementById('kpi-leader').textContent     = tiers['leader']  || 0;
+  document.getElementById('kpi-growth').textContent     = tiers['growth']  || 0;
+  document.getElementById('kpi-categories').textContent = new Set(companies.map(c => c.category)).size;
 }
 
-function applyFilters() {
-  const region = document.getElementById('region-select').value;
-  const sortKey = document.getElementById('sort-select').value;
-
-  let list = allCompanies.slice();
-
-  if (activeCat !== 'all') list = list.filter(c => c.category === activeCat);
-  if (activeTier !== 'all') list = list.filter(c => c.tier === activeTier);
-  if (region !== 'all') list = list.filter(c => c.region === region);
-
-  list.sort((a, b) => {
-    const va = sortKey === 'total' ? a.total : (a.scores[sortKey] || 0);
-    const vb = sortKey === 'total' ? b.total : (b.scores[sortKey] || 0);
-    return vb - va;
+// ── Category filters ────────────────────────────────────────────────────────────
+function buildCategoryFilters(companies) {
+  const cats = [...new Set(companies.map(c => c.category))].sort();
+  const row  = document.getElementById('cat-filters');
+  cats.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'cat-btn';
+    btn.dataset.cat = cat;
+    btn.textContent = cat;
+    row.appendChild(btn);
   });
-
-  renderCards(list);
 }
 
-function buildCard(company, displayRank) {
-  const rank = baseRanks[company.name] || displayRank;
-  const tierColor = TIER_COLORS[company.tier] || '#94a3b8';
+// ── Card builder ───────────────────────────────────────────────────────────────
+function buildCard(company) {
+  const rank    = baseRanks[company.name];
+  const rankCls = rank === 1 ? 'rank-1' : rank === 2 ? 'rank-2' : rank === 3 ? 'rank-3' : '';
   const catColor = CATEGORY_COLORS[company.category] || '#64748b';
 
-  const rankClass = rank === 1 ? 'ft-rank-1' : rank === 2 ? 'ft-rank-2' : rank === 3 ? 'ft-rank-3' : '';
-
-  const dimBars = Object.entries(DIMENSION_LABELS).map(([key, label]) => {
-    const score = company.scores[key] || 0;
-    const pct = (score / 20) * 100;
+  const dimsHTML = DIM_KEYS.map((key, i) => {
+    const val = company.scores[key] || 0;
     return `
-      <div class="ft-dim-row">
-        <span class="ft-dim-label">${label}</span>
-        <div class="ft-dim-track">
-          <div class="ft-dim-fill" style="width:${pct}%; background:${catColor}aa;"></div>
+      <div class="mat-dim">
+        <div class="mat-dim-name">${DIM_LABELS[i]}</div>
+        <div class="mat-dim-row">
+          <div class="mat-dim-track">
+            <div class="mat-dim-fill fill-d${i + 1}" style="width:${val / 20 * 100}%"></div>
+          </div>
+          <span class="mat-dim-val">${val}/20</span>
         </div>
-        <span class="ft-dim-score">${score}</span>
       </div>`;
   }).join('');
 
-  const clientChips = (company.notable_clients || []).slice(0, 3)
+  const clientsHTML = (company.notable_clients || []).slice(0, 3)
     .map(c => `<span class="ft-client-chip">${c}</span>`).join('');
 
-  const useCaseTags = (company.use_cases || []).slice(0, 4).join(' · ');
-
-  const parentStr = company.parent
-    ? `<span class="ft-parent"> / ${company.parent}</span>` : '';
+  const parentStr  = company.parent  ? ` · ${company.parent}`  : '';
   const foundedStr = company.founded ? ` · Est. ${company.founded}` : '';
-  const totalPct = company.total;
+  const useCases   = (company.use_cases || []).slice(0, 3).join(' · ');
 
   return `
-    <div class="ft-card" data-tier="${company.tier}" data-category="${company.category}">
-      <div class="ft-card-header">
-        <div class="ft-rank-wrap">
-          <div class="ft-rank ${rankClass}">#${rank}</div>
+    <div class="mat-card" data-tier="${company.tier}">
+      <div class="mat-header">
+        <div class="mat-rank ${rankCls}">${rank}</div>
+        <div class="mat-name-wrap">
+          <span class="mat-name">${company.name}</span>
+          <span class="mat-sub">${company.hq}${parentStr}${foundedStr}</span>
         </div>
-        <div class="ft-card-title">
-          <div class="ft-name-row">
-            <span class="ft-name">${company.name}</span>${parentStr}
-          </div>
-          <div class="ft-meta">${company.hq}${foundedStr}</div>
-        </div>
-        <div class="ft-badges">
-          <span class="ft-cat-badge" style="background:${catColor}20; color:${catColor}; border-color:${catColor}44;">${company.category}</span>
-          <span class="ft-tier-badge ft-tier-${company.tier}">${company.tier.charAt(0).toUpperCase() + company.tier.slice(1)}</span>
-        </div>
-        <div class="ft-score-block">
-          <div class="ft-score-num" style="color:${tierColor};">${company.total}</div>
-          <div class="ft-score-label">/100</div>
+        <div class="mat-header-right">
+          <span class="ft-cat-badge" style="background:${catColor}18; color:${catColor}; border:1px solid ${catColor}35;">${company.category}</span>
+          <span class="mat-tier tier-${company.tier}">${company.tier.charAt(0).toUpperCase() + company.tier.slice(1)}</span>
         </div>
       </div>
 
-      <div class="ft-score-bar-wrap">
-        <div class="ft-score-bar">
-          <div class="ft-score-fill" style="width:${totalPct}%; background:linear-gradient(90deg, ${tierColor}66, ${tierColor});"></div>
+      <div class="mat-score-wrap">
+        <div class="mat-score-top">
+          <span class="mat-score-lbl">AFPI Score</span>
+          <span class="mat-score-num">${company.total}<span class="mat-score-denom">/100</span></span>
+        </div>
+        <div class="mat-bar">
+          <div class="mat-bar-fill fill-${company.tier}" style="width:${company.total}%"></div>
         </div>
       </div>
 
-      <div class="ft-dims">${dimBars}</div>
+      <div class="mat-dims">${dimsHTML}</div>
 
-      <div class="ft-card-footer">
-        ${clientChips ? `<div class="ft-clients"><span class="ft-section-label">Notable Clients</span><div class="ft-client-chips">${clientChips}</div></div>` : ''}
-        <div class="ft-highlight">${company.highlight}</div>
-        <div class="ft-bottom-row">
-          <div class="ft-usecases">${useCaseTags}</div>
-          ${company.funding ? `<span class="ft-funding-badge">${company.funding}</span>` : ''}
-        </div>
+      ${clientsHTML ? `
+      <div class="ft-clients-row">
+        <span class="ft-section-label">Clients</span>
+        <div class="ft-client-chips">${clientsHTML}</div>
+      </div>` : ''}
+
+      <p class="mat-highlight">${company.highlight}</p>
+
+      <div class="ft-footer-row">
+        <span class="ft-use-cases">${useCases}</span>
+        ${company.funding ? `<span class="ft-funding-badge">${company.funding}</span>` : ''}
       </div>
     </div>`;
 }
 
-function renderCards(list) {
+// ── Render ─────────────────────────────────────────────────────────────────────
+function render() {
+  let list = allCompanies.filter(c =>
+    (activeCat    === 'all' || c.category === activeCat) &&
+    (activeTier   === 'all' || c.tier     === activeTier) &&
+    (activeRegion === 'all' || c.region   === activeRegion)
+  );
+
+  list.sort((a, b) =>
+    sortKey === 'total'
+      ? b.total - a.total
+      : (b.scores[sortKey] || 0) - (a.scores[sortKey] || 0)
+  );
+
   const grid = document.getElementById('ft-grid');
-  const empty = document.getElementById('ft-empty');
-  const count = document.getElementById('result-count');
-
-  if (!list.length) {
-    grid.innerHTML = '';
-    empty.style.display = 'block';
-    count.textContent = '';
-    return;
-  }
-
-  empty.style.display = 'none';
-  count.textContent = `Showing ${list.length} of ${allCompanies.length} companies`;
-  grid.innerHTML = list.map((c, i) => buildCard(c, i + 1)).join('');
+  grid.innerHTML = list.length
+    ? list.map(buildCard).join('')
+    : '<div class="empty-state" style="grid-column:1/-1"><p>No companies match this filter.</p></div>';
 }
 
-function buildCategoryFilters(companies) {
-  const cats = [...new Set(companies.map(c => c.category))].sort();
-  const row = document.getElementById('cat-filters');
-  cats.forEach(cat => {
-    const btn = document.createElement('button');
-    btn.className = 'mat-filter-btn';
-    btn.dataset.cat = cat;
-    btn.textContent = cat;
-    btn.onclick = () => setCat(cat);
-    row.appendChild(btn);
-  });
-  document.querySelector('[data-cat="all"]').onclick = () => setCat('all');
-}
+// ── Event listeners ────────────────────────────────────────────────────────────
+document.getElementById('cat-filters').addEventListener('click', e => {
+  const btn = e.target.closest('[data-cat]');
+  if (!btn) return;
+  document.querySelectorAll('#cat-filters [data-cat]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeCat = btn.dataset.cat;
+  render();
+});
 
-function updateStats(companies) {
-  document.getElementById('stat-total').textContent = companies.length;
-  document.getElementById('stat-elite').textContent = companies.filter(c => c.tier === 'elite').length;
-  document.getElementById('stat-leader').textContent = companies.filter(c => c.tier === 'leader').length;
-  document.getElementById('stat-growth').textContent = companies.filter(c => c.tier === 'growth').length;
-  const cats = new Set(companies.map(c => c.category));
-  document.getElementById('stat-cats').textContent = cats.size;
-}
+document.getElementById('tier-filters').addEventListener('click', e => {
+  const btn = e.target.closest('[data-tier]');
+  if (!btn) return;
+  document.querySelectorAll('#tier-filters [data-tier]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeTier = btn.dataset.tier;
+  render();
+});
 
-function updateCadenceBar(data) {
-  const bar = document.getElementById('cadence-bar');
-  const last = data.last_updated || '—';
-  const next = data.next_review || '—';
-  bar.innerHTML = `
-    <span style="color:var(--muted); font-size:12px;">Last reviewed <strong style="color:var(--muted2);">${last}</strong></span>
-    <span style="color:var(--border); margin:0 8px;">|</span>
-    <span style="color:var(--muted); font-size:12px;">Next update <strong style="color:var(--muted2);">${next}</strong></span>
-    <span style="color:var(--border); margin:0 8px;">|</span>
-    <span style="color:var(--muted); font-size:12px;">Quarterly cadence</span>`;
-}
+document.getElementById('region-filters').addEventListener('click', e => {
+  const btn = e.target.closest('[data-region]');
+  if (!btn) return;
+  document.querySelectorAll('#region-filters [data-region]').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeRegion = btn.dataset.region;
+  render();
+});
 
+document.getElementById('ft-sort').addEventListener('change', e => {
+  sortKey = e.target.value;
+  render();
+});
+
+document.getElementById('methodology-toggle').addEventListener('click', () => {
+  document.getElementById('methodology-panel').classList.toggle('open');
+});
+
+// ── Data loading ───────────────────────────────────────────────────────────────
 async function fetchData() {
   try {
-    const res = await fetch(DATA_URL + '?t=' + Date.now());
+    const res  = await fetch(DATA_URL + '?t=' + Date.now());
     const data = await res.json();
     allCompanies = data.companies || [];
 
-    allCompanies.sort((a, b) => b.total - a.total);
-    allCompanies.forEach((c, i) => { baseRanks[c.name] = i + 1; });
+    allCompanies
+      .slice()
+      .sort((a, b) => b.total - a.total)
+      .forEach((c, i) => { baseRanks[c.name] = i + 1; });
 
-    updateStats(allCompanies);
+    updateKPIs(allCompanies);
     updateCadenceBar(data);
     buildCategoryFilters(allCompanies);
-    applyFilters();
-  } catch (e) {
+    render();
+  } catch (err) {
     document.getElementById('ft-grid').innerHTML =
-      '<div style="padding:40px; text-align:center; color:var(--muted);">Failed to load data. Check console for details.</div>';
-    console.error('FinTech data load error:', e);
+      '<div class="empty-state" style="grid-column:1/-1"><p>Could not load FinTech data. Please refresh.</p></div>';
+    console.error(err);
   }
 }
 
-fetchData();
-
-// Hamburger
-const btn = document.getElementById('hamburger-btn');
-const hdr = document.querySelector('header');
-btn.addEventListener('click', function() {
-  hdr.classList.toggle('nav-open');
-  btn.innerHTML = hdr.classList.contains('nav-open') ? '&#10005;' : '&#9776;';
-});
-document.querySelectorAll('.nav-link').forEach(function(l) {
-  l.addEventListener('click', function() {
-    hdr.classList.remove('nav-open');
-    btn.innerHTML = '&#9776;';
+// ── Hamburger ──────────────────────────────────────────────────────────────────
+(function() {
+  const btn = document.getElementById('hamburger-btn');
+  const hdr = document.querySelector('header');
+  btn.addEventListener('click', function() {
+    hdr.classList.toggle('nav-open');
+    btn.innerHTML = hdr.classList.contains('nav-open') ? '&#10005;' : '&#9776;';
   });
-});
+  document.querySelectorAll('.nav-link').forEach(function(l) {
+    l.addEventListener('click', function() {
+      hdr.classList.remove('nav-open');
+      btn.innerHTML = '&#9776;';
+    });
+  });
+})();
+
+// ── Header height ──────────────────────────────────────────────────────────────
+function syncHeaderHeight() {
+  document.documentElement.style.setProperty(
+    '--header-h', document.querySelector('header').offsetHeight + 'px'
+  );
+}
+syncHeaderHeight();
+window.addEventListener('resize', syncHeaderHeight);
+
+fetchData();
 </script>
 </body>
 </html>
