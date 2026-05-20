@@ -27,6 +27,14 @@ RSS_FEEDS = [
     ("The Fintech Times", "https://thefintechtimes.com/feed/"),
     ("Coindesk", "https://www.coindesk.com/arc/outboundfeeds/rss/"),
     ("Pymnts", "https://www.pymnts.com/feed/"),
+    # Singapore / Asia-Pacific sources
+    ("The Business Times", "https://www.businesstimes.com.sg/rss/all"),
+    ("Channel NewsAsia Business", "https://www.channelnewsasia.com/rss/business"),
+    ("Tech in Asia", "https://www.techinasia.com/feed"),
+    ("e27", "https://e27.co/feed/"),
+    ("MAS", "https://www.mas.gov.sg/rss/news"),
+    ("Asian Banking & Finance", "https://asianbankingandfinance.net/rss.xml"),
+    ("Nikkei Asia Business", "https://asia.nikkei.com/rss/feed/section/Business"),
 ]
 
 AI_KEYWORDS = [
@@ -47,6 +55,10 @@ FINANCE_KEYWORDS = [
     r"\bmortgage\b", r"\bloan\b", r"\bcompliance\b", r"\blender\b",
     r"\bwealth\b", r"\basset manag\b", r"\bcapital market\b",
     r"\bunderwriting\b", r"\bclaim\b", r"\bportfolio\b",
+    # Singapore / Asia-Pacific regulators and institutions
+    r"\bmas\b", r"\bmonetary authority\b", r"\bdbs\b", r"\bocbc\b", r"\buob\b",
+    r"\bsingapore\b", r"\bfintech festival\b", r"\bproject guardian\b",
+    r"\bpayment services act\b", r"\bmas fintech\b",
 ]
 
 # Titles containing any of these (and nothing redemptive) are discarded
@@ -59,7 +71,7 @@ EXCLUSION_PATTERNS = [
 CATEGORY_MAP = {
     "Banking": [r"\bbank\b", r"\bkyc\b", r"\baml\b", r"\bonboard\b", r"\bcustomer service\b"],
     "Trading": [r"\btrading\b", r"\bhedge fund\b", r"\bquant\b", r"\bequit\b", r"\bportfolio\b", r"\bstock\b"],
-    "RegTech": [r"\bregulat\b", r"\bcompliance\b", r"\bsec\b", r"\bcfpb\b", r"\becb\b", r"\bfsb\b", r"\bgdpr\b"],
+    "RegTech": [r"\bregulat\b", r"\bcompliance\b", r"\bsec\b", r"\bcfpb\b", r"\becb\b", r"\bfsb\b", r"\bgdpr\b", r"\bmas\b", r"\bmonetary authority\b", r"\bpayment services act\b"],
     "InsurTech": [r"\binsur\b", r"\bclaim\b", r"\bunderwriting\b", r"\bactuar\b"],
     "Payments": [r"\bpayment\b", r"\bfintech\b", r"\bbnpl\b", r"\bwallet\b", r"\bstablecoin\b", r"\bcbdc\b"],
 }
