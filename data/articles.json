@@ -1,27 +1,32 @@
 {
-  "last_updated": "2026-05-19T20:47:14Z",
+  "last_updated": "2026-05-20T10:26:37Z",
   "insights": {
     "risks": [
       "Regulatory: Compliance firm Eisen secures $18.5 million in funding — review compliance obligations.",
-      "Operational: Google DeepMind founder’s investment in AI arch-rival Anthropic revealed — evaluate model governance gaps."
+      "Operational: Deutsche Bank applies AI to third party vendor risks — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Google DeepMind founder’s investment in AI arch-rival Anthropic revealed — cost reduction opportunity.",
+      "Payments: Primer raises $100 million to bring AI to every payment — potential infrastructure advantage.",
+      "Banking efficiency: Deutsche Bank applies AI to third party vendor risks — cost reduction opportunity.",
       "InsurTech: Why AI‑Driven Fintech Innovation Still Lags on Trust and How to Fix It? — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Fraud Detection",
       "count": 3
+    },
+    {
+      "topic": "Payments AI",
+      "count": 2
     },
     {
       "topic": "Regulatory AI",
@@ -44,15 +49,52 @@
       "count": 1
     },
     {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
       "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "605678393",
+      "title": "Primer raises $100 million to bring AI to every payment",
+      "summary": "Founded by former leaders at Braintree and PayPal, London-based fintech Primer has closed on a $100 million Series C funding round, with the aim of applying AI to every payment processed by a merchant.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47783/primer-raises-100-million-to-bring-ai-to-every-payment?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-20",
+      "category": "Payments",
+      "tags": [
+        "primer",
+        "ai",
+        "founded"
+      ]
+    },
+    {
+      "id": "858029178",
+      "title": "Deutsche Bank applies AI to third party vendor risks",
+      "summary": "Deutsche Bank is using artifical intelligence to speed up the tedious, time-consuming, process of reviewing third party vendor risks.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47778/deutsche-bank-applies-ai-to-third-party-vendor-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "ai"
+      ]
+    },
+    {
+      "id": "282124552",
+      "title": "Ripjar reports 40% ARR growth and secures additional investment",
+      "summary": "Ripjar, the AI-native provider of smarter screening solutions, has announced a 40% increase in annual recurring revenues over the last 12 months.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109892/ripjar-reports-40-arr-growth-and-secures-additional-investment?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "ripjar",
+        "arr",
+        "ai"
+      ]
+    },
     {
       "id": "632244717",
       "title": "Google DeepMind founder’s investment in AI arch-rival Anthropic revealed",
@@ -847,48 +889,6 @@
         "gitex ai",
         "kazakhstan",
         "almaty gitex"
-      ]
-    },
-    {
-      "id": "547944974",
-      "title": "Block Rallies as AI Push Turns Cash App Into a Lending Hub",
-      "summary": "Block’s first-quarter earnings report was the company’s first since its sweeping organizational restructuring and staff reductions earlier this year, and management used the call to highlight accelerating toward artificial intelligence-driven automation, embedded financial servic…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/block-rallies-as-ai-push-turns-cash-app-into-a-lending-hub/",
-      "date": "2026-05-08",
-      "category": "Banking",
-      "tags": [
-        "block rallies",
-        "ai push",
-        "turns cash"
-      ]
-    },
-    {
-      "id": "745215615",
-      "title": "Lloyds Banking Group Unveils ‘Envoy’ Platform to Scale AI Agents Safely",
-      "summary": "Lloyds Banking Group has officially launched \"Envoy,\" a new internal platform built with Google Cloud. The platform provides a secure, governed environment for teams across the organisation to build, deploy, and share AI agents safely at scale. The post Lloyds Banking Group Unvei…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/lloyds-banking-group-unveils-envoy-platform-to-scale-ai-agents-safely/",
-      "date": "2026-05-07",
-      "category": "Payments",
-      "tags": [
-        "lloyds banking",
-        "group unveils",
-        "envoy"
-      ]
-    },
-    {
-      "id": "14740942",
-      "title": "Amazon’s new AI wallet: AWS, Coinbase, and Stripe build payment rails for bots",
-      "summary": "Amazon said AI agents for now will be allowed to buy APIs, web content and other online services, but that future versions would enable hotel bookings, travel reservations and payments to merchants.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/05/07/amazon-rolls-out-ai-agent-stablecoin-payments-platform-with-coinbase-and-stripe",
-      "date": "2026-05-07",
-      "category": "Payments",
-      "tags": [
-        "amazon",
-        "ai",
-        "aws"
       ]
     }
   ]
