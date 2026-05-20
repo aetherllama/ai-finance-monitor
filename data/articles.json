@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-20T10:26:37Z",
+  "last_updated": "2026-05-20T21:01:21Z",
   "insights": {
     "risks": [
       "Regulatory: Compliance firm Eisen secures $18.5 million in funding — review compliance obligations.",
-      "Operational: Deutsche Bank applies AI to third party vendor risks — evaluate model governance gaps."
+      "Operational: Intuit to Cut 17% of Workforce in Shift Toward AI — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Primer raises $100 million to bring AI to every payment — potential infrastructure advantage.",
-      "Banking efficiency: Deutsche Bank applies AI to third party vendor risks — cost reduction opportunity.",
-      "InsurTech: Why AI‑Driven Fintech Innovation Still Lags on Trust and How to Fix It? — underwriting modernisation potential."
+      "Payments: Zopa and ClearScore Lead Coalition to Upskill 100,000 UK Fintech Workers in AI by 2030 — potential infrastructure advantage.",
+      "Banking efficiency: Intuit to Cut 17% of Workforce in Shift Toward AI — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -25,14 +24,6 @@
       "count": 3
     },
     {
-      "topic": "Payments AI",
-      "count": 2
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 2
-    },
-    {
       "topic": "Risk Management",
       "count": 2
     },
@@ -41,19 +32,139 @@
       "count": 2
     },
     {
+      "topic": "Payments AI",
+      "count": 1
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
       "topic": "Machine Learning",
       "count": 1
     },
     {
-      "topic": "Robo-Advisory",
+      "topic": "Generative AI",
       "count": 1
     },
     {
-      "topic": "Stablecoin AI",
+      "topic": "Customer Service AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "584278142",
+      "title": "Zopa and ClearScore Lead Coalition to Upskill 100,000 UK Fintech Workers in AI by 2030",
+      "summary": "Zopa and ClearScore launch the Jobs2030 coalition to upskill 100,000 UK fintech professionals in GenAI amid rising automation. The post Zopa and ClearScore Lead Coalition to Upskill 100,000 UK Fintech Workers in AI by 2030 appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/zopa-and-clearscore-lead-coalition-to-upskill-100000-uk-fintech-workers-in-ai-by-2030/",
+      "date": "2026-05-20",
+      "category": "Payments",
+      "tags": [
+        "zopa",
+        "clearscore lead",
+        "coalition"
+      ]
+    },
+    {
+      "id": "270584431",
+      "title": "Intuit to Cut 17% of Workforce in Shift Toward AI",
+      "summary": "Intuit Inc. is reducing its global headcount by approximately 17% as it moves to streamline operations and accelerate its investment in artificial intelligence, according to an internal memo reviewed by Reuters on Wednesday (May 20). The restructuring will result in the eliminati…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/business/2026/intuit-to-cut-17percent-of-workforce-in-shift-toward-ai/",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "intuit",
+        "cut",
+        "workforce"
+      ]
+    },
+    {
+      "id": "392593254",
+      "title": "Google Expands AI-Generated Advertising in Search Results",
+      "summary": "Google is testing several new advertising formats within its standard search results and AI Mode, marking an aggressive push to monetize its generative artificial intelligence capabilities. The initiative comes as the tech giant seeks to maintain its dominance in digital advertis…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/google/2026/google-expands-ai-generated-advertising-search-results/",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "google expands",
+        "ai",
+        "generated advertising"
+      ]
+    },
+    {
+      "id": "449392395",
+      "title": "Mercury Valued at $5.2 Billion as It Pushes Deeper Into Banking",
+      "summary": "Banking FinTech Mercury announced it raised $200 million in a funding round that valued the company at $5.2 billion. The company’s Series D round comes as Mercury is making a push into the traditional banking sector, while also preparing a product that lets users complete financi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/mercury-valued-at-5-2-billion-as-it-pushes-deeper-into-banking/",
+      "date": "2026-05-20",
+      "category": "Payments",
+      "tags": [
+        "mercury valued",
+        "billion",
+        "it pushes"
+      ]
+    },
+    {
+      "id": "797710468",
+      "title": "Singapore’s AI National Strategy gets a sharp refresh with business ambitions front and centre",
+      "summary": "Singapore s AI national strategy has received its most significant tune-up since the launch of NAIS 2.0 in December 2023. Describing the update as a double-click rather than a system reboot, Minister for Digital Development and Information Josephine Teo announced 10 refreshed pri…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-ai-national-strategy-gets-a-sharp-refresh-with-business-ambitions-front-and-centre-20260520/",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai national",
+        "strategy"
+      ]
+    },
+    {
+      "id": "634667827",
+      "title": "Singapore lands OpenAI’s first lab outside the US with US$225M commitment",
+      "summary": "Singapore has secured OpenAI s first Applied AI Lab outside the United States, marking a significant milestone in the city-state s strategy to position itself as a regional artificial intelligence (AI) hub. The partnership, announced through a Memorandum of Understanding between …",
+      "source": "e27",
+      "url": "https://e27.co/singapore-lands-openais-first-lab-outside-the-us-with-us225m-commitment-20260519/",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "openai",
+        "us"
+      ]
+    },
+    {
+      "id": "776708171",
+      "title": "Why you should be hiring humans when others are hiring AI agents",
+      "summary": "The rise of AI agents is no longer theoretical. It is operational. Across industries, businesses are deploying AI systems to handle customer service, automate workflows, generate analytics, write code, and even make preliminary decisions. From fintech to logistics to enterprise S…",
+      "source": "e27",
+      "url": "https://e27.co/why-you-should-be-hiring-humans-when-others-are-hiring-ai-agents-20260512/",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "why",
+        "ai",
+        "it"
+      ]
+    },
+    {
+      "id": "245427994",
+      "title": "The gold rush nobody is talking about: AI agents and the workers our economy left behind",
+      "summary": "Singapore has tens of thousands of people who want to work, are capable of working, and are quietly pushed aside before they even get started. Single parents who cannot take a job that does not bend around school hours. Adult children caring for ageing parents, sandwiched between…",
+      "source": "e27",
+      "url": "https://e27.co/the-gold-rush-nobody-is-talking-about-ai-agents-and-the-workers-our-economy-left-behind-20260512/",
+      "date": "2026-05-20",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "singapore",
+        "single"
+      ]
+    },
     {
       "id": "605678393",
       "title": "Primer raises $100 million to bring AI to every payment",
@@ -303,6 +414,34 @@
         "ai fraud",
         "turns big",
         "companies into"
+      ]
+    },
+    {
+      "id": "169818977",
+      "title": "The agentic shift: Why AI agents are rewriting the rules of ERP software in Singapore and Malaysia",
+      "summary": "The velocity of enterprise technology adoption across Southeast Asia has completely outpaced most businesses’ wildest expectations. Reflecting on the landscape just a few short years ago, the market was gripped by the initial heat of generative AI and basic conversational chatbot…",
+      "source": "e27",
+      "url": "https://e27.co/erp-software-ai-agents-singapore-malaysia-future-20260518/",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "why ai",
+        "erp",
+        "singapore"
+      ]
+    },
+    {
+      "id": "798360687",
+      "title": "How earned media drives AI search visibility in ASEAN",
+      "summary": "It s OK to talk about your strengths, but it s so much better when others do the talking for you. Earned media (unpaid publicity gained organically through third-party endorsement) has become one of the factors most strongly linked to AI search visibility. And in B2B companies in…",
+      "source": "e27",
+      "url": "https://e27.co/how-earned-media-drives-ai-search-visibility-in-asean-20260512/",
+      "date": "2026-05-18",
+      "category": "Banking",
+      "tags": [
+        "how",
+        "ai",
+        "asean it"
       ]
     },
     {
@@ -750,145 +889,6 @@
         "blueprint",
         "european digital",
         "sovereignty revealed"
-      ]
-    },
-    {
-      "id": "268578953",
-      "title": "Zenskar Raises $15 Million to Fix the Billing Problems Every CFO Hates With AI",
-      "summary": "Watch more: Monday Conversation With Zenskar’s Apurv Bansal Here’s something most people in finance don’t talk about. The billing systems that run the back office were built for a world that doesn’t really exist anymore. These typical toolkits, the ERPs, revenue recognition platf…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/zenskar-raises-15-million-to-fix-the-billing-problems-every-cfo-hates-with-ai/",
-      "date": "2026-05-11",
-      "category": "Banking",
-      "tags": [
-        "zenskar raises",
-        "million",
-        "fix"
-      ]
-    },
-    {
-      "id": "552036287",
-      "title": "ECB Governor Sounds Warnings on AI and Stablecoins",
-      "summary": "A European Central Bank official wants bankers to test their infrastructure for artificial intelligence-related threats. That warning came from European Central Bank Governing Council member José Luis Escrivá, who spoke at an event in the Spanish city of Tarragona on Saturday (Ma…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/2026/ecb-governor-sounds-warnings-on-ai-and-stablecoins/",
-      "date": "2026-05-11",
-      "category": "Banking",
-      "tags": [
-        "ecb governor",
-        "sounds warnings",
-        "ai"
-      ]
-    },
-    {
-      "id": "257324241",
-      "title": "Tech Giants’ Cash Reserve Shrinks Amid $725 Billion AI Investment",
-      "summary": "Record spending on artificial intelligence by America’s tech giants has reportedly eaten into their cash flow. Big Tech is investing a record $725 billion in AI projects, leaving the combined free cash flow of Amazon, Google, Microsoft and Meta to fall a projected $4 billion duri…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/tech-giants-cash-reserve-shrinks-amid-725-billion-ai-investment/",
-      "date": "2026-05-10",
-      "category": "Banking",
-      "tags": [
-        "tech giants",
-        "cash reserve",
-        "shrinks amid"
-      ]
-    },
-    {
-      "id": "929345114",
-      "title": "Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers",
-      "summary": "Ncontracts launches ‘Nquiry Ntelligence’, an AI compliance tool delivering fast, fully cited and auditable answers to regulatory queries. The post Ncontracts Launches AI Platform to Deliver Rapid, Auditable Compliance Answers appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ncontracts-launches-ai-platform-to-deliver-rapid-auditable-compliance-answers/",
-      "date": "2026-05-10",
-      "category": "RegTech",
-      "tags": [
-        "ncontracts launches",
-        "ai platform",
-        "deliver rapid"
-      ]
-    },
-    {
-      "id": "497676081",
-      "title": "SEC Chairman Urges Clear Rules for On-Chain Trading",
-      "summary": "Securities and Exchange Commission (SEC) Chairman Paul S. Atkins said Friday (May 8) that he believes the SEC must provide greater clarity around on-chain financial markets and that he continues to encourage Congress to pass the CLARITY Act to future-proof these efforts. In a spe…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/regulation/2026/sec-chairman-urges-clear-rules-for-on-chain-trading/",
-      "date": "2026-05-09",
-      "category": "Trading",
-      "tags": [
-        "sec chairman",
-        "urges clear",
-        "rules"
-      ]
-    },
-    {
-      "id": "113721650",
-      "title": "OwlTing Launches Self-Custody Wallet to Bring Regulated Stablecoin Payments to AI Agents",
-      "summary": "OwlTing Group launches OwlPay Agent Wallet, enabling AI agents to autonomously manage and transfer stablecoins via regulated payment rails. The post OwlTing Launches Self-Custody Wallet to Bring Regulated Stablecoin Payments to AI Agents appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/owlting-launches-self-custody-wallet-to-bring-regulated-stablecoin-payments-to-ai-agents/",
-      "date": "2026-05-08",
-      "category": "Payments",
-      "tags": [
-        "owlting launches",
-        "self",
-        "custody wallet"
-      ]
-    },
-    {
-      "id": "338729169",
-      "title": "SEC chair Atkins signals new rules for onchain markets, AI-driven finance",
-      "summary": "The SEC chair linked the rise of AI-powered financial systems with growing demand for blockchain-based market infrastructure and automated settlement.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/policy/2026/05/08/sec-chair-atkins-signals-new-rules-for-onchain-markets-ai-driven-finance",
-      "date": "2026-05-08",
-      "category": "RegTech",
-      "tags": [
-        "sec",
-        "atkins",
-        "ai"
-      ]
-    },
-    {
-      "id": "632185045",
-      "title": "OCC Recommends Banks Sharpen AI Defense Tactics",
-      "summary": "The Office of the Comptroller of the Currency highlighted artificial intelligence as both a risk and an opportunity for innovation in its spring 2026 Semiannual Risk Perspective. AI is one of several key issues facing banks surveyed in the report released Thursday (May 7). “Artif…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/2026/occ-recommends-banks-sharpen-ai-defense-tactics/",
-      "date": "2026-05-08",
-      "category": "Banking",
-      "tags": [
-        "occ recommends",
-        "banks sharpen",
-        "ai defense"
-      ]
-    },
-    {
-      "id": "789499397",
-      "title": "The jury is still out on AI in finance",
-      "summary": "Recruiting digital natives with critical thinking skills is going to be crucial",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c0aec3de-b553-4089-b5d3-074c5b83be57",
-      "date": "2026-05-08",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "recruiting"
-      ]
-    },
-    {
-      "id": "715241376",
-      "title": "GITEX AI Kazakhstan opens doors to global tech leaders in Almaty",
-      "summary": "GITEX AI Kazakhstan launches in Almaty, bringing startups, investors and leaders together to advance AI and digital growth in Central Asia. The post GITEX AI Kazakhstan opens doors to global tech leaders in Almaty appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/gitex-ai-kazakhstan-opens-doors-to-global-tech-leaders-in-almaty/",
-      "date": "2026-05-08",
-      "category": "Payments",
-      "tags": [
-        "gitex ai",
-        "kazakhstan",
-        "almaty gitex"
       ]
     }
   ]
