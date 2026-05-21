@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-05-20T21:01:21Z",
+  "last_updated": "2026-05-21T10:42:11Z",
   "insights": {
     "risks": [
-      "Regulatory: Compliance firm Eisen secures $18.5 million in funding — review compliance obligations.",
-      "Operational: Intuit to Cut 17% of Workforce in Shift Toward AI — evaluate model governance gaps."
+      "Regulatory: Don't call us just a WLFI treasury company, says AI Financial — review compliance obligations.",
+      "Operational: AI set to automate up to 50% of tasks in most financial services roles — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Zopa and ClearScore Lead Coalition to Upskill 100,000 UK Fintech Workers in AI by 2030 — potential infrastructure advantage.",
-      "Banking efficiency: Intuit to Cut 17% of Workforce in Shift Toward AI — cost reduction opportunity."
+      "Payments: FedEx Highlights AI and Data as Pillars for Saudi Supply Chain Resilience — potential infrastructure advantage.",
+      "Banking efficiency: AI set to automate up to 50% of tasks in most financial services roles — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
+    },
+    {
+      "topic": "Risk Management",
+      "count": 3
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Fraud Detection",
       "count": 3
-    },
-    {
-      "topic": "Risk Management",
-      "count": 2
     },
     {
       "topic": "Credit & Underwriting",
@@ -53,6 +53,131 @@
     }
   ],
   "articles": [
+    {
+      "id": "171737109",
+      "title": "AI set to automate up to 50% of tasks in most financial services roles",
+      "summary": "AI could automate up to half of tasks in most financial services roles, leading to potential major employment consequences unless the technology is used to drive not just efficiency but growth, according to a UK government-commissioned report.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47792/ai-set-to-automate-up-to-50-of-tasks-in-most-financial-services-roles?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "uk"
+      ]
+    },
+    {
+      "id": "4381894",
+      "title": "National Bank of Canada leads $25 million Series C extension in Sardine",
+      "summary": "National Bank of Canada is leading a $25 million Series C extension in Sardine, provider of an AI risk platform for fraud, compliance and credit underwriting.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47788/national-bank-of-canada-leads-25-million-series-c-extension-in-sardine?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "national bank",
+        "canada",
+        "series"
+      ]
+    },
+    {
+      "id": "826906567",
+      "title": "Reflections from the City Week event: The Move to Agentic AI in Financial Services",
+      "summary": "At City Week’s AI in Financial Services Summit this week, the panel on “From GenAI to Agentic AI and...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31784/reflections-from-the-city-week-event-the-move-to-agentic-ai-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "reflections",
+        "city week",
+        "the move"
+      ]
+    },
+    {
+      "id": "674431495",
+      "title": "FedEx Highlights AI and Data as Pillars for Saudi Supply Chain Resilience",
+      "summary": "Federal Express Corporation joins an American Chamber of Commerce Saudi Arabia webinar, highlighting AI, tech and strategy in strengthening resilient supply chains in the Kingdom. The post FedEx Highlights AI and Data as Pillars for Saudi Supply Chain Resilience appeared first on…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fedex-highlights-ai-and-data-as-pillars-for-saudi-supply-chain-resilience/",
+      "date": "2026-05-21",
+      "category": "Payments",
+      "tags": [
+        "fedex highlights",
+        "ai",
+        "data"
+      ]
+    },
+    {
+      "id": "615918984",
+      "title": "Don't call us just a WLFI treasury company, says AI Financial",
+      "summary": "The company says it is building a broader fintech, tokenization and digital infrastructure business, but its latest SEC filing shows WLFI still dominates the balance sheet.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/05/21/don-t-call-us-just-a-wlfi-treasury-company-says-ai-financial",
+      "date": "2026-05-21",
+      "category": "RegTech",
+      "tags": [
+        "don",
+        "wlfi",
+        "ai financial"
+      ]
+    },
+    {
+      "id": "658496109",
+      "title": "JPMorgan Prioritizing AI Hires Over Bankers",
+      "summary": "J.P. Morgan Chase s CEO envisions a day where the bank hires more AI experts than bankers. I think it will reduce our jobs down the road, Jamie Dimon said in an interview with Bloomberg Television Thursday (May 21) at the bank’s China Summit in Shanghai. There will be all differe…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/jpmorgan-prioritizing-ai-hires-over-bankers/",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "jpmorgan prioritizing",
+        "ai hires",
+        "over bankers"
+      ]
+    },
+    {
+      "id": "979492949",
+      "title": "Nvidia Posts Record $82B Quarter as Agentic AI Arrives",
+      "summary": "For years, artificial intelligence in business meant a feature. A smarter search bar. A fraud score. A recommendation engine tucked inside a larger product. What’s arriving now is different. AI agents take instructions, break them into steps and finish the job. A finance team’s A…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/nvidia-posts-record-82b-quarter-as-agentic-ai-arrives/",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "nvidia posts",
+        "record",
+        "quarter"
+      ]
+    },
+    {
+      "id": "762785249",
+      "title": "House Hearing Puts Bank-FinTech Oversight in the Spotlight",
+      "summary": "Financial infrastructure rarely becomes visible until it breaks. At Wednesday’s (May 20) House Financial Services Committee hearing on bank-FinTech partnerships, lawmakers, banking and FinTech executives explored a question that has become increasingly urgent as financial service…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/bank-regulation/2026/house-hearing-puts-bank-fintech-oversight-in-the-spotlight/",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "house hearing",
+        "puts bank",
+        "fintech oversight"
+      ]
+    },
+    {
+      "id": "805886633",
+      "title": "Commonwealth Bank of Australia (CommBank) has appointed Professor Mary-Anne Williams as its first chief AI strategist.",
+      "summary": "Commonwealth Bank of Australia (CommBank) has appointed Professor Mary-Anne Williams as its first chief AI strategist.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/news/commbank-names-unsws-mary-anne-williams-chief-ai-strategist",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "commonwealth bank",
+        "australia",
+        "commbank"
+      ]
+    },
     {
       "id": "584278142",
       "title": "Zopa and ClearScore Lead Coalition to Upskill 100,000 UK Fintech Workers in AI by 2030",
@@ -764,131 +889,6 @@
         "affirm brings",
         "pay",
         "over"
-      ]
-    },
-    {
-      "id": "648939846",
-      "title": "SAP Integrates n8n to Scale Agentic AI for Enterprises",
-      "summary": "SAP has invested in and formed a partnership with artificial intelligence orchestration platform n8n to help enterprises scale agentic AI. The strategic investment that n8n secured from SAP that values n8n at $5.2 billion, which is more than double the previous valuation of $2.5 …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/sap-integrates-n8n-to-scale-agentic-ai-for-enterprises/",
-      "date": "2026-05-12",
-      "category": "Banking",
-      "tags": [
-        "sap integrates",
-        "scale agentic",
-        "ai"
-      ]
-    },
-    {
-      "id": "364413716",
-      "title": "When Process Breaks Down, Fraud Finds a Way: Through Invoices, Expenses or Both!",
-      "summary": "Invoice fraud can drain 1% of turnover over years when payments go unrecorded and fake expenses offset funds. Strong controls, automation, reconciliation and segregation of duties are key to prevention. The post When Process Breaks Down, Fraud Finds a Way: Through Invoices, Expen…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/when-process-breaks-down-fraud-finds-a-way-through-invoices-expenses-or-both/",
-      "date": "2026-05-12",
-      "category": "Payments",
-      "tags": [
-        "when process",
-        "breaks down",
-        "fraud finds"
-      ]
-    },
-    {
-      "id": "306752830",
-      "title": "Anthropic warns against unauthorized stock exposure as token markets imply trillion-dollar valuation",
-      "summary": "The AI firm says investors should assume indirect access to its private shares is invalid, and transfers of its stock or interests in its stock will not be recognized.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/05/12/anthropic-fights-unauthorized-stock-exposure-as-token-markets-imply-trillion-dollar-valuation",
-      "date": "2026-05-12",
-      "category": "Trading",
-      "tags": [
-        "anthropic",
-        "the ai"
-      ]
-    },
-    {
-      "id": "759384925",
-      "title": "Defending the Member: How Credit Unions Are Responding to a New Fraud Landscape",
-      "summary": "Fraud is entering a new phase of complexity for credit unions (CUs), driven by the rapid expansion of digital channels, increasingly sophisticated attack methods and the growing use of artificial intelligence (AI) by bad actors. What was once a contained risk is now a persistent,…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/tracker_posts/defending-the-member-how-credit-unions-are-responding-to-a-new-fraud-landscape/",
-      "date": "2026-05-12",
-      "category": "Banking",
-      "tags": [
-        "defending",
-        "member",
-        "how credit"
-      ]
-    },
-    {
-      "id": "597260768",
-      "title": "Shoppers Are Ready for AI to Steer the Cart, Not Swipe the Card",
-      "summary": "It’s certainly nice to imagine a digital assistant that can take over the weekly grocery trip, but not if that assistant is going to steal the shopper’s identity and drain their bank account. New research from the latest edition of PYMNTS Intelligence’s exclusive Agentic AI Repor…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/retail/2026/shoppers-are-ready-for-ai-to-steer-the-cart-not-swipe-the-card/",
-      "date": "2026-05-12",
-      "category": "Banking",
-      "tags": [
-        "shoppers are",
-        "ready",
-        "ai"
-      ]
-    },
-    {
-      "id": "711478333",
-      "title": "Implementing advanced AI technologies in finance",
-      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result …",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
-      "date": "2026-05-11",
-      "category": "Banking",
-      "tags": [
-        "implementing",
-        "ai",
-        "employees"
-      ]
-    },
-    {
-      "id": "174238168",
-      "title": "The Rise of Agentic Finance",
-      "summary": "Stripe and U.S. fintech players signal a shift toward agent-driven finance, where AI systems execute payments, manage workflows, and enable machine-native commerce at scale. The post The Rise of Agentic Finance appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-rise-of-agentic-finance/",
-      "date": "2026-05-11",
-      "category": "Payments",
-      "tags": [
-        "the rise",
-        "agentic finance",
-        "stripe"
-      ]
-    },
-    {
-      "id": "529522067",
-      "title": "RingCentral’s AI Stopped Answering Calls and Started Closing Deals",
-      "summary": "RingCentral’s AI Receptionist handles roughly 11,800 businesses across healthcare, financial services, construction, and legal. Until last week, it answered calls. Now it books appointments, processes orders and responds to messages without looping in a human. The company added S…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ringcentrals-ai-stopped-answering-calls-and-started-closing-deals/",
-      "date": "2026-05-11",
-      "category": "Banking",
-      "tags": [
-        "ringcentral",
-        "ai stopped",
-        "answering calls"
-      ]
-    },
-    {
-      "id": "33857313",
-      "title": "Blueprint for European Digital Sovereignty Revealed in New GITEX AI EUROPE Study",
-      "summary": "GITEX AI EUROPE and LUE release a whitepaper outlining four pillars—compute, cloud, open source and capital—shaping Europe’s digital sovereignty. The post Blueprint for European Digital Sovereignty Revealed in New GITEX AI EUROPE Study appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/blueprint-for-european-digital-sovereignty-revealed-in-new-gitex-ai-europe-study/",
-      "date": "2026-05-11",
-      "category": "Payments",
-      "tags": [
-        "blueprint",
-        "european digital",
-        "sovereignty revealed"
       ]
     }
   ]
