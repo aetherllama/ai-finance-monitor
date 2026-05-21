@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-21T10:42:11Z",
+  "last_updated": "2026-05-21T20:52:52Z",
   "insights": {
     "risks": [
       "Regulatory: Don't call us just a WLFI treasury company, says AI Financial — review compliance obligations.",
-      "Operational: AI set to automate up to 50% of tasks in most financial services roles — evaluate model governance gaps."
+      "Operational: When AI Gets Smarter, Can Banks Still Think Clearly? — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: FedEx Highlights AI and Data as Pillars for Saudi Supply Chain Resilience — potential infrastructure advantage.",
-      "Banking efficiency: AI set to automate up to 50% of tasks in most financial services roles — cost reduction opportunity."
+      "Banking efficiency: When AI Gets Smarter, Can Banks Still Think Clearly? — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "Risk Management",
@@ -53,6 +53,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "774340285",
+      "title": "When AI Gets Smarter, Can Banks Still Think Clearly?",
+      "summary": "Why Smarter AI Could Quietly Weaken Enterprise Judgment The next risk in financial services AI may n...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31798/when-ai-gets-smarter-can-banks-still-think-clearly?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "when ai",
+        "gets smarter",
+        "can banks"
+      ]
+    },
+    {
+      "id": "459022027",
+      "title": "Fresha Raises $80 Million to Bring AI to Beauty Scheduling",
+      "summary": "Beauty-and-wellness scheduling software firm Fresha is now a $1 billion company. The startup announced the new valuation Thursday (May 21) along with news it had received $80 million from funds managed by investment giant KKR. “Fresha has built a differentiated platform, combinin…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/fresha-raises-80-million-to-bring-ai-to-beauty-scheduling/",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "fresha raises",
+        "million",
+        "bring ai"
+      ]
+    },
+    {
+      "id": "747025309",
+      "title": "Trump Delays AI Executive Order Over Competitiveness Concerns",
+      "summary": "President Donald Trump delayed signing an executive order that would have given the United States government more oversight over the artificial intelligence industry. Trump told reporters in the Oval Office that he did not want to take any action that would slow the U.S. down in …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-delays-ai-executive-order-over-competitiveness-concerns/",
+      "date": "2026-05-21",
+      "category": "Banking",
+      "tags": [
+        "trump delays",
+        "ai executive",
+        "order over"
+      ]
+    },
     {
       "id": "171737109",
       "title": "AI set to automate up to 50% of tasks in most financial services roles",
@@ -847,48 +889,6 @@
         "bank ceos",
         "put ai",
         "cybersecurity first"
-      ]
-    },
-    {
-      "id": "420110308",
-      "title": "China’s big tech groups miss out on AI stock market frenzy",
-      "summary": "Tencent and Alibaba left behind as investors focus on pure AI plays",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cba72e03-e47d-4d59-b59b-7dc4259b1265",
-      "date": "2026-05-12",
-      "category": "Trading",
-      "tags": [
-        "china",
-        "ai",
-        "tencent"
-      ]
-    },
-    {
-      "id": "505108487",
-      "title": "Better.com’s AI Agent Resolved 35% of Mortgage Calls Alone",
-      "summary": "Mortgage follow-up calls have long been a bottleneck that loan officers absorb one conversation at a time. Better.com is routing that call volume through AI. Betsy, the company’s generative artificial intelligence loan agent, handled nearly 100,000 mortgage-related calls per mont…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/better-coms-ai-agent-resolved-35-of-mortgage-calls-alone/",
-      "date": "2026-05-12",
-      "category": "Banking",
-      "tags": [
-        "better",
-        "ai agent",
-        "resolved"
-      ]
-    },
-    {
-      "id": "902641170",
-      "title": "Affirm Brings Pay-Over-Time Options to Google AI Platforms",
-      "summary": "Affirm’s pay-over-time options will be integrated into the Gemini app and Google Search, including AI Mode, through Google Pay in the coming weeks. The companies are working together on the integration and will make the payment options available to people and artificial intellige…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/buy-now-pay-later/2026/affirm-brings-pay-over-time-options-google-ai-platforms/",
-      "date": "2026-05-12",
-      "category": "Payments",
-      "tags": [
-        "affirm brings",
-        "pay",
-        "over"
       ]
     }
   ]
