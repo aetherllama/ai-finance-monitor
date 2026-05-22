@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-22T10:26:30Z",
+  "last_updated": "2026-05-22T20:44:07Z",
   "insights": {
     "risks": [
-      "Regulatory: Don't call us just a WLFI treasury company, says AI Financial — review compliance obligations.",
-      "Operational: Centenary Group and Huawei partner for banking inclusion project in Uganda — evaluate model governance gaps."
+      "Trading risk: How to Fix The Issue of Data Immobility in Portfolio Systems — assess algorithmic exposure.",
+      "Operational: Quantum and AI Are Breaking Trust Everywhere at Once — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Coupa Acquires Tonkean to Expand AI Spend Management — potential infrastructure advantage.",
-      "Banking efficiency: Centenary Group and Huawei partner for banking inclusion project in Uganda — cost reduction opportunity."
+      "Banking efficiency: Quantum and AI Are Breaking Trust Everywhere at Once — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -21,7 +21,7 @@
     },
     {
       "topic": "Risk Management",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Credit & Underwriting",
@@ -53,6 +53,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "958317593",
+      "title": "How to Fix The Issue of Data Immobility in Portfolio Systems",
+      "summary": "Taking time out of his attendance at the Communify Intelligence Experience, Jeff Harvey, Executive Director, Operations, Deep Blue Investment Advisors, spoke with FinextraTV about the key wealth management hindrances. Harvey points to legacy tech advancing more slowly than invest…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3512/how-to-fix-the-issue-of-data-immobility-in-portfolio-systems?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-22",
+      "category": "Trading",
+      "tags": [
+        "how",
+        "fix the",
+        "issue"
+      ]
+    },
+    {
+      "id": "572823052",
+      "title": "Quantum and AI Are Breaking Trust Everywhere at Once",
+      "summary": "The Connected Economy has relied on a few supposedly stable assumptions as it scaled. One of the most crucial was that if systems could authenticate users, encrypt communications and validate transactions, trust would scale alongside connectivity. That assumption is now failing i…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/2026/quantum-and-ai-are-breaking-trust-everywhere-at-once/",
+      "date": "2026-05-22",
+      "category": "Banking",
+      "tags": [
+        "quantum",
+        "ai are",
+        "breaking trust"
+      ]
+    },
+    {
+      "id": "185297715",
+      "title": "TD’s AI Just Made Mortgage Waiting Obsolete",
+      "summary": "A mortgage application used to mean waiting. At TD Bank, pre-adjudication averaged roughly 15 hours before a human underwriter could open the file. That window is now under three minutes. TD Bank Group launched its first agentic artificial intelligence (AI) model to close that ga…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/tds-ai-just-made-mortgage-waiting-obsolete/",
+      "date": "2026-05-22",
+      "category": "Banking",
+      "tags": [
+        "td",
+        "ai just",
+        "made mortgage"
+      ]
+    },
+    {
+      "id": "30103108",
+      "title": "Building the ASEAN AI archipelago: How Southeast Asia can secure its place in the global AI value chain",
+      "summary": "At this year’s Asia Tech x Singapore, the region’s premier flagship technology event, a standout moment came from a fringe speaking panel titled, Unlocking Southeast Asia’s AI Potential: From Multilingual Models to Market Impact . As I listened to Temus AI Leader, Matt Johnson an…",
+      "source": "e27",
+      "url": "https://e27.co/building-the-asean-ai-archipelago-how-southeast-asia-can-secure-its-place-in-the-global-ai-value-chain-20250629/",
+      "date": "2026-05-22",
+      "category": "Banking",
+      "tags": [
+        "building",
+        "asean ai",
+        "how southeast"
+      ]
+    },
+    {
+      "id": "294955978",
+      "title": "AI’s tipping point: Why 2026 will separate the leaders from the laggards in financial services",
+      "summary": "Over the past few years, AI in the enterprise has been about trials and piloting of new solutions. While over 70 per cent of banking institutions globally use agentic AI today, only 16 per cent have moved to actual operational deployment. This gap reveals a critical truth: the ba…",
+      "source": "e27",
+      "url": "https://e27.co/ais-tipping-point-why-2026-will-separate-the-leaders-from-the-laggards-in-financial-services-20260115/",
+      "date": "2026-05-22",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "why",
+        "over"
+      ]
+    },
     {
       "id": "338586891",
       "title": "Centenary Group and Huawei partner for banking inclusion project in Uganda",
@@ -819,76 +889,6 @@
         "ai",
         "cerebras",
         "wall street"
-      ]
-    },
-    {
-      "id": "75696824",
-      "title": "Why Financial Services AI Needs a Responsibility Layer — Not Just Smarter Models",
-      "summary": "Enterprise AI risk is no longer just about model accuracy. It is about representation quality, reaso...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31714/why-financial-services-ai-needs-a-responsibility-layer--not-just-smarter-models?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-14",
-      "category": "Banking",
-      "tags": [
-        "why financial",
-        "services ai",
-        "needs"
-      ]
-    },
-    {
-      "id": "933734443",
-      "title": "Data readiness for agentic AI in financial services",
-      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on t…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "date": "2026-05-14",
-      "category": "Banking",
-      "tags": [
-        "data",
-        "ai",
-        "financial"
-      ]
-    },
-    {
-      "id": "124698263",
-      "title": "Cerebras shares skyrocket 100% after $5.5 billion IPO amid AI stock frenzy",
-      "summary": "The AI infrastructure company began trading Thursday as investors continue pouring capital into artificial intelligence stocks.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-shares-skyrocket-100-after-usd5-5b-ipo-amid-ai-stock-frenzy",
-      "date": "2026-05-14",
-      "category": "Trading",
-      "tags": [
-        "cerebras",
-        "ipo",
-        "ai"
-      ]
-    },
-    {
-      "id": "17455420",
-      "title": "Anthropic Launches Claude AI Agents for Small Business Finance",
-      "summary": "A Manhattan marketing agency founder stopped spending hours each week generating invoices and chasing payments. A coffee roaster’s COO found operational problems he didn’t know existed. Neither hired anyone new. They plugged in an artificial intelligence agent. Anthropic launched…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/anthropic-launches-claude-ai-agents-for-small-business-finance/",
-      "date": "2026-05-14",
-      "category": "Banking",
-      "tags": [
-        "anthropic launches",
-        "claude ai",
-        "agents"
-      ]
-    },
-    {
-      "id": "822627282",
-      "title": "Alibaba Sacrifices Profits to Fuel AI Growth",
-      "summary": "Artificial intelligence accounts for a rapidly growing share of Alibaba Group’s revenue, and it will deliver a return on the substantial investment the company is making in AI infrastructure, CEO Eddie Wu said Wednesday (May 13). Speaking during the company’s earnings call for th…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/alibaba-sacrifices-profits-to-fuel-ai-growth/",
-      "date": "2026-05-14",
-      "category": "Banking",
-      "tags": [
-        "alibaba sacrifices",
-        "profits",
-        "fuel ai"
       ]
     }
   ]
