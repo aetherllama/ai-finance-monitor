@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-22T20:44:07Z",
+  "last_updated": "2026-05-23T09:05:12Z",
   "insights": {
     "risks": [
       "Trading risk: How to Fix The Issue of Data Immobility in Portfolio Systems — assess algorithmic exposure.",
-      "Operational: Quantum and AI Are Breaking Trust Everywhere at Once — evaluate model governance gaps."
+      "Operational: SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Coupa Acquires Tonkean to Expand AI Spend Management — potential infrastructure advantage.",
-      "Banking efficiency: Quantum and AI Are Breaking Trust Everywhere at Once — cost reduction opportunity."
+      "Banking efficiency: SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -53,6 +53,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "819955031",
+      "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
+      "summary": "Elon Musk, Sam Altman and Dario Amodei battle over who can command Wall Street’s deepest pools of capital",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
+      "date": "2026-05-23",
+      "category": "Banking",
+      "tags": [
+        "spacex",
+        "openai",
+        "anthropic ipos"
+      ]
+    },
     {
       "id": "958317593",
       "title": "How to Fix The Issue of Data Immobility in Portfolio Systems",
@@ -875,20 +889,6 @@
         "banks discover",
         "ai",
         "best trick"
-      ]
-    },
-    {
-      "id": "373205294",
-      "title": "AI chipmaker Cerebras surges more than 100% in Wall Street debut",
-      "summary": "Trading pop underscores strong demand for shares in companies linked to AI boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4848fbef-d9af-46ee-b6ef-ad344a7a3814",
-      "date": "2026-05-14",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "cerebras",
-        "wall street"
       ]
     }
   ]
