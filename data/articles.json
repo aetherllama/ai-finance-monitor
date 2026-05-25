@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-24T20:10:14Z",
+  "last_updated": "2026-05-25T11:14:09Z",
   "insights": {
     "risks": [
       "Regulatory: ECB summons banks to urge them to fix flaws exposed by latest AI models — review compliance obligations.",
       "Trading risk: How to Fix The Issue of Data Immobility in Portfolio Systems — assess algorithmic exposure.",
-      "Operational: SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom — evaluate model governance gaps."
+      "Operational: TD builds AI model to speed up mortgage applications — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Coupa Acquires Tonkean to Expand AI Spend Management — potential infrastructure advantage.",
-      "Banking efficiency: SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom — cost reduction opportunity."
+      "Banking efficiency: TD builds AI model to speed up mortgage applications — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -54,6 +54,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "450388018",
+      "title": "TD builds AI model to speed up mortgage applications",
+      "summary": "Canada's TD Bank has launched an agentic AI model that automates and streamlines the application process for mortgages and home equity lines of credit.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47801/td-builds-ai-model-to-speed-up-mortgage-applications?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-25",
+      "category": "Banking",
+      "tags": [
+        "td",
+        "ai",
+        "canada"
+      ]
+    },
+    {
+      "id": "253115394",
+      "title": "Goldman Sachs Predicts AI Agents Will Increase Tech Cash Flow",
+      "summary": "New Goldman Sachs research argues that agentic artificial intelligence will reshape the financial landscape at major tech companies. A report last week from the Wall Street banking giant argues that the adoption of autonomous AI agents is expected to drive a 24-fold increase in g…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/goldman-sachs-predicts-ai-agents-will-increase-tech-cash-flow/",
+      "date": "2026-05-25",
+      "category": "Banking",
+      "tags": [
+        "goldman sachs",
+        "predicts ai",
+        "agents will"
+      ]
+    },
     {
       "id": "953018475",
       "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models",
@@ -862,34 +890,6 @@
         "the next",
         "bank run",
         "may start"
-      ]
-    },
-    {
-      "id": "905281251",
-      "title": "OpenAI Considers Raising More Capital to Meet AI Demand",
-      "summary": "OpenAI may raise more capital, Chief Financial Officer Sarah Friar said Friday (May 15), about six weeks after the company closed a funding round in which it raised $122 billion. In an interview with Bloomberg TV, Friar said OpenAI may do so because of the need for compute. She s…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-considers-raising-more-capital-meet-ai-demand/",
-      "date": "2026-05-15",
-      "category": "Banking",
-      "tags": [
-        "openai considers",
-        "raising more",
-        "capital"
-      ]
-    },
-    {
-      "id": "947966853",
-      "title": "Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform",
-      "summary": "Legaline launches as the UAE’s first AI-native legal services platform, automating research, drafting and cross-border payments to navigate complex regulations. The post Dubai’s Legaline Debuts as UAE’s First AI-Native Legal Platform appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/dubais-legaline-debuts-as-uaes-first-ai-native-legal-platform/",
-      "date": "2026-05-15",
-      "category": "Payments",
-      "tags": [
-        "dubai",
-        "legaline debuts",
-        "uae"
       ]
     }
   ]
