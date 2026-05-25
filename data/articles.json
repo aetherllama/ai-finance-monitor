@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-25T11:14:09Z",
+  "last_updated": "2026-05-25T20:24:06Z",
   "insights": {
     "risks": [
       "Regulatory: ECB summons banks to urge them to fix flaws exposed by latest AI models — review compliance obligations.",
       "Trading risk: How to Fix The Issue of Data Immobility in Portfolio Systems — assess algorithmic exposure.",
-      "Operational: TD builds AI model to speed up mortgage applications — evaluate model governance gaps."
+      "Operational: 'The clock is ticking' - ECB calls in banks over Mythos risks — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Coupa Acquires Tonkean to Expand AI Spend Management — potential infrastructure advantage.",
-      "Banking efficiency: TD builds AI model to speed up mortgage applications — cost reduction opportunity."
+      "Banking efficiency: 'The clock is ticking' - ECB calls in banks over Mythos risks — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -29,10 +29,6 @@
       "count": 2
     },
     {
-      "topic": "Fraud Detection",
-      "count": 2
-    },
-    {
       "topic": "Payments AI",
       "count": 1
     },
@@ -45,6 +41,10 @@
       "count": 1
     },
     {
+      "topic": "Fraud Detection",
+      "count": 1
+    },
+    {
       "topic": "Generative AI",
       "count": 1
     },
@@ -54,6 +54,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "551085052",
+      "title": "'The clock is ticking' - ECB calls in banks over Mythos risks",
+      "summary": "The European Central Bank has called in banks for a meeting this week to urge them to speed up their efforts to fix IT issues exposed by new AI models.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47804/the-clock-is-ticking---ecb-calls-in-banks-over-mythos-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-25",
+      "category": "Banking",
+      "tags": [
+        "ecb",
+        "mythos",
+        "the european"
+      ]
+    },
+    {
+      "id": "546496054",
+      "title": "Why AI-Powered Digital Product Engineering Is Becoming a Financial Priority",
+      "summary": "Digital transformation is no longer only a technology discussion. Today, it has become a major finan...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31815/why-ai-powered-digital-product-engineering-is-becoming-a-financial-priority?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-25",
+      "category": "Banking",
+      "tags": [
+        "why ai",
+        "powered digital",
+        "product engineering"
+      ]
+    },
     {
       "id": "450388018",
       "title": "TD builds AI model to speed up mortgage applications",
@@ -862,34 +890,6 @@
         "fiserv",
         "ai",
         "agentos"
-      ]
-    },
-    {
-      "id": "275886638",
-      "title": "From Big Data to Smart Data: How AI Is Creating New Opportunities Around Digital Identity",
-      "summary": "For years, KYC was treated primarily as a compliance layer – a way to verify identity, satisfy regul...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31722/from-big-data-to-smart-data-how-ai-is-creating-new-opportunities-around-digital-identity?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-15",
-      "category": "Banking",
-      "tags": [
-        "from big",
-        "data",
-        "smart data"
-      ]
-    },
-    {
-      "id": "199184869",
-      "title": "The Next Bank Run May Start With an AI Hack, Not Bad Loans",
-      "summary": "Artificial intelligence is becoming part of the everyday operating system of financial services, from fraud detection and identity checks to customer service and transaction monitoring. While AI is useful for banks, it also raises a question for risk officers and regulators. What…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/security-and-risk/2026/next-bank-run-may-start-with-ai-hack-not-bad-loans/",
-      "date": "2026-05-15",
-      "category": "Banking",
-      "tags": [
-        "the next",
-        "bank run",
-        "may start"
       ]
     }
   ]
