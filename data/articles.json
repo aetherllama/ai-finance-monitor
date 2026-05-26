@@ -1,24 +1,28 @@
 {
-  "last_updated": "2026-05-25T20:24:06Z",
+  "last_updated": "2026-05-26T20:57:28Z",
   "insights": {
     "risks": [
-      "Regulatory: ECB summons banks to urge them to fix flaws exposed by latest AI models — review compliance obligations.",
+      "Regulatory: SmartComply bids to help UK firms reopen African payment corridors — review compliance obligations.",
       "Trading risk: How to Fix The Issue of Data Immobility in Portfolio Systems — assess algorithmic exposure.",
-      "Operational: 'The clock is ticking' - ECB calls in banks over Mythos risks — evaluate model governance gaps."
+      "Operational: A reality check on the AI jobs hysteria — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Coupa Acquires Tonkean to Expand AI Spend Management — potential infrastructure advantage.",
-      "Banking efficiency: 'The clock is ticking' - ECB calls in banks over Mythos risks — cost reduction opportunity."
+      "Payments: Alipay delivers full-stack AI payments infrastructure — potential infrastructure advantage.",
+      "Banking efficiency: A reality check on the AI jobs hysteria — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Automation",
       "count": 4
+    },
+    {
+      "topic": "Payments AI",
+      "count": 2
     },
     {
       "topic": "Risk Management",
@@ -27,10 +31,6 @@
     {
       "topic": "Credit & Underwriting",
       "count": 2
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
     },
     {
       "topic": "Regulatory AI",
@@ -54,6 +54,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "707940258",
+      "title": "SmartComply bids to help UK firms reopen African payment corridors",
+      "summary": "Lagos-based compliance and cybersecurity company SmartComply has launched in the UK, making its AI-powered anti-money laundering platform available to British payment firms serving African markets.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47805/smartcomply-bids-to-help-uk-firms-reopen-african-payment-corridors?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-26",
+      "category": "RegTech",
+      "tags": [
+        "smartcomply",
+        "uk",
+        "african"
+      ]
+    },
+    {
+      "id": "984636538",
+      "title": "Alipay delivers full-stack AI payments infrastructure",
+      "summary": "Alipay today introduced its full-stack AI payment solution to partners across industries, ranging from AI companies to traditional retailers, and debuted two new services — the world’s first AI Wallet and Token Pay — to support the agentic economy’s rapid growth.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109934/alipay-delivers-full-stack-ai-payments-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-26",
+      "category": "Payments",
+      "tags": [
+        "alipay",
+        "ai",
+        "ai wallet"
+      ]
+    },
+    {
+      "id": "792742186",
+      "title": "A reality check on the AI jobs hysteria",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer o…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "date": "2026-05-26",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "haven",
+        "white"
+      ]
+    },
+    {
+      "id": "502882523",
+      "title": "RemotePass Secures $17.4M Series B as Global Employment and Fintech Collide",
+      "summary": "RemotePass secures $17.4m in Series B funding led by EBRD Venture Capital to expand globally and scale its embedded fintech and AI tools. The post RemotePass Secures $17.4M Series B as Global Employment and Fintech Collide appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/remotepass-secures-17-4m-series-b-as-global-employment-and-fintech-collide/",
+      "date": "2026-05-26",
+      "category": "Payments",
+      "tags": [
+        "remotepass secures",
+        "series",
+        "global employment"
+      ]
+    },
+    {
+      "id": "103878942",
+      "title": "Singapore’s AI paradox: World-class infrastructure, single-digit SME adoption",
+      "summary": "If you have read anything about AI in Singapore over the past two years, you have probably seen the headlines. World-class AI infrastructure. Top three globally for government AI readiness. Number one in Asia for population-level AI usage. A national AI council chaired by the Pri…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-ai-paradox-world-class-infrastructure-single-digit-sme-adoption-20260524/",
+      "date": "2026-05-26",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "world"
+      ]
+    },
+    {
+      "id": "890254901",
+      "title": "Commonwealth Bank of Australia (CommBank or CBA) has begun testing CommBank Companion, an artificial intelligence (AI)-powered conversational service.",
+      "summary": "Commonwealth Bank of Australia (CommBank or CBA) has begun testing CommBank Companion, an artificial intelligence (AI)-powered conversational service.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/news/commbank-tests-ai-banking-assistant-in-app-pilot",
+      "date": "2026-05-26",
+      "category": "Banking",
+      "tags": [
+        "commonwealth bank",
+        "australia",
+        "commbank"
+      ]
+    },
     {
       "id": "551085052",
       "title": "'The clock is ticking' - ECB calls in banks over Mythos risks",
@@ -806,90 +890,6 @@
         "why ai",
         "erp",
         "singapore"
-      ]
-    },
-    {
-      "id": "798360687",
-      "title": "How earned media drives AI search visibility in ASEAN",
-      "summary": "It s OK to talk about your strengths, but it s so much better when others do the talking for you. Earned media (unpaid publicity gained organically through third-party endorsement) has become one of the factors most strongly linked to AI search visibility. And in B2B companies in…",
-      "source": "e27",
-      "url": "https://e27.co/how-earned-media-drives-ai-search-visibility-in-asean-20260512/",
-      "date": "2026-05-18",
-      "category": "Banking",
-      "tags": [
-        "how",
-        "ai",
-        "asean it"
-      ]
-    },
-    {
-      "id": "774908772",
-      "title": "UK regulators warn of new threats from frontier AI models",
-      "summary": "The FCA, Bank of England and HM Treasury are warning banks to prepare for a new wave of powerful cyber attacks from AI-driven 'frontier' models.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47768/uk-regulators-warn-of-new-threats-from-frontier-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-18",
-      "category": "Banking",
-      "tags": [
-        "uk",
-        "ai",
-        "the fca"
-      ]
-    },
-    {
-      "id": "2920630",
-      "title": "Sygnum delivers AI agent-driven digital asset transactions",
-      "summary": "Swiss digital asset bank Sygnum is to use AI agents to test live on-chain transactions using a 'human-in-the-loop' design, with the client signing every action and private keys never leaving their device.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47765/sygnum-delivers-ai-agent-driven-digital-asset-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-18",
-      "category": "Banking",
-      "tags": [
-        "sygnum",
-        "ai",
-        "swiss"
-      ]
-    },
-    {
-      "id": "86682280",
-      "title": "HIVE buys $58 million Toronto plot for AI facility; shares climb",
-      "summary": "The bitcoin mining firm continues on its investment path into AI data centers after raising $115 million to expand its global footprint in the industry.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/05/18/hive-buys-usd58-million-toronto-plot-for-ai-facility-shares-climb",
-      "date": "2026-05-18",
-      "category": "Banking",
-      "tags": [
-        "hive",
-        "toronto",
-        "ai"
-      ]
-    },
-    {
-      "id": "761034700",
-      "title": "AWS Chief Rejects Notion of AI-Driven Job Wipeout",
-      "summary": "Some tech executives warn that artificial intelligence (AI) will usher in mass waves of layoffs. Amazon Web Services (AWS) CEO Matt Garman is not one of them. “Everybody’s entitled to their opinion, but I don’t think that’s true,” Garman told the Wall Street Journal (WSJ) Monday …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/economy/2026/aws-chief-rejects-notion-of-ai-driven-job-wipeout/",
-      "date": "2026-05-18",
-      "category": "Banking",
-      "tags": [
-        "aws chief",
-        "rejects notion",
-        "ai"
-      ]
-    },
-    {
-      "id": "561317638",
-      "title": "Fiserv unveils agentic AI operating system",
-      "summary": "Fiserv has launched AgentOS, an agentic AI operating system designed to help financial institutions deploy, manage, and scale agents across their banking workflows.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47762/fiserv-unveils-agentic-ai-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-15",
-      "category": "Banking",
-      "tags": [
-        "fiserv",
-        "ai",
-        "agentos"
       ]
     }
   ]
