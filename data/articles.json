@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-05-27T10:58:19Z",
+  "last_updated": "2026-05-27T21:03:38Z",
   "insights": {
     "risks": [
       "Regulatory: SmartComply bids to help UK firms reopen African payment corridors — review compliance obligations.",
-      "Operational: CommBank tests AI companion in banking app — evaluate model governance gaps."
+      "Trading risk: Robinhood is letting AI trade for you so you don't have to keep checking the markets — assess algorithmic exposure.",
+      "Operational: Robinhood customers can now let AI agents make trades and credit card purchases — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Paymentus Sees AI as a Force Multiplier for Incumbents — potential infrastructure advantage.",
-      "Banking efficiency: CommBank tests AI companion in banking app — cost reduction opportunity."
+      "Payments: The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data — potential infrastructure advantage.",
+      "Banking efficiency: Robinhood customers can now let AI agents make trades and credit card purchases — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Automation",
@@ -24,15 +25,15 @@
       "count": 3
     },
     {
-      "topic": "Risk Management",
-      "count": 2
-    },
-    {
       "topic": "Fraud Detection",
       "count": 1
     },
     {
       "topic": "Generative AI",
+      "count": 1
+    },
+    {
+      "topic": "Risk Management",
       "count": 1
     },
     {
@@ -45,6 +46,60 @@
     }
   ],
   "articles": [
+    {
+      "id": "581170082",
+      "title": "Robinhood customers can now let AI agents make trades and credit card purchases",
+      "summary": "Robinhood customers can now enable their AI agents to make payments and trade stocks on their behalf.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47817/robinhood-customers-can-now-let-ai-agents-make-trades-and-credit-card-purchases?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "robinhood",
+        "ai"
+      ]
+    },
+    {
+      "id": "478583432",
+      "title": "The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data",
+      "summary": "Sixthfin finds 67% of UK firms still rely on Excel for financial close, leaving one in three CFOs questioning data reliability despite AI adoption. The post The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data appeared first on The Fintech Times…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-excel-trap-why-1-in-3-cfos-still-dont-trust-their-financial-close-data/",
+      "date": "2026-05-27",
+      "category": "Payments",
+      "tags": [
+        "the excel",
+        "trap",
+        "why"
+      ]
+    },
+    {
+      "id": "945918206",
+      "title": "Robinhood is letting AI trade for you so you don't have to keep checking the markets",
+      "summary": "Robinhood is bringing hedge fund-style automation to everyday investors by letting AI agents build portfolios, execute stock trades, and even go shopping using virtual credit cards.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/05/27/robinhood-is-letting-ai-trade-for-you-so-you-don-t-have-to-keep-checking-the-markets",
+      "date": "2026-05-27",
+      "category": "Trading",
+      "tags": [
+        "robinhood",
+        "ai"
+      ]
+    },
+    {
+      "id": "362465868",
+      "title": "Fiserv-Experian Pact Aims to Help Merchants Combat Fraud",
+      "summary": "Experian has teamed with Fiserv to help merchants stem the tide of artificial intelligence (AI)-powered fraud. The collaboration involves the addition of real‑time debit card verification for Experian Link, the company’s payment authentication tool, Experian said in a news releas…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/fraud-prevention/2026/fiserv-experian-pact-aims-to-help-merchants-combat-fraud/",
+      "date": "2026-05-27",
+      "category": "Payments",
+      "tags": [
+        "fiserv",
+        "experian pact",
+        "aims"
+      ]
+    },
     {
       "id": "195329109",
       "title": "CommBank tests AI companion in banking app",
@@ -824,62 +879,6 @@
         "why india",
         "credit gap",
         "won"
-      ]
-    },
-    {
-      "id": "466852487",
-      "title": "The Trust–Oversight Paradox: Why More Accurate AI May Become Harder to Govern in Financial Services",
-      "summary": "Financial institutions are under pressure to scale AI. Boards want productivity. Business leaders wa...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31760/the-trustoversight-paradox-why-more-accurate-ai-may-become-harder-to-govern-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "the trust",
-        "oversight paradox",
-        "why more"
-      ]
-    },
-    {
-      "id": "724083486",
-      "title": "The Governance Illusion in Financial Services: Why Human Oversight Is Not Enough for Autonomous AI",
-      "summary": "Financial institutions have long trusted one comforting idea about AI risk: When the system is uncer...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31758/the-governance-illusion-in-financial-services-why-human-oversight-is-not-enough-for-autonomous-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "the governance",
-        "illusion",
-        "financial services"
-      ]
-    },
-    {
-      "id": "221817252",
-      "title": "Google makes chip push with Blackstone-backed AI cloud group",
-      "summary": "Investment of $5bn by private capital group set to help bring 500MW of data centre capacity online next year",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5730b605-8fb2-4973-a188-b4a587ce3580",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "google",
-        "blackstone",
-        "ai"
-      ]
-    },
-    {
-      "id": "643261236",
-      "title": "CommBank appoints Professor Mary-Anne Williams as its first chief AI scientist",
-      "summary": "Commonwealth Bank (CommBank) has appointed Professor Mary-Anne Williams as its first Chief AI Scientist following an extensive global search.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109881/commbank-appoints-professor-mary-anne-williams-as-its-first-chief-ai-scientist?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "commbank",
-        "professor mary",
-        "anne williams"
       ]
     }
   ]
