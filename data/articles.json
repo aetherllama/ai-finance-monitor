@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-26T20:57:28Z",
+  "last_updated": "2026-05-27T10:58:19Z",
   "insights": {
     "risks": [
       "Regulatory: SmartComply bids to help UK firms reopen African payment corridors — review compliance obligations.",
-      "Trading risk: How to Fix The Issue of Data Immobility in Portfolio Systems — assess algorithmic exposure.",
-      "Operational: A reality check on the AI jobs hysteria — evaluate model governance gaps."
+      "Operational: CommBank tests AI companion in banking app — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Alipay delivers full-stack AI payments infrastructure — potential infrastructure advantage.",
-      "Banking efficiency: A reality check on the AI jobs hysteria — cost reduction opportunity."
+      "Payments: Paymentus Sees AI as a Force Multiplier for Incumbents — potential infrastructure advantage.",
+      "Banking efficiency: CommBank tests AI companion in banking app — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -22,23 +21,11 @@
     },
     {
       "topic": "Payments AI",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Risk Management",
       "count": 2
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 2
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
-      "topic": "Machine Learning",
-      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -49,11 +36,112 @@
       "count": 1
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
+      "topic": "Machine Learning",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "195329109",
+      "title": "CommBank tests AI companion in banking app",
+      "summary": "CommBank is testing a new conversational AI interface within its banking app, designed to slice and dice spending and savings data to help customers to better manage their money",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47811/commbank-tests-ai-companion-in-banking-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "commbank",
+        "ai"
+      ]
+    },
+    {
+      "id": "464026058",
+      "title": "National Bank of Greece in Cyprus goes live with Smartstream’s Air to consolidate reconciliations",
+      "summary": "Smartstream, the trusted data solutions provider for leading global financial institutions and enterprises, today announces that the National Bank of Greece (NBG) in Cyprus has successfully gone live with Air, the company’s AI-enabled reconciliation solution.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109944/national-bank-of-greece-in-cyprus-goes-live-with-smartstreams-air-to-consolidate-reconciliations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "national bank",
+        "greece",
+        "cyprus"
+      ]
+    },
+    {
+      "id": "883181713",
+      "title": "Money20/20 Europe: Why fraud prevention must evolve in the age of agentic AI",
+      "summary": "As the industry heads to Money20/20 Europe next week, one theme is set to dominate conversations: th...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31833/money2020-europe-why-fraud-prevention-must-evolve-in-the-age-of-agentic-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "europe",
+        "why",
+        "ai as"
+      ]
+    },
+    {
+      "id": "131752207",
+      "title": "BILL Shakes Up Leadership Amid New AI Focus",
+      "summary": "Three weeks after announcing mass job cuts, BILL is instituting an overhaul of its leadership team. The financial operations platform said Tuesday (May 26) that it was making several changes to its executive team as it increases its focus on artificial intelligence. “BILL is at a…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/personnel/2026/bill-shakes-up-leadership-amid-new-ai-focus/",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "bill shakes",
+        "up leadership",
+        "amid new"
+      ]
+    },
+    {
+      "id": "939376034",
+      "title": "Credit Unions Meet the Member Who Wants AI Now",
+      "summary": "“AI at the FI: Inside Credit Unions’ Demand-Execution Gap” examines how consumers, small businesses, credit unions and FinTechs are approaching the next wave of AI-powered financial services. The report finds that demand is high, especially among customers and prospective members…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/credit-unions-meet-the-member-who-wants-ai-now/",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "credit unions",
+        "meet",
+        "member who"
+      ]
+    },
+    {
+      "id": "838890826",
+      "title": "Paymentus Sees AI as a Force Multiplier for Incumbents",
+      "summary": "Watch more: What’s Next in Payments With Paymentus’ Garrett Baird “Legacy” is the typical pejorative shorthand the financial services industry has settled on when describing its own incumbent and slow-moving infrastructure, rigid processes and sprawling technology stacks. They’re…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/paymentus-sees-ai-as-a-force-multiplier-for-incumbents/",
+      "date": "2026-05-27",
+      "category": "Payments",
+      "tags": [
+        "paymentus sees",
+        "ai",
+        "force multiplier"
+      ]
+    },
+    {
+      "id": "657008439",
+      "title": "The biggest barrier to AI in Southeast Asia is not the technology, it is the operating model",
+      "summary": "Across Southeast Asia, AI adoption is accelerating rapidly. According to McKinsey, generative AI could add up to US$4.4 trillion annually to the global economy through productivity gains and new business models. At the same time, Singapore recently ranked fourth globally in start…",
+      "source": "e27",
+      "url": "https://e27.co/the-biggest-barrier-to-ai-in-southeast-asia-is-not-the-technology-it-is-the-operating-model-20260524/",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "southeast asia",
+        "across southeast"
+      ]
+    },
     {
       "id": "707940258",
       "title": "SmartComply bids to help UK firms reopen African payment corridors",
@@ -792,104 +880,6 @@
         "commbank",
         "professor mary",
         "anne williams"
-      ]
-    },
-    {
-      "id": "650072643",
-      "title": "Clarity AI and Climcycle to embed AI-dirven sustainability data into bank operating systems",
-      "summary": "Clarity AI, the leading global technology platform for extra-financial intelligence, and Climcycle, the integrated ESG risk management and regulatory compliance platform for banks, today announced a partnership to embed audit-ready sustainability data directly into banking system…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109877/clarity-ai-and-climcycle-to-embed-ai-dirven-sustainability-data-into-bank-operating-systems?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "clarity ai",
-        "climcycle",
-        "ai"
-      ]
-    },
-    {
-      "id": "77509672",
-      "title": "AU Small Finance Bank adopts Intellect’s Purple Fabric AI platform",
-      "summary": "AU Small Finance Bank (AU SFB), India’s largest Small Finance Bank and the first in over a decade to receive in-principle approval to transition into a Universal Bank, today announced its collaboration with Intellect Design Arena, a global leader in AI-First, enterprise-grade fin…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109875/au-small-finance-bank-adopts-intellects-purple-fabric-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "au small",
-        "finance bank",
-        "intellect"
-      ]
-    },
-    {
-      "id": "635968140",
-      "title": "Why AI‑Driven Fintech Innovation Still Lags on Trust and How to Fix It?",
-      "summary": "Artificial intelligence is everywhere in financial services today. Banks deploy AI for underwriting ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31754/why-aidriven-fintech-innovation-still-lags-on-trust-and-how-to-fix-it?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "InsurTech",
-      "tags": [
-        "why ai",
-        "driven fintech",
-        "innovation still"
-      ]
-    },
-    {
-      "id": "692438623",
-      "title": "World Liberty Financial treasury company AI Financial warns that it may not survive the year in SEC filing",
-      "summary": "The former Alt5 Sigma marked its 7.28 billion WLFI tokens at $706 million, down from a roughly $1.46 billion cost basis, while disclosing that the holdings remain locked amid liquidity concerns.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
-      "date": "2026-05-19",
-      "category": "RegTech",
-      "tags": [
-        "world liberty",
-        "financial",
-        "ai financial"
-      ]
-    },
-    {
-      "id": "840552068",
-      "title": "Demand for Always-On Commerce Strains Legacy Credit Platforms",
-      "summary": "Change is endemic to payments. But that doesn’t mean legacy environments can always keep up. Findings in the inaugural “ABCs of AI Credit: A Playbook for Issuers,” a PYMNTS Intelligence collaboration with Thredd, confirm that’s the case with the credit landscape, where legacy arc…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/demand-for-always-on-commerce-strains-legacy-credit-platforms/",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "demand",
-        "always",
-        "on commerce"
-      ]
-    },
-    {
-      "id": "634946830",
-      "title": "AI Fraud Turns Big Companies Into Bigger Targets",
-      "summary": "Conventional wisdom has long held that larger enterprises possess natural advantages in cybersecurity and fraud prevention. Bigger budgets, deeper technical teams and greater access to advanced tooling should theoretically produce stronger defenses. In practice, those scale advan…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/fraud-prevention/2026/ai-fraud-turns-big-companies-into-bigger-targets/",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "ai fraud",
-        "turns big",
-        "companies into"
-      ]
-    },
-    {
-      "id": "169818977",
-      "title": "The agentic shift: Why AI agents are rewriting the rules of ERP software in Singapore and Malaysia",
-      "summary": "The velocity of enterprise technology adoption across Southeast Asia has completely outpaced most businesses’ wildest expectations. Reflecting on the landscape just a few short years ago, the market was gripped by the initial heat of generative AI and basic conversational chatbot…",
-      "source": "e27",
-      "url": "https://e27.co/erp-software-ai-agents-singapore-malaysia-future-20260518/",
-      "date": "2026-05-18",
-      "category": "Banking",
-      "tags": [
-        "why ai",
-        "erp",
-        "singapore"
       ]
     }
   ]
