@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-05-27T21:03:38Z",
+  "last_updated": "2026-05-28T10:59:23Z",
   "insights": {
     "risks": [
-      "Regulatory: SmartComply bids to help UK firms reopen African payment corridors — review compliance obligations.",
       "Trading risk: Robinhood is letting AI trade for you so you don't have to keep checking the markets — assess algorithmic exposure.",
-      "Operational: Robinhood customers can now let AI agents make trades and credit card purchases — evaluate model governance gaps."
+      "Operational: AI boom outweighs Iran war pain, Korean central bank chief says — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data — potential infrastructure advantage.",
-      "Banking efficiency: Robinhood customers can now let AI agents make trades and credit card purchases — cost reduction opportunity."
+      "Banking efficiency: AI boom outweighs Iran war pain, Korean central bank chief says — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 14
     },
     {
       "topic": "Automation",
@@ -23,6 +22,10 @@
     {
       "topic": "Payments AI",
       "count": 3
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -35,17 +38,105 @@
     {
       "topic": "Risk Management",
       "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
-      "topic": "Machine Learning",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "173209410",
+      "title": "AI boom outweighs Iran war pain, Korean central bank chief says",
+      "summary": "Shin Hyun-song at first policymaking meeting projects boost to GDP on chip demand and surging stocks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "iran",
+        "korean"
+      ]
+    },
+    {
+      "id": "502574805",
+      "title": "Farsight launches AI agent for client-ready deal materials",
+      "summary": "Farsight, an institutional AI platform for financial services, has launched an agent designed to produce client-ready deck materials from a single prompt.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47820/farsight-launches-ai-agent-for-client-ready-deal-materials?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "farsight",
+        "ai"
+      ]
+    },
+    {
+      "id": "649438029",
+      "title": "The Future of Banking Will Be Representation-Aware",
+      "summary": "Why AI, Governance, Trust, and Institutional Legibility Will Define the Next Phase of Financial Serv...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31853/the-future-of-banking-will-be-representation-aware?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "the future",
+        "banking will",
+        "be representation"
+      ]
+    },
+    {
+      "id": "901140126",
+      "title": "AI Forces Credit Unions to Rethink, Not Replace, Old Tech",
+      "summary": "Watch more: What’s Next in Payments With Velera’s Cody Banks Legacy payments infrastructure has become one of the financial sector’s more complicated inheritances. It’s difficult to replace, expensive to maintain and still central to how money moves across the banking system. Yet…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/credit-unions/2026/ai-forces-credit-unions-to-rethink-not-replace-old-tech/",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "ai forces",
+        "credit unions",
+        "rethink"
+      ]
+    },
+    {
+      "id": "456906956",
+      "title": "Singapore’s AI infrastructure gap is trapping businesses in pilot purgatory",
+      "summary": "Singapore s developers are among the most enthusiastic adopters of AI in the world, but a growing body of evidence suggests the AI infrastructure underpinning that ambition is falling dangerously short. A survey of 196 developers and tech leaders conducted at API Days Singapore i…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-ai-infrastructure-gap-is-trapping-businesses-in-pilot-purgatory-20260528/",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "api days"
+      ]
+    },
+    {
+      "id": "355348490",
+      "title": "ACCA finds strong AI adoption in finance roles, but job security concerns persist.",
+      "summary": "ACCA finds strong AI adoption in finance roles, but job security concerns persist.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/nearly-half-finance-workers-fear-ai-job-impact",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "acca",
+        "ai"
+      ]
+    },
+    {
+      "id": "86529870",
+      "title": "The Reality Gap in Financial Services AI",
+      "summary": "Financial institutions do not fail only because they lack data. In many cases, they fail because the...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31847/the-reality-gap-in-financial-services-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-27",
+      "category": "Banking",
+      "tags": [
+        "the reality",
+        "gap",
+        "financial services"
+      ]
+    },
     {
       "id": "581170082",
       "title": "Robinhood customers can now let AI agents make trades and credit card purchases",
@@ -782,103 +873,6 @@
         "primer",
         "ai",
         "founded"
-      ]
-    },
-    {
-      "id": "858029178",
-      "title": "Deutsche Bank applies AI to third party vendor risks",
-      "summary": "Deutsche Bank is using artifical intelligence to speed up the tedious, time-consuming, process of reviewing third party vendor risks.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47778/deutsche-bank-applies-ai-to-third-party-vendor-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "ai"
-      ]
-    },
-    {
-      "id": "282124552",
-      "title": "Ripjar reports 40% ARR growth and secures additional investment",
-      "summary": "Ripjar, the AI-native provider of smarter screening solutions, has announced a 40% increase in annual recurring revenues over the last 12 months.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109892/ripjar-reports-40-arr-growth-and-secures-additional-investment?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "ripjar",
-        "arr",
-        "ai"
-      ]
-    },
-    {
-      "id": "632244717",
-      "title": "Google DeepMind founder’s investment in AI arch-rival Anthropic revealed",
-      "summary": "Nobel laureate’s protégés are raising billions and spreading his influence across the AI industry",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8f2a529e-7a1b-4d8e-95be-338d0c4c98f5",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "google deepmind",
-        "ai",
-        "anthropic"
-      ]
-    },
-    {
-      "id": "20751216",
-      "title": "AI crosses strucutural threshold for banks - Accenture",
-      "summary": "Artificial intelligence has crossed a quiet but consequential threshold in UK financial services, becoming operationally critical to how core processes now function.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109888/ai-crosses-strucutural-threshold-for-banks---accenture?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "accenture artificial",
-        "uk"
-      ]
-    },
-    {
-      "id": "408326621",
-      "title": "Compliance firm Eisen secures $18.5 million in funding",
-      "summary": "Eisen, the AI-enabled compliance operations infrastructure for financial services, today announced $18.5 million in funding, including a $10 million Series A led by MissionOG and a previously unannounced $8.5 million seed round led by Index Ventures, with participation from Cowbo…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109885/compliance-firm-eisen-secures-185-million-in-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "RegTech",
-      "tags": [
-        "compliance",
-        "eisen",
-        "ai"
-      ]
-    },
-    {
-      "id": "133345486",
-      "title": "AI WealthTech Moment raises $78 million",
-      "summary": "Moment, the AI operating system for investment management, has raised $78 million in a Series C funding round led by Index Ventures, with participation from Andreessen Horowitz, Avra, and other existing investors.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109884/ai-wealthtech-moment-raises-78-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "ai wealthtech",
-        "moment",
-        "ai"
-      ]
-    },
-    {
-      "id": "366362347",
-      "title": "Why India's Credit Gap Won't Be Closed by Better Machine Learning",
-      "summary": "Why India's Credit Gap Won't Be Closed by Better Machine Learning The 500 million thin-file problem ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31761/why-indias-credit-gap-wont-be-closed-by-better-machine-learning?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-19",
-      "category": "Banking",
-      "tags": [
-        "why india",
-        "credit gap",
-        "won"
       ]
     }
   ]
