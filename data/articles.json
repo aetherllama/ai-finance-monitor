@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-05-28T10:59:23Z",
+  "last_updated": "2026-05-28T21:11:26Z",
   "insights": {
     "risks": [
-      "Trading risk: Robinhood is letting AI trade for you so you don't have to keep checking the markets — assess algorithmic exposure.",
-      "Operational: AI boom outweighs Iran war pain, Korean central bank chief says — evaluate model governance gaps."
+      "Trading risk: Disciplined AI agents are the disruptor needed to break the exchange churn model — assess algorithmic exposure.",
+      "Operational: Daloopa raises $47m to power data layer behind AI-driven finance — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data — potential infrastructure advantage.",
-      "Banking efficiency: AI boom outweighs Iran war pain, Korean central bank chief says — cost reduction opportunity."
+      "Banking efficiency: Daloopa raises $47m to power data layer behind AI-driven finance — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 15
     },
     {
       "topic": "Automation",
@@ -21,7 +21,7 @@
     },
     {
       "topic": "Payments AI",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Credit & Underwriting",
@@ -41,6 +41,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "977024612",
+      "title": "Daloopa raises $47m to power data layer behind AI-driven finance",
+      "summary": "Daloopa, a startup providing the data infrastructure for AI and agentic workflows in finance, has raised $47 million in Series C funding.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47823/daloopa-raises-47m-to-power-data-layer-behind-ai-driven-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "daloopa",
+        "ai",
+        "series"
+      ]
+    },
+    {
+      "id": "649171175",
+      "title": "Disciplined AI agents are the disruptor needed to break the exchange churn model",
+      "summary": "Programmable incentives that allow independent trading agents to earn only when portfolios rise will create a fairer market for retail customers, explains Naja.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model",
+      "date": "2026-05-28",
+      "category": "Trading",
+      "tags": [
+        "disciplined ai",
+        "programmable",
+        "naja"
+      ]
+    },
+    {
+      "id": "618829782",
+      "title": "Fiserv Turns to Cognition to Modernize Banking Tech",
+      "summary": "Payments and financial technology provider Fiserv is teaming with AI agent lab Cognition. The collaboration will see the companies use artificial intelligence (AI) software engineer, Devin, to modernize core banking technology and shorten the time it takes for new capabilities to…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/partnerships/2026/fiserv-turns-to-cognition-to-modernize-banking-tech/",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "fiserv turns",
+        "cognition",
+        "modernize banking"
+      ]
+    },
+    {
+      "id": "117700888",
+      "title": "TD Bank Says AI Is Cutting Mortgage Approvals From 15 Hours to 3 Minutes",
+      "summary": "TD Bank’s latest earnings call suggested the industry is moving into a more operational phase in its use of artificial intelligence, where AI is increasingly tied to loan approvals, fraud management and the economics of customer acquisition. CEO Raymond Chun said on the Thursday …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/td-bank-says-ai-is-cutting-mortgage-approvals-from-15-hours-to-3-minutes/",
+      "date": "2026-05-28",
+      "category": "Banking",
+      "tags": [
+        "td bank",
+        "says ai",
+        "is cutting"
+      ]
+    },
     {
       "id": "173209410",
       "title": "AI boom outweighs Iran war pain, Korean central bank chief says",
@@ -817,62 +873,6 @@
         "singapore",
         "ai national",
         "strategy"
-      ]
-    },
-    {
-      "id": "634667827",
-      "title": "Singapore lands OpenAI’s first lab outside the US with US$225M commitment",
-      "summary": "Singapore has secured OpenAI s first Applied AI Lab outside the United States, marking a significant milestone in the city-state s strategy to position itself as a regional artificial intelligence (AI) hub. The partnership, announced through a Memorandum of Understanding between …",
-      "source": "e27",
-      "url": "https://e27.co/singapore-lands-openais-first-lab-outside-the-us-with-us225m-commitment-20260519/",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "openai",
-        "us"
-      ]
-    },
-    {
-      "id": "776708171",
-      "title": "Why you should be hiring humans when others are hiring AI agents",
-      "summary": "The rise of AI agents is no longer theoretical. It is operational. Across industries, businesses are deploying AI systems to handle customer service, automate workflows, generate analytics, write code, and even make preliminary decisions. From fintech to logistics to enterprise S…",
-      "source": "e27",
-      "url": "https://e27.co/why-you-should-be-hiring-humans-when-others-are-hiring-ai-agents-20260512/",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "why",
-        "ai",
-        "it"
-      ]
-    },
-    {
-      "id": "245427994",
-      "title": "The gold rush nobody is talking about: AI agents and the workers our economy left behind",
-      "summary": "Singapore has tens of thousands of people who want to work, are capable of working, and are quietly pushed aside before they even get started. Single parents who cannot take a job that does not bend around school hours. Adult children caring for ageing parents, sandwiched between…",
-      "source": "e27",
-      "url": "https://e27.co/the-gold-rush-nobody-is-talking-about-ai-agents-and-the-workers-our-economy-left-behind-20260512/",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "singapore",
-        "single"
-      ]
-    },
-    {
-      "id": "605678393",
-      "title": "Primer raises $100 million to bring AI to every payment",
-      "summary": "Founded by former leaders at Braintree and PayPal, London-based fintech Primer has closed on a $100 million Series C funding round, with the aim of applying AI to every payment processed by a merchant.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47783/primer-raises-100-million-to-bring-ai-to-every-payment?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-20",
-      "category": "Payments",
-      "tags": [
-        "primer",
-        "ai",
-        "founded"
       ]
     }
   ]
