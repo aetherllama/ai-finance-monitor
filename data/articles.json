@@ -1,23 +1,24 @@
 {
-  "last_updated": "2026-05-28T21:11:26Z",
+  "last_updated": "2026-05-29T10:51:21Z",
   "insights": {
     "risks": [
+      "Regulatory: Top 3 Popular AI Playbook for Platform Credibility of Fintech Business — review compliance obligations.",
       "Trading risk: Disciplined AI agents are the disruptor needed to break the exchange churn model — assess algorithmic exposure.",
-      "Operational: Daloopa raises $47m to power data layer behind AI-driven finance — evaluate model governance gaps."
+      "Operational: NatWest taps Cleareye.ai for trade finance ops — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data — potential infrastructure advantage.",
-      "Banking efficiency: Daloopa raises $47m to power data layer behind AI-driven finance — cost reduction opportunity."
+      "Payments: Modernise Core Banking Systems to Deliver Hyper-Personalisation Through Agentic AI — potential infrastructure advantage.",
+      "Banking efficiency: NatWest taps Cleareye.ai for trade finance ops — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 16
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Payments AI",
@@ -41,6 +42,89 @@
     }
   ],
   "articles": [
+    {
+      "id": "323787535",
+      "title": "NatWest taps Cleareye.ai for trade finance ops",
+      "summary": "NatWest has started working with trade finance tech specialist Cleareye.ai to revamp its its trade operations and strengthen financial crime controls.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47827/natwest-taps-cleareyeai-for-trade-finance-ops?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-29",
+      "category": "Banking",
+      "tags": [
+        "natwest",
+        "cleareye"
+      ]
+    },
+    {
+      "id": "247464469",
+      "title": "Modernise Core Banking Systems to Deliver Hyper-Personalisation Through Agentic AI",
+      "summary": "Tech giant Huawei is launching its agentic banking framework to assist financial institutions in achieving true hyper-personalisation The post Modernise Core Banking Systems to Deliver Hyper-Personalisation Through Agentic AI appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/modernise-core-banking-systems-to-deliver-hyper-personalisation-through-agentic-ai/",
+      "date": "2026-05-29",
+      "category": "Payments",
+      "tags": [
+        "modernise core",
+        "banking systems",
+        "deliver hyper"
+      ]
+    },
+    {
+      "id": "888083025",
+      "title": "Visa’s Pismo Says AI Has Exposed Banking’s Old Tech Problem",
+      "summary": "Watch more: What’s Next in Payments With Pismo’s Leonardo Collado Legacy systems rarely become visible until they begin to slow everything around them. For decades, the banking and payments sectors treated core infrastructure as proof of endurance and discipline. Now the same sys…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/payments-innovation/2026/visas-pismo-says-ai-has-exposed-bankings-old-tech-problem/",
+      "date": "2026-05-29",
+      "category": "Banking",
+      "tags": [
+        "visa",
+        "pismo says",
+        "ai has"
+      ]
+    },
+    {
+      "id": "716678664",
+      "title": "Top 3 Popular AI Playbook for Platform Credibility of Fintech Business",
+      "summary": "The Stakes of Trust: Platform Credibility in modern Fintech In the fintech sector, platform credibility acts as the foundational bedrock for all business operations. Fintech firms handle sensitive financial data, facilitate high-value transactions, and must maintain strict regula…",
+      "source": "e27",
+      "url": "https://e27.co/top-3-popular-ai-playbook-platform-credibility-fintech-business-20260529/",
+      "date": "2026-05-29",
+      "category": "RegTech",
+      "tags": [
+        "top",
+        "popular ai",
+        "playbook"
+      ]
+    },
+    {
+      "id": "105686190",
+      "title": "Inside the AI Workflow Competition at Echelon Singapore 2026",
+      "summary": "The most interesting thing about AI is not how impressive it sounds in a pitch. It s what happens when it s forced to confront the kind of operational friction that real businesses deal with every day. That s what makes this year s AI Workflow Competition at Echelon Singapore 202…",
+      "source": "e27",
+      "url": "https://e27.co/what-happens-when-smes-open-up-their-real-problems-to-top-builders-20260529/",
+      "date": "2026-05-29",
+      "category": "Banking",
+      "tags": [
+        "inside",
+        "ai workflow",
+        "competition"
+      ]
+    },
+    {
+      "id": "727833992",
+      "title": "SEA’s AI infrastructure sector draws US$1.2B as deal activity reaches record high",
+      "summary": "Equity funding into Southeast Asia s AI infrastructure sector has reached approximately US$1.2 billion, with deal volumes hitting an all-time high in 2025, according to a new report from market intelligence platform Tracxn published this month. The report, which tracks disclosed …",
+      "source": "e27",
+      "url": "https://e27.co/ai-infrastructure-tracxn-20260529/",
+      "date": "2026-05-29",
+      "category": "Banking",
+      "tags": [
+        "sea",
+        "ai",
+        "us"
+      ]
+    },
     {
       "id": "977024612",
       "title": "Daloopa raises $47m to power data layer behind AI-driven finance",
@@ -789,90 +873,6 @@
         "house hearing",
         "puts bank",
         "fintech oversight"
-      ]
-    },
-    {
-      "id": "805886633",
-      "title": "Commonwealth Bank of Australia (CommBank) has appointed Professor Mary-Anne Williams as its first chief AI strategist.",
-      "summary": "Commonwealth Bank of Australia (CommBank) has appointed Professor Mary-Anne Williams as its first chief AI strategist.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/news/commbank-names-unsws-mary-anne-williams-chief-ai-strategist",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "commonwealth bank",
-        "australia",
-        "commbank"
-      ]
-    },
-    {
-      "id": "584278142",
-      "title": "Zopa and ClearScore Lead Coalition to Upskill 100,000 UK Fintech Workers in AI by 2030",
-      "summary": "Zopa and ClearScore launch the Jobs2030 coalition to upskill 100,000 UK fintech professionals in GenAI amid rising automation. The post Zopa and ClearScore Lead Coalition to Upskill 100,000 UK Fintech Workers in AI by 2030 appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/zopa-and-clearscore-lead-coalition-to-upskill-100000-uk-fintech-workers-in-ai-by-2030/",
-      "date": "2026-05-20",
-      "category": "Payments",
-      "tags": [
-        "zopa",
-        "clearscore lead",
-        "coalition"
-      ]
-    },
-    {
-      "id": "270584431",
-      "title": "Intuit to Cut 17% of Workforce in Shift Toward AI",
-      "summary": "Intuit Inc. is reducing its global headcount by approximately 17% as it moves to streamline operations and accelerate its investment in artificial intelligence, according to an internal memo reviewed by Reuters on Wednesday (May 20). The restructuring will result in the eliminati…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/business/2026/intuit-to-cut-17percent-of-workforce-in-shift-toward-ai/",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "intuit",
-        "cut",
-        "workforce"
-      ]
-    },
-    {
-      "id": "392593254",
-      "title": "Google Expands AI-Generated Advertising in Search Results",
-      "summary": "Google is testing several new advertising formats within its standard search results and AI Mode, marking an aggressive push to monetize its generative artificial intelligence capabilities. The initiative comes as the tech giant seeks to maintain its dominance in digital advertis…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/google/2026/google-expands-ai-generated-advertising-search-results/",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "google expands",
-        "ai",
-        "generated advertising"
-      ]
-    },
-    {
-      "id": "449392395",
-      "title": "Mercury Valued at $5.2 Billion as It Pushes Deeper Into Banking",
-      "summary": "Banking FinTech Mercury announced it raised $200 million in a funding round that valued the company at $5.2 billion. The company’s Series D round comes as Mercury is making a push into the traditional banking sector, while also preparing a product that lets users complete financi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/mercury-valued-at-5-2-billion-as-it-pushes-deeper-into-banking/",
-      "date": "2026-05-20",
-      "category": "Payments",
-      "tags": [
-        "mercury valued",
-        "billion",
-        "it pushes"
-      ]
-    },
-    {
-      "id": "797710468",
-      "title": "Singapore’s AI National Strategy gets a sharp refresh with business ambitions front and centre",
-      "summary": "Singapore s AI national strategy has received its most significant tune-up since the launch of NAIS 2.0 in December 2023. Describing the update as a double-click rather than a system reboot, Minister for Digital Development and Information Josephine Teo announced 10 refreshed pri…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-ai-national-strategy-gets-a-sharp-refresh-with-business-ambitions-front-and-centre-20260520/",
-      "date": "2026-05-20",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai national",
-        "strategy"
       ]
     }
   ]
