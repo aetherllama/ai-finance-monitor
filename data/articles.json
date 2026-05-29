@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-29T10:51:21Z",
+  "last_updated": "2026-05-29T21:10:05Z",
   "insights": {
     "risks": [
       "Regulatory: Top 3 Popular AI Playbook for Platform Credibility of Fintech Business — review compliance obligations.",
       "Trading risk: Disciplined AI agents are the disruptor needed to break the exchange churn model — assess algorithmic exposure.",
-      "Operational: NatWest taps Cleareye.ai for trade finance ops — evaluate model governance gaps."
+      "Operational: Dell’s shares soar 35% as US computer maker taps into AI fervour — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Modernise Core Banking Systems to Deliver Hyper-Personalisation Through Agentic AI — potential infrastructure advantage.",
-      "Banking efficiency: NatWest taps Cleareye.ai for trade finance ops — cost reduction opportunity."
+      "Payments: Why Financial Institutions Fail at AI — potential infrastructure advantage.",
+      "Banking efficiency: Dell’s shares soar 35% as US computer maker taps into AI fervour — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 4
     },
     {
       "topic": "Payments AI",
@@ -42,6 +42,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "453186373",
+      "title": "Dell’s shares soar 35% as US computer maker taps into AI fervour",
+      "summary": "Rally is the latest sign of Wall Street’s exuberance over companies linked to artificial intelligence",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d218a534-7f63-4bd9-867d-f47f4727e2e1",
+      "date": "2026-05-29",
+      "category": "Banking",
+      "tags": [
+        "dell",
+        "us",
+        "ai"
+      ]
+    },
+    {
+      "id": "850239243",
+      "title": "The Future Belongs to AI-Orchestrators",
+      "summary": "How financial professionals and institutions can survive AI disruption in 2026 and beyond. AI disrup...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31867/the-future-belongs-to-ai-orchestrators?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-29",
+      "category": "Banking",
+      "tags": [
+        "the future",
+        "belongs",
+        "ai"
+      ]
+    },
+    {
+      "id": "454813261",
+      "title": "Money20/20 Europe: Turning agentic AI into real-world financial infrastructure",
+      "summary": "As we head into Money20/20 Europe, Agentic AI is moving from concept to deployment. Autonomous syste...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31865/money2020-europe-turning-agentic-ai-into-real-world-financial-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-29",
+      "category": "Banking",
+      "tags": [
+        "europe",
+        "turning",
+        "ai"
+      ]
+    },
+    {
+      "id": "747879903",
+      "title": "Why Financial Institutions Fail at AI",
+      "summary": "At Baltic Fintech Days in May, I surveyed the room as to how many organisations were running an AI i...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31863/why-financial-institutions-fail-at-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-05-29",
+      "category": "Payments",
+      "tags": [
+        "why financial",
+        "institutions fail",
+        "ai at"
+      ]
+    },
     {
       "id": "323787535",
       "title": "NatWest taps Cleareye.ai for trade finance ops",
@@ -817,62 +873,6 @@
         "fedex highlights",
         "ai",
         "data"
-      ]
-    },
-    {
-      "id": "615918984",
-      "title": "Don't call us just a WLFI treasury company, says AI Financial",
-      "summary": "The company says it is building a broader fintech, tokenization and digital infrastructure business, but its latest SEC filing shows WLFI still dominates the balance sheet.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/05/21/don-t-call-us-just-a-wlfi-treasury-company-says-ai-financial",
-      "date": "2026-05-21",
-      "category": "RegTech",
-      "tags": [
-        "don",
-        "wlfi",
-        "ai financial"
-      ]
-    },
-    {
-      "id": "658496109",
-      "title": "JPMorgan Prioritizing AI Hires Over Bankers",
-      "summary": "J.P. Morgan Chase s CEO envisions a day where the bank hires more AI experts than bankers. I think it will reduce our jobs down the road, Jamie Dimon said in an interview with Bloomberg Television Thursday (May 21) at the bank’s China Summit in Shanghai. There will be all differe…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/jpmorgan-prioritizing-ai-hires-over-bankers/",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "jpmorgan prioritizing",
-        "ai hires",
-        "over bankers"
-      ]
-    },
-    {
-      "id": "979492949",
-      "title": "Nvidia Posts Record $82B Quarter as Agentic AI Arrives",
-      "summary": "For years, artificial intelligence in business meant a feature. A smarter search bar. A fraud score. A recommendation engine tucked inside a larger product. What’s arriving now is different. AI agents take instructions, break them into steps and finish the job. A finance team’s A…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/nvidia-posts-record-82b-quarter-as-agentic-ai-arrives/",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "nvidia posts",
-        "record",
-        "quarter"
-      ]
-    },
-    {
-      "id": "762785249",
-      "title": "House Hearing Puts Bank-FinTech Oversight in the Spotlight",
-      "summary": "Financial infrastructure rarely becomes visible until it breaks. At Wednesday’s (May 20) House Financial Services Committee hearing on bank-FinTech partnerships, lawmakers, banking and FinTech executives explored a question that has become increasingly urgent as financial service…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/bank-regulation/2026/house-hearing-puts-bank-fintech-oversight-in-the-spotlight/",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "house hearing",
-        "puts bank",
-        "fintech oversight"
       ]
     }
   ]
