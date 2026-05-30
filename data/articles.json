@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-05-30T09:22:43Z",
+  "last_updated": "2026-05-30T20:11:31Z",
   "insights": {
     "risks": [
       "Regulatory: Top 3 Popular AI Playbook for Platform Credibility of Fintech Business — review compliance obligations.",
       "Trading risk: Disciplined AI agents are the disruptor needed to break the exchange churn model — assess algorithmic exposure.",
-      "Operational: Dell’s shares soar 35% as US computer maker taps into AI fervour — evaluate model governance gaps."
+      "Operational: Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Why Financial Institutions Fail at AI — potential infrastructure advantage.",
-      "Banking efficiency: Dell’s shares soar 35% as US computer maker taps into AI fervour — cost reduction opportunity."
+      "Banking efficiency: Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -42,6 +42,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "339643024",
+      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
+      "summary": "CertiK CEO and co-founder Ronghui Gu says April was the worst month for DeFi in four years with exploits on 27 out of 30 days.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik",
+      "date": "2026-05-30",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "why ai",
+        "certik ceo"
+      ]
+    },
     {
       "id": "453186373",
       "title": "Dell’s shares soar 35% as US computer maker taps into AI fervour",
@@ -859,20 +873,6 @@
         "reflections",
         "city week",
         "the move"
-      ]
-    },
-    {
-      "id": "674431495",
-      "title": "FedEx Highlights AI and Data as Pillars for Saudi Supply Chain Resilience",
-      "summary": "Federal Express Corporation joins an American Chamber of Commerce Saudi Arabia webinar, highlighting AI, tech and strategy in strengthening resilient supply chains in the Kingdom. The post FedEx Highlights AI and Data as Pillars for Saudi Supply Chain Resilience appeared first on…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/fedex-highlights-ai-and-data-as-pillars-for-saudi-supply-chain-resilience/",
-      "date": "2026-05-21",
-      "category": "Payments",
-      "tags": [
-        "fedex highlights",
-        "ai",
-        "data"
       ]
     }
   ]
