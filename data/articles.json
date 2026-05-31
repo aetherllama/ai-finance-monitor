@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-31T09:48:51Z",
+  "last_updated": "2026-05-31T20:15:08Z",
   "insights": {
     "risks": [
       "Regulatory: Top 3 Popular AI Playbook for Platform Credibility of Fintech Business — review compliance obligations.",
       "Trading risk: Disciplined AI agents are the disruptor needed to break the exchange churn model — assess algorithmic exposure.",
-      "Operational: Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain — evaluate model governance gaps."
+      "Operational: Wall Street bulls bet US stocks rally will defy bubble fears — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Why Financial Institutions Fail at AI — potential infrastructure advantage.",
-      "Banking efficiency: Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain — cost reduction opportunity."
+      "Banking efficiency: Wall Street bulls bet US stocks rally will defy bubble fears — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 15
     },
     {
       "topic": "Automation",
@@ -42,6 +42,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "964367207",
+      "title": "Wall Street bulls bet US stocks rally will defy bubble fears",
+      "summary": "Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/90dbca8c-fb63-4fa5-a5d6-e6d6d9f6d10e",
+      "date": "2026-05-31",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "us",
+        "investors"
+      ]
+    },
     {
       "id": "339643024",
       "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
@@ -859,20 +873,6 @@
         "national bank",
         "canada",
         "series"
-      ]
-    },
-    {
-      "id": "826906567",
-      "title": "Reflections from the City Week event: The Move to Agentic AI in Financial Services",
-      "summary": "At City Week’s AI in Financial Services Summit this week, the panel on “From GenAI to Agentic AI and...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31784/reflections-from-the-city-week-event-the-move-to-agentic-ai-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "reflections",
-        "city week",
-        "the move"
       ]
     }
   ]
