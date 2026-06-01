@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-01T12:42:19Z",
+  "last_updated": "2026-06-01T22:13:02Z",
   "insights": {
     "risks": [
-      "Regulatory: Top 3 Popular AI Playbook for Platform Credibility of Fintech Business — review compliance obligations.",
-      "Operational: AI Gives Smaller Credit Unions a Shot at Bigger Growth — evaluate model governance gaps."
+      "Trading risk: Alphabet to sell $80bn in stock to fund AI infrastructure spending spree — assess algorithmic exposure.",
+      "Operational: Saris Raises $28 Million to Bring Agentic AI to Banking — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks — potential infrastructure advantage.",
-      "Banking efficiency: AI Gives Smaller Credit Unions a Shot at Bigger Growth — cost reduction opportunity."
+      "Banking efficiency: Saris Raises $28 Million to Bring Agentic AI to Banking — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 16
     },
     {
       "topic": "Automation",
@@ -41,6 +41,47 @@
     }
   ],
   "articles": [
+    {
+      "id": "427096413",
+      "title": "Alphabet to sell $80bn in stock to fund AI infrastructure spending spree",
+      "summary": "Landmark fundraising plans include $10bn private placement to Berkshire Hathaway",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257",
+      "date": "2026-06-01",
+      "category": "Trading",
+      "tags": [
+        "alphabet",
+        "ai",
+        "landmark"
+      ]
+    },
+    {
+      "id": "272533993",
+      "title": "Saris Raises $28 Million to Bring Agentic AI to Banking",
+      "summary": "Saris has raised $28.8 million for its agentic workflow platform for financial institutions. The company’s Series A funding round, announced Monday (June 1), will be used to scale the Saris platform to more banks and credit unions, strengthen integrations with partners like Fiser…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/saris-raises-28-million-to-bring-agentic-ai-to-banking/",
+      "date": "2026-06-01",
+      "category": "Banking",
+      "tags": [
+        "saris raises",
+        "million",
+        "bring agentic"
+      ]
+    },
+    {
+      "id": "740724114",
+      "title": "Artificial intelligence (AI) could significantly increase adviser productivity in the wealth management industry, as wealth advisers currently spend nearly 70% of their time on administrative and operational tasks, leaving only about 30% for client engagement and relationship management.",
+      "summary": "Artificial intelligence (AI) could significantly increase adviser productivity in the wealth management industry, as wealth advisers currently spend nearly 70% of their time on administrative and operational tasks, leaving only about 30% for client engagement and relationship management.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/financial-technology/in-focus/ai-exposes-wealth-advisers-70-admin-drag",
+      "date": "2026-06-01",
+      "category": "Banking",
+      "tags": [
+        "artificial",
+        "ai"
+      ]
+    },
     {
       "id": "733646040",
       "title": "Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks",
@@ -831,48 +872,6 @@
         "nasdaq",
         "nivf",
         "us"
-      ]
-    },
-    {
-      "id": "223725136",
-      "title": "House Hearing Puts AI Fraud at Center of AML Overhaul",
-      "summary": "Criminals are not waiting for regulators to modernize anti-money laundering rules, and that asymmetry shaped a House hearing that exposed a larger divide than where to set reporting thresholds. At issue was whether the Bank Secrecy Act should evolve into a faster, more targeted a…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/aml/2026/house-hearing-puts-ai-fraud-at-center-of-aml-overhaul/",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "house hearing",
-        "puts ai",
-        "fraud"
-      ]
-    },
-    {
-      "id": "774340285",
-      "title": "When AI Gets Smarter, Can Banks Still Think Clearly?",
-      "summary": "Why Smarter AI Could Quietly Weaken Enterprise Judgment The next risk in financial services AI may n...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31798/when-ai-gets-smarter-can-banks-still-think-clearly?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "when ai",
-        "gets smarter",
-        "can banks"
-      ]
-    },
-    {
-      "id": "459022027",
-      "title": "Fresha Raises $80 Million to Bring AI to Beauty Scheduling",
-      "summary": "Beauty-and-wellness scheduling software firm Fresha is now a $1 billion company. The startup announced the new valuation Thursday (May 21) along with news it had received $80 million from funds managed by investment giant KKR. “Fresha has built a differentiated platform, combinin…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/fresha-raises-80-million-to-bring-ai-to-beauty-scheduling/",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "fresha raises",
-        "million",
-        "bring ai"
       ]
     }
   ]
