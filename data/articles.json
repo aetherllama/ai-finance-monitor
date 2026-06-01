@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-05-31T20:15:08Z",
+  "last_updated": "2026-06-01T12:42:19Z",
   "insights": {
     "risks": [
       "Regulatory: Top 3 Popular AI Playbook for Platform Credibility of Fintech Business — review compliance obligations.",
-      "Trading risk: Disciplined AI agents are the disruptor needed to break the exchange churn model — assess algorithmic exposure.",
-      "Operational: Wall Street bulls bet US stocks rally will defy bubble fears — evaluate model governance gaps."
+      "Operational: AI Gives Smaller Credit Unions a Shot at Bigger Growth — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Why Financial Institutions Fail at AI — potential infrastructure advantage.",
-      "Banking efficiency: Wall Street bulls bet US stocks rally will defy bubble fears — cost reduction opportunity."
+      "Payments: Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks — potential infrastructure advantage.",
+      "Banking efficiency: AI Gives Smaller Credit Unions a Shot at Bigger Growth — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,30 +17,72 @@
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 6
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 2
     },
     {
       "topic": "Payments AI",
       "count": 2
     },
     {
-      "topic": "Credit & Underwriting",
+      "topic": "Stablecoin AI",
       "count": 1
     },
     {
-      "topic": "Fraud Detection",
+      "topic": "Credit & Underwriting",
       "count": 1
     },
     {
       "topic": "Generative AI",
       "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "733646040",
+      "title": "Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks",
+      "summary": "As Money20/20 Europe opens, The Fintech Times analyses how AI automation, stablecoin liquidity, market consolidation, and PSD3 rules reshape financial systems. The post Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks appeared fir…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/money-20-20-2026-preview-boost-security-and-accelerate-liquidity-across-global-financial-networks/",
+      "date": "2026-06-01",
+      "category": "Payments",
+      "tags": [
+        "money",
+        "preview",
+        "boost security"
+      ]
+    },
+    {
+      "id": "924465687",
+      "title": "AI Gives Smaller Credit Unions a Shot at Bigger Growth",
+      "summary": "Credit unions have traditionally played to their strengths. These community lenders built their competitive identity around trust, community roots and customer service. The pitch was fundamentally relational. Credit unions are local institutions offering a more personal alternati…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/credit-unions/2026/ai-gives-smaller-credit-unions-a-shot-at-bigger-growth/",
+      "date": "2026-06-01",
+      "category": "Banking",
+      "tags": [
+        "ai gives",
+        "smaller credit",
+        "unions"
+      ]
+    },
+    {
+      "id": "689792802",
+      "title": "The Asia-Pacific AI in finance market is expected to grow from $8.85b in 2023 to about $91.78b by 2032, driven by rising demand for automated financial advisory services, fraud detection systems, and personalised banking services, which is driving AI adoption across the financial sector.",
+      "summary": "The Asia-Pacific AI in finance market is expected to grow from $8.85b in 2023 to about $91.78b by 2032, driven by rising demand for automated financial advisory services, fraud detection systems, and personalised banking services, which is driving AI adoption across the financial sector.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/financial-technology/in-focus/ai-finance-market-races-toward-92b-in-apac-2032",
+      "date": "2026-05-31",
+      "category": "Banking",
+      "tags": [
+        "the asia",
+        "pacific ai",
+        "ai"
+      ]
+    },
     {
       "id": "964367207",
       "title": "Wall Street bulls bet US stocks rally will defy bubble fears",
@@ -832,47 +873,6 @@
         "fresha raises",
         "million",
         "bring ai"
-      ]
-    },
-    {
-      "id": "747025309",
-      "title": "Trump Delays AI Executive Order Over Competitiveness Concerns",
-      "summary": "President Donald Trump delayed signing an executive order that would have given the United States government more oversight over the artificial intelligence industry. Trump told reporters in the Oval Office that he did not want to take any action that would slow the U.S. down in …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/trump-delays-ai-executive-order-over-competitiveness-concerns/",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "trump delays",
-        "ai executive",
-        "order over"
-      ]
-    },
-    {
-      "id": "171737109",
-      "title": "AI set to automate up to 50% of tasks in most financial services roles",
-      "summary": "AI could automate up to half of tasks in most financial services roles, leading to potential major employment consequences unless the technology is used to drive not just efficiency but growth, according to a UK government-commissioned report.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47792/ai-set-to-automate-up-to-50-of-tasks-in-most-financial-services-roles?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "uk"
-      ]
-    },
-    {
-      "id": "4381894",
-      "title": "National Bank of Canada leads $25 million Series C extension in Sardine",
-      "summary": "National Bank of Canada is leading a $25 million Series C extension in Sardine, provider of an AI risk platform for fraud, compliance and credit underwriting.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47788/national-bank-of-canada-leads-25-million-series-c-extension-in-sardine?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-21",
-      "category": "Banking",
-      "tags": [
-        "national bank",
-        "canada",
-        "series"
       ]
     }
   ]
