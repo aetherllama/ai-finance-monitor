@@ -1,31 +1,35 @@
 {
-  "last_updated": "2026-06-02T11:22:02Z",
+  "last_updated": "2026-06-02T21:52:27Z",
   "insights": {
     "risks": [
-      "Trading risk: ThinkMarkets launches Ai assistant for CFD trading — assess algorithmic exposure.",
-      "Operational: Gradient Labs raises fresh funds to build specialist AI agents for finance — evaluate model governance gaps."
+      "Trading risk: Interactive Brokers launches agentic trading through Claude integration — assess algorithmic exposure.",
+      "Operational: HearstLab and Fitch Learning take stake in Founderz to bridge AI literacy gap at banks — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks — potential infrastructure advantage.",
-      "Banking efficiency: Gradient Labs raises fresh funds to build specialist AI agents for finance — cost reduction opportunity."
+      "Payments: Ixopay unveils AI payments assistant and intelligence platform — potential infrastructure advantage.",
+      "Banking efficiency: HearstLab and Fitch Learning take stake in Founderz to bridge AI literacy gap at banks — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 14
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Payments AI",
       "count": 2
+    },
+    {
+      "topic": "Risk Management",
+      "count": 1
     },
     {
       "topic": "Customer Service AI",
@@ -42,13 +46,135 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "629852053",
+      "title": "HearstLab and Fitch Learning take stake in Founderz to bridge AI literacy gap at banks",
+      "summary": "Fitch Learning, the global leader in financial services education, and Founderz, Europe’s premier AI business school, today announced a strategic partnership that will provide learners worldwide with innovative, personalized training that combines Fitch’s deep expertise in financ…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110012/hearstlab-and-fitch-learning-take-stake-in-founderz-to-bridge-ai-literacy-gap-at-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "hearstlab",
+        "fitch learning",
+        "founderz"
+      ]
+    },
+    {
+      "id": "464215786",
+      "title": "Interactive Brokers launches agentic trading through Claude integration",
+      "summary": "Interactive Brokers (Nasdaq: IBKR), an automated global broker, today announced agentic trading through direct integration with Claude, one of the world’s leading AI platforms.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110009/interactive-brokers-launches-agentic-trading-through-claude-integration?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Trading",
+      "tags": [
+        "interactive brokers",
+        "claude",
+        "nasdaq"
+      ]
+    },
+    {
+      "id": "25727681",
+      "title": "DNB Bank expands partnership with Infosys for AI-driven financial crime operations",
+      "summary": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting and technology services, today announced the expansion of its strategic collaboration with DNB Bank ASA (DNB), Norway’s largest bank, to modernize its Financial Crime (FinCrime) operations using NICE …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110005/dnb-bank-expands-partnership-with-infosys-for-ai-driven-financial-crime-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "dnb bank",
+        "infosys",
+        "ai"
+      ]
+    },
+    {
+      "id": "537400164",
+      "title": "Ixopay unveils AI payments assistant and intelligence platform",
+      "summary": "Ixopay, the performance layer powering global payments for the agentic era, today announced Ixopay Payments Intelligence, a unified control center that transforms fragmented payment data into real-time, actionable insights.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110003/ixopay-unveils-ai-payments-assistant-and-intelligence-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Payments",
+      "tags": [
+        "ixopay",
+        "ai",
+        "ixopay payments"
+      ]
+    },
+    {
+      "id": "627184363",
+      "title": "XFolio AI buys Absolute Payments to unify treasury and payments for UK corporates",
+      "summary": "XFolio AI (xfolio.ai), a Paris-based treasury and cash management technology group, has acquired Absolute Payment Solutions (APS) (https://www.absolutepayments.com/), one of a select number of Pay.UK-accredited Bacs service providers in the UK.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110002/xfolio-ai-buys-absolute-payments-to-unify-treasury-and-payments-for-uk-corporates?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Payments",
+      "tags": [
+        "xfolio ai",
+        "absolute payments",
+        "uk"
+      ]
+    },
+    {
+      "id": "487893165",
+      "title": "What Banking Leaders Should Do Now when Banks Are Becoming AI Infrastructure Companies",
+      "summary": "Banks are increasingly transitioning from traditional digital institutions to entities that are fund...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31903/what-banking-leaders-should-do-now-when-banks-are-becoming-ai-infrastructure-companies?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "what banking",
+        "leaders should",
+        "do now"
+      ]
+    },
+    {
+      "id": "937722287",
+      "title": "Experian Readies Agentic AI to Overhaul Legacy Lending Processes",
+      "summary": "Experian has announced the upcoming launch of a trusted agentic artificial intelligence (AI) layer within the Experian Ascend Platform that is designed to help financial services organizations scale agentic AI. The Experian Agent Operating System will enable AI agents from Experi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/experian-readies-agentic-ai-to-overhaul-legacy-lending-processes/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "experian readies",
+        "agentic ai",
+        "overhaul legacy"
+      ]
+    },
+    {
+      "id": "497576703",
+      "title": "3 Takeaways as AI Moves Into Banks’ Daily Operating Machinery",
+      "summary": "Artificial intelligence is emerging as both banking product and workplace tool in the financial services realm. The latest bank and provider moves suggest that AI’s most immediate payoff is coming from internal operations. Banks are using it to prepare advisers for client meeting…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/3-takeaways-as-ai-moves-into-banks-daily-operating-machinery/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "takeaways",
+        "ai moves",
+        "into banks"
+      ]
+    },
+    {
+      "id": "338095797",
+      "title": "Banks and FinTechs Are Sitting on the Most Powerful AI Dataset in Finance",
+      "summary": "Nvidia has released a blueprint for banks to collapse their patchwork of artificial intelligence (AI) systems into a single model—one trained on the transaction data they already own—capable of handling fraud detection, credit scoring and risk assessment together rather than sepa…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/banks-and-fintechs-are-sitting-on-the-most-powerful-ai-dataset-in-finance/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "banks",
+        "fintechs are",
+        "sitting"
+      ]
+    },
     {
       "id": "313440464",
       "title": "Gradient Labs raises fresh funds to build specialist AI agents for finance",
@@ -199,6 +325,20 @@
       "category": "Banking",
       "tags": [
         "ai"
+      ]
+    },
+    {
+      "id": "62943950",
+      "title": "Addressing the AI Blind Spot: Why Tech Alone Won’t Transform Financial Services",
+      "summary": "Karli Kalpala of Digital Workforce says AI in financial services needs operational change, accountability and compliance built in from the start. The post Addressing the AI Blind Spot: Why Tech Alone Won’t Transform Financial Services appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/addressing-the-ai-blind-spot-why-tech-alone-wont-transform-financial-services/",
+      "date": "2026-06-01",
+      "category": "RegTech",
+      "tags": [
+        "addressing",
+        "ai blind",
+        "spot"
       ]
     },
     {
@@ -738,146 +878,6 @@
         "paymentus sees",
         "ai",
         "force multiplier"
-      ]
-    },
-    {
-      "id": "657008439",
-      "title": "The biggest barrier to AI in Southeast Asia is not the technology, it is the operating model",
-      "summary": "Across Southeast Asia, AI adoption is accelerating rapidly. According to McKinsey, generative AI could add up to US$4.4 trillion annually to the global economy through productivity gains and new business models. At the same time, Singapore recently ranked fourth globally in start…",
-      "source": "e27",
-      "url": "https://e27.co/the-biggest-barrier-to-ai-in-southeast-asia-is-not-the-technology-it-is-the-operating-model-20260524/",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "southeast asia",
-        "across southeast"
-      ]
-    },
-    {
-      "id": "707940258",
-      "title": "SmartComply bids to help UK firms reopen African payment corridors",
-      "summary": "Lagos-based compliance and cybersecurity company SmartComply has launched in the UK, making its AI-powered anti-money laundering platform available to British payment firms serving African markets.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47805/smartcomply-bids-to-help-uk-firms-reopen-african-payment-corridors?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-26",
-      "category": "RegTech",
-      "tags": [
-        "smartcomply",
-        "uk",
-        "african"
-      ]
-    },
-    {
-      "id": "984636538",
-      "title": "Alipay delivers full-stack AI payments infrastructure",
-      "summary": "Alipay today introduced its full-stack AI payment solution to partners across industries, ranging from AI companies to traditional retailers, and debuted two new services — the world’s first AI Wallet and Token Pay — to support the agentic economy’s rapid growth.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109934/alipay-delivers-full-stack-ai-payments-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-26",
-      "category": "Payments",
-      "tags": [
-        "alipay",
-        "ai",
-        "ai wallet"
-      ]
-    },
-    {
-      "id": "792742186",
-      "title": "A reality check on the AI jobs hysteria",
-      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer o…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "date": "2026-05-26",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "haven",
-        "white"
-      ]
-    },
-    {
-      "id": "502882523",
-      "title": "RemotePass Secures $17.4M Series B as Global Employment and Fintech Collide",
-      "summary": "RemotePass secures $17.4m in Series B funding led by EBRD Venture Capital to expand globally and scale its embedded fintech and AI tools. The post RemotePass Secures $17.4M Series B as Global Employment and Fintech Collide appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/remotepass-secures-17-4m-series-b-as-global-employment-and-fintech-collide/",
-      "date": "2026-05-26",
-      "category": "Payments",
-      "tags": [
-        "remotepass secures",
-        "series",
-        "global employment"
-      ]
-    },
-    {
-      "id": "103878942",
-      "title": "Singapore’s AI paradox: World-class infrastructure, single-digit SME adoption",
-      "summary": "If you have read anything about AI in Singapore over the past two years, you have probably seen the headlines. World-class AI infrastructure. Top three globally for government AI readiness. Number one in Asia for population-level AI usage. A national AI council chaired by the Pri…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-ai-paradox-world-class-infrastructure-single-digit-sme-adoption-20260524/",
-      "date": "2026-05-26",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "world"
-      ]
-    },
-    {
-      "id": "890254901",
-      "title": "Commonwealth Bank of Australia (CommBank or CBA) has begun testing CommBank Companion, an artificial intelligence (AI)-powered conversational service.",
-      "summary": "Commonwealth Bank of Australia (CommBank or CBA) has begun testing CommBank Companion, an artificial intelligence (AI)-powered conversational service.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/news/commbank-tests-ai-banking-assistant-in-app-pilot",
-      "date": "2026-05-26",
-      "category": "Banking",
-      "tags": [
-        "commonwealth bank",
-        "australia",
-        "commbank"
-      ]
-    },
-    {
-      "id": "551085052",
-      "title": "'The clock is ticking' - ECB calls in banks over Mythos risks",
-      "summary": "The European Central Bank has called in banks for a meeting this week to urge them to speed up their efforts to fix IT issues exposed by new AI models.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47804/the-clock-is-ticking---ecb-calls-in-banks-over-mythos-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-25",
-      "category": "Banking",
-      "tags": [
-        "ecb",
-        "mythos",
-        "the european"
-      ]
-    },
-    {
-      "id": "546496054",
-      "title": "Why AI-Powered Digital Product Engineering Is Becoming a Financial Priority",
-      "summary": "Digital transformation is no longer only a technology discussion. Today, it has become a major finan...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31815/why-ai-powered-digital-product-engineering-is-becoming-a-financial-priority?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-25",
-      "category": "Banking",
-      "tags": [
-        "why ai",
-        "powered digital",
-        "product engineering"
-      ]
-    },
-    {
-      "id": "450388018",
-      "title": "TD builds AI model to speed up mortgage applications",
-      "summary": "Canada's TD Bank has launched an agentic AI model that automates and streamlines the application process for mortgages and home equity lines of credit.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47801/td-builds-ai-model-to-speed-up-mortgage-applications?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-25",
-      "category": "Banking",
-      "tags": [
-        "td",
-        "ai",
-        "canada"
       ]
     }
   ]
