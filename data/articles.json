@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-01T22:13:02Z",
+  "last_updated": "2026-06-02T11:22:02Z",
   "insights": {
     "risks": [
-      "Trading risk: Alphabet to sell $80bn in stock to fund AI infrastructure spending spree — assess algorithmic exposure.",
-      "Operational: Saris Raises $28 Million to Bring Agentic AI to Banking — evaluate model governance gaps."
+      "Trading risk: ThinkMarkets launches Ai assistant for CFD trading — assess algorithmic exposure.",
+      "Operational: Gradient Labs raises fresh funds to build specialist AI agents for finance — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks — potential infrastructure advantage.",
-      "Banking efficiency: Saris Raises $28 Million to Bring Agentic AI to Banking — cost reduction opportunity."
+      "Banking efficiency: Gradient Labs raises fresh funds to build specialist AI agents for finance — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 13
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Fraud Detection",
@@ -26,6 +26,14 @@
     {
       "topic": "Payments AI",
       "count": 2
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
+    },
+    {
+      "topic": "KYC / AML",
+      "count": 1
     },
     {
       "topic": "Stablecoin AI",
@@ -41,6 +49,158 @@
     }
   ],
   "articles": [
+    {
+      "id": "313440464",
+      "title": "Gradient Labs raises fresh funds to build specialist AI agents for finance",
+      "summary": "Gradient Labs, the startup founded by Monzo alumni to create AI agents for the financial services industry, has doubled its Series A round with $13 million in fresh funding.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47840/gradient-labs-raises-fresh-funds-to-build-specialist-ai-agents-for-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "gradient labs",
+        "ai",
+        "monzo"
+      ]
+    },
+    {
+      "id": "561486747",
+      "title": "ThinkMarkets launches Ai assistant for CFD trading",
+      "summary": "ThinkMarkets (www.ThinkMarkets.com) today launches ChelseaAI, a product that connects a live ThinkTrader account directly to an AI assistant.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110001/thinkmarkets-launches-ai-assistant-for-cfd-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Trading",
+      "tags": [
+        "thinkmarkets",
+        "ai",
+        "cfd"
+      ]
+    },
+    {
+      "id": "437948012",
+      "title": "Napier AI delivers AML compliance module to Concentrix",
+      "summary": "Concentrix Corporation (NASDAQ: CNXC), a global technology and services leader, has joined forces with Napier AI as part of its broader financial crime compliance ecosystem to deliver advanced, AI-powered anti-money laundering (AML) solutions for banking, financial services and T…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/109991/napier-ai-delivers-aml-compliance-module-to-concentrix?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "napier ai",
+        "aml",
+        "concentrix concentrix"
+      ]
+    },
+    {
+      "id": "173165762",
+      "title": "Fiserv Co-President Dhivya Suryadevara Says AI Could Be Banks’ Shortcut to Modernization",
+      "summary": "Banks spent years treating core modernization as a lengthy infrastructure project. Dhivya Suryadevara believes artificial intelligence may alter that timetable. In a conversation with PYMNTS CEO Karen Webster, the Fiserv co-president described AI as a practical tool for rewriting…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/fiserv-co-president-dhivya-suryadevara-says-ai-could-be-banks-shortcut-to-modernization/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "fiserv co",
+        "president dhivya",
+        "suryadevara says"
+      ]
+    },
+    {
+      "id": "111230885",
+      "title": "Alphabet Plans to Raise $80 Billion for AI Infrastructure",
+      "summary": "Alphabet plans to raise $80 billion in equity capital to expand its artificial intelligence infrastructure and compute and meet “unprecedented customer demand.” The Google parent company’s equity offerings include $30 billion in underwritten public offerings, a $40 billion at-the…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/alphabet-plans-to-raise-80-billion-for-ai-infrastructure/",
+      "date": "2026-06-02",
+      "category": "Trading",
+      "tags": [
+        "alphabet plans",
+        "raise",
+        "billion"
+      ]
+    },
+    {
+      "id": "102233894",
+      "title": "SoftBank CEO Masayoshi Son Predicts AI Will Dwarf Dot-Com Boom",
+      "summary": "If the artificial intelligence sector experiences a market correction, it will soon bounce back, SoftBank CEO Masayoshi Son said Monday (June 1). Speaking with CNBC, Son said that while there is “always a correction,” history shows that auto and electronics stocks bounced back an…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/softbank-ceo-masayoshi-son-predicts-ai-will-dwarf-dot-com-boom/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "softbank ceo",
+        "masayoshi son",
+        "predicts ai"
+      ]
+    },
+    {
+      "id": "74207256",
+      "title": "From Korea to ASEAN: 10 startups building bridges at Echelon Singapore 2026",
+      "summary": "As Southeast Asia’s startup and investment ecosystem continues to expand, GBSA, Gyeonggido Business Science Accelerator, is bringing 10 promising Korean startups to Echelon Singapore 2026 to connect with regional investors, corporates, accelerators, and innovation partners. Selec…",
+      "source": "e27",
+      "url": "https://e27.co/from-korea-to-asean-10-startups-building-bridges-at-echelon-singapore-2026-20260602/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "from korea",
+        "asean",
+        "echelon singapore"
+      ]
+    },
+    {
+      "id": "252653272",
+      "title": "How World is tackling digital trust and human verification in the AI era",
+      "summary": "As artificial intelligence becomes increasingly embedded into digital platforms and online services, questions around trust and authenticity are rapidly moving to the centre of the technology conversation. AI-generated content, synthetic identities, and autonomous agents are resh…",
+      "source": "e27",
+      "url": "https://e27.co/how-world-is-tackling-digital-trust-and-human-verification-in-the-ai-era-20260602/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "how world",
+        "ai",
+        "as"
+      ]
+    },
+    {
+      "id": "316081610",
+      "title": "What to actually prioritise when your board wants AI and everything feels urgent",
+      "summary": "Somewhere in a boardroom in Singapore, a CIO is nodding. The deck says AI transformation. The timeline says 12 months. The budget has been approved. What has not been approved yet, what nobody has actually looked at, is whether the infrastructure underneath can hold any of it. Th…",
+      "source": "e27",
+      "url": "https://e27.co/what-to-actually-prioritise-when-your-board-wants-ai-and-everything-feels-urgent-20260531/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "what",
+        "ai",
+        "somewhere"
+      ]
+    },
+    {
+      "id": "381450468",
+      "title": "How AI is changing what an SME team actually looks like",
+      "summary": "Over the past year, in conversations with HR leaders, business owners and people working with small and medium-sized enterprises across Singapore and Malaysia, one pattern has become hard to ignore. Many leaders are no longer asking whether AI will change their teams. They are as…",
+      "source": "e27",
+      "url": "https://e27.co/how-ai-is-changing-what-an-sme-team-actually-looks-like-20260531/",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "sme",
+        "over"
+      ]
+    },
+    {
+      "id": "518453675",
+      "title": "AI can produce a data-rich financial plan. The question is whether you will be sticking to that plan when markets misbehave.",
+      "summary": "AI can produce a data-rich financial plan. The question is whether you will be sticking to that plan when markets misbehave.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/wealth-management/commentary/ai-can-build-your-plan-can-it-hold-you-it",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "ai"
+      ]
+    },
     {
       "id": "427096413",
       "title": "Alphabet to sell $80bn in stock to fund AI infrastructure spending spree",
@@ -718,160 +878,6 @@
         "td",
         "ai",
         "canada"
-      ]
-    },
-    {
-      "id": "253115394",
-      "title": "Goldman Sachs Predicts AI Agents Will Increase Tech Cash Flow",
-      "summary": "New Goldman Sachs research argues that agentic artificial intelligence will reshape the financial landscape at major tech companies. A report last week from the Wall Street banking giant argues that the adoption of autonomous AI agents is expected to drive a 24-fold increase in g…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/goldman-sachs-predicts-ai-agents-will-increase-tech-cash-flow/",
-      "date": "2026-05-25",
-      "category": "Banking",
-      "tags": [
-        "goldman sachs",
-        "predicts ai",
-        "agents will"
-      ]
-    },
-    {
-      "id": "953018475",
-      "title": "ECB summons banks to urge them to fix flaws exposed by latest AI models",
-      "summary": "Supervisor to stress seriousness of risks to financial system at hastily arranged meeting",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd",
-      "date": "2026-05-24",
-      "category": "RegTech",
-      "tags": [
-        "ecb",
-        "ai",
-        "supervisor"
-      ]
-    },
-    {
-      "id": "819955031",
-      "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
-      "summary": "Elon Musk, Sam Altman and Dario Amodei battle over who can command Wall Street’s deepest pools of capital",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12",
-      "date": "2026-05-23",
-      "category": "Banking",
-      "tags": [
-        "spacex",
-        "openai",
-        "anthropic ipos"
-      ]
-    },
-    {
-      "id": "958317593",
-      "title": "How to Fix The Issue of Data Immobility in Portfolio Systems",
-      "summary": "Taking time out of his attendance at the Communify Intelligence Experience, Jeff Harvey, Executive Director, Operations, Deep Blue Investment Advisors, spoke with FinextraTV about the key wealth management hindrances. Harvey points to legacy tech advancing more slowly than invest…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3512/how-to-fix-the-issue-of-data-immobility-in-portfolio-systems?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-22",
-      "category": "Trading",
-      "tags": [
-        "how",
-        "fix the",
-        "issue"
-      ]
-    },
-    {
-      "id": "572823052",
-      "title": "Quantum and AI Are Breaking Trust Everywhere at Once",
-      "summary": "The Connected Economy has relied on a few supposedly stable assumptions as it scaled. One of the most crucial was that if systems could authenticate users, encrypt communications and validate transactions, trust would scale alongside connectivity. That assumption is now failing i…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/2026/quantum-and-ai-are-breaking-trust-everywhere-at-once/",
-      "date": "2026-05-22",
-      "category": "Banking",
-      "tags": [
-        "quantum",
-        "ai are",
-        "breaking trust"
-      ]
-    },
-    {
-      "id": "185297715",
-      "title": "TD’s AI Just Made Mortgage Waiting Obsolete",
-      "summary": "A mortgage application used to mean waiting. At TD Bank, pre-adjudication averaged roughly 15 hours before a human underwriter could open the file. That window is now under three minutes. TD Bank Group launched its first agentic artificial intelligence (AI) model to close that ga…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/tds-ai-just-made-mortgage-waiting-obsolete/",
-      "date": "2026-05-22",
-      "category": "Banking",
-      "tags": [
-        "td",
-        "ai just",
-        "made mortgage"
-      ]
-    },
-    {
-      "id": "30103108",
-      "title": "Building the ASEAN AI archipelago: How Southeast Asia can secure its place in the global AI value chain",
-      "summary": "At this year’s Asia Tech x Singapore, the region’s premier flagship technology event, a standout moment came from a fringe speaking panel titled, Unlocking Southeast Asia’s AI Potential: From Multilingual Models to Market Impact . As I listened to Temus AI Leader, Matt Johnson an…",
-      "source": "e27",
-      "url": "https://e27.co/building-the-asean-ai-archipelago-how-southeast-asia-can-secure-its-place-in-the-global-ai-value-chain-20250629/",
-      "date": "2026-05-22",
-      "category": "Banking",
-      "tags": [
-        "building",
-        "asean ai",
-        "how southeast"
-      ]
-    },
-    {
-      "id": "294955978",
-      "title": "AI’s tipping point: Why 2026 will separate the leaders from the laggards in financial services",
-      "summary": "Over the past few years, AI in the enterprise has been about trials and piloting of new solutions. While over 70 per cent of banking institutions globally use agentic AI today, only 16 per cent have moved to actual operational deployment. This gap reveals a critical truth: the ba…",
-      "source": "e27",
-      "url": "https://e27.co/ais-tipping-point-why-2026-will-separate-the-leaders-from-the-laggards-in-financial-services-20260115/",
-      "date": "2026-05-22",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "why",
-        "over"
-      ]
-    },
-    {
-      "id": "338586891",
-      "title": "Centenary Group and Huawei partner for banking inclusion project in Uganda",
-      "summary": "Uganda-based financial institution Centenary Group has teamed up with Huawei Uganda for an initiative designed to use AI and other technologies to extend banking services to the country's rural population.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47796/centenary-group-and-huawei-partner-for-banking-inclusion-project-in-uganda?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-22",
-      "category": "Banking",
-      "tags": [
-        "centenary group",
-        "huawei",
-        "uganda uganda"
-      ]
-    },
-    {
-      "id": "160481108",
-      "title": "Coupa Acquires Tonkean to Expand AI Spend Management",
-      "summary": "Coupa is expanding its agentic artificial intelligence ambitions with the acquisition of Tonkean, a deal aimed at making procurement and global trade workflows more autonomous from request to payment. The cloud-native spend management company said Wednesday (May 21) that it acqui…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/acquisitions/2026/coupa-acquires-tonkean-to-expand-ai-spend-management/",
-      "date": "2026-05-22",
-      "category": "Payments",
-      "tags": [
-        "coupa acquires",
-        "tonkean",
-        "expand ai"
-      ]
-    },
-    {
-      "id": "473051894",
-      "title": "K25.ai bags strategic funding from Nasdaq-listed NIVF at US$100M pre-A valuation",
-      "summary": "K25.ai, an APAC-focused startup attempting to fuse live streaming, creator monetisation, and prediction markets, has secured strategic backing from Nasdaq-listed NewGenIVF Group Limited (NIVF) at a US$100 million pre-Series A valuation. The deal includes an initial US$2 million i…",
-      "source": "e27",
-      "url": "https://e27.co/k25-ai-bags-strategic-funding-from-nasdaq-listed-nivf-at-us100m-pre-a-valuation-20260522/",
-      "date": "2026-05-22",
-      "category": "Banking",
-      "tags": [
-        "nasdaq",
-        "nivf",
-        "us"
       ]
     }
   ]
