@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-02T21:52:27Z",
+  "last_updated": "2026-06-03T11:59:25Z",
   "insights": {
     "risks": [
-      "Trading risk: Interactive Brokers launches agentic trading through Claude integration — assess algorithmic exposure.",
-      "Operational: HearstLab and Fitch Learning take stake in Founderz to bridge AI literacy gap at banks — evaluate model governance gaps."
+      "Trading risk: Q2 embeds product portfolio with AI — assess algorithmic exposure.",
+      "Operational: Trustfull releases conversational AI platform to combat fraud — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Ixopay unveils AI payments assistant and intelligence platform — potential infrastructure advantage.",
-      "Banking efficiency: HearstLab and Fitch Learning take stake in Founderz to bridge AI literacy gap at banks — cost reduction opportunity."
+      "Payments: AI Turns Payment Choice Into a Real-Time Contest — potential infrastructure advantage.",
+      "Banking efficiency: Trustfull releases conversational AI platform to combat fraud — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 8
     },
     {
       "topic": "Fraud Detection",
@@ -49,6 +49,88 @@
     }
   ],
   "articles": [
+    {
+      "id": "967606854",
+      "title": "Trustfull releases conversational AI platform to combat fraud",
+      "summary": "Fraud prevention company Trustfull has launched Investigator, a new conversational AI solution designed to help fraud teams assess risk signals and investigate suspicious activity faster.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110026/trustfull-releases-conversational-ai-platform-to-combat-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-03",
+      "category": "Banking",
+      "tags": [
+        "trustfull",
+        "ai",
+        "fraud"
+      ]
+    },
+    {
+      "id": "57245045",
+      "title": "Q2 embeds product portfolio with AI",
+      "summary": "Q2 Holdings, Inc. (NYSE: QTWO), a leading provider of digital transformation solutions for financial services, today announced the launch of Q2 Assistant, a unified AI experience layer embedded directly within Q2’s product portfolio.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110022/q2-embeds-product-portfolio-with-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-03",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "holdings",
+        "inc"
+      ]
+    },
+    {
+      "id": "199133692",
+      "title": "Interactive Brokers integrates with Claude for agentic trading",
+      "summary": "Interactive Brokers (Nasdaq: IBKR), an automated global broker, today announced agentic trading through direct integration with Claude, one of the world’s leading AI platforms.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110019/interactive-brokers-integrates-with-claude-for-agentic-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-03",
+      "category": "Trading",
+      "tags": [
+        "interactive brokers",
+        "claude",
+        "nasdaq"
+      ]
+    },
+    {
+      "id": "485352476",
+      "title": "AI Turns Payment Choice Into a Real-Time Contest",
+      "summary": "Watch more: Winning the Next Transaction: How AI Helps Build Loyalty in Payments Loyalty used to be a relatively simple fight for spend primacy. Issuers wanted the card at the front of the wallet, then the default credential on file. But the architecture beyond loyalty programs r…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/ai-turns-payment-choice-into-a-real-time-contest/",
+      "date": "2026-06-03",
+      "category": "Payments",
+      "tags": [
+        "ai turns",
+        "payment choice",
+        "into"
+      ]
+    },
+    {
+      "id": "676873611",
+      "title": "AI Expands the National Security Rulebook for Tech",
+      "summary": "Watch more: TechReg Wtih David Plotinsky of Morgan Lewis Artificial intelligence is ripping up the rulebooks of industries and sectors in real time. David Plotinsky, partner at Morgan Lewis, said the national security rulebook in the United States is one of them. “There’s going t…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-expands-the-national-security-rulebook-for-tech/",
+      "date": "2026-06-03",
+      "category": "Banking",
+      "tags": [
+        "ai expands",
+        "national security",
+        "rulebook"
+      ]
+    },
+    {
+      "id": "125431744",
+      "title": "Hong Kong’s banking industry is experiencing renewed hiring this year, driven by a capital market rebound and automation projects, after total headcount across major lenders declined slightly in 2025, recruitment executives said.",
+      "summary": "Hong Kong’s banking industry is experiencing renewed hiring this year, driven by a capital market rebound and automation projects, after total headcount across major lenders declined slightly in 2025, recruitment executives said.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/investment-banking/exclusive/ipos-spur-hong-kong-bank-hiring-rebound",
+      "date": "2026-06-02",
+      "category": "Banking",
+      "tags": [
+        "hong kong"
+      ]
+    },
     {
       "id": "629852053",
       "title": "HearstLab and Fitch Learning take stake in Founderz to bridge AI literacy gap at banks",
@@ -795,89 +877,6 @@
         "fiserv",
         "experian pact",
         "aims"
-      ]
-    },
-    {
-      "id": "195329109",
-      "title": "CommBank tests AI companion in banking app",
-      "summary": "CommBank is testing a new conversational AI interface within its banking app, designed to slice and dice spending and savings data to help customers to better manage their money",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47811/commbank-tests-ai-companion-in-banking-app?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "commbank",
-        "ai"
-      ]
-    },
-    {
-      "id": "464026058",
-      "title": "National Bank of Greece in Cyprus goes live with Smartstream’s Air to consolidate reconciliations",
-      "summary": "Smartstream, the trusted data solutions provider for leading global financial institutions and enterprises, today announces that the National Bank of Greece (NBG) in Cyprus has successfully gone live with Air, the company’s AI-enabled reconciliation solution.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109944/national-bank-of-greece-in-cyprus-goes-live-with-smartstreams-air-to-consolidate-reconciliations?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "national bank",
-        "greece",
-        "cyprus"
-      ]
-    },
-    {
-      "id": "883181713",
-      "title": "Money20/20 Europe: Why fraud prevention must evolve in the age of agentic AI",
-      "summary": "As the industry heads to Money20/20 Europe next week, one theme is set to dominate conversations: th...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31833/money2020-europe-why-fraud-prevention-must-evolve-in-the-age-of-agentic-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "europe",
-        "why",
-        "ai as"
-      ]
-    },
-    {
-      "id": "131752207",
-      "title": "BILL Shakes Up Leadership Amid New AI Focus",
-      "summary": "Three weeks after announcing mass job cuts, BILL is instituting an overhaul of its leadership team. The financial operations platform said Tuesday (May 26) that it was making several changes to its executive team as it increases its focus on artificial intelligence. “BILL is at a…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/personnel/2026/bill-shakes-up-leadership-amid-new-ai-focus/",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "bill shakes",
-        "up leadership",
-        "amid new"
-      ]
-    },
-    {
-      "id": "939376034",
-      "title": "Credit Unions Meet the Member Who Wants AI Now",
-      "summary": "“AI at the FI: Inside Credit Unions’ Demand-Execution Gap” examines how consumers, small businesses, credit unions and FinTechs are approaching the next wave of AI-powered financial services. The report finds that demand is high, especially among customers and prospective members…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/credit-unions-meet-the-member-who-wants-ai-now/",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "credit unions",
-        "meet",
-        "member who"
-      ]
-    },
-    {
-      "id": "838890826",
-      "title": "Paymentus Sees AI as a Force Multiplier for Incumbents",
-      "summary": "Watch more: What’s Next in Payments With Paymentus’ Garrett Baird “Legacy” is the typical pejorative shorthand the financial services industry has settled on when describing its own incumbent and slow-moving infrastructure, rigid processes and sprawling technology stacks. They’re…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/paymentus-sees-ai-as-a-force-multiplier-for-incumbents/",
-      "date": "2026-05-27",
-      "category": "Payments",
-      "tags": [
-        "paymentus sees",
-        "ai",
-        "force multiplier"
       ]
     }
   ]
