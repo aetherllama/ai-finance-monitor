@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-03T11:59:25Z",
+  "last_updated": "2026-06-03T21:54:01Z",
   "insights": {
     "risks": [
-      "Trading risk: Q2 embeds product portfolio with AI — assess algorithmic exposure.",
-      "Operational: Trustfull releases conversational AI platform to combat fraud — evaluate model governance gaps."
+      "Trading risk: Google upsizes historic equity raising to $85bn to back AI spending spree — assess algorithmic exposure.",
+      "Operational: Clearwater Analytics brings AI into institutional investment workflow — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI Turns Payment Choice Into a Real-Time Contest — potential infrastructure advantage.",
-      "Banking efficiency: Trustfull releases conversational AI platform to combat fraud — cost reduction opportunity."
+      "Payments: Airwallex Takes on Stripe with New Global Billing Suite Targeted at AI and SaaS Sectors — potential infrastructure advantage.",
+      "Banking efficiency: Clearwater Analytics brings AI into institutional investment workflow — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -49,6 +49,103 @@
     }
   ],
   "articles": [
+    {
+      "id": "730266151",
+      "title": "Google upsizes historic equity raising to $85bn to back AI spending spree",
+      "summary": "Tech giant’s first stock offering in more than two decades gets strong demand as investors shrug off huge investment plans",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/85299cdd-d9b3-4b40-8d10-73fc9ddb4573",
+      "date": "2026-06-03",
+      "category": "Trading",
+      "tags": [
+        "google",
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "id": "535873609",
+      "title": "Clearwater Analytics brings AI into institutional investment workflow",
+      "summary": "Clearwater Analytics (NYSE: CWAN) today introduced new AI-enabled products built on the same trusted investment data foundation supporting more than $10 trillion in global assets.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110035/clearwater-analytics-brings-ai-into-institutional-investment-workflow?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-03",
+      "category": "Banking",
+      "tags": [
+        "clearwater analytics",
+        "ai",
+        "nyse"
+      ]
+    },
+    {
+      "id": "481131100",
+      "title": "Significant AI investment boosts transaction success for Ecommpay merchants",
+      "summary": "In a market where a failed transaction is lost revenue and potentially a lost customer, inclusive global payments platform, Ecommpay, is on a mission to push checkout performance to its absolute limit.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110030/significant-ai-investment-boosts-transaction-success-for-ecommpay-merchants?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-03",
+      "category": "Banking",
+      "tags": [
+        "significant ai",
+        "ecommpay"
+      ]
+    },
+    {
+      "id": "310515122",
+      "title": "Airwallex Takes on Stripe with New Global Billing Suite Targeted at AI and SaaS Sectors",
+      "summary": "Airwallex launches Airwallex Billing, a unified platform for invoicing, subscriptions and usage-based billing, expanding its challenge to Stripe with an end-to-end global financial operations stack. The post Airwallex Takes on Stripe with New Global Billing Suite Targeted at AI a…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/airwallex-takes-on-stripe-with-new-global-billing-suite-targeted-at-ai-and-saas-sectors/",
+      "date": "2026-06-03",
+      "category": "Payments",
+      "tags": [
+        "airwallex takes",
+        "stripe",
+        "new global"
+      ]
+    },
+    {
+      "id": "562764930",
+      "title": "COLIBRIX ONE × BitGN: New Benchmark Reveals AI Reliability Gap",
+      "summary": "A new benchmark from COLIBRIX ONE and BitGN finds most autonomous AI commerce agents fail real payment stress tests, while top-tier architectures hit a 95% success rate. The post COLIBRIX ONE × BitGN: New Benchmark Reveals AI Reliability Gap appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/colibrix-one-x-bitgn-new-benchmark-reveals-ai-reliability-gap/",
+      "date": "2026-06-03",
+      "category": "Payments",
+      "tags": [
+        "colibrix one",
+        "bitgn",
+        "new benchmark"
+      ]
+    },
+    {
+      "id": "237313226",
+      "title": "Alphabet Increases Record-Breaking Stock Offering to Feed AI Demand",
+      "summary": "Two days after announcing a plan to raise $80 billion in equity capital to expand its artificial intelligence infrastructure, Alphabet raised it to $84.75 billion. The underwritten public offerings that were previously announced at a total of $30 billion have been upsized to $34.…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/alphabet-increases-record-breaking-stock-offering-to-feed-ai-demand/",
+      "date": "2026-06-03",
+      "category": "Trading",
+      "tags": [
+        "alphabet increases",
+        "record",
+        "breaking stock"
+      ]
+    },
+    {
+      "id": "513366668",
+      "title": "Ramp Courts $150 Billion Accounting Sector With New AI System",
+      "summary": "Financial operations platform Ramp has launched an artificial intelligence (AI) system designed for accounting firms. Ramp Stack marks the company’s entry into the $150 billion accounting sector at a time when more than 300,000 CPAs have the industry and accounting degrees are at…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ramp-courts-150-billion-accounting-sector-with-new-ai-system/",
+      "date": "2026-06-03",
+      "category": "Banking",
+      "tags": [
+        "ramp courts",
+        "billion accounting",
+        "sector with"
+      ]
+    },
     {
       "id": "967606854",
       "title": "Trustfull releases conversational AI platform to combat fraud",
@@ -782,101 +879,6 @@
         "ai forces",
         "credit unions",
         "rethink"
-      ]
-    },
-    {
-      "id": "456906956",
-      "title": "Singapore’s AI infrastructure gap is trapping businesses in pilot purgatory",
-      "summary": "Singapore s developers are among the most enthusiastic adopters of AI in the world, but a growing body of evidence suggests the AI infrastructure underpinning that ambition is falling dangerously short. A survey of 196 developers and tech leaders conducted at API Days Singapore i…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-ai-infrastructure-gap-is-trapping-businesses-in-pilot-purgatory-20260528/",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "api days"
-      ]
-    },
-    {
-      "id": "355348490",
-      "title": "ACCA finds strong AI adoption in finance roles, but job security concerns persist.",
-      "summary": "ACCA finds strong AI adoption in finance roles, but job security concerns persist.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/nearly-half-finance-workers-fear-ai-job-impact",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "acca",
-        "ai"
-      ]
-    },
-    {
-      "id": "86529870",
-      "title": "The Reality Gap in Financial Services AI",
-      "summary": "Financial institutions do not fail only because they lack data. In many cases, they fail because the...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31847/the-reality-gap-in-financial-services-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "the reality",
-        "gap",
-        "financial services"
-      ]
-    },
-    {
-      "id": "581170082",
-      "title": "Robinhood customers can now let AI agents make trades and credit card purchases",
-      "summary": "Robinhood customers can now enable their AI agents to make payments and trade stocks on their behalf.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47817/robinhood-customers-can-now-let-ai-agents-make-trades-and-credit-card-purchases?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-27",
-      "category": "Banking",
-      "tags": [
-        "robinhood",
-        "ai"
-      ]
-    },
-    {
-      "id": "478583432",
-      "title": "The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data",
-      "summary": "Sixthfin finds 67% of UK firms still rely on Excel for financial close, leaving one in three CFOs questioning data reliability despite AI adoption. The post The Excel Trap. Why 1 in 3 Finance Leaders Still Don’t Trust Their Financial Close Data appeared first on The Fintech Times…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-excel-trap-why-1-in-3-cfos-still-dont-trust-their-financial-close-data/",
-      "date": "2026-05-27",
-      "category": "Payments",
-      "tags": [
-        "the excel",
-        "trap",
-        "why"
-      ]
-    },
-    {
-      "id": "945918206",
-      "title": "Robinhood is letting AI trade for you so you don't have to keep checking the markets",
-      "summary": "Robinhood is bringing hedge fund-style automation to everyday investors by letting AI agents build portfolios, execute stock trades, and even go shopping using virtual credit cards.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/05/27/robinhood-is-letting-ai-trade-for-you-so-you-don-t-have-to-keep-checking-the-markets",
-      "date": "2026-05-27",
-      "category": "Trading",
-      "tags": [
-        "robinhood",
-        "ai"
-      ]
-    },
-    {
-      "id": "362465868",
-      "title": "Fiserv-Experian Pact Aims to Help Merchants Combat Fraud",
-      "summary": "Experian has teamed with Fiserv to help merchants stem the tide of artificial intelligence (AI)-powered fraud. The collaboration involves the addition of real‑time debit card verification for Experian Link, the company’s payment authentication tool, Experian said in a news releas…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/fraud-prevention/2026/fiserv-experian-pact-aims-to-help-merchants-combat-fraud/",
-      "date": "2026-05-27",
-      "category": "Payments",
-      "tags": [
-        "fiserv",
-        "experian pact",
-        "aims"
       ]
     }
   ]
