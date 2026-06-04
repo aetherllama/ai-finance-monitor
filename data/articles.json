@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-04T10:40:45Z",
+  "last_updated": "2026-06-04T21:00:29Z",
   "insights": {
     "risks": [
       "Trading risk: Google upsizes historic equity raising to $85bn to back AI spending spree — assess algorithmic exposure.",
-      "Operational: Capgemini: Personalisation lags in wealth management, reaching just 17% of HNWIs — evaluate model governance gaps."
+      "Operational: Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030 — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Lloyds and Nationwide-backed AI fintech Aveni raises £12 million — potential infrastructure advantage.",
-      "Banking efficiency: Capgemini: Personalisation lags in wealth management, reaching just 17% of HNWIs — cost reduction opportunity."
+      "Payments: Fin AI Agent comes to Plaid Link — potential infrastructure advantage.",
+      "Banking efficiency: Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030 — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -45,6 +45,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "558087142",
+      "title": "Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030",
+      "summary": "Projections by Wall Street bank underpin the $1.78tn valuation group is pitching in IPO",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "goldman sachs",
+        "spacex",
+        "ai"
+      ]
+    },
+    {
+      "id": "497602864",
+      "title": "Fin AI Agent comes to Plaid Link",
+      "summary": "When a consumer reaches out to a fintech support team, the question is almost always about something that's not working as expected.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110045/fin-ai-agent-comes-to-plaid-link?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-04",
+      "category": "Payments",
+      "tags": [
+        "fin ai",
+        "agent",
+        "plaid link"
+      ]
+    },
+    {
+      "id": "778312596",
+      "title": "A Mathematical Measure of AI Alignment",
+      "summary": "A Mathematical Measure of AI Alignment Could Transform How Financial Services Manages Model Risk For...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31926/a-mathematical-measure-of-ai-alignment?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "mathematical measure",
+        "ai alignment",
+        "could transform"
+      ]
+    },
+    {
+      "id": "741816751",
+      "title": "Citi Used AI to Shrink a 60-Minute Document Review to 15 Minutes",
+      "summary": "Banks have spent years launching artificial intelligence (AI) chatbots and virtual assistants. Citigroup’s latest deployment is less visible and more valuable: an AI document-processing system that compresses account opening review time from over an hour to 15 minutes. Tim Ryan, …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/citi-used-ai-to-shrink-a-60-minute-document-review-to-15-minutes/",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "citi used",
+        "ai",
+        "shrink"
+      ]
+    },
+    {
+      "id": "353093170",
+      "title": "Plaid and Fin Deliver AI-Powered Support for Bank Account Linking",
+      "summary": "Plaid and Fin have partnered to enable FinTechs and financial institutions to help their end users connect or reconnect their bank accounts securely within Fin Messenger chat. This capability is enabled by Plaid’s account linking service Plaid Link and Fin’s artificial intelligen…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/partnerships/2026/plaid-and-fin-deliver-ai-powered-support-for-bank-account-linking/",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "plaid",
+        "fin deliver",
+        "ai"
+      ]
+    },
     {
       "id": "599389866",
       "title": "Lloyds and Nationwide-backed AI fintech Aveni raises £12 million",
@@ -805,76 +875,6 @@
         "top",
         "popular ai",
         "playbook"
-      ]
-    },
-    {
-      "id": "105686190",
-      "title": "Inside the AI Workflow Competition at Echelon Singapore 2026",
-      "summary": "The most interesting thing about AI is not how impressive it sounds in a pitch. It s what happens when it s forced to confront the kind of operational friction that real businesses deal with every day. That s what makes this year s AI Workflow Competition at Echelon Singapore 202…",
-      "source": "e27",
-      "url": "https://e27.co/what-happens-when-smes-open-up-their-real-problems-to-top-builders-20260529/",
-      "date": "2026-05-29",
-      "category": "Banking",
-      "tags": [
-        "inside",
-        "ai workflow",
-        "competition"
-      ]
-    },
-    {
-      "id": "727833992",
-      "title": "SEA’s AI infrastructure sector draws US$1.2B as deal activity reaches record high",
-      "summary": "Equity funding into Southeast Asia s AI infrastructure sector has reached approximately US$1.2 billion, with deal volumes hitting an all-time high in 2025, according to a new report from market intelligence platform Tracxn published this month. The report, which tracks disclosed …",
-      "source": "e27",
-      "url": "https://e27.co/ai-infrastructure-tracxn-20260529/",
-      "date": "2026-05-29",
-      "category": "Banking",
-      "tags": [
-        "sea",
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "id": "977024612",
-      "title": "Daloopa raises $47m to power data layer behind AI-driven finance",
-      "summary": "Daloopa, a startup providing the data infrastructure for AI and agentic workflows in finance, has raised $47 million in Series C funding.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47823/daloopa-raises-47m-to-power-data-layer-behind-ai-driven-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "daloopa",
-        "ai",
-        "series"
-      ]
-    },
-    {
-      "id": "649171175",
-      "title": "Disciplined AI agents are the disruptor needed to break the exchange churn model",
-      "summary": "Programmable incentives that allow independent trading agents to earn only when portfolios rise will create a fairer market for retail customers, explains Naja.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/opinion/2026/05/28/disciplined-ai-agents-are-the-disruptor-needed-to-break-the-exchange-churn-model",
-      "date": "2026-05-28",
-      "category": "Trading",
-      "tags": [
-        "disciplined ai",
-        "programmable",
-        "naja"
-      ]
-    },
-    {
-      "id": "618829782",
-      "title": "Fiserv Turns to Cognition to Modernize Banking Tech",
-      "summary": "Payments and financial technology provider Fiserv is teaming with AI agent lab Cognition. The collaboration will see the companies use artificial intelligence (AI) software engineer, Devin, to modernize core banking technology and shorten the time it takes for new capabilities to…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/partnerships/2026/fiserv-turns-to-cognition-to-modernize-banking-tech/",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "fiserv turns",
-        "cognition",
-        "modernize banking"
       ]
     }
   ]
