@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-03T21:54:01Z",
+  "last_updated": "2026-06-04T10:40:45Z",
   "insights": {
     "risks": [
       "Trading risk: Google upsizes historic equity raising to $85bn to back AI spending spree — assess algorithmic exposure.",
-      "Operational: Clearwater Analytics brings AI into institutional investment workflow — evaluate model governance gaps."
+      "Operational: Capgemini: Personalisation lags in wealth management, reaching just 17% of HNWIs — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Airwallex Takes on Stripe with New Global Billing Suite Targeted at AI and SaaS Sectors — potential infrastructure advantage.",
-      "Banking efficiency: Clearwater Analytics brings AI into institutional investment workflow — cost reduction opportunity."
+      "Payments: Lloyds and Nationwide-backed AI fintech Aveni raises £12 million — potential infrastructure advantage.",
+      "Banking efficiency: Capgemini: Personalisation lags in wealth management, reaching just 17% of HNWIs — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Fraud Detection",
@@ -42,13 +42,78 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "599389866",
+      "title": "Lloyds and Nationwide-backed AI fintech Aveni raises £12 million",
+      "summary": "AI fintech Aveni has raised a £12 million funding round led by PXN Ventures, and supported by existing investors Puma Growth Partners, Lloyds Banking Group, Nationwide and Scottish Enterprise.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47859/lloyds-and-nationwide-backed-ai-fintech-aveni-raises-12-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-04",
+      "category": "Payments",
+      "tags": [
+        "lloyds",
+        "nationwide",
+        "ai"
+      ]
+    },
+    {
+      "id": "764727570",
+      "title": "Capgemini: Personalisation lags in wealth management, reaching just 17% of HNWIs",
+      "summary": "The 30th edition of the Capgemini World Wealth Report 2026 draws data from 6,510 high-net-worth individuals (HNWIs) across 27 markets, 144 senior wealth management executives across 24 markets, and 1,317 relationship managers across 24 markets, who were asked about investment pre…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47853/capgemini-personalisation-lags-in-wealth-management-reaching-just-17-of-hnwis?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "capgemini",
+        "personalisation",
+        "hnwis the"
+      ]
+    },
+    {
+      "id": "945484383",
+      "title": "National Bank of Georgia launches modernised RTGS payment system with Montran",
+      "summary": "The National Bank of Georgia (NBG), in partnership with Montran, has successfully launched its upgraded Automated Transfer System (ATS), a modernized Real-Time Gross Settlement (RTGS) platform designed to support ISO 20022 messaging, real-time payments, 24/7 processing, and enhan…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110040/national-bank-of-georgia-launches-modernised-rtgs-payment-system-with-montran?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "national bank",
+        "georgia",
+        "rtgs"
+      ]
+    },
+    {
+      "id": "121609468",
+      "title": "How a 60-year-old cleaning supervisor built an AI agent in 6 weeks",
+      "summary": "A cleaning supervisor I work with in Singapore is in her 60s. She has never written a line of code. Last month, she co-built a Claude-powered scheduling agent with me. It saves her company six hours of dispatcher time every single week. She did not learn to code. She learned to s…",
+      "source": "e27",
+      "url": "https://e27.co/how-a-60-year-old-cleaning-supervisor-built-an-ai-agent-in-6-weeks-20260602/",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "how",
+        "ai",
+        "singapore"
+      ]
+    },
+    {
+      "id": "716812148",
+      "title": "Agentic AI can free up wealth advisors’ time for more client relationship building and raise the industry’s asset under management (AUM) capacity by up to $35t.",
+      "summary": "Agentic AI can free up wealth advisors’ time for more client relationship building and raise the industry’s asset under management (AUM) capacity by up to $35t.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/wealth-management/news/agentic-ai-could-unlock-35t-in-wealth-aum-capacity-deloitte",
+      "date": "2026-06-04",
+      "category": "Banking",
+      "tags": [
+        "agentic ai",
+        "aum"
+      ]
+    },
     {
       "id": "730266151",
       "title": "Google upsizes historic equity raising to $85bn to back AI spending spree",
@@ -810,75 +875,6 @@
         "fiserv turns",
         "cognition",
         "modernize banking"
-      ]
-    },
-    {
-      "id": "117700888",
-      "title": "TD Bank Says AI Is Cutting Mortgage Approvals From 15 Hours to 3 Minutes",
-      "summary": "TD Bank’s latest earnings call suggested the industry is moving into a more operational phase in its use of artificial intelligence, where AI is increasingly tied to loan approvals, fraud management and the economics of customer acquisition. CEO Raymond Chun said on the Thursday …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/td-bank-says-ai-is-cutting-mortgage-approvals-from-15-hours-to-3-minutes/",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "td bank",
-        "says ai",
-        "is cutting"
-      ]
-    },
-    {
-      "id": "173209410",
-      "title": "AI boom outweighs Iran war pain, Korean central bank chief says",
-      "summary": "Shin Hyun-song at first policymaking meeting projects boost to GDP on chip demand and surging stocks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2d1c6dbb-aef5-4f08-bc5a-20c0aa3c1149",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "iran",
-        "korean"
-      ]
-    },
-    {
-      "id": "502574805",
-      "title": "Farsight launches AI agent for client-ready deal materials",
-      "summary": "Farsight, an institutional AI platform for financial services, has launched an agent designed to produce client-ready deck materials from a single prompt.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47820/farsight-launches-ai-agent-for-client-ready-deal-materials?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "farsight",
-        "ai"
-      ]
-    },
-    {
-      "id": "649438029",
-      "title": "The Future of Banking Will Be Representation-Aware",
-      "summary": "Why AI, Governance, Trust, and Institutional Legibility Will Define the Next Phase of Financial Serv...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31853/the-future-of-banking-will-be-representation-aware?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "the future",
-        "banking will",
-        "be representation"
-      ]
-    },
-    {
-      "id": "901140126",
-      "title": "AI Forces Credit Unions to Rethink, Not Replace, Old Tech",
-      "summary": "Watch more: What’s Next in Payments With Velera’s Cody Banks Legacy payments infrastructure has become one of the financial sector’s more complicated inheritances. It’s difficult to replace, expensive to maintain and still central to how money moves across the banking system. Yet…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/credit-unions/2026/ai-forces-credit-unions-to-rethink-not-replace-old-tech/",
-      "date": "2026-05-28",
-      "category": "Banking",
-      "tags": [
-        "ai forces",
-        "credit unions",
-        "rethink"
       ]
     }
   ]
