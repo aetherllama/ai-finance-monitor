@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-04T21:00:29Z",
+  "last_updated": "2026-06-05T10:51:52Z",
   "insights": {
     "risks": [
       "Trading risk: Google upsizes historic equity raising to $85bn to back AI spending spree — assess algorithmic exposure.",
-      "Operational: Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030 — evaluate model governance gaps."
+      "Operational: Bank Regulators Push Stablecoin Rules While Warning on AI Risks — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Fin AI Agent comes to Plaid Link — potential infrastructure advantage.",
-      "Banking efficiency: Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030 — cost reduction opportunity."
+      "Payments: What hiring a high school graduate taught me about talent in the AI economy — potential infrastructure advantage.",
+      "Banking efficiency: Bank Regulators Push Stablecoin Rules While Warning on AI Risks — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -24,6 +24,10 @@
       "count": 3
     },
     {
+      "topic": "Stablecoin AI",
+      "count": 2
+    },
+    {
       "topic": "Payments AI",
       "count": 2
     },
@@ -38,13 +42,37 @@
     {
       "topic": "KYC / AML",
       "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "661628237",
+      "title": "Bank Regulators Push Stablecoin Rules While Warning on AI Risks",
+      "summary": "The House Financial Services Committee’s latest oversight hearing on prudential regulators on Thursday (June 4) took note that the banking system is entering a period in which stablecoins, artificial intelligence and digital payments are moving from experimental subjects to super…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cryptocurrency/2026/bank-regulators-push-stablecoin-rules-while-warning-on-ai-risks/",
+      "date": "2026-06-05",
+      "category": "Banking",
+      "tags": [
+        "bank regulators",
+        "push stablecoin",
+        "rules while"
+      ]
+    },
+    {
+      "id": "607674615",
+      "title": "What hiring a high school graduate taught me about talent in the AI economy",
+      "summary": "Eight years ago, I made a hiring decision that didn’t follow the usual rules. In today’s AI era, where tools can already assist with much of the work that we do, that decision feels even more relevant in hindsight. I was hiring for a fast-growing fintech company. The shortlist wa…",
+      "source": "e27",
+      "url": "https://e27.co/what-hiring-a-high-school-graduate-taught-me-about-talent-in-the-ai-economy-20260602/",
+      "date": "2026-06-05",
+      "category": "Payments",
+      "tags": [
+        "what",
+        "ai",
+        "eight"
+      ]
+    },
     {
       "id": "558087142",
       "title": "Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030",
@@ -847,34 +875,6 @@
         "modernise core",
         "banking systems",
         "deliver hyper"
-      ]
-    },
-    {
-      "id": "888083025",
-      "title": "Visa’s Pismo Says AI Has Exposed Banking’s Old Tech Problem",
-      "summary": "Watch more: What’s Next in Payments With Pismo’s Leonardo Collado Legacy systems rarely become visible until they begin to slow everything around them. For decades, the banking and payments sectors treated core infrastructure as proof of endurance and discipline. Now the same sys…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/payments-innovation/2026/visas-pismo-says-ai-has-exposed-bankings-old-tech-problem/",
-      "date": "2026-05-29",
-      "category": "Banking",
-      "tags": [
-        "visa",
-        "pismo says",
-        "ai has"
-      ]
-    },
-    {
-      "id": "716678664",
-      "title": "Top 3 Popular AI Playbook for Platform Credibility of Fintech Business",
-      "summary": "The Stakes of Trust: Platform Credibility in modern Fintech In the fintech sector, platform credibility acts as the foundational bedrock for all business operations. Fintech firms handle sensitive financial data, facilitate high-value transactions, and must maintain strict regula…",
-      "source": "e27",
-      "url": "https://e27.co/top-3-popular-ai-playbook-platform-credibility-fintech-business-20260529/",
-      "date": "2026-05-29",
-      "category": "RegTech",
-      "tags": [
-        "top",
-        "popular ai",
-        "playbook"
       ]
     }
   ]
