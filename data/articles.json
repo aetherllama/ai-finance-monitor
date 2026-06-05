@@ -1,23 +1,22 @@
 {
-  "last_updated": "2026-06-05T10:51:52Z",
+  "last_updated": "2026-06-05T20:50:01Z",
   "insights": {
     "risks": [
-      "Trading risk: Google upsizes historic equity raising to $85bn to back AI spending spree — assess algorithmic exposure.",
-      "Operational: Bank Regulators Push Stablecoin Rules While Warning on AI Risks — evaluate model governance gaps."
+      "Operational: Airwallex buys financial data automation platform Leapfin — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: What hiring a high school graduate taught me about talent in the AI economy — potential infrastructure advantage.",
-      "Banking efficiency: Bank Regulators Push Stablecoin Rules While Warning on AI Risks — cost reduction opportunity."
+      "Banking efficiency: Airwallex buys financial data automation platform Leapfin — cost reduction opportunity."
     ]
   },
   "trending": [
     {
-      "topic": "AI Agents",
-      "count": 11
+      "topic": "Automation",
+      "count": 10
     },
     {
-      "topic": "Automation",
-      "count": 9
+      "topic": "AI Agents",
+      "count": 10
     },
     {
       "topic": "Fraud Detection",
@@ -45,6 +44,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "521075444",
+      "title": "Airwallex buys financial data automation platform Leapfin",
+      "summary": "Business payments outfit Airwallex has acquired Leapfin, a financial data automation platform specialising in revenue recognition and reconciliation. Financial terms were not disclosed.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47874/airwallex-buys-financial-data-automation-platform-leapfin?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-05",
+      "category": "Banking",
+      "tags": [
+        "airwallex",
+        "leapfin business",
+        "leapfin"
+      ]
+    },
+    {
+      "id": "483293570",
+      "title": "Why Banks Are Reassessing Legacy Email Encryption as DORA, AI, and Cloud Modernization Converge",
+      "summary": "Banking technology leaders are being asked to do something that sounds straightforward but rarely is...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31940/why-banks-are-reassessing-legacy-email-encryption-as-dora-ai-and-cloud-modernization-converge?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-05",
+      "category": "Banking",
+      "tags": [
+        "why banks",
+        "are reassessing",
+        "legacy email"
+      ]
+    },
+    {
+      "id": "153250500",
+      "title": "Experian Deploys ChatGPT App to Capture Personal Loan Shoppers",
+      "summary": "Consumers can now explore personal loan offers from Experian’s lending partners while interacting with OpenAI’s ChatGPT. This capability is enabled by the newly launched Experian Loans ChatGPT application, which combines conversational AI with Experian’s marketplace experience, l…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/experian-deploys-chatgpt-app-to-capture-personal-loan-shoppers/",
+      "date": "2026-06-05",
+      "category": "Banking",
+      "tags": [
+        "experian deploys",
+        "chatgpt app",
+        "capture personal"
+      ]
+    },
     {
       "id": "661628237",
       "title": "Bank Regulators Push Stablecoin Rules While Warning on AI Risks",
@@ -834,47 +875,6 @@
         "europe",
         "turning",
         "ai"
-      ]
-    },
-    {
-      "id": "747879903",
-      "title": "Why Financial Institutions Fail at AI",
-      "summary": "At Baltic Fintech Days in May, I surveyed the room as to how many organisations were running an AI i...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31863/why-financial-institutions-fail-at-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-29",
-      "category": "Payments",
-      "tags": [
-        "why financial",
-        "institutions fail",
-        "ai at"
-      ]
-    },
-    {
-      "id": "323787535",
-      "title": "NatWest taps Cleareye.ai for trade finance ops",
-      "summary": "NatWest has started working with trade finance tech specialist Cleareye.ai to revamp its its trade operations and strengthen financial crime controls.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47827/natwest-taps-cleareyeai-for-trade-finance-ops?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-29",
-      "category": "Banking",
-      "tags": [
-        "natwest",
-        "cleareye"
-      ]
-    },
-    {
-      "id": "247464469",
-      "title": "Modernise Core Banking Systems to Deliver Hyper-Personalisation Through Agentic AI",
-      "summary": "Tech giant Huawei is launching its agentic banking framework to assist financial institutions in achieving true hyper-personalisation The post Modernise Core Banking Systems to Deliver Hyper-Personalisation Through Agentic AI appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/modernise-core-banking-systems-to-deliver-hyper-personalisation-through-agentic-ai/",
-      "date": "2026-05-29",
-      "category": "Payments",
-      "tags": [
-        "modernise core",
-        "banking systems",
-        "deliver hyper"
       ]
     }
   ]
