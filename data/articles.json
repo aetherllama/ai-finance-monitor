@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-06-05T20:50:01Z",
+  "last_updated": "2026-06-06T09:28:23Z",
   "insights": {
     "risks": [
-      "Operational: Airwallex buys financial data automation platform Leapfin — evaluate model governance gaps."
+      "Operational: WTO Says AI Investment Keeps Global Trade Above Trend Despite War — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: What hiring a high school graduate taught me about talent in the AI economy — potential infrastructure advantage.",
-      "Banking efficiency: Airwallex buys financial data automation platform Leapfin — cost reduction opportunity."
+      "Banking efficiency: WTO Says AI Investment Keeps Global Trade Above Trend Despite War — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "Automation",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "Fraud Detection",
@@ -44,6 +44,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "297861083",
+      "title": "WTO Says AI Investment Keeps Global Trade Above Trend Despite War",
+      "summary": "Demand for electronic components related to artificial intelligence helped offset headwinds from the conflict in the Middle East and kept global merchandise trade resilient in the first half of the year, the World Trade Organization (WTO) said in a Friday (June 5) press release. …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/wto-says-ai-investment-keeps-global-trade-above-trend-despite-war/",
+      "date": "2026-06-05",
+      "category": "Banking",
+      "tags": [
+        "wto says",
+        "ai investment",
+        "keeps global"
+      ]
+    },
     {
       "id": "521075444",
       "title": "Airwallex buys financial data automation platform Leapfin",
@@ -860,20 +874,6 @@
       "tags": [
         "the future",
         "belongs",
-        "ai"
-      ]
-    },
-    {
-      "id": "454813261",
-      "title": "Money20/20 Europe: Turning agentic AI into real-world financial infrastructure",
-      "summary": "As we head into Money20/20 Europe, Agentic AI is moving from concept to deployment. Autonomous syste...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31865/money2020-europe-turning-agentic-ai-into-real-world-financial-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-29",
-      "category": "Banking",
-      "tags": [
-        "europe",
-        "turning",
         "ai"
       ]
     }
