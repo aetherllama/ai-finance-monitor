@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-06T20:13:26Z",
+  "last_updated": "2026-06-07T10:07:29Z",
   "insights": {
     "risks": [
-      "Operational: WTO Says AI Investment Keeps Global Trade Above Trend Despite War — evaluate model governance gaps."
+      "Operational: What we know about the plan to give Americans an equity stake in AI — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: What hiring a high school graduate taught me about talent in the AI economy — potential infrastructure advantage.",
-      "Banking efficiency: WTO Says AI Investment Keeps Global Trade Above Trend Despite War — cost reduction opportunity."
+      "Banking efficiency: What we know about the plan to give Americans an equity stake in AI — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -44,6 +44,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "2113662",
+      "title": "What we know about the plan to give Americans an equity stake in AI",
+      "summary": "OpenAI has proposed a sovereign-wealth-style fund to ease public anxiety about the impact of artificial intelligence",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
+      "date": "2026-06-06",
+      "category": "Banking",
+      "tags": [
+        "what",
+        "americans",
+        "ai openai"
+      ]
+    },
     {
       "id": "297861083",
       "title": "WTO Says AI Investment Keeps Global Trade Above Trend Despite War",
@@ -860,20 +874,6 @@
       "tags": [
         "dell",
         "us",
-        "ai"
-      ]
-    },
-    {
-      "id": "850239243",
-      "title": "The Future Belongs to AI-Orchestrators",
-      "summary": "How financial professionals and institutions can survive AI disruption in 2026 and beyond. AI disrup...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31867/the-future-belongs-to-ai-orchestrators?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-05-29",
-      "category": "Banking",
-      "tags": [
-        "the future",
-        "belongs",
         "ai"
       ]
     }
