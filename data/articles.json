@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-07T10:07:29Z",
+  "last_updated": "2026-06-07T20:16:47Z",
   "insights": {
     "risks": [
-      "Operational: What we know about the plan to give Americans an equity stake in AI — evaluate model governance gaps."
+      "Operational: Are we at the start of a new investment super-cycle? — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: What hiring a high school graduate taught me about talent in the AI economy — potential infrastructure advantage.",
-      "Banking efficiency: What we know about the plan to give Americans an equity stake in AI — cost reduction opportunity."
+      "Banking efficiency: Are we at the start of a new investment super-cycle? — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -44,6 +44,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "143325080",
+      "title": "Are we at the start of a new investment super-cycle?",
+      "summary": "AI, clean energy and defence spending are reinforcing each other, amplifying potential spend",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1",
+      "date": "2026-06-07",
+      "category": "Banking",
+      "tags": [
+        "are",
+        "ai"
+      ]
+    },
     {
       "id": "2113662",
       "title": "What we know about the plan to give Americans an equity stake in AI",
@@ -861,20 +874,6 @@
         "wall street",
         "why ai",
         "certik ceo"
-      ]
-    },
-    {
-      "id": "453186373",
-      "title": "Dell’s shares soar 35% as US computer maker taps into AI fervour",
-      "summary": "Rally is the latest sign of Wall Street’s exuberance over companies linked to artificial intelligence",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d218a534-7f63-4bd9-867d-f47f4727e2e1",
-      "date": "2026-05-29",
-      "category": "Banking",
-      "tags": [
-        "dell",
-        "us",
-        "ai"
       ]
     }
   ]
