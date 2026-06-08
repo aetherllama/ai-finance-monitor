@@ -1,34 +1,38 @@
 {
-  "last_updated": "2026-06-07T20:16:47Z",
+  "last_updated": "2026-06-08T12:02:23Z",
   "insights": {
     "risks": [
-      "Operational: Are we at the start of a new investment super-cycle? — evaluate model governance gaps."
+      "Operational: Wall Street set for gains after AI-led rout — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: What hiring a high school graduate taught me about talent in the AI economy — potential infrastructure advantage.",
-      "Banking efficiency: Are we at the start of a new investment super-cycle? — cost reduction opportunity."
+      "Banking efficiency: Wall Street set for gains after AI-led rout — cost reduction opportunity."
     ]
   },
   "trending": [
     {
-      "topic": "Automation",
-      "count": 9
+      "topic": "AI Agents",
+      "count": 10
     },
     {
-      "topic": "AI Agents",
-      "count": 9
+      "topic": "Automation",
+      "count": 7
     },
     {
       "topic": "Fraud Detection",
-      "count": 3
-    },
-    {
-      "topic": "Stablecoin AI",
       "count": 2
     },
     {
       "topic": "Payments AI",
       "count": 2
+    },
+    {
+      "topic": "Large Language Models",
+      "count": 1
+    },
+    {
+      "topic": "Stablecoin AI",
+      "count": 1
     },
     {
       "topic": "Risk Management",
@@ -44,6 +48,104 @@
     }
   ],
   "articles": [
+    {
+      "id": "960021261",
+      "title": "Wall Street set for gains after AI-led rout",
+      "summary": "US stocks poised to rebound from Friday’s fall that rattled global markets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "847416461",
+      "title": "When AI Builds Itself: Why Recursive Self-Learning Is the Most Important Concept in Financial Servic",
+      "summary": "Anthropic published an interesting blog post titled \"When AI Builds Itself.\" a couple of d...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31948/when-ai-builds-itself-why-recursive-self-learning-is-the-most-important-concept-in-financial-servic?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "when ai",
+        "builds itself",
+        "why recursive"
+      ]
+    },
+    {
+      "id": "366633522",
+      "title": "Software Deals Hit COVID-Era Lows Amid AI Disruption",
+      "summary": "Software buyouts, once prized within the private equity world, are reportedly at a six-year low. The reason, according to a Monday (June 8) Financial Times (FT) report, is that the specter of artificial intelligence (AI) disruption has brought dealmaking in the software sector to…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/software-deals-hit-covid-era-lows-amid-ai-disruption/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "software deals",
+        "hit covid",
+        "era lows"
+      ]
+    },
+    {
+      "id": "699839941",
+      "title": "Hyperlayer CEO Says Core Banking Solutions Debate Misses the Point",
+      "summary": "Watch more: Monday Conversation With Hyperlayer’s Rob Rooney Consumers are already turning to large language models to help organize spending, savings and financial decisions. Yet most financial institutions remain structured around products, business lines and technology stacks …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/hyperlayer-ceo-says-core-banking-solutions-debate-misses-the-point/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "hyperlayer ceo",
+        "says core",
+        "banking solutions"
+      ]
+    },
+    {
+      "id": "564939772",
+      "title": "AI Agents Force Finance to Fix the Sandbox Problem",
+      "summary": "The finance team built the model. It ran clean in the pilot. It surfaced patterns the analysts had missed for years. Then the quarter hit, deadlines compressed and the dashboard sat open in a browser tab nobody had time to check. That moment, repeated across hundreds of finance f…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-agents-force-finance-to-fix-the-sandbox-problem/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "ai agents",
+        "force finance",
+        "fix"
+      ]
+    },
+    {
+      "id": "546042237",
+      "title": "Key to AI financial assistance: Removing friction",
+      "summary": "When people interact with money, friction shows up everywhere. It takes the form of unanswered questions, confusing jargon, and tools that do not meet users where they are. Too often, investors face information gaps, cognitive barriers, and fragmented workflows that leave them un…",
+      "source": "e27",
+      "url": "https://e27.co/key-to-ai-financial-assistance-removing-friction-20250930/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "key",
+        "ai",
+        "removing"
+      ]
+    },
+    {
+      "id": "441378001",
+      "title": "Why Asia faces the sharpest agentic fraud exposure",
+      "summary": "In March 2026, a US federal court ruled in Amazon v. Perplexity that a user s permission to an AI agent does not constitute the platform s authorisation. The ruling was narrow in its legal scope but enormous in its commercial implications: it established, in a jurisdiction that s…",
+      "source": "e27",
+      "url": "https://e27.co/why-asia-faces-the-sharpest-agentic-fraud-exposure-20260608/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "why asia",
+        "in march",
+        "us"
+      ]
+    },
     {
       "id": "143325080",
       "title": "Are we at the start of a new investment super-cycle?",
@@ -777,103 +879,6 @@
         "alphabet",
         "ai",
         "landmark"
-      ]
-    },
-    {
-      "id": "272533993",
-      "title": "Saris Raises $28 Million to Bring Agentic AI to Banking",
-      "summary": "Saris has raised $28.8 million for its agentic workflow platform for financial institutions. The company’s Series A funding round, announced Monday (June 1), will be used to scale the Saris platform to more banks and credit unions, strengthen integrations with partners like Fiser…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/saris-raises-28-million-to-bring-agentic-ai-to-banking/",
-      "date": "2026-06-01",
-      "category": "Banking",
-      "tags": [
-        "saris raises",
-        "million",
-        "bring agentic"
-      ]
-    },
-    {
-      "id": "740724114",
-      "title": "Artificial intelligence (AI) could significantly increase adviser productivity in the wealth management industry, as wealth advisers currently spend nearly 70% of their time on administrative and operational tasks, leaving only about 30% for client engagement and relationship management.",
-      "summary": "Artificial intelligence (AI) could significantly increase adviser productivity in the wealth management industry, as wealth advisers currently spend nearly 70% of their time on administrative and operational tasks, leaving only about 30% for client engagement and relationship management.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/financial-technology/in-focus/ai-exposes-wealth-advisers-70-admin-drag",
-      "date": "2026-06-01",
-      "category": "Banking",
-      "tags": [
-        "artificial",
-        "ai"
-      ]
-    },
-    {
-      "id": "733646040",
-      "title": "Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks",
-      "summary": "As Money20/20 Europe opens, The Fintech Times analyses how AI automation, stablecoin liquidity, market consolidation, and PSD3 rules reshape financial systems. The post Money 20/20 2026 Preview: Boost Security and Accelerate Liquidity Across Global Financial Networks appeared fir…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/money-20-20-2026-preview-boost-security-and-accelerate-liquidity-across-global-financial-networks/",
-      "date": "2026-06-01",
-      "category": "Payments",
-      "tags": [
-        "money",
-        "preview",
-        "boost security"
-      ]
-    },
-    {
-      "id": "924465687",
-      "title": "AI Gives Smaller Credit Unions a Shot at Bigger Growth",
-      "summary": "Credit unions have traditionally played to their strengths. These community lenders built their competitive identity around trust, community roots and customer service. The pitch was fundamentally relational. Credit unions are local institutions offering a more personal alternati…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/credit-unions/2026/ai-gives-smaller-credit-unions-a-shot-at-bigger-growth/",
-      "date": "2026-06-01",
-      "category": "Banking",
-      "tags": [
-        "ai gives",
-        "smaller credit",
-        "unions"
-      ]
-    },
-    {
-      "id": "689792802",
-      "title": "The Asia-Pacific AI in finance market is expected to grow from $8.85b in 2023 to about $91.78b by 2032, driven by rising demand for automated financial advisory services, fraud detection systems, and personalised banking services, which is driving AI adoption across the financial sector.",
-      "summary": "The Asia-Pacific AI in finance market is expected to grow from $8.85b in 2023 to about $91.78b by 2032, driven by rising demand for automated financial advisory services, fraud detection systems, and personalised banking services, which is driving AI adoption across the financial sector.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/financial-technology/in-focus/ai-finance-market-races-toward-92b-in-apac-2032",
-      "date": "2026-05-31",
-      "category": "Banking",
-      "tags": [
-        "the asia",
-        "pacific ai",
-        "ai"
-      ]
-    },
-    {
-      "id": "964367207",
-      "title": "Wall Street bulls bet US stocks rally will defy bubble fears",
-      "summary": "Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/90dbca8c-fb63-4fa5-a5d6-e6d6d9f6d10e",
-      "date": "2026-05-31",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "us",
-        "investors"
-      ]
-    },
-    {
-      "id": "339643024",
-      "title": "Wall Street’s trillion-dollar dilemma: Why AI-powered hackers are keeping big banks off the blockchain",
-      "summary": "CertiK CEO and co-founder Ronghui Gu says April was the worst month for DeFi in four years with exploits on 27 out of 30 days.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/05/28/defi-vulnerabilities-are-tradfi-biggest-blocker-as-protocols-hit-by-near-daily-exploits-certik",
-      "date": "2026-05-30",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "why ai",
-        "certik ceo"
       ]
     }
   ]
