@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-06-08T12:02:23Z",
+  "last_updated": "2026-06-08T21:11:58Z",
   "insights": {
     "risks": [
-      "Operational: Wall Street set for gains after AI-led rout — evaluate model governance gaps."
+      "Trading risk: An AI compliance agent that acts breaks the audit trail it was meant to protect — assess algorithmic exposure.",
+      "Operational: Wall Street rebounds as traders race back into chip stocks — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: What hiring a high school graduate taught me about talent in the AI economy — potential infrastructure advantage.",
-      "Banking efficiency: Wall Street set for gains after AI-led rout — cost reduction opportunity."
+      "Banking efficiency: Wall Street rebounds as traders race back into chip stocks — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 8
     },
     {
       "topic": "Fraud Detection",
@@ -25,6 +25,14 @@
     {
       "topic": "Payments AI",
       "count": 2
+    },
+    {
+      "topic": "Machine Learning",
+      "count": 1
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 1
     },
     {
       "topic": "Large Language Models",
@@ -41,13 +49,79 @@
     {
       "topic": "Customer Service AI",
       "count": 1
-    },
-    {
-      "topic": "KYC / AML",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "484676402",
+      "title": "Wall Street rebounds as traders race back into chip stocks",
+      "summary": "Intel and Micron among big gainers as fervour over AI-linked shares resumes",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "intel",
+        "micron"
+      ]
+    },
+    {
+      "id": "400319723",
+      "title": "BBVA partners AWS to build architecture for faster AI deployment",
+      "summary": "BBVA has enlisted Amazon Web Services to help roll out a machine learning operations (MLOps) framework that will help the Spanish bank speed up its deployment of AI models.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47878/bbva-partners-aws-to-build-architecture-for-faster-ai-deployment?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "bbva",
+        "aws",
+        "ai"
+      ]
+    },
+    {
+      "id": "466746159",
+      "title": "An AI compliance agent that acts breaks the audit trail it was meant to protect",
+      "summary": "Compliance teams are being sold AI agents as a faster analyst — a system that watches a portfolio co...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31955/an-ai-compliance-agent-that-acts-breaks-the-audit-trail-it-was-meant-to-protect?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-08",
+      "category": "Trading",
+      "tags": [
+        "an ai",
+        "compliance",
+        "ai"
+      ]
+    },
+    {
+      "id": "721242009",
+      "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
+      "summary": "Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
+      "date": "2026-06-08",
+      "category": "Trading",
+      "tags": [
+        "influential",
+        "ai",
+        "hyperliquid"
+      ]
+    },
+    {
+      "id": "798694055",
+      "title": "Defense Tech Firms VisionWave and Foresight Form AI-Focused Pact",
+      "summary": "Defense technology firm VisionWave is taking a controlling stake in Foresight Autonomous. The company on Monday (June 8) announced it was investing $17 million in Foresight, which makes 3D perception systems. The investment is designed to enhance Foresight’s perception technologi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/defense-tech-firms-visionwave-and-foresight-form-ai-focused-pact/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "defense tech",
+        "firms visionwave",
+        "foresight form"
+      ]
+    },
     {
       "id": "960021261",
       "title": "Wall Street set for gains after AI-led rout",
@@ -811,74 +885,6 @@
         "how world",
         "ai",
         "as"
-      ]
-    },
-    {
-      "id": "316081610",
-      "title": "What to actually prioritise when your board wants AI and everything feels urgent",
-      "summary": "Somewhere in a boardroom in Singapore, a CIO is nodding. The deck says AI transformation. The timeline says 12 months. The budget has been approved. What has not been approved yet, what nobody has actually looked at, is whether the infrastructure underneath can hold any of it. Th…",
-      "source": "e27",
-      "url": "https://e27.co/what-to-actually-prioritise-when-your-board-wants-ai-and-everything-feels-urgent-20260531/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "what",
-        "ai",
-        "somewhere"
-      ]
-    },
-    {
-      "id": "381450468",
-      "title": "How AI is changing what an SME team actually looks like",
-      "summary": "Over the past year, in conversations with HR leaders, business owners and people working with small and medium-sized enterprises across Singapore and Malaysia, one pattern has become hard to ignore. Many leaders are no longer asking whether AI will change their teams. They are as…",
-      "source": "e27",
-      "url": "https://e27.co/how-ai-is-changing-what-an-sme-team-actually-looks-like-20260531/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "sme",
-        "over"
-      ]
-    },
-    {
-      "id": "518453675",
-      "title": "AI can produce a data-rich financial plan. The question is whether you will be sticking to that plan when markets misbehave.",
-      "summary": "AI can produce a data-rich financial plan. The question is whether you will be sticking to that plan when markets misbehave.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/wealth-management/commentary/ai-can-build-your-plan-can-it-hold-you-it",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "62943950",
-      "title": "Addressing the AI Blind Spot: Why Tech Alone Won’t Transform Financial Services",
-      "summary": "Karli Kalpala of Digital Workforce says AI in financial services needs operational change, accountability and compliance built in from the start. The post Addressing the AI Blind Spot: Why Tech Alone Won’t Transform Financial Services appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/addressing-the-ai-blind-spot-why-tech-alone-wont-transform-financial-services/",
-      "date": "2026-06-01",
-      "category": "RegTech",
-      "tags": [
-        "addressing",
-        "ai blind",
-        "spot"
-      ]
-    },
-    {
-      "id": "427096413",
-      "title": "Alphabet to sell $80bn in stock to fund AI infrastructure spending spree",
-      "summary": "Landmark fundraising plans include $10bn private placement to Berkshire Hathaway",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257",
-      "date": "2026-06-01",
-      "category": "Trading",
-      "tags": [
-        "alphabet",
-        "ai",
-        "landmark"
       ]
     }
   ]
