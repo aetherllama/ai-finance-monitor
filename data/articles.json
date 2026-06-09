@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-06-08T21:11:58Z",
+  "last_updated": "2026-06-09T10:36:36Z",
   "insights": {
     "risks": [
-      "Trading risk: An AI compliance agent that acts breaks the audit trail it was meant to protect — assess algorithmic exposure.",
-      "Operational: Wall Street rebounds as traders race back into chip stocks — evaluate model governance gaps."
+      "Trading risk: Big Banks Eye New AI Compute Trading Market — assess algorithmic exposure.",
+      "Operational: Asian tech stocks rebound after Wall Street embraces AI once more — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Wall Street rebounds as traders race back into chip stocks — cost reduction opportunity."
+      "Payments: Lloyds deploys AI agents to check for payment scams in real-time — potential infrastructure advantage.",
+      "Banking efficiency: Asian tech stocks rebound after Wall Street embraces AI once more — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -20,6 +21,10 @@
     },
     {
       "topic": "Fraud Detection",
+      "count": 2
+    },
+    {
+      "topic": "Stablecoin AI",
       "count": 2
     },
     {
@@ -37,21 +42,135 @@
     {
       "topic": "Large Language Models",
       "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "724363740",
+      "title": "Asian tech stocks rebound after Wall Street embraces AI once more",
+      "summary": "Chipmaker-dominant markets rally after sell-off on Monday",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f9367c83-c291-4446-bf12-8282e5169812",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "asian",
+        "wall street",
+        "ai"
+      ]
+    },
+    {
+      "id": "793726857",
+      "title": "Lloyds deploys AI agents to check for payment scams in real-time",
+      "summary": "Lloyds Banking Group is expanding the use of artificial intelligence across its fraud prevention systems, combining agentic AI and real time scam detection to help protect its 28 million customers.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47884/lloyds-deploys-ai-agents-to-check-for-payment-scams-in-real-time?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-09",
+      "category": "Payments",
+      "tags": [
+        "lloyds",
+        "ai",
+        "lloyds banking"
+      ]
+    },
+    {
+      "id": "562705726",
+      "title": "Nationwide, Bain and University of Cambridge call for AI adoption to help advance women’s careers",
+      "summary": "Financial services leaders are being urged to take a collective, responsible approach to artificial intelligence (AI) to ensure it expands opportunity for women rather than reinforcing existing inequalities.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110066/nationwide-bain-and-university-of-cambridge-call-for-ai-adoption-to-help-advance-womens-careers?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "nationwide",
+        "bain",
+        "university"
+      ]
+    },
+    {
+      "id": "77910261",
+      "title": "Mercury CEO Says AI Is Breaking the Old Startup Model",
+      "summary": "The distance between an idea and a functioning business has rarely been shorter. Entrepreneurs operate in a business environment where artificial intelligence (AI) is lowering the cost of starting companies. As result it is accelerating business formation and creating demand for …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/mercury-ceo-says-ai-is-breaking-the-old-startup-model/",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "mercury ceo",
+        "says ai",
+        "is breaking"
+      ]
+    },
+    {
+      "id": "349897297",
+      "title": "FinTechs Lag Credit Unions on the Next AI Banking Test",
+      "summary": "For at least a decade, financial technology companies have promised to offer what most banks and credit unions can’t: technology that allows financial services companies to give millions of customers better, faster and more convenient products and services for the digital age, fr…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/fintechs-lag-credit-unions-on-the-next-ai-banking-test/",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "fintechs lag",
+        "credit unions",
+        "next ai"
+      ]
+    },
+    {
+      "id": "412099759",
+      "title": "Big Banks Eye New AI Compute Trading Market",
+      "summary": "Goldman Sachs and JPMorgan are considering entering the emerging compute trading market, The Information reported Monday (June 8), citing unnamed sources. The banks are exploring trading futures contracts tied to rental prices for graphics processing units, as well as other ways …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/big-banks-eye-new-ai-compute-trading-market/",
+      "date": "2026-06-09",
+      "category": "Trading",
+      "tags": [
+        "big banks",
+        "eye new",
+        "ai compute"
+      ]
+    },
+    {
+      "id": "334482324",
+      "title": "GIC, Stripe back Supabase in US$500M round as AI deployment surges across SEA",
+      "summary": "Supabase, a backend platform that helps you build apps faster without setting up a lot of server stuff yourself, has closed a US$500 million Series F at a US$10.5 billion post-money valuation, marking one of the largest late-stage rounds for an open source database player. The ro…",
+      "source": "e27",
+      "url": "https://e27.co/gic-stripe-back-supabase-in-us500m-round-as-ai-deployment-surges-across-sea-20260609/",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "gic",
+        "stripe",
+        "supabase"
+      ]
+    },
+    {
+      "id": "266325040",
+      "title": "Is our talent pipeline ready for the AI economy? Not in the way we think",
+      "summary": "Ask most organisations in Southeast Asia whether they are investing in AI readiness, and the answer is yes. Ask whether that investment is actually producing people who can work differently because of AI — and the answer becomes much harder to give. This is the gap I keep running…",
+      "source": "e27",
+      "url": "https://e27.co/is-our-talent-pipeline-ready-for-the-ai-economy-not-in-the-way-we-think-20260605/",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "is",
+        "ai",
+        "not"
+      ]
+    },
+    {
+      "id": "270502098",
+      "title": "Eliminate Pre-Funding and Unlock Global Liquidity Via Multi-Rail Automation",
+      "summary": "In an exclusive interview, Nium’s Santhosh Srinivasan discusses how combining fiat and stablecoin rails eliminates pre-funding to unlock global liquidity. The post Eliminate Pre-Funding and Unlock Global Liquidity Via Multi-Rail Automation appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/eliminate-pre-funding-and-unlock-global-liquidity-via-multi-rail-automation/",
+      "date": "2026-06-08",
+      "category": "Payments",
+      "tags": [
+        "eliminate pre",
+        "funding",
+        "unlock global"
+      ]
+    },
     {
       "id": "484676402",
       "title": "Wall Street rebounds as traders race back into chip stocks",
@@ -759,132 +878,6 @@
         "takeaways",
         "ai moves",
         "into banks"
-      ]
-    },
-    {
-      "id": "338095797",
-      "title": "Banks and FinTechs Are Sitting on the Most Powerful AI Dataset in Finance",
-      "summary": "Nvidia has released a blueprint for banks to collapse their patchwork of artificial intelligence (AI) systems into a single model—one trained on the transaction data they already own—capable of handling fraud detection, credit scoring and risk assessment together rather than sepa…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/banks-and-fintechs-are-sitting-on-the-most-powerful-ai-dataset-in-finance/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "banks",
-        "fintechs are",
-        "sitting"
-      ]
-    },
-    {
-      "id": "313440464",
-      "title": "Gradient Labs raises fresh funds to build specialist AI agents for finance",
-      "summary": "Gradient Labs, the startup founded by Monzo alumni to create AI agents for the financial services industry, has doubled its Series A round with $13 million in fresh funding.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47840/gradient-labs-raises-fresh-funds-to-build-specialist-ai-agents-for-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "gradient labs",
-        "ai",
-        "monzo"
-      ]
-    },
-    {
-      "id": "561486747",
-      "title": "ThinkMarkets launches Ai assistant for CFD trading",
-      "summary": "ThinkMarkets (www.ThinkMarkets.com) today launches ChelseaAI, a product that connects a live ThinkTrader account directly to an AI assistant.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110001/thinkmarkets-launches-ai-assistant-for-cfd-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Trading",
-      "tags": [
-        "thinkmarkets",
-        "ai",
-        "cfd"
-      ]
-    },
-    {
-      "id": "437948012",
-      "title": "Napier AI delivers AML compliance module to Concentrix",
-      "summary": "Concentrix Corporation (NASDAQ: CNXC), a global technology and services leader, has joined forces with Napier AI as part of its broader financial crime compliance ecosystem to deliver advanced, AI-powered anti-money laundering (AML) solutions for banking, financial services and T…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/109991/napier-ai-delivers-aml-compliance-module-to-concentrix?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "napier ai",
-        "aml",
-        "concentrix concentrix"
-      ]
-    },
-    {
-      "id": "173165762",
-      "title": "Fiserv Co-President Dhivya Suryadevara Says AI Could Be Banks’ Shortcut to Modernization",
-      "summary": "Banks spent years treating core modernization as a lengthy infrastructure project. Dhivya Suryadevara believes artificial intelligence may alter that timetable. In a conversation with PYMNTS CEO Karen Webster, the Fiserv co-president described AI as a practical tool for rewriting…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/fiserv-co-president-dhivya-suryadevara-says-ai-could-be-banks-shortcut-to-modernization/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "fiserv co",
-        "president dhivya",
-        "suryadevara says"
-      ]
-    },
-    {
-      "id": "111230885",
-      "title": "Alphabet Plans to Raise $80 Billion for AI Infrastructure",
-      "summary": "Alphabet plans to raise $80 billion in equity capital to expand its artificial intelligence infrastructure and compute and meet “unprecedented customer demand.” The Google parent company’s equity offerings include $30 billion in underwritten public offerings, a $40 billion at-the…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/alphabet-plans-to-raise-80-billion-for-ai-infrastructure/",
-      "date": "2026-06-02",
-      "category": "Trading",
-      "tags": [
-        "alphabet plans",
-        "raise",
-        "billion"
-      ]
-    },
-    {
-      "id": "102233894",
-      "title": "SoftBank CEO Masayoshi Son Predicts AI Will Dwarf Dot-Com Boom",
-      "summary": "If the artificial intelligence sector experiences a market correction, it will soon bounce back, SoftBank CEO Masayoshi Son said Monday (June 1). Speaking with CNBC, Son said that while there is “always a correction,” history shows that auto and electronics stocks bounced back an…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/softbank-ceo-masayoshi-son-predicts-ai-will-dwarf-dot-com-boom/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "softbank ceo",
-        "masayoshi son",
-        "predicts ai"
-      ]
-    },
-    {
-      "id": "74207256",
-      "title": "From Korea to ASEAN: 10 startups building bridges at Echelon Singapore 2026",
-      "summary": "As Southeast Asia’s startup and investment ecosystem continues to expand, GBSA, Gyeonggido Business Science Accelerator, is bringing 10 promising Korean startups to Echelon Singapore 2026 to connect with regional investors, corporates, accelerators, and innovation partners. Selec…",
-      "source": "e27",
-      "url": "https://e27.co/from-korea-to-asean-10-startups-building-bridges-at-echelon-singapore-2026-20260602/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "from korea",
-        "asean",
-        "echelon singapore"
-      ]
-    },
-    {
-      "id": "252653272",
-      "title": "How World is tackling digital trust and human verification in the AI era",
-      "summary": "As artificial intelligence becomes increasingly embedded into digital platforms and online services, questions around trust and authenticity are rapidly moving to the centre of the technology conversation. AI-generated content, synthetic identities, and autonomous agents are resh…",
-      "source": "e27",
-      "url": "https://e27.co/how-world-is-tackling-digital-trust-and-human-verification-in-the-ai-era-20260602/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "how world",
-        "ai",
-        "as"
       ]
     }
   ]
