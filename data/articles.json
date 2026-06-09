@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-09T10:36:36Z",
+  "last_updated": "2026-06-09T21:02:40Z",
   "insights": {
     "risks": [
-      "Trading risk: Big Banks Eye New AI Compute Trading Market — assess algorithmic exposure.",
-      "Operational: Asian tech stocks rebound after Wall Street embraces AI once more — evaluate model governance gaps."
+      "Trading risk: Nasdaq slips in volatile trading as 2026 high-flyers pull back — assess algorithmic exposure.",
+      "Operational: Feezai opens fraud intelligence network — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Lloyds deploys AI agents to check for payment scams in real-time — potential infrastructure advantage.",
-      "Banking efficiency: Asian tech stocks rebound after Wall Street embraces AI once more — cost reduction opportunity."
+      "Banking efficiency: Feezai opens fraud intelligence network — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -28,10 +28,6 @@
       "count": 2
     },
     {
-      "topic": "Payments AI",
-      "count": 2
-    },
-    {
       "topic": "Machine Learning",
       "count": 1
     },
@@ -42,9 +38,125 @@
     {
       "topic": "Large Language Models",
       "count": 1
+    },
+    {
+      "topic": "Payments AI",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "236073757",
+      "title": "Nasdaq slips in volatile trading as 2026 high-flyers pull back",
+      "summary": "Losses for AI-linked stocks overshadow gains across rest of market",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede",
+      "date": "2026-06-09",
+      "category": "Trading",
+      "tags": [
+        "nasdaq",
+        "losses",
+        "ai"
+      ]
+    },
+    {
+      "id": "112926397",
+      "title": "ICE launches AI-powered fixed income pre-trade analytics for buyside investors",
+      "summary": "Intercontinental Exchange, Inc. (NYSE: ICE), one of the world's leading providers of financial market technology and data powering global capital markets, today announced the launch of ICE Compass, an AI-powered trading analytics platform that gives buy-side fixed income trading …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110083/ice-launches-ai-powered-fixed-income-pre-trade-analytics-for-buyside-investors?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-09",
+      "category": "Trading",
+      "tags": [
+        "ice",
+        "ai",
+        "intercontinental exchange"
+      ]
+    },
+    {
+      "id": "565005438",
+      "title": "Feezai opens fraud intelligence network",
+      "summary": "Feedzai, the global leader in AI-native financial crime prevention, today announced the availability of Feedzai IQ Score, an AI-native, network-derived fraud risk scoring solution for banks of all sizes.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110077/feezai-opens-fraud-intelligence-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "feezai",
+        "feedzai",
+        "ai"
+      ]
+    },
+    {
+      "id": "454516765",
+      "title": "AI-native banking platform Titan secures $3 million in new funding",
+      "summary": "Titan, the first of its kind, banking‑native AI platform purpose‑built for financial services, today announced it has raised $3 million in new funding, led by Entropy Ventures.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110075/ai-native-banking-platform-titan-secures-3-million-in-new-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "titan",
+        "entropy ventures"
+      ]
+    },
+    {
+      "id": "792745669",
+      "title": "How Agentic AI is transforming the Banking Governance",
+      "summary": "As banks move toward agentic AI systems that retrieve information, call tools and trigger workflows,...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31962/how-agentic-ai-is-transforming-the-banking-governance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "how agentic",
+        "ai",
+        "banking governance"
+      ]
+    },
+    {
+      "id": "905806841",
+      "title": "Trad.Fi, W3 target $650 million in onchain private credit using AI evaluation",
+      "summary": "Equipment-financing lender Trad.Fi is working with W3 to automate capital workflows and bring real-economy business lending onto public blockchain rails.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/09/trad-fi-w3-target-usd650-million-in-onchain-private-credit-using-ai-evaluation",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "trad",
+        "fi",
+        "ai"
+      ]
+    },
+    {
+      "id": "111037135",
+      "title": "Wall Street will run entirely on the blockchain by 2030, says Brickken CEO",
+      "summary": "Edwin Mata argues that EU regulations are choking local startups, leaving the U.S. and automated AI tools to run the future of tokenized finance.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/09/wall-street-will-be-entirely-onchain-by-2030-brickken-ceo-edwin-mata-says",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "brickken ceo",
+        "edwin mata"
+      ]
+    },
+    {
+      "id": "877682495",
+      "title": "Volante Agentic AI Drives Straight-Through Processing Rates Over 95%",
+      "summary": "Volante Technologies added agentic artificial intelligence to its payments platform and its payments-as-a-service (PaaS) operations. The new Vol360i agentic AI increases straight-through processing rates to over 95%, accelerates exception resolution and proactively manages servic…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/volante-agentic-ai-drives-straight-through-processing-rates-over-95percent/",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "volante agentic",
+        "ai drives",
+        "straight"
+      ]
+    },
     {
       "id": "724363740",
       "title": "Asian tech stocks rebound after Wall Street embraces AI once more",
@@ -766,118 +878,6 @@
       "category": "Banking",
       "tags": [
         "hong kong"
-      ]
-    },
-    {
-      "id": "629852053",
-      "title": "HearstLab and Fitch Learning take stake in Founderz to bridge AI literacy gap at banks",
-      "summary": "Fitch Learning, the global leader in financial services education, and Founderz, Europe’s premier AI business school, today announced a strategic partnership that will provide learners worldwide with innovative, personalized training that combines Fitch’s deep expertise in financ…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110012/hearstlab-and-fitch-learning-take-stake-in-founderz-to-bridge-ai-literacy-gap-at-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "hearstlab",
-        "fitch learning",
-        "founderz"
-      ]
-    },
-    {
-      "id": "464215786",
-      "title": "Interactive Brokers launches agentic trading through Claude integration",
-      "summary": "Interactive Brokers (Nasdaq: IBKR), an automated global broker, today announced agentic trading through direct integration with Claude, one of the world’s leading AI platforms.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110009/interactive-brokers-launches-agentic-trading-through-claude-integration?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Trading",
-      "tags": [
-        "interactive brokers",
-        "claude",
-        "nasdaq"
-      ]
-    },
-    {
-      "id": "25727681",
-      "title": "DNB Bank expands partnership with Infosys for AI-driven financial crime operations",
-      "summary": "Infosys (NSE, BSE, NYSE: INFY), a global leader in AI-first business consulting and technology services, today announced the expansion of its strategic collaboration with DNB Bank ASA (DNB), Norway’s largest bank, to modernize its Financial Crime (FinCrime) operations using NICE …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110005/dnb-bank-expands-partnership-with-infosys-for-ai-driven-financial-crime-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "dnb bank",
-        "infosys",
-        "ai"
-      ]
-    },
-    {
-      "id": "537400164",
-      "title": "Ixopay unveils AI payments assistant and intelligence platform",
-      "summary": "Ixopay, the performance layer powering global payments for the agentic era, today announced Ixopay Payments Intelligence, a unified control center that transforms fragmented payment data into real-time, actionable insights.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110003/ixopay-unveils-ai-payments-assistant-and-intelligence-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Payments",
-      "tags": [
-        "ixopay",
-        "ai",
-        "ixopay payments"
-      ]
-    },
-    {
-      "id": "627184363",
-      "title": "XFolio AI buys Absolute Payments to unify treasury and payments for UK corporates",
-      "summary": "XFolio AI (xfolio.ai), a Paris-based treasury and cash management technology group, has acquired Absolute Payment Solutions (APS) (https://www.absolutepayments.com/), one of a select number of Pay.UK-accredited Bacs service providers in the UK.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110002/xfolio-ai-buys-absolute-payments-to-unify-treasury-and-payments-for-uk-corporates?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Payments",
-      "tags": [
-        "xfolio ai",
-        "absolute payments",
-        "uk"
-      ]
-    },
-    {
-      "id": "487893165",
-      "title": "What Banking Leaders Should Do Now when Banks Are Becoming AI Infrastructure Companies",
-      "summary": "Banks are increasingly transitioning from traditional digital institutions to entities that are fund...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31903/what-banking-leaders-should-do-now-when-banks-are-becoming-ai-infrastructure-companies?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "what banking",
-        "leaders should",
-        "do now"
-      ]
-    },
-    {
-      "id": "937722287",
-      "title": "Experian Readies Agentic AI to Overhaul Legacy Lending Processes",
-      "summary": "Experian has announced the upcoming launch of a trusted agentic artificial intelligence (AI) layer within the Experian Ascend Platform that is designed to help financial services organizations scale agentic AI. The Experian Agent Operating System will enable AI agents from Experi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/experian-readies-agentic-ai-to-overhaul-legacy-lending-processes/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "experian readies",
-        "agentic ai",
-        "overhaul legacy"
-      ]
-    },
-    {
-      "id": "497576703",
-      "title": "3 Takeaways as AI Moves Into Banks’ Daily Operating Machinery",
-      "summary": "Artificial intelligence is emerging as both banking product and workplace tool in the financial services realm. The latest bank and provider moves suggest that AI’s most immediate payoff is coming from internal operations. Banks are using it to prepare advisers for client meeting…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/3-takeaways-as-ai-moves-into-banks-daily-operating-machinery/",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "takeaways",
-        "ai moves",
-        "into banks"
       ]
     }
   ]
