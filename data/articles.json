@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-09T21:02:40Z",
+  "last_updated": "2026-06-10T10:59:44Z",
   "insights": {
     "risks": [
       "Trading risk: Nasdaq slips in volatile trading as 2026 high-flyers pull back — assess algorithmic exposure.",
-      "Operational: Feezai opens fraud intelligence network — evaluate model governance gaps."
+      "Operational: ING deploys agentic AI to speed up mortgage decisions — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Lloyds deploys AI agents to check for payment scams in real-time — potential infrastructure advantage.",
-      "Banking efficiency: Feezai opens fraud intelligence network — cost reduction opportunity."
+      "Banking efficiency: ING deploys agentic AI to speed up mortgage decisions — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
@@ -38,13 +38,65 @@
     {
       "topic": "Large Language Models",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "368475790",
+      "title": "ING deploys agentic AI to speed up mortgage decisions",
+      "summary": "ING has introduced agentic AI to speed up mortgage applications in the Netherlands.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47885/ing-deploys-agentic-ai-to-speed-up-mortgage-decisions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "ing",
+        "ai",
+        "netherlands"
+      ]
+    },
+    {
+      "id": "460241926",
+      "title": "Mitigram unveils AI agent for trade finance pricing data",
+      "summary": "Mitigram, the global leader in digital trade finance, today announced the launch of Alfred, an AI agent designed to address one of trade finance’s most persistent challenges: turning fragmented bank risk pricing requests and communications into structured intelligence that inform…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110088/mitigram-unveils-ai-agent-for-trade-finance-pricing-data?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "mitigram",
+        "ai",
+        "alfred"
+      ]
+    },
+    {
+      "id": "38971662",
+      "title": "Bridging the AI trust gap: Overcoming the human oversight challenge in Southeast Asia",
+      "summary": "According to McKinsey, Southeast Asia is touted as the world’s AI arena, with stronger AI adoption momentum tracking ahead of the global average. This rapidly maturing regional ecosystem demands regulation and robust guardrails. From Singapore s Model AI Governance Framework to V…",
+      "source": "e27",
+      "url": "https://e27.co/bridging-the-ai-trust-gap-overcoming-the-human-oversight-challenge-in-southeast-asia-20260603/",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "bridging",
+        "ai",
+        "overcoming"
+      ]
+    },
+    {
+      "id": "186982646",
+      "title": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
+      "summary": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/news/86-apac-bank-leaders-flag-ai-agents-top-fraud-risk",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "over",
+        "asia pacific",
+        "ai"
+      ]
+    },
     {
       "id": "236073757",
       "title": "Nasdaq slips in volatile trading as 2026 high-flyers pull back",
@@ -824,60 +876,6 @@
         "ai",
         "holdings",
         "inc"
-      ]
-    },
-    {
-      "id": "199133692",
-      "title": "Interactive Brokers integrates with Claude for agentic trading",
-      "summary": "Interactive Brokers (Nasdaq: IBKR), an automated global broker, today announced agentic trading through direct integration with Claude, one of the world’s leading AI platforms.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110019/interactive-brokers-integrates-with-claude-for-agentic-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-03",
-      "category": "Trading",
-      "tags": [
-        "interactive brokers",
-        "claude",
-        "nasdaq"
-      ]
-    },
-    {
-      "id": "485352476",
-      "title": "AI Turns Payment Choice Into a Real-Time Contest",
-      "summary": "Watch more: Winning the Next Transaction: How AI Helps Build Loyalty in Payments Loyalty used to be a relatively simple fight for spend primacy. Issuers wanted the card at the front of the wallet, then the default credential on file. But the architecture beyond loyalty programs r…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/loyalty-and-rewards-news/2026/ai-turns-payment-choice-into-a-real-time-contest/",
-      "date": "2026-06-03",
-      "category": "Payments",
-      "tags": [
-        "ai turns",
-        "payment choice",
-        "into"
-      ]
-    },
-    {
-      "id": "676873611",
-      "title": "AI Expands the National Security Rulebook for Tech",
-      "summary": "Watch more: TechReg Wtih David Plotinsky of Morgan Lewis Artificial intelligence is ripping up the rulebooks of industries and sectors in real time. David Plotinsky, partner at Morgan Lewis, said the national security rulebook in the United States is one of them. “There’s going t…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-expands-the-national-security-rulebook-for-tech/",
-      "date": "2026-06-03",
-      "category": "Banking",
-      "tags": [
-        "ai expands",
-        "national security",
-        "rulebook"
-      ]
-    },
-    {
-      "id": "125431744",
-      "title": "Hong Kong’s banking industry is experiencing renewed hiring this year, driven by a capital market rebound and automation projects, after total headcount across major lenders declined slightly in 2025, recruitment executives said.",
-      "summary": "Hong Kong’s banking industry is experiencing renewed hiring this year, driven by a capital market rebound and automation projects, after total headcount across major lenders declined slightly in 2025, recruitment executives said.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/investment-banking/exclusive/ipos-spur-hong-kong-bank-hiring-rebound",
-      "date": "2026-06-02",
-      "category": "Banking",
-      "tags": [
-        "hong kong"
       ]
     }
   ]
