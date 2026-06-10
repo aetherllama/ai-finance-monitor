@@ -1,31 +1,39 @@
 {
-  "last_updated": "2026-06-10T10:59:44Z",
+  "last_updated": "2026-06-10T21:26:42Z",
   "insights": {
     "risks": [
       "Trading risk: Nasdaq slips in volatile trading as 2026 high-flyers pull back — assess algorithmic exposure.",
-      "Operational: ING deploys agentic AI to speed up mortgage decisions — evaluate model governance gaps."
+      "Operational: Nasdaq Verafin adds new members to agentic AI workforce — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Lloyds deploys AI agents to check for payment scams in real-time — potential infrastructure advantage.",
-      "Banking efficiency: ING deploys agentic AI to speed up mortgage decisions — cost reduction opportunity."
+      "Payments: Phonepe introduces AI-powered payment page creator — potential infrastructure advantage.",
+      "Banking efficiency: Nasdaq Verafin adds new members to agentic AI workforce — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Automation",
       "count": 6
     },
     {
-      "topic": "Fraud Detection",
-      "count": 2
+      "topic": "Stablecoin AI",
+      "count": 3
     },
     {
-      "topic": "Stablecoin AI",
-      "count": 2
+      "topic": "Payments AI",
+      "count": 1
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
     },
     {
       "topic": "Machine Learning",
@@ -41,6 +49,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "853060995",
+      "title": "Nasdaq Verafin adds new members to agentic AI workforce",
+      "summary": "Nasdaq's anti-financial crime unit Verafin has expanded its suite of agentic AI digital workers with new AML and fraud analysts.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47899/nasdaq-verafin-adds-new-members-to-agentic-ai-workforce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "nasdaq verafin",
+        "ai",
+        "nasdaq"
+      ]
+    },
+    {
+      "id": "666426365",
+      "title": "Presidio launches AI governance platform for financial services",
+      "summary": "Financial institutions are entering a new operating model shaped by AI, automation, and rising expectations for more personalized, efficient, and compliant client experiences.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110103/presidio-launches-ai-governance-platform-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "presidio",
+        "ai",
+        "financial"
+      ]
+    },
+    {
+      "id": "891217820",
+      "title": "Plum rolls out AI-powered money guidance",
+      "summary": "Smart money app Plum has launched a new financial guidance service called Plum Plan, transforming the way people build, manage and grow their wealth over their lifetime.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110102/plum-rolls-out-ai-powered-money-guidance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "plum",
+        "ai",
+        "smart"
+      ]
+    },
+    {
+      "id": "39083085",
+      "title": "Phonepe introduces AI-powered payment page creator",
+      "summary": "PhonePe today announced the launch of SmartPages, an AI-powered payment page creator built natively into the PhonePe Payment Gateway (PG) dashboard.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110100/phonepe-introduces-ai-powered-payment-page-creator?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-10",
+      "category": "Payments",
+      "tags": [
+        "phonepe",
+        "ai",
+        "phonepe"
+      ]
+    },
+    {
+      "id": "981863864",
+      "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
+      "summary": "Puneet Mehta, a former high-level Wall Street engineer and data scientist, said the rapid expansion of AI enterprise software will increase demand for stablecoins and blockchain.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
+      "date": "2026-06-10",
+      "category": "Payments",
+      "tags": [
+        "netomi ceo",
+        "ai",
+        "puneet mehta"
+      ]
+    },
+    {
+      "id": "17359430",
+      "title": "Mastercard prepares for a future where AI agents make payments",
+      "summary": "The company is working with Coinbase, Stripe and other companies to build trusted payment systems for AI-driven commerce.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction",
+      "date": "2026-06-10",
+      "category": "Payments",
+      "tags": [
+        "mastercard",
+        "ai",
+        "coinbase"
+      ]
+    },
+    {
+      "id": "898706466",
+      "title": "Amazon Secures $17.5 Billion Credit Facility Amid AI Infrastructure Race",
+      "summary": "Amazon has entered into a term loan agreement with Citibank and more than a dozen other banks that provides the company with a $17.5 billion senior unsecured delayed draw term loan credit facility (DDTL Facility). The banks’ commitments to provide the credit facility will expire …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/amazon/2026/amazon-secures-17-5-billion-credit-facility-amid-ai-infrastructure-race/",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "amazon secures",
+        "billion credit",
+        "facility amid"
+      ]
+    },
+    {
+      "id": "623206309",
+      "title": "Ramp Wants to Apply AI to Complex Financial Workflows",
+      "summary": "Financial operations platform Ramp has introduced its Ramp Applied AI Solutions offering. The new tool, announced Wednesday (June 10), is designed to help larger enterprises deploy artificial intelligence (AI) agents for complex financial workflows. “In finance, every decision de…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ramp-wants-to-apply-ai-to-complex-financial-workflows/",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "ramp wants",
+        "apply ai",
+        "complex financial"
+      ]
+    },
     {
       "id": "368475790",
       "title": "ING deploys agentic AI to speed up mortgage decisions",
@@ -765,117 +885,6 @@
         "google",
         "ai",
         "tech"
-      ]
-    },
-    {
-      "id": "535873609",
-      "title": "Clearwater Analytics brings AI into institutional investment workflow",
-      "summary": "Clearwater Analytics (NYSE: CWAN) today introduced new AI-enabled products built on the same trusted investment data foundation supporting more than $10 trillion in global assets.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110035/clearwater-analytics-brings-ai-into-institutional-investment-workflow?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-03",
-      "category": "Banking",
-      "tags": [
-        "clearwater analytics",
-        "ai",
-        "nyse"
-      ]
-    },
-    {
-      "id": "481131100",
-      "title": "Significant AI investment boosts transaction success for Ecommpay merchants",
-      "summary": "In a market where a failed transaction is lost revenue and potentially a lost customer, inclusive global payments platform, Ecommpay, is on a mission to push checkout performance to its absolute limit.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110030/significant-ai-investment-boosts-transaction-success-for-ecommpay-merchants?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-03",
-      "category": "Banking",
-      "tags": [
-        "significant ai",
-        "ecommpay"
-      ]
-    },
-    {
-      "id": "310515122",
-      "title": "Airwallex Takes on Stripe with New Global Billing Suite Targeted at AI and SaaS Sectors",
-      "summary": "Airwallex launches Airwallex Billing, a unified platform for invoicing, subscriptions and usage-based billing, expanding its challenge to Stripe with an end-to-end global financial operations stack. The post Airwallex Takes on Stripe with New Global Billing Suite Targeted at AI a…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/airwallex-takes-on-stripe-with-new-global-billing-suite-targeted-at-ai-and-saas-sectors/",
-      "date": "2026-06-03",
-      "category": "Payments",
-      "tags": [
-        "airwallex takes",
-        "stripe",
-        "new global"
-      ]
-    },
-    {
-      "id": "562764930",
-      "title": "COLIBRIX ONE × BitGN: New Benchmark Reveals AI Reliability Gap",
-      "summary": "A new benchmark from COLIBRIX ONE and BitGN finds most autonomous AI commerce agents fail real payment stress tests, while top-tier architectures hit a 95% success rate. The post COLIBRIX ONE × BitGN: New Benchmark Reveals AI Reliability Gap appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/colibrix-one-x-bitgn-new-benchmark-reveals-ai-reliability-gap/",
-      "date": "2026-06-03",
-      "category": "Payments",
-      "tags": [
-        "colibrix one",
-        "bitgn",
-        "new benchmark"
-      ]
-    },
-    {
-      "id": "237313226",
-      "title": "Alphabet Increases Record-Breaking Stock Offering to Feed AI Demand",
-      "summary": "Two days after announcing a plan to raise $80 billion in equity capital to expand its artificial intelligence infrastructure, Alphabet raised it to $84.75 billion. The underwritten public offerings that were previously announced at a total of $30 billion have been upsized to $34.…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/alphabet-increases-record-breaking-stock-offering-to-feed-ai-demand/",
-      "date": "2026-06-03",
-      "category": "Trading",
-      "tags": [
-        "alphabet increases",
-        "record",
-        "breaking stock"
-      ]
-    },
-    {
-      "id": "513366668",
-      "title": "Ramp Courts $150 Billion Accounting Sector With New AI System",
-      "summary": "Financial operations platform Ramp has launched an artificial intelligence (AI) system designed for accounting firms. Ramp Stack marks the company’s entry into the $150 billion accounting sector at a time when more than 300,000 CPAs have the industry and accounting degrees are at…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ramp-courts-150-billion-accounting-sector-with-new-ai-system/",
-      "date": "2026-06-03",
-      "category": "Banking",
-      "tags": [
-        "ramp courts",
-        "billion accounting",
-        "sector with"
-      ]
-    },
-    {
-      "id": "967606854",
-      "title": "Trustfull releases conversational AI platform to combat fraud",
-      "summary": "Fraud prevention company Trustfull has launched Investigator, a new conversational AI solution designed to help fraud teams assess risk signals and investigate suspicious activity faster.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110026/trustfull-releases-conversational-ai-platform-to-combat-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-03",
-      "category": "Banking",
-      "tags": [
-        "trustfull",
-        "ai",
-        "fraud"
-      ]
-    },
-    {
-      "id": "57245045",
-      "title": "Q2 embeds product portfolio with AI",
-      "summary": "Q2 Holdings, Inc. (NYSE: QTWO), a leading provider of digital transformation solutions for financial services, today announced the launch of Q2 Assistant, a unified AI experience layer embedded directly within Q2’s product portfolio.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110022/q2-embeds-product-portfolio-with-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-03",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "holdings",
-        "inc"
       ]
     }
   ]
