@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-10T21:26:42Z",
+  "last_updated": "2026-06-11T11:24:55Z",
   "insights": {
     "risks": [
-      "Trading risk: Nasdaq slips in volatile trading as 2026 high-flyers pull back — assess algorithmic exposure.",
-      "Operational: Nasdaq Verafin adds new members to agentic AI workforce — evaluate model governance gaps."
+      "Regulatory: FSB guides banks on responsible adoption of AI — review compliance obligations.",
+      "Operational: We will need a new tax code for the wealth AI creates — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Phonepe introduces AI-powered payment page creator — potential infrastructure advantage.",
-      "Banking efficiency: Nasdaq Verafin adds new members to agentic AI workforce — cost reduction opportunity."
+      "Payments: The Smartest Payment Stack May Be the Simplest One — potential infrastructure advantage.",
+      "Banking efficiency: We will need a new tax code for the wealth AI creates — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Stablecoin AI",
@@ -49,6 +49,131 @@
     }
   ],
   "articles": [
+    {
+      "id": "465272768",
+      "title": "We will need a new tax code for the wealth AI creates",
+      "summary": "The question isn’t whether mass underemployment arrives but whether we have a policy framework ready when it does",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b277360e-bf23-4366-afd7-acab940f66b7",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "we",
+        "ai"
+      ]
+    },
+    {
+      "id": "943138412",
+      "title": "FSB guides banks on responsible adoption of AI",
+      "summary": "The Financial Stability Council is inviting feedback on a new consultation on sound practices for the responsible adoption of artificial intelligence within the financial sector.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47895/fsb-guides-banks-on-responsible-adoption-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-11",
+      "category": "RegTech",
+      "tags": [
+        "fsb",
+        "ai the",
+        "financial stability"
+      ]
+    },
+    {
+      "id": "24297253",
+      "title": "Bootomline releases AI CFO Suite",
+      "summary": "Bottomline, a global leader in business payments, today announced the launch of its CFO Suite, a modular platform designed to help finance leaders leverage AI to see, manage, predict, and protect operational cash flow across the Office of the CFO.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110111/bootomline-releases-ai-cfo-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "bootomline",
+        "ai cfo",
+        "suite bottomline"
+      ]
+    },
+    {
+      "id": "487900818",
+      "title": "Key Non-Negotiables for a Controllable AI Adoption in Banking",
+      "summary": "In the FinextraTV studio at The Temenos Community Forum in Copenhagen, Sai Rangachari, Chief Product Officer, Temenos, discussed the balance of retaining control, whilst embedding AI into banking processes. Rangachari explained the three non-negotiables of AI-based products: audi…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3523/key-non-negotiables-for-a-controllable-ai-adoption-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "key non",
+        "negotiables",
+        "controllable ai"
+      ]
+    },
+    {
+      "id": "306607065",
+      "title": "The Smartest Payment Stack May Be the Simplest One",
+      "summary": "Orchestration solves a longstanding challenge in payments. It allows merchants to connect to multiple payment providers through a single layer of infrastructure, dynamically route transactions to maximize approval rates, reduce downtime through automated failover and gain leverag…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/payments-innovation/2026/the-smartest-payment-stack-may-be-the-simplest-one/",
+      "date": "2026-06-11",
+      "category": "Payments",
+      "tags": [
+        "the smartest",
+        "payment stack",
+        "may be"
+      ]
+    },
+    {
+      "id": "629826479",
+      "title": "ShiftControl launches AI-native IT operations platform built for Google Workspace",
+      "summary": "Singapore-based IT automation startup ShiftControl has launched a next-generation IT operations platform designed to run natively on Google Workspace, the company announced at Echelon Singapore, the region s flagship technology conference. The platform is aimed at small and mid-s…",
+      "source": "e27",
+      "url": "https://e27.co/shiftcontrol-google-workspace-20260611/",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "shiftcontrol",
+        "ai",
+        "it"
+      ]
+    },
+    {
+      "id": "401240178",
+      "title": "SeaX Ventures backs Onibi in strategic funding round to accelerate AI-powered RPG across Asia",
+      "summary": "Onibi, the game studio developing the AI-powered open-world multiplayer RPG Tomo: Endless Blue, has closed a strategic funding round led by SeaX Ventures and Pix Capital. The investment will be used to accelerate the title towards a full commercial launch, support studio expansio…",
+      "source": "e27",
+      "url": "https://e27.co/seax-ventures-backs-onibi-in-strategic-funding-round-to-accelerate-ai-powered-rpg-across-asia-20260611/",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "seax ventures",
+        "onibi",
+        "ai"
+      ]
+    },
+    {
+      "id": "414090990",
+      "title": "Applied’s US$500M Singapore expansion tightens ties with Southeast Asia’s chip push",
+      "summary": "California-based Applied Materials has sharply increased its manufacturing footprint in Singapore with a US$500 million Tampines Campus, a move aimed at supplying semiconductor makers racing to meet surging demand for AI-optimised chips. The facility, which more than doubles the …",
+      "source": "e27",
+      "url": "https://e27.co/applieds-us500m-singapore-expansion-tightens-ties-with-southeast-asias-chip-push-20260611/",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "applied",
+        "us",
+        "singapore"
+      ]
+    },
+    {
+      "id": "450100377",
+      "title": "Why Real-Time Data Is the Hard Part of AI in Financial Services",
+      "summary": "When people in financial services talk about AI today, the conversation usually starts with the mode...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31980/why-real-time-data-is-the-hard-part-of-ai-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "why real",
+        "time data",
+        "is"
+      ]
+    },
     {
       "id": "853060995",
       "title": "Nasdaq Verafin adds new members to agentic AI workforce",
@@ -760,131 +885,6 @@
         "fin ai",
         "agent",
         "plaid link"
-      ]
-    },
-    {
-      "id": "778312596",
-      "title": "A Mathematical Measure of AI Alignment",
-      "summary": "A Mathematical Measure of AI Alignment Could Transform How Financial Services Manages Model Risk For...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31926/a-mathematical-measure-of-ai-alignment?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "mathematical measure",
-        "ai alignment",
-        "could transform"
-      ]
-    },
-    {
-      "id": "741816751",
-      "title": "Citi Used AI to Shrink a 60-Minute Document Review to 15 Minutes",
-      "summary": "Banks have spent years launching artificial intelligence (AI) chatbots and virtual assistants. Citigroup’s latest deployment is less visible and more valuable: an AI document-processing system that compresses account opening review time from over an hour to 15 minutes. Tim Ryan, …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/citi-used-ai-to-shrink-a-60-minute-document-review-to-15-minutes/",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "citi used",
-        "ai",
-        "shrink"
-      ]
-    },
-    {
-      "id": "353093170",
-      "title": "Plaid and Fin Deliver AI-Powered Support for Bank Account Linking",
-      "summary": "Plaid and Fin have partnered to enable FinTechs and financial institutions to help their end users connect or reconnect their bank accounts securely within Fin Messenger chat. This capability is enabled by Plaid’s account linking service Plaid Link and Fin’s artificial intelligen…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/partnerships/2026/plaid-and-fin-deliver-ai-powered-support-for-bank-account-linking/",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "plaid",
-        "fin deliver",
-        "ai"
-      ]
-    },
-    {
-      "id": "599389866",
-      "title": "Lloyds and Nationwide-backed AI fintech Aveni raises £12 million",
-      "summary": "AI fintech Aveni has raised a £12 million funding round led by PXN Ventures, and supported by existing investors Puma Growth Partners, Lloyds Banking Group, Nationwide and Scottish Enterprise.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47859/lloyds-and-nationwide-backed-ai-fintech-aveni-raises-12-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-04",
-      "category": "Payments",
-      "tags": [
-        "lloyds",
-        "nationwide",
-        "ai"
-      ]
-    },
-    {
-      "id": "764727570",
-      "title": "Capgemini: Personalisation lags in wealth management, reaching just 17% of HNWIs",
-      "summary": "The 30th edition of the Capgemini World Wealth Report 2026 draws data from 6,510 high-net-worth individuals (HNWIs) across 27 markets, 144 senior wealth management executives across 24 markets, and 1,317 relationship managers across 24 markets, who were asked about investment pre…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47853/capgemini-personalisation-lags-in-wealth-management-reaching-just-17-of-hnwis?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "capgemini",
-        "personalisation",
-        "hnwis the"
-      ]
-    },
-    {
-      "id": "945484383",
-      "title": "National Bank of Georgia launches modernised RTGS payment system with Montran",
-      "summary": "The National Bank of Georgia (NBG), in partnership with Montran, has successfully launched its upgraded Automated Transfer System (ATS), a modernized Real-Time Gross Settlement (RTGS) platform designed to support ISO 20022 messaging, real-time payments, 24/7 processing, and enhan…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110040/national-bank-of-georgia-launches-modernised-rtgs-payment-system-with-montran?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "national bank",
-        "georgia",
-        "rtgs"
-      ]
-    },
-    {
-      "id": "121609468",
-      "title": "How a 60-year-old cleaning supervisor built an AI agent in 6 weeks",
-      "summary": "A cleaning supervisor I work with in Singapore is in her 60s. She has never written a line of code. Last month, she co-built a Claude-powered scheduling agent with me. It saves her company six hours of dispatcher time every single week. She did not learn to code. She learned to s…",
-      "source": "e27",
-      "url": "https://e27.co/how-a-60-year-old-cleaning-supervisor-built-an-ai-agent-in-6-weeks-20260602/",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "how",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "716812148",
-      "title": "Agentic AI can free up wealth advisors’ time for more client relationship building and raise the industry’s asset under management (AUM) capacity by up to $35t.",
-      "summary": "Agentic AI can free up wealth advisors’ time for more client relationship building and raise the industry’s asset under management (AUM) capacity by up to $35t.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/wealth-management/news/agentic-ai-could-unlock-35t-in-wealth-aum-capacity-deloitte",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "agentic ai",
-        "aum"
-      ]
-    },
-    {
-      "id": "730266151",
-      "title": "Google upsizes historic equity raising to $85bn to back AI spending spree",
-      "summary": "Tech giant’s first stock offering in more than two decades gets strong demand as investors shrug off huge investment plans",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/85299cdd-d9b3-4b40-8d10-73fc9ddb4573",
-      "date": "2026-06-03",
-      "category": "Trading",
-      "tags": [
-        "google",
-        "ai",
-        "tech"
       ]
     }
   ]
