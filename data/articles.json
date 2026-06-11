@@ -1,27 +1,31 @@
 {
-  "last_updated": "2026-06-11T11:24:55Z",
+  "last_updated": "2026-06-11T21:25:06Z",
   "insights": {
     "risks": [
       "Regulatory: FSB guides banks on responsible adoption of AI — review compliance obligations.",
-      "Operational: We will need a new tax code for the wealth AI creates — evaluate model governance gaps."
+      "Operational: Bottomline releases AI CFO Suite — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The Smartest Payment Stack May Be the Simplest One — potential infrastructure advantage.",
-      "Banking efficiency: We will need a new tax code for the wealth AI creates — cost reduction opportunity."
+      "Payments: The AI public market floodgates are opening — potential infrastructure advantage.",
+      "Banking efficiency: Bottomline releases AI CFO Suite — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 2
     },
     {
       "topic": "Stablecoin AI",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Payments AI",
@@ -40,15 +44,108 @@
       "count": 1
     },
     {
-      "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
       "topic": "Large Language Models",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "51322365",
+      "title": "The AI public market floodgates are opening",
+      "summary": "The huge sums that Wall Street is about to be asked for look like being only a down payment",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/da78ce3e-fd1a-472d-b486-ee199b7c427d",
+      "date": "2026-06-11",
+      "category": "Payments",
+      "tags": [
+        "the ai",
+        "wall street"
+      ]
+    },
+    {
+      "id": "222138353",
+      "title": "Bottomline releases AI CFO Suite",
+      "summary": "Bottomline, a global leader in business payments, today announced the launch of its CFO Suite, a modular platform designed to help finance leaders leverage AI to see, manage, predict, and protect operational cash flow across the Office of the CFO.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110111/bottomline-releases-ai-cfo-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "bottomline",
+        "ai cfo",
+        "suite bottomline"
+      ]
+    },
+    {
+      "id": "188053276",
+      "title": "Why Financial Services Firms Can't Convert AI Into ROI",
+      "summary": "Boards and regulators are asking the same question: where is the ROI? The answer lies not in models",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31992/why-financial-services-firms-cant-convert-ai-into-roi?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "why financial",
+        "services firms",
+        "can"
+      ]
+    },
+    {
+      "id": "463986251",
+      "title": "The Most Expensive Assumption in Banking: That the AI Gap Is Linear",
+      "summary": "There is a quiet assumption sitting inside most bank AI strategies, and it is getting more expensive...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31989/the-most-expensive-assumption-in-banking-that-the-ai-gap-is-linear?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "the most",
+        "expensive assumption",
+        "banking"
+      ]
+    },
+    {
+      "id": "54097057",
+      "title": "The compliance reckoning KYC leaders can't afford to ignore",
+      "summary": "The EU AI Act doesn't just regulate AI. It redefines what it means to run a compliant KYC operation...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/31987/the-compliance-reckoning-kyc-leaders-cant-afford-to-ignore?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "kyc",
+        "the eu",
+        "ai act"
+      ]
+    },
+    {
+      "id": "828821939",
+      "title": "Nvidia Taps Abridge to Train AI on Real Doctor Visits",
+      "summary": "Nvidia is partnering with Abridge to build an artificial intelligence (AI) model for clinical conversations, the Wall Street Journal reported Thursday (June 11). Abridge’s platform listens to doctor-patient exchanges and automatically generates clinical notes. The model will run …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-taps-abridge-to-train-ai-on-real-doctor-visits/",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "nvidia taps",
+        "abridge",
+        "train ai"
+      ]
+    },
+    {
+      "id": "94501912",
+      "title": "Bottomline Launches AI-Powered CFO Finance Platform",
+      "summary": "Bottomline launched a platform to help chief financial officers use artificial intelligence to oversee cash flow. The CFO Suite combines cash forecasting, invoice management, collections and payments in one system, according to a Thursday (June 11) press release. The new software…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cfo/2026/bottomline-launches-ai-powered-cfo-finance-platform/",
+      "date": "2026-06-11",
+      "category": "Banking",
+      "tags": [
+        "bottomline launches",
+        "ai",
+        "powered cfo"
+      ]
+    },
     {
       "id": "465272768",
       "title": "We will need a new tax code for the wealth AI creates",
@@ -787,104 +884,6 @@
         "wto says",
         "ai investment",
         "keeps global"
-      ]
-    },
-    {
-      "id": "521075444",
-      "title": "Airwallex buys financial data automation platform Leapfin",
-      "summary": "Business payments outfit Airwallex has acquired Leapfin, a financial data automation platform specialising in revenue recognition and reconciliation. Financial terms were not disclosed.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47874/airwallex-buys-financial-data-automation-platform-leapfin?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-05",
-      "category": "Banking",
-      "tags": [
-        "airwallex",
-        "leapfin business",
-        "leapfin"
-      ]
-    },
-    {
-      "id": "483293570",
-      "title": "Why Banks Are Reassessing Legacy Email Encryption as DORA, AI, and Cloud Modernization Converge",
-      "summary": "Banking technology leaders are being asked to do something that sounds straightforward but rarely is...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31940/why-banks-are-reassessing-legacy-email-encryption-as-dora-ai-and-cloud-modernization-converge?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-05",
-      "category": "Banking",
-      "tags": [
-        "why banks",
-        "are reassessing",
-        "legacy email"
-      ]
-    },
-    {
-      "id": "153250500",
-      "title": "Experian Deploys ChatGPT App to Capture Personal Loan Shoppers",
-      "summary": "Consumers can now explore personal loan offers from Experian’s lending partners while interacting with OpenAI’s ChatGPT. This capability is enabled by the newly launched Experian Loans ChatGPT application, which combines conversational AI with Experian’s marketplace experience, l…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/experian-deploys-chatgpt-app-to-capture-personal-loan-shoppers/",
-      "date": "2026-06-05",
-      "category": "Banking",
-      "tags": [
-        "experian deploys",
-        "chatgpt app",
-        "capture personal"
-      ]
-    },
-    {
-      "id": "661628237",
-      "title": "Bank Regulators Push Stablecoin Rules While Warning on AI Risks",
-      "summary": "The House Financial Services Committee’s latest oversight hearing on prudential regulators on Thursday (June 4) took note that the banking system is entering a period in which stablecoins, artificial intelligence and digital payments are moving from experimental subjects to super…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cryptocurrency/2026/bank-regulators-push-stablecoin-rules-while-warning-on-ai-risks/",
-      "date": "2026-06-05",
-      "category": "Banking",
-      "tags": [
-        "bank regulators",
-        "push stablecoin",
-        "rules while"
-      ]
-    },
-    {
-      "id": "607674615",
-      "title": "What hiring a high school graduate taught me about talent in the AI economy",
-      "summary": "Eight years ago, I made a hiring decision that didn’t follow the usual rules. In today’s AI era, where tools can already assist with much of the work that we do, that decision feels even more relevant in hindsight. I was hiring for a fast-growing fintech company. The shortlist wa…",
-      "source": "e27",
-      "url": "https://e27.co/what-hiring-a-high-school-graduate-taught-me-about-talent-in-the-ai-economy-20260602/",
-      "date": "2026-06-05",
-      "category": "Payments",
-      "tags": [
-        "what",
-        "ai",
-        "eight"
-      ]
-    },
-    {
-      "id": "558087142",
-      "title": "Goldman Sachs expects SpaceX’s AI revenue to increase 100-fold by 2030",
-      "summary": "Projections by Wall Street bank underpin the $1.78tn valuation group is pitching in IPO",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/516cd0e5-a402-4b6c-8035-d688dc5f0cf4",
-      "date": "2026-06-04",
-      "category": "Banking",
-      "tags": [
-        "goldman sachs",
-        "spacex",
-        "ai"
-      ]
-    },
-    {
-      "id": "497602864",
-      "title": "Fin AI Agent comes to Plaid Link",
-      "summary": "When a consumer reaches out to a fintech support team, the question is almost always about something that's not working as expected.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110045/fin-ai-agent-comes-to-plaid-link?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-04",
-      "category": "Payments",
-      "tags": [
-        "fin ai",
-        "agent",
-        "plaid link"
       ]
     }
   ]
