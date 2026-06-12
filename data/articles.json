@@ -1,31 +1,30 @@
 {
-  "last_updated": "2026-06-12T11:04:52Z",
+  "last_updated": "2026-06-12T21:03:46Z",
   "insights": {
     "risks": [
-      "Regulatory: FSB guides banks on responsible adoption of AI — review compliance obligations.",
-      "Operational: Credit Unions Need AI Chat to Stay in the Conversation — evaluate model governance gaps."
+      "Operational: Elon Musk becomes trillionaire as SpaceX soars in Wall Street debut — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy — potential infrastructure advantage.",
-      "Banking efficiency: Credit Unions Need AI Chat to Stay in the Conversation — cost reduction opportunity."
+      "Banking efficiency: Elon Musk becomes trillionaire as SpaceX soars in Wall Street debut — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Automation",
       "count": 6
     },
     {
-      "topic": "Stablecoin AI",
+      "topic": "Fraud Detection",
       "count": 3
     },
     {
-      "topic": "Fraud Detection",
-      "count": 2
+      "topic": "Stablecoin AI",
+      "count": 3
     },
     {
       "topic": "Regulatory AI",
@@ -42,13 +41,65 @@
     {
       "topic": "Machine Learning",
       "count": 1
-    },
-    {
-      "topic": "Large Language Models",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "896744426",
+      "title": "Elon Musk becomes trillionaire as SpaceX soars in Wall Street debut",
+      "summary": "AI and rockets group cracks list of world’s most valuable companies after historic IPO",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/097216e1-f3fc-4052-a5b5-fc66cfc57563",
+      "date": "2026-06-12",
+      "category": "Banking",
+      "tags": [
+        "elon musk",
+        "spacex",
+        "wall street"
+      ]
+    },
+    {
+      "id": "897294997",
+      "title": "Fraudio raises funds for AI fraud detection",
+      "summary": "Fraudio, a real-time payments, fraud prevention platform has raised a new funding round led by Alea Capital Partners to accelerate its international expansion and further develop its AI-powered fraud detection technology.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110126/fraudio-raises-funds-for-ai-fraud-detection?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-12",
+      "category": "Banking",
+      "tags": [
+        "fraudio",
+        "ai",
+        "alea capital"
+      ]
+    },
+    {
+      "id": "814471298",
+      "title": "Stripe rolls out tools to help UK businesses sell globally and build for the AI economy",
+      "summary": "Stripe today shared new tools to help UK businesses sell globally and seize the AI commerce opportunity, from expanded multi-currency treasury capabilities to new fraud defences, and the ability for UK businesses to sell across multiple AI agents through a single integration.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110123/stripe-rolls-out-tools-to-help-uk-businesses-sell-globally-and-build-for-the-ai-economy?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-12",
+      "category": "Banking",
+      "tags": [
+        "stripe",
+        "uk",
+        "ai"
+      ]
+    },
+    {
+      "id": "594673268",
+      "title": "Anthropic Vertical Software Rollout Threatens Enterprise AI Builders",
+      "summary": "Anthropic’s introduction of industry-specific artificial intelligence tools threatens the business of companies that use its AI models to build their own tools, The Information reported Thursday (June 11). The report highlighted 13 industry-specific tools introduced by Anthropic,…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-vertical-software-rollout-threatens-enterprise-ai-builders/",
+      "date": "2026-06-12",
+      "category": "Banking",
+      "tags": [
+        "anthropic vertical",
+        "software rollout",
+        "threatens enterprise"
+      ]
+    },
     {
       "id": "941948297",
       "title": "Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy",
@@ -720,6 +771,20 @@
       ]
     },
     {
+      "id": "811341619",
+      "title": "Why Asia faces the sharpest agentic fraud exposure",
+      "summary": "In March 2026, a US federal court ruled in Amazon v. Perplexity that a user s permission to an AI agent does not constitute the platform s authorisation. The ruling was narrow in its legal scope but enormous in its commercial implications: it established, in a jurisdiction that s…",
+      "source": "e27",
+      "url": "https://e27.co/why-asia-faces-the-sharpest-agentic-fraud-exposure-20260608/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "why asia",
+        "in march",
+        "us"
+      ]
+    },
+    {
       "id": "270502098",
       "title": "Eliminate Pre-Funding and Unlock Global Liquidity Via Multi-Rail Automation",
       "summary": "In an exclusive interview, Nium’s Santhosh Srinivasan discusses how combining fiat and stablecoin rails eliminates pre-funding to unlock global liquidity. The post Eliminate Pre-Funding and Unlock Global Liquidity Via Multi-Rail Automation appeared first on The Fintech Times .",
@@ -815,76 +880,6 @@
         "wall street",
         "ai",
         "us"
-      ]
-    },
-    {
-      "id": "847416461",
-      "title": "When AI Builds Itself: Why Recursive Self-Learning Is the Most Important Concept in Financial Servic",
-      "summary": "Anthropic published an interesting blog post titled \"When AI Builds Itself.\" a couple of d...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31948/when-ai-builds-itself-why-recursive-self-learning-is-the-most-important-concept-in-financial-servic?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "when ai",
-        "builds itself",
-        "why recursive"
-      ]
-    },
-    {
-      "id": "366633522",
-      "title": "Software Deals Hit COVID-Era Lows Amid AI Disruption",
-      "summary": "Software buyouts, once prized within the private equity world, are reportedly at a six-year low. The reason, according to a Monday (June 8) Financial Times (FT) report, is that the specter of artificial intelligence (AI) disruption has brought dealmaking in the software sector to…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/software-deals-hit-covid-era-lows-amid-ai-disruption/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "software deals",
-        "hit covid",
-        "era lows"
-      ]
-    },
-    {
-      "id": "699839941",
-      "title": "Hyperlayer CEO Says Core Banking Solutions Debate Misses the Point",
-      "summary": "Watch more: Monday Conversation With Hyperlayer’s Rob Rooney Consumers are already turning to large language models to help organize spending, savings and financial decisions. Yet most financial institutions remain structured around products, business lines and technology stacks …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/hyperlayer-ceo-says-core-banking-solutions-debate-misses-the-point/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "hyperlayer ceo",
-        "says core",
-        "banking solutions"
-      ]
-    },
-    {
-      "id": "564939772",
-      "title": "AI Agents Force Finance to Fix the Sandbox Problem",
-      "summary": "The finance team built the model. It ran clean in the pilot. It surfaced patterns the analysts had missed for years. Then the quarter hit, deadlines compressed and the dashboard sat open in a browser tab nobody had time to check. That moment, repeated across hundreds of finance f…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ai-agents-force-finance-to-fix-the-sandbox-problem/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "ai agents",
-        "force finance",
-        "fix"
-      ]
-    },
-    {
-      "id": "546042237",
-      "title": "Key to AI financial assistance: Removing friction",
-      "summary": "When people interact with money, friction shows up everywhere. It takes the form of unanswered questions, confusing jargon, and tools that do not meet users where they are. Too often, investors face information gaps, cognitive barriers, and fragmented workflows that leave them un…",
-      "source": "e27",
-      "url": "https://e27.co/key-to-ai-financial-assistance-removing-friction-20250930/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "key",
-        "ai",
-        "removing"
       ]
     }
   ]
