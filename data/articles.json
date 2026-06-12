@@ -1,30 +1,34 @@
 {
-  "last_updated": "2026-06-11T21:25:06Z",
+  "last_updated": "2026-06-12T11:04:52Z",
   "insights": {
     "risks": [
       "Regulatory: FSB guides banks on responsible adoption of AI — review compliance obligations.",
-      "Operational: Bottomline releases AI CFO Suite — evaluate model governance gaps."
+      "Operational: Credit Unions Need AI Chat to Stay in the Conversation — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The AI public market floodgates are opening — potential infrastructure advantage.",
-      "Banking efficiency: Bottomline releases AI CFO Suite — cost reduction opportunity."
+      "Payments: Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy — potential infrastructure advantage.",
+      "Banking efficiency: Credit Unions Need AI Chat to Stay in the Conversation — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
       "count": 6
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Stablecoin AI",
+      "count": 3
+    },
+    {
+      "topic": "Fraud Detection",
       "count": 2
     },
     {
-      "topic": "Stablecoin AI",
+      "topic": "Regulatory AI",
       "count": 2
     },
     {
@@ -33,10 +37,6 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
       "count": 1
     },
     {
@@ -49,6 +49,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "941948297",
+      "title": "Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy",
+      "summary": "Visa has introduced new AI, tokenization and stablecoin capabilities, including a partnership with OpenAI, a Large Transaction Model for fraud prevention, and tokenized deposit technology designed to support secure machine-to-machine payments and next-generation banking infrastru…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/visa-unleashes-openai-alliance-and-programmable-money-rails-to-power-the-ai-agent-economy/",
+      "date": "2026-06-12",
+      "category": "Payments",
+      "tags": [
+        "visa unleashes",
+        "openai alliance",
+        "programmable money"
+      ]
+    },
+    {
+      "id": "826481163",
+      "title": "Credit Unions Need AI Chat to Stay in the Conversation",
+      "summary": "Financial institutions once competed on branch networks, interest rates and, later, mobile apps. Increasingly, however, the next competitive frontier may not be a physical or digital destination at all. It may be the conversation itself. New findings in the April edition of the C…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/credit-unions-need-ai-chat-to-stay-in-the-conversation/",
+      "date": "2026-06-12",
+      "category": "Banking",
+      "tags": [
+        "credit unions",
+        "need ai",
+        "chat"
+      ]
+    },
+    {
+      "id": "693967735",
+      "title": "Beyond the hype: How an AI Agent powered real connections at Echelon Singapore 2026",
+      "summary": "When the doors opened at the Suntec Singapore CEC on June 3 and 4, the energy was palpable. Echelon Singapore 2026 set an ambitious tone for the region with its central theme: Moving Southeast Asia from AI hype to real-world implementation. Ecosystem Convergence to Build an Intel…",
+      "source": "e27",
+      "url": "https://e27.co/beyond-the-hype-how-an-ai-agent-powered-real-connections-at-echelon-singapore-2026-20260612/",
+      "date": "2026-06-12",
+      "category": "Banking",
+      "tags": [
+        "beyond",
+        "how",
+        "ai agent"
+      ]
+    },
+    {
+      "id": "19142967",
+      "title": "The flattening: How AI is collapsing the middle of the risk function",
+      "summary": "Last year, I drew the org chart of the risk team I would hire if I were building from zero. I drew four boxes. Fifteen years earlier, when I first joined a risk team inside an Indonesian bank, the chart I worked under had eleven boxes — analysts feeding into officers feeding into…",
+      "source": "e27",
+      "url": "https://e27.co/the-flattening-how-ai-is-collapsing-the-middle-of-the-risk-function-20260605/",
+      "date": "2026-06-12",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "last",
+        "fifteen"
+      ]
+    },
     {
       "id": "51322365",
       "title": "The AI public market floodgates are opening",
@@ -829,61 +885,6 @@
         "key",
         "ai",
         "removing"
-      ]
-    },
-    {
-      "id": "441378001",
-      "title": "Why Asia faces the sharpest agentic fraud exposure",
-      "summary": "In March 2026, a US federal court ruled in Amazon v. Perplexity that a user s permission to an AI agent does not constitute the platform s authorisation. The ruling was narrow in its legal scope but enormous in its commercial implications: it established, in a jurisdiction that s…",
-      "source": "e27",
-      "url": "https://e27.co/why-asia-faces-the-sharpest-agentic-fraud-exposure-20260608/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "why asia",
-        "in march",
-        "us"
-      ]
-    },
-    {
-      "id": "143325080",
-      "title": "Are we at the start of a new investment super-cycle?",
-      "summary": "AI, clean energy and defence spending are reinforcing each other, amplifying potential spend",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1",
-      "date": "2026-06-07",
-      "category": "Banking",
-      "tags": [
-        "are",
-        "ai"
-      ]
-    },
-    {
-      "id": "2113662",
-      "title": "What we know about the plan to give Americans an equity stake in AI",
-      "summary": "OpenAI has proposed a sovereign-wealth-style fund to ease public anxiety about the impact of artificial intelligence",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8559a3f9-86de-4a1c-8a75-6623e83e6a00",
-      "date": "2026-06-06",
-      "category": "Banking",
-      "tags": [
-        "what",
-        "americans",
-        "ai openai"
-      ]
-    },
-    {
-      "id": "297861083",
-      "title": "WTO Says AI Investment Keeps Global Trade Above Trend Despite War",
-      "summary": "Demand for electronic components related to artificial intelligence helped offset headwinds from the conflict in the Middle East and kept global merchandise trade resilient in the first half of the year, the World Trade Organization (WTO) said in a Friday (June 5) press release. …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/wto-says-ai-investment-keeps-global-trade-above-trend-despite-war/",
-      "date": "2026-06-05",
-      "category": "Banking",
-      "tags": [
-        "wto says",
-        "ai investment",
-        "keeps global"
       ]
     }
   ]
