@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-06-12T21:03:46Z",
+  "last_updated": "2026-06-13T10:04:48Z",
   "insights": {
     "risks": [
-      "Operational: Elon Musk becomes trillionaire as SpaceX soars in Wall Street debut — evaluate model governance gaps."
+      "Trading risk: AI is revolutionising the stock market — assess algorithmic exposure.",
+      "Operational: How AI is disrupting investment — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy — potential infrastructure advantage.",
-      "Banking efficiency: Elon Musk becomes trillionaire as SpaceX soars in Wall Street debut — cost reduction opportunity."
+      "Banking efficiency: How AI is disrupting investment — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Fraud Detection",
@@ -44,6 +45,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "677274075",
+      "title": "How AI is disrupting investment",
+      "summary": "The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1",
+      "date": "2026-06-13",
+      "category": "Banking",
+      "tags": [
+        "how ai"
+      ]
+    },
+    {
+      "id": "686382014",
+      "title": "AI is revolutionising the stock market",
+      "summary": "Big Tech no longer prints money; it needs it. What will that mean when confidence dips?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70",
+      "date": "2026-06-13",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "big tech",
+        "what"
+      ]
+    },
     {
       "id": "896744426",
       "title": "Elon Musk becomes trillionaire as SpaceX soars in Wall Street debut",
@@ -771,6 +798,20 @@
       ]
     },
     {
+      "id": "722687995",
+      "title": "Key to AI financial assistance: Removing friction",
+      "summary": "When people interact with money, friction shows up everywhere. It takes the form of unanswered questions, confusing jargon, and tools that do not meet users where they are. Too often, investors face information gaps, cognitive barriers, and fragmented workflows that leave them un…",
+      "source": "e27",
+      "url": "https://e27.co/key-to-ai-financial-assistance-removing-friction-20250930/",
+      "date": "2026-06-08",
+      "category": "Banking",
+      "tags": [
+        "key",
+        "ai",
+        "removing"
+      ]
+    },
+    {
       "id": "811341619",
       "title": "Why Asia faces the sharpest agentic fraud exposure",
       "summary": "In March 2026, a US federal court ruled in Amazon v. Perplexity that a user s permission to an AI agent does not constitute the platform s authorisation. The ruling was narrow in its legal scope but enormous in its commercial implications: it established, in a jurisdiction that s…",
@@ -838,48 +879,6 @@
         "an ai",
         "compliance",
         "ai"
-      ]
-    },
-    {
-      "id": "721242009",
-      "title": "Influential research firm that caused AI stock meltdown lays out Hyperliquid as 'compelling' idea",
-      "summary": "Unlike most crypto, Hyperliquid actually generates cash flow and has a token buyback mechanism, says Citrini Research",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/08/influential-research-firm-that-caused-ai-stock-meltdown-lays-out-hyperliquid-as-compelling-idea",
-      "date": "2026-06-08",
-      "category": "Trading",
-      "tags": [
-        "influential",
-        "ai",
-        "hyperliquid"
-      ]
-    },
-    {
-      "id": "798694055",
-      "title": "Defense Tech Firms VisionWave and Foresight Form AI-Focused Pact",
-      "summary": "Defense technology firm VisionWave is taking a controlling stake in Foresight Autonomous. The company on Monday (June 8) announced it was investing $17 million in Foresight, which makes 3D perception systems. The investment is designed to enhance Foresight’s perception technologi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/defense-tech-firms-visionwave-and-foresight-form-ai-focused-pact/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "defense tech",
-        "firms visionwave",
-        "foresight form"
-      ]
-    },
-    {
-      "id": "960021261",
-      "title": "Wall Street set for gains after AI-led rout",
-      "summary": "US stocks poised to rebound from Friday’s fall that rattled global markets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "ai",
-        "us"
       ]
     }
   ]
