@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-06-13T10:04:48Z",
+  "last_updated": "2026-06-13T20:20:01Z",
   "insights": {
     "risks": [
-      "Trading risk: AI is revolutionising the stock market — assess algorithmic exposure.",
-      "Operational: How AI is disrupting investment — evaluate model governance gaps."
+      "Trading risk: Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says — assess algorithmic exposure.",
+      "Operational: AI is disrupting investment — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy — potential infrastructure advantage.",
-      "Banking efficiency: How AI is disrupting investment — cost reduction opportunity."
+      "Banking efficiency: AI is disrupting investment — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
@@ -28,8 +28,12 @@
       "count": 3
     },
     {
+      "topic": "Portfolio Management",
+      "count": 1
+    },
+    {
       "topic": "Regulatory AI",
-      "count": 2
+      "count": 1
     },
     {
       "topic": "Payments AI",
@@ -38,13 +42,35 @@
     {
       "topic": "Customer Service AI",
       "count": 1
-    },
-    {
-      "topic": "Machine Learning",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "626947466",
+      "title": "AI is disrupting investment",
+      "summary": "The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1",
+      "date": "2026-06-13",
+      "category": "Banking",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "656401884",
+      "title": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
+      "summary": "Tokenization is laying the groundwork for autonomous investing and real-time portfolio management, Ondo's new head of portfolio products John Hoffman said.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says",
+      "date": "2026-06-13",
+      "category": "Trading",
+      "tags": [
+        "tokenization",
+        "etf",
+        "ai"
+      ]
+    },
     {
       "id": "677274075",
       "title": "How AI is disrupting investment",
@@ -851,34 +877,6 @@
         "wall street",
         "intel",
         "micron"
-      ]
-    },
-    {
-      "id": "400319723",
-      "title": "BBVA partners AWS to build architecture for faster AI deployment",
-      "summary": "BBVA has enlisted Amazon Web Services to help roll out a machine learning operations (MLOps) framework that will help the Spanish bank speed up its deployment of AI models.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47878/bbva-partners-aws-to-build-architecture-for-faster-ai-deployment?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "bbva",
-        "aws",
-        "ai"
-      ]
-    },
-    {
-      "id": "466746159",
-      "title": "An AI compliance agent that acts breaks the audit trail it was meant to protect",
-      "summary": "Compliance teams are being sold AI agents as a faster analyst — a system that watches a portfolio co...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31955/an-ai-compliance-agent-that-acts-breaks-the-audit-trail-it-was-meant-to-protect?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-08",
-      "category": "Trading",
-      "tags": [
-        "an ai",
-        "compliance",
-        "ai"
       ]
     }
   ]
