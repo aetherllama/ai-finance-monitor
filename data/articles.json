@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-06-14T10:27:52Z",
+  "last_updated": "2026-06-14T20:22:01Z",
   "insights": {
     "risks": [
+      "Regulatory: Experian and ServiceNow Launch ‘Agent Operating System’ to Bring Regulated Agentic AI to Lending Workflows — review compliance obligations.",
       "Trading risk: Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says — assess algorithmic exposure.",
       "Operational: Wall Street digests record fundraising haul as AI race intensifies — evaluate model governance gaps."
     ],
@@ -17,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
@@ -36,6 +37,10 @@
       "count": 2
     },
     {
+      "topic": "Credit & Underwriting",
+      "count": 1
+    },
+    {
       "topic": "Generative AI",
       "count": 1
     },
@@ -49,6 +54,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "881893979",
+      "title": "Experian and ServiceNow Launch ‘Agent Operating System’ to Bring Regulated Agentic AI to Lending Workflows",
+      "summary": "Experian has launched its Agent Operating System (AOS) in partnership with ServiceNow, providing a compliance-focused framework for deploying autonomous AI agents across the lending lifecycle. The post Experian and ServiceNow Launch Agent Operating System to Bring Regulated Agent…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/experian-and-servicenow-launch-agent-operating-system-to-bring-regulated-agentic-ai-to-lending-workflows/",
+      "date": "2026-06-14",
+      "category": "RegTech",
+      "tags": [
+        "experian",
+        "servicenow launch",
+        "agent operating"
+      ]
+    },
     {
       "id": "971192453",
       "title": "Wall Street digests record fundraising haul as AI race intensifies",
@@ -867,20 +886,6 @@
         "key",
         "ai",
         "removing"
-      ]
-    },
-    {
-      "id": "811341619",
-      "title": "Why Asia faces the sharpest agentic fraud exposure",
-      "summary": "In March 2026, a US federal court ruled in Amazon v. Perplexity that a user s permission to an AI agent does not constitute the platform s authorisation. The ruling was narrow in its legal scope but enormous in its commercial implications: it established, in a jurisdiction that s…",
-      "source": "e27",
-      "url": "https://e27.co/why-asia-faces-the-sharpest-agentic-fraud-exposure-20260608/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "why asia",
-        "in march",
-        "us"
       ]
     }
   ]
