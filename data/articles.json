@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-13T20:20:01Z",
+  "last_updated": "2026-06-14T10:27:52Z",
   "insights": {
     "risks": [
       "Trading risk: Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says — assess algorithmic exposure.",
-      "Operational: AI is disrupting investment — evaluate model governance gaps."
+      "Operational: Wall Street digests record fundraising haul as AI race intensifies — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy — potential infrastructure advantage.",
-      "Banking efficiency: AI is disrupting investment — cost reduction opportunity."
+      "Payments: Navigating the Data Deluge: IXOPAY Launches AI Assistant ‘IXONav’ to Unify Multi-PSP Orchestration — potential infrastructure advantage.",
+      "Banking efficiency: Wall Street digests record fundraising haul as AI race intensifies — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,15 +17,27 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Fraud Detection",
       "count": 3
     },
     {
+      "topic": "Customer Service AI",
+      "count": 2
+    },
+    {
+      "topic": "Payments AI",
+      "count": 2
+    },
+    {
       "topic": "Stablecoin AI",
-      "count": 3
+      "count": 2
+    },
+    {
+      "topic": "Generative AI",
+      "count": 1
     },
     {
       "topic": "Portfolio Management",
@@ -34,17 +46,37 @@
     {
       "topic": "Regulatory AI",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "971192453",
+      "title": "Wall Street digests record fundraising haul as AI race intensifies",
+      "summary": "SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06",
+      "date": "2026-06-14",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "ai",
+        "spacex"
+      ]
+    },
+    {
+      "id": "404991053",
+      "title": "Navigating the Data Deluge: IXOPAY Launches AI Assistant ‘IXONav’ to Unify Multi-PSP Orchestration",
+      "summary": "IXOPAY has unveiled its Payments Intelligence suite and IXONav, an AI-powered payments assistant, at Money20/20 Europe. The new tools leverage anomaly detection and generative AI to help merchants unify payment data, optimize performance across providers, and improve decision-mak…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/navigating-the-data-deluge-ixopay-launches-ai-assistant-ixonav-to-unify-multi-psp-orchestration/",
+      "date": "2026-06-13",
+      "category": "Payments",
+      "tags": [
+        "navigating",
+        "data deluge",
+        "ixopay launches"
+      ]
+    },
     {
       "id": "626947466",
       "title": "AI is disrupting investment",
@@ -849,34 +881,6 @@
         "why asia",
         "in march",
         "us"
-      ]
-    },
-    {
-      "id": "270502098",
-      "title": "Eliminate Pre-Funding and Unlock Global Liquidity Via Multi-Rail Automation",
-      "summary": "In an exclusive interview, Nium’s Santhosh Srinivasan discusses how combining fiat and stablecoin rails eliminates pre-funding to unlock global liquidity. The post Eliminate Pre-Funding and Unlock Global Liquidity Via Multi-Rail Automation appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/eliminate-pre-funding-and-unlock-global-liquidity-via-multi-rail-automation/",
-      "date": "2026-06-08",
-      "category": "Payments",
-      "tags": [
-        "eliminate pre",
-        "funding",
-        "unlock global"
-      ]
-    },
-    {
-      "id": "484676402",
-      "title": "Wall Street rebounds as traders race back into chip stocks",
-      "summary": "Intel and Micron among big gainers as fervour over AI-linked shares resumes",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2f0f727b-5315-445c-b8f1-6aa65bd7474c",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "intel",
-        "micron"
       ]
     }
   ]
