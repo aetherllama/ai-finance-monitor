@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-14T20:22:01Z",
+  "last_updated": "2026-06-15T13:20:46Z",
   "insights": {
     "risks": [
-      "Regulatory: Experian and ServiceNow Launch ‘Agent Operating System’ to Bring Regulated Agentic AI to Lending Workflows — review compliance obligations.",
-      "Trading risk: Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says — assess algorithmic exposure.",
-      "Operational: Wall Street digests record fundraising haul as AI race intensifies — evaluate model governance gaps."
+      "Regulatory: AI Moves Compliance From Detection to Investigation — review compliance obligations.",
+      "Trading risk: Meta Facing Pressure to Show It Can Monetize AI Creations — assess algorithmic exposure.",
+      "Operational: AI user roles surge as Singapore pivots from specialist to mainstream hires — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Navigating the Data Deluge: IXOPAY Launches AI Assistant ‘IXONav’ to Unify Multi-PSP Orchestration — potential infrastructure advantage.",
-      "Banking efficiency: Wall Street digests record fundraising haul as AI race intensifies — cost reduction opportunity."
+      "Payments: AI fintech startup Waniwani raises $8 million — potential infrastructure advantage.",
+      "Banking efficiency: AI user roles surge as Singapore pivots from specialist to mainstream hires — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,11 +18,15 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Fraud Detection",
       "count": 3
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
@@ -47,13 +51,93 @@
     {
       "topic": "Portfolio Management",
       "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "575292661",
+      "title": "AI fintech startup Waniwani raises $8 million",
+      "summary": "Waniwani, a fintech startup that uses AI to helps vendors surface their technology to financial institutions, has raised an $8 million Seed round.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47916/ai-fintech-startup-waniwani-raises-8-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-15",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "waniwani",
+        "seed"
+      ]
+    },
+    {
+      "id": "355088329",
+      "title": "AI Moves Compliance From Detection to Investigation",
+      "summary": "Watch more: The Digital Shift With Flagright’s Baran Ozkan Financial institutions have traditionally treated compliance as a detection problem. And, for years, they’ve put their money where their mouth is. Banks have invested heavily in transaction monitoring systems, sanctions s…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-moves-compliance-from-detection-to-investigation/",
+      "date": "2026-06-15",
+      "category": "RegTech",
+      "tags": [
+        "ai moves",
+        "compliance from",
+        "detection"
+      ]
+    },
+    {
+      "id": "550646689",
+      "title": "Meta Facing Pressure to Show It Can Monetize AI Creations",
+      "summary": "In 2025, Meta spent $14 billion to bring Alexandr Wang and his Scale AI team into the fold. One year later, the company is facing substantial pressure to prove it can monetize the resulting tools such as its Muse Spark model as its stock continues to underperform compared to othe…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-facing-pressure-to-show-it-can-monetize-ai-creations/",
+      "date": "2026-06-15",
+      "category": "Trading",
+      "tags": [
+        "meta facing",
+        "pressure",
+        "show it"
+      ]
+    },
+    {
+      "id": "800733599",
+      "title": "AI user roles surge as Singapore pivots from specialist to mainstream hires",
+      "summary": "AI skills have shifted from specialist niches into mainstream hiring practices, with AI‑related job postings leaping to capture 5.3 per cent of all roles in 2025, up from 3.3 per cent the year before. That rise represents roughly 30,000 additional listings in a labour market othe…",
+      "source": "e27",
+      "url": "https://e27.co/ai-user-roles-surge-as-singapore-pivots-from-specialist-to-mainstream-hires-20260615/",
+      "date": "2026-06-15",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "singapore",
+        "that"
+      ]
+    },
+    {
+      "id": "188901015",
+      "title": "Pints AI raises US$5.6M to chase automation wins as SEA firms embrace operational AI",
+      "summary": "Singapore venture firm Tin Men Capital has invested in enterprise AI startup Pints AI as part of a US$5.6 million funding round, underscoring growing investor appetite for practical, business-facing artificial intelligence across Southeast Asia. The capital will be deployed to be…",
+      "source": "e27",
+      "url": "https://e27.co/pints-ai-raises-us5-6m-to-chase-automation-wins-as-sea-firms-embrace-operational-ai-20260615/",
+      "date": "2026-06-15",
+      "category": "Banking",
+      "tags": [
+        "pints ai",
+        "us",
+        "sea"
+      ]
+    },
+    {
+      "id": "7822467",
+      "title": "‘Aunties were invisible. AI helped me change that’: Wenhui Lim on the Auntieverse",
+      "summary": "Wenhui Lim, aka niceaunties , is a Singapore-based artist, designer, and public speaker whose practice centres on reimagining the cultural figure of the auntie. Through speculative storytelling, she places ageing women at the centre of everyday life, exploring themes of food, bea…",
+      "source": "e27",
+      "url": "https://e27.co/aunties-were-invisible-ai-helped-me-change-that-wenhui-lim-on-the-antiverse-20260615/",
+      "date": "2026-06-15",
+      "category": "Banking",
+      "tags": [
+        "aunties",
+        "ai",
+        "wenhui lim"
+      ]
+    },
     {
       "id": "881893979",
       "title": "Experian and ServiceNow Launch ‘Agent Operating System’ to Bring Regulated Agentic AI to Lending Workflows",
@@ -80,6 +164,20 @@
         "wall street",
         "ai",
         "spacex"
+      ]
+    },
+    {
+      "id": "721523370",
+      "title": "AI Governance in Enterprise Adoption: Why Trust Will Define the Next Wave of Innovation",
+      "summary": "Artificial Intelligence (AI) is no longer an emerging technology for the financial services sector—i...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32004/ai-governance-in-enterprise-adoption-why-trust-will-define-the-next-wave-of-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-13",
+      "category": "Banking",
+      "tags": [
+        "ai governance",
+        "enterprise adoption",
+        "why trust"
       ]
     },
     {
@@ -788,104 +886,6 @@
         "lloyds",
         "ai",
         "lloyds banking"
-      ]
-    },
-    {
-      "id": "562705726",
-      "title": "Nationwide, Bain and University of Cambridge call for AI adoption to help advance women’s careers",
-      "summary": "Financial services leaders are being urged to take a collective, responsible approach to artificial intelligence (AI) to ensure it expands opportunity for women rather than reinforcing existing inequalities.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110066/nationwide-bain-and-university-of-cambridge-call-for-ai-adoption-to-help-advance-womens-careers?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "nationwide",
-        "bain",
-        "university"
-      ]
-    },
-    {
-      "id": "77910261",
-      "title": "Mercury CEO Says AI Is Breaking the Old Startup Model",
-      "summary": "The distance between an idea and a functioning business has rarely been shorter. Entrepreneurs operate in a business environment where artificial intelligence (AI) is lowering the cost of starting companies. As result it is accelerating business formation and creating demand for …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/mercury-ceo-says-ai-is-breaking-the-old-startup-model/",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "mercury ceo",
-        "says ai",
-        "is breaking"
-      ]
-    },
-    {
-      "id": "349897297",
-      "title": "FinTechs Lag Credit Unions on the Next AI Banking Test",
-      "summary": "For at least a decade, financial technology companies have promised to offer what most banks and credit unions can’t: technology that allows financial services companies to give millions of customers better, faster and more convenient products and services for the digital age, fr…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/fintechs-lag-credit-unions-on-the-next-ai-banking-test/",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "fintechs lag",
-        "credit unions",
-        "next ai"
-      ]
-    },
-    {
-      "id": "412099759",
-      "title": "Big Banks Eye New AI Compute Trading Market",
-      "summary": "Goldman Sachs and JPMorgan are considering entering the emerging compute trading market, The Information reported Monday (June 8), citing unnamed sources. The banks are exploring trading futures contracts tied to rental prices for graphics processing units, as well as other ways …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/big-banks-eye-new-ai-compute-trading-market/",
-      "date": "2026-06-09",
-      "category": "Trading",
-      "tags": [
-        "big banks",
-        "eye new",
-        "ai compute"
-      ]
-    },
-    {
-      "id": "334482324",
-      "title": "GIC, Stripe back Supabase in US$500M round as AI deployment surges across SEA",
-      "summary": "Supabase, a backend platform that helps you build apps faster without setting up a lot of server stuff yourself, has closed a US$500 million Series F at a US$10.5 billion post-money valuation, marking one of the largest late-stage rounds for an open source database player. The ro…",
-      "source": "e27",
-      "url": "https://e27.co/gic-stripe-back-supabase-in-us500m-round-as-ai-deployment-surges-across-sea-20260609/",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "gic",
-        "stripe",
-        "supabase"
-      ]
-    },
-    {
-      "id": "266325040",
-      "title": "Is our talent pipeline ready for the AI economy? Not in the way we think",
-      "summary": "Ask most organisations in Southeast Asia whether they are investing in AI readiness, and the answer is yes. Ask whether that investment is actually producing people who can work differently because of AI — and the answer becomes much harder to give. This is the gap I keep running…",
-      "source": "e27",
-      "url": "https://e27.co/is-our-talent-pipeline-ready-for-the-ai-economy-not-in-the-way-we-think-20260605/",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "is",
-        "ai",
-        "not"
-      ]
-    },
-    {
-      "id": "722687995",
-      "title": "Key to AI financial assistance: Removing friction",
-      "summary": "When people interact with money, friction shows up everywhere. It takes the form of unanswered questions, confusing jargon, and tools that do not meet users where they are. Too often, investors face information gaps, cognitive barriers, and fragmented workflows that leave them un…",
-      "source": "e27",
-      "url": "https://e27.co/key-to-ai-financial-assistance-removing-friction-20250930/",
-      "date": "2026-06-08",
-      "category": "Banking",
-      "tags": [
-        "key",
-        "ai",
-        "removing"
       ]
     }
   ]
