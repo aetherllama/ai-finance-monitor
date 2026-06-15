@@ -1,28 +1,24 @@
 {
-  "last_updated": "2026-06-15T13:20:46Z",
+  "last_updated": "2026-06-15T21:46:37Z",
   "insights": {
     "risks": [
       "Regulatory: AI Moves Compliance From Detection to Investigation — review compliance obligations.",
-      "Trading risk: Meta Facing Pressure to Show It Can Monetize AI Creations — assess algorithmic exposure.",
-      "Operational: AI user roles surge as Singapore pivots from specialist to mainstream hires — evaluate model governance gaps."
+      "Trading risk: Akuvo ships portfolio intelligence package — assess algorithmic exposure.",
+      "Operational: Turning IAPP’s Agentic AI Guidance Into A Banking Playbook — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI fintech startup Waniwani raises $8 million — potential infrastructure advantage.",
-      "Banking efficiency: AI user roles surge as Singapore pivots from specialist to mainstream hires — cost reduction opportunity."
+      "Payments: FintechOS Reaches Profitability as AI Platform Fuels US Growth — potential infrastructure advantage.",
+      "Banking efficiency: Turning IAPP’s Agentic AI Guidance Into A Banking Playbook — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 7
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 3
+      "count": 6
     },
     {
       "topic": "Regulatory AI",
@@ -34,6 +30,10 @@
     },
     {
       "topic": "Payments AI",
+      "count": 2
+    },
+    {
+      "topic": "Fraud Detection",
       "count": 2
     },
     {
@@ -54,6 +54,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "298448554",
+      "title": "Akuvo ships portfolio intelligence package",
+      "summary": "AKUVO, a leading provider of cloud-native, AI-driven collections and credit risk technology, today announced the launch of AKUVO IQ, its new portfolio intelligence solution.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110138/akuvo-ships-portfolio-intelligence-package?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-15",
+      "category": "Trading",
+      "tags": [
+        "akuvo",
+        "akuvo",
+        "ai"
+      ]
+    },
+    {
+      "id": "256633650",
+      "title": "AIQ Markets teams with MarketAxess on AI-native corporate bond tech",
+      "summary": "AIQ Markets, a New York-based fintech company building AI-powered tools for the U.S. corporate bond market, has partnered with MarketAxess, a leading electronic trading platform for fixed-income securities, to develop AIQ Insight™, an AI-native tool designed for fixed-income trad…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110137/aiq-markets-teams-with-marketaxess-on-ai-native-corporate-bond-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-15",
+      "category": "Trading",
+      "tags": [
+        "aiq markets",
+        "marketaxess",
+        "ai"
+      ]
+    },
+    {
+      "id": "315897501",
+      "title": "Turning IAPP’s Agentic AI Guidance Into A Banking Playbook",
+      "summary": "Time has always been among finance’s biggest pressure points. Picture this: a small business owner a...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32016/turning-iapps-agentic-ai-guidance-into-a-banking-playbook?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-15",
+      "category": "Banking",
+      "tags": [
+        "turning iapp",
+        "agentic ai",
+        "guidance into"
+      ]
+    },
+    {
+      "id": "365341041",
+      "title": "FintechOS Reaches Profitability as AI Platform Fuels US Growth",
+      "summary": "FintechOS has reached profitability after recurring revenue rose 40% year on year, supported by 130% growth in the US and adoption of its AI-powered platform. The post FintechOS Reaches Profitability as AI Platform Fuels US Growth appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fintechos-reaches-profitability-as-ai-platform-fuels-us-growth/",
+      "date": "2026-06-15",
+      "category": "Payments",
+      "tags": [
+        "fintechos reaches",
+        "profitability",
+        "ai platform"
+      ]
+    },
+    {
+      "id": "104126126",
+      "title": "AI Scam Surge Prompts Google to File Lawsuit",
+      "summary": "Phishing texts that mimic a bank alert or a package delivery notice usually point to a fake website built to capture passwords and card numbers. Google says one criminal network used artificial intelligence to build those websites at a scale no human team could match. Google has …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/fraud-attack/2026/ai-scam-surge-prompts-google-to-file-lawsuit/",
+      "date": "2026-06-15",
+      "category": "Banking",
+      "tags": [
+        "ai scam",
+        "surge prompts",
+        "google"
+      ]
+    },
+    {
+      "id": "71867867",
+      "title": "Nvidia Aims to Raise $20 Billion to Continue AI Chip Production",
+      "summary": "Artificial intelligence (AI) chipmaker Nvidia is reportedly planning to raise $20 billion through a U.S. bond issuance. The company has not accessed the investment-grade bond market since raising $5 billion 2021, a source familiar with the matter told Reuters in a report publishe…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-aims-to-raise-20-billion-to-continue-ai-chip-production/",
+      "date": "2026-06-15",
+      "category": "Banking",
+      "tags": [
+        "nvidia aims",
+        "raise",
+        "billion"
+      ]
+    },
     {
       "id": "575292661",
       "title": "AI fintech startup Waniwani raises $8 million",
@@ -749,6 +833,20 @@
       ]
     },
     {
+      "id": "740591287",
+      "title": "GIC, Stripe back Supabase in US$500M round as AI deployment surges across SEA",
+      "summary": "Supabase, a backend platform that helps you build apps faster without setting up a lot of server stuff yourself, has closed a US$500 million Series F at a US$10.5 billion post-money valuation, marking one of the largest late-stage rounds for an open source database player. The ro…",
+      "source": "e27",
+      "url": "https://e27.co/gic-stripe-back-supabase-in-us500m-round-as-ai-deployment-surges-across-sea-20260609/",
+      "date": "2026-06-09",
+      "category": "Banking",
+      "tags": [
+        "gic",
+        "stripe",
+        "supabase"
+      ]
+    },
+    {
       "id": "236073757",
       "title": "Nasdaq slips in volatile trading as 2026 high-flyers pull back",
       "summary": "Losses for AI-linked stocks overshadow gains across rest of market",
@@ -788,104 +886,6 @@
         "feezai",
         "feedzai",
         "ai"
-      ]
-    },
-    {
-      "id": "454516765",
-      "title": "AI-native banking platform Titan secures $3 million in new funding",
-      "summary": "Titan, the first of its kind, banking‑native AI platform purpose‑built for financial services, today announced it has raised $3 million in new funding, led by Entropy Ventures.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110075/ai-native-banking-platform-titan-secures-3-million-in-new-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "titan",
-        "entropy ventures"
-      ]
-    },
-    {
-      "id": "792745669",
-      "title": "How Agentic AI is transforming the Banking Governance",
-      "summary": "As banks move toward agentic AI systems that retrieve information, call tools and trigger workflows,...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31962/how-agentic-ai-is-transforming-the-banking-governance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "how agentic",
-        "ai",
-        "banking governance"
-      ]
-    },
-    {
-      "id": "905806841",
-      "title": "Trad.Fi, W3 target $650 million in onchain private credit using AI evaluation",
-      "summary": "Equipment-financing lender Trad.Fi is working with W3 to automate capital workflows and bring real-economy business lending onto public blockchain rails.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/09/trad-fi-w3-target-usd650-million-in-onchain-private-credit-using-ai-evaluation",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "trad",
-        "fi",
-        "ai"
-      ]
-    },
-    {
-      "id": "111037135",
-      "title": "Wall Street will run entirely on the blockchain by 2030, says Brickken CEO",
-      "summary": "Edwin Mata argues that EU regulations are choking local startups, leaving the U.S. and automated AI tools to run the future of tokenized finance.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/09/wall-street-will-be-entirely-onchain-by-2030-brickken-ceo-edwin-mata-says",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "brickken ceo",
-        "edwin mata"
-      ]
-    },
-    {
-      "id": "877682495",
-      "title": "Volante Agentic AI Drives Straight-Through Processing Rates Over 95%",
-      "summary": "Volante Technologies added agentic artificial intelligence to its payments platform and its payments-as-a-service (PaaS) operations. The new Vol360i agentic AI increases straight-through processing rates to over 95%, accelerates exception resolution and proactively manages servic…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/volante-agentic-ai-drives-straight-through-processing-rates-over-95percent/",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "volante agentic",
-        "ai drives",
-        "straight"
-      ]
-    },
-    {
-      "id": "724363740",
-      "title": "Asian tech stocks rebound after Wall Street embraces AI once more",
-      "summary": "Chipmaker-dominant markets rally after sell-off on Monday",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f9367c83-c291-4446-bf12-8282e5169812",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "asian",
-        "wall street",
-        "ai"
-      ]
-    },
-    {
-      "id": "793726857",
-      "title": "Lloyds deploys AI agents to check for payment scams in real-time",
-      "summary": "Lloyds Banking Group is expanding the use of artificial intelligence across its fraud prevention systems, combining agentic AI and real time scam detection to help protect its 28 million customers.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47884/lloyds-deploys-ai-agents-to-check-for-payment-scams-in-real-time?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-09",
-      "category": "Payments",
-      "tags": [
-        "lloyds",
-        "ai",
-        "lloyds banking"
       ]
     }
   ]
