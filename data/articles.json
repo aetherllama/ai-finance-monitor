@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-16T12:14:15Z",
+  "last_updated": "2026-06-16T21:43:23Z",
   "insights": {
     "risks": [
-      "Regulatory: AI Moves Compliance From Detection to Investigation — review compliance obligations.",
-      "Trading risk: Microsoft Faces Shareholder Lawsuit Over Alleged AI Spending Cover-Up — assess algorithmic exposure.",
-      "Operational: Workers sprint ahead of bosses in AI adoption in Singapore, exposing a transformation gap — evaluate model governance gaps."
+      "Regulatory: Shield surveilles Microsoft Copilot interactions — review compliance obligations.",
+      "Trading risk: Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push — assess algorithmic exposure.",
+      "Operational: EBAday 2026: Is AI living up to its hype? — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: From pyramids to prompts: The great recomposition of work in the age of AI — potential infrastructure advantage.",
-      "Banking efficiency: Workers sprint ahead of bosses in AI adoption in Singapore, exposing a transformation gap — cost reduction opportunity."
+      "Payments: Mercury Deploys Conversational AI Interface Across FinTech Platform — potential infrastructure advantage.",
+      "Banking efficiency: EBAday 2026: Is AI living up to its hype? — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 7
     },
     {
       "topic": "Automation",
@@ -41,19 +41,75 @@
       "count": 2
     },
     {
+      "topic": "Copilot / Assistants",
+      "count": 1
+    },
+    {
       "topic": "Credit & Underwriting",
       "count": 1
     },
     {
       "topic": "Generative AI",
       "count": 1
-    },
-    {
-      "topic": "Portfolio Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "472914572",
+      "title": "EBAday 2026: Is AI living up to its hype?",
+      "summary": "The EBAday 2026 panel session, ‘Translating AI Adoption to Real Impact’ explored how financial institutions are deploying AI across their businesses and how ethics, innovation, and risk are managed with the new technology.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47933/ebaday-2026-is-ai-living-up-to-its-hype?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-16",
+      "category": "Banking",
+      "tags": [
+        "ebaday",
+        "is ai",
+        "the ebaday"
+      ]
+    },
+    {
+      "id": "709229857",
+      "title": "Shield surveilles Microsoft Copilot interactions",
+      "summary": "Shield, the global communications surveillance platform for financial services, today extended the reach of its communications surveillance platform to cover Microsoft 365 Copilot interactions and image-based content, bringing two of the fastest-growing compliance blind spots und…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110155/shield-surveilles-microsoft-copilot-interactions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-16",
+      "category": "RegTech",
+      "tags": [
+        "shield",
+        "microsoft copilot",
+        "microsoft"
+      ]
+    },
+    {
+      "id": "994082138",
+      "title": "Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push",
+      "summary": "The crypto exchange is expanding into investing, derivatives and banking services as it pursues an all-in-one financial platform.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-intoduces-ai-advisor-stock-options-and-pre-ipo-markets-in-finance-push",
+      "date": "2026-06-16",
+      "category": "Trading",
+      "tags": [
+        "coinbase",
+        "ai",
+        "ipo"
+      ]
+    },
+    {
+      "id": "530374131",
+      "title": "Mercury Deploys Conversational AI Interface Across FinTech Platform",
+      "summary": "Mercury has added a conversational artificial intelligence (AI) interface to its financial platform. With the new Mercury Command, users can chat with the platform, tell it what to do in natural language, and see it complete the work with their approval, the company said in a Tue…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/mercury-deploys-conversational-ai-interface-across-fintech-platform/",
+      "date": "2026-06-16",
+      "category": "Payments",
+      "tags": [
+        "mercury deploys",
+        "conversational ai",
+        "interface across"
+      ]
+    },
     {
       "id": "494727902",
       "title": "Workers sprint ahead of bosses in AI adoption in Singapore, exposing a transformation gap",
@@ -721,6 +777,20 @@
       ]
     },
     {
+      "id": "695662622",
+      "title": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
+      "summary": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/news/86-apac-bank-leaders-flag-ai-agents-top-fraud-risk",
+      "date": "2026-06-10",
+      "category": "Banking",
+      "tags": [
+        "over",
+        "asia pacific",
+        "ai"
+      ]
+    },
+    {
       "id": "450100377",
       "title": "Why Real-Time Data Is the Hard Part of AI in Financial Services",
       "summary": "When people in financial services talk about AI today, the conversation usually starts with the mode...",
@@ -816,76 +886,6 @@
         "mastercard",
         "ai",
         "coinbase"
-      ]
-    },
-    {
-      "id": "898706466",
-      "title": "Amazon Secures $17.5 Billion Credit Facility Amid AI Infrastructure Race",
-      "summary": "Amazon has entered into a term loan agreement with Citibank and more than a dozen other banks that provides the company with a $17.5 billion senior unsecured delayed draw term loan credit facility (DDTL Facility). The banks’ commitments to provide the credit facility will expire …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/amazon/2026/amazon-secures-17-5-billion-credit-facility-amid-ai-infrastructure-race/",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "amazon secures",
-        "billion credit",
-        "facility amid"
-      ]
-    },
-    {
-      "id": "623206309",
-      "title": "Ramp Wants to Apply AI to Complex Financial Workflows",
-      "summary": "Financial operations platform Ramp has introduced its Ramp Applied AI Solutions offering. The new tool, announced Wednesday (June 10), is designed to help larger enterprises deploy artificial intelligence (AI) agents for complex financial workflows. “In finance, every decision de…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/ramp-wants-to-apply-ai-to-complex-financial-workflows/",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "ramp wants",
-        "apply ai",
-        "complex financial"
-      ]
-    },
-    {
-      "id": "368475790",
-      "title": "ING deploys agentic AI to speed up mortgage decisions",
-      "summary": "ING has introduced agentic AI to speed up mortgage applications in the Netherlands.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47885/ing-deploys-agentic-ai-to-speed-up-mortgage-decisions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "ing",
-        "ai",
-        "netherlands"
-      ]
-    },
-    {
-      "id": "460241926",
-      "title": "Mitigram unveils AI agent for trade finance pricing data",
-      "summary": "Mitigram, the global leader in digital trade finance, today announced the launch of Alfred, an AI agent designed to address one of trade finance’s most persistent challenges: turning fragmented bank risk pricing requests and communications into structured intelligence that inform…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110088/mitigram-unveils-ai-agent-for-trade-finance-pricing-data?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "mitigram",
-        "ai",
-        "alfred"
-      ]
-    },
-    {
-      "id": "38971662",
-      "title": "Bridging the AI trust gap: Overcoming the human oversight challenge in Southeast Asia",
-      "summary": "According to McKinsey, Southeast Asia is touted as the world’s AI arena, with stronger AI adoption momentum tracking ahead of the global average. This rapidly maturing regional ecosystem demands regulation and robust guardrails. From Singapore s Model AI Governance Framework to V…",
-      "source": "e27",
-      "url": "https://e27.co/bridging-the-ai-trust-gap-overcoming-the-human-oversight-challenge-in-southeast-asia-20260603/",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "bridging",
-        "ai",
-        "overcoming"
       ]
     }
   ]
