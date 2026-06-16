@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-15T21:46:37Z",
+  "last_updated": "2026-06-16T12:14:15Z",
   "insights": {
     "risks": [
       "Regulatory: AI Moves Compliance From Detection to Investigation — review compliance obligations.",
-      "Trading risk: Akuvo ships portfolio intelligence package — assess algorithmic exposure.",
-      "Operational: Turning IAPP’s Agentic AI Guidance Into A Banking Playbook — evaluate model governance gaps."
+      "Trading risk: Microsoft Faces Shareholder Lawsuit Over Alleged AI Spending Cover-Up — assess algorithmic exposure.",
+      "Operational: Workers sprint ahead of bosses in AI adoption in Singapore, exposing a transformation gap — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: FintechOS Reaches Profitability as AI Platform Fuels US Growth — potential infrastructure advantage.",
-      "Banking efficiency: Turning IAPP’s Agentic AI Guidance Into A Banking Playbook — cost reduction opportunity."
+      "Payments: From pyramids to prompts: The great recomposition of work in the age of AI — potential infrastructure advantage.",
+      "Banking efficiency: Workers sprint ahead of bosses in AI adoption in Singapore, exposing a transformation gap — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -54,6 +54,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "494727902",
+      "title": "Workers sprint ahead of bosses in AI adoption in Singapore, exposing a transformation gap",
+      "summary": "Singapore s workforce is among the world s most active and responsible adopters of AI at work, according to new local findings from Microsoft s 2026 Work Trend Index. The research, however, also identifies a pressing Transformation Paradox : employees are moving faster with AI th…",
+      "source": "e27",
+      "url": "https://e27.co/workers-sprint-ahead-of-bosses-in-ai-adoption-in-singapore-exposing-a-transformation-gap-20260616/",
+      "date": "2026-06-16",
+      "category": "Banking",
+      "tags": [
+        "workers",
+        "ai",
+        "singapore"
+      ]
+    },
+    {
+      "id": "124153293",
+      "title": "Ecosystem Roundup: Vietnam’s AI surge is more than a funding spike",
+      "summary": "Vietnam’s AI investment surge is striking not just for its scale, but for what it signals about the country’s evolving economic identity. A leap to US$130M in 2025 suggests that Vietnam is no longer merely a manufacturing story or a low-cost outsourcing destination; it is trying …",
+      "source": "e27",
+      "url": "https://e27.co/ecosystem-roundup-vietnams-ai-surge-is-more-than-a-funding-spike-20260616/",
+      "date": "2026-06-16",
+      "category": "Banking",
+      "tags": [
+        "ecosystem roundup",
+        "vietnam",
+        "ai"
+      ]
+    },
+    {
+      "id": "617493225",
+      "title": "Vietnam’s AI funding just grew 13x in two years. Now comes the hard part",
+      "summary": "The number is arresting: AI startup investment in Vietnam reached US$130 million in 2025, a 13-fold increase since 2023. In a region where AI funding headlines tend to flow towards Singapore, India, or the occasional Indonesian unicorn, Vietnam s emergence as a serious AI capital…",
+      "source": "e27",
+      "url": "https://e27.co/vietnams-ai-funding-just-grew-13x-in-two-years-now-comes-the-hard-part-20260616/",
+      "date": "2026-06-16",
+      "category": "Banking",
+      "tags": [
+        "vietnam",
+        "ai",
+        "now"
+      ]
+    },
+    {
+      "id": "284040861",
+      "title": "From pyramids to prompts: The great recomposition of work in the age of AI",
+      "summary": "The pyramids were not just monuments—they were organisational systems. Thousands of people coordinated over years to execute a single intent through hierarchy, repetition, and control. Fast forward to today. A three-person startup in Jakarta can now handle curriculum design, QA, …",
+      "source": "e27",
+      "url": "https://e27.co/from-pyramids-to-prompts-the-great-recomposition-of-work-in-the-age-of-ai-20260609/",
+      "date": "2026-06-16",
+      "category": "Payments",
+      "tags": [
+        "from",
+        "ai the",
+        "thousands"
+      ]
+    },
+    {
+      "id": "673501795",
+      "title": "Microsoft Faces Shareholder Lawsuit Over Alleged AI Spending Cover-Up",
+      "summary": "Microsoft shareholders sued the company Friday (June 12), alleging that it defrauded them and inflated its stock price by concealing slower growth in its Azure cloud business and a need to invest billions of dollars in artificial intelligence infrastructure, Reuters reported Mond…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-faces-shareholder-lawsuit-over-alleged-ai-spending-cover-up/",
+      "date": "2026-06-15",
+      "category": "Trading",
+      "tags": [
+        "microsoft faces",
+        "shareholder lawsuit",
+        "over alleged"
+      ]
+    },
     {
       "id": "298448554",
       "title": "Akuvo ships portfolio intelligence package",
@@ -816,76 +886,6 @@
         "bridging",
         "ai",
         "overcoming"
-      ]
-    },
-    {
-      "id": "186982646",
-      "title": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
-      "summary": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/news/86-apac-bank-leaders-flag-ai-agents-top-fraud-risk",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "over",
-        "asia pacific",
-        "ai"
-      ]
-    },
-    {
-      "id": "740591287",
-      "title": "GIC, Stripe back Supabase in US$500M round as AI deployment surges across SEA",
-      "summary": "Supabase, a backend platform that helps you build apps faster without setting up a lot of server stuff yourself, has closed a US$500 million Series F at a US$10.5 billion post-money valuation, marking one of the largest late-stage rounds for an open source database player. The ro…",
-      "source": "e27",
-      "url": "https://e27.co/gic-stripe-back-supabase-in-us500m-round-as-ai-deployment-surges-across-sea-20260609/",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "gic",
-        "stripe",
-        "supabase"
-      ]
-    },
-    {
-      "id": "236073757",
-      "title": "Nasdaq slips in volatile trading as 2026 high-flyers pull back",
-      "summary": "Losses for AI-linked stocks overshadow gains across rest of market",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/13d4845a-f278-489b-ab89-a2e9e6a79ede",
-      "date": "2026-06-09",
-      "category": "Trading",
-      "tags": [
-        "nasdaq",
-        "losses",
-        "ai"
-      ]
-    },
-    {
-      "id": "112926397",
-      "title": "ICE launches AI-powered fixed income pre-trade analytics for buyside investors",
-      "summary": "Intercontinental Exchange, Inc. (NYSE: ICE), one of the world's leading providers of financial market technology and data powering global capital markets, today announced the launch of ICE Compass, an AI-powered trading analytics platform that gives buy-side fixed income trading …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110083/ice-launches-ai-powered-fixed-income-pre-trade-analytics-for-buyside-investors?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-09",
-      "category": "Trading",
-      "tags": [
-        "ice",
-        "ai",
-        "intercontinental exchange"
-      ]
-    },
-    {
-      "id": "565005438",
-      "title": "Feezai opens fraud intelligence network",
-      "summary": "Feedzai, the global leader in AI-native financial crime prevention, today announced the availability of Feedzai IQ Score, an AI-native, network-derived fraud risk scoring solution for banks of all sizes.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110077/feezai-opens-fraud-intelligence-network?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-09",
-      "category": "Banking",
-      "tags": [
-        "feezai",
-        "feedzai",
-        "ai"
       ]
     }
   ]
