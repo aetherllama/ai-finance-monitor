@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-16T21:43:23Z",
+  "last_updated": "2026-06-17T11:53:50Z",
   "insights": {
     "risks": [
-      "Regulatory: Shield surveilles Microsoft Copilot interactions — review compliance obligations.",
-      "Trading risk: Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push — assess algorithmic exposure.",
-      "Operational: EBAday 2026: Is AI living up to its hype? — evaluate model governance gaps."
+      "Regulatory: Financial crime specialist Flagright raises $12.5 million — review compliance obligations.",
+      "Trading risk: Coinbase introduces AI adviser, stock options, and pre-IPO markets in finance push — assess algorithmic exposure.",
+      "Operational: Shush…financial firms have an AI problem. They just don't know what it is yet. — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Mercury Deploys Conversational AI Interface Across FinTech Platform — potential infrastructure advantage.",
-      "Banking efficiency: EBAday 2026: Is AI living up to its hype? — cost reduction opportunity."
+      "Payments: The TikTok Treasury: Why the UK’s Next Generation of Founders is Turning to Social Media and AI for Financial Literacy — potential infrastructure advantage.",
+      "Banking efficiency: Shush…financial firms have an AI problem. They just don't know what it is yet. — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,15 +18,11 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Regulatory AI",
-      "count": 2
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Payments AI",
@@ -34,10 +30,6 @@
     },
     {
       "topic": "Fraud Detection",
-      "count": 2
-    },
-    {
-      "topic": "Stablecoin AI",
       "count": 2
     },
     {
@@ -51,9 +43,171 @@
     {
       "topic": "Generative AI",
       "count": 1
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
+    },
+    {
+      "topic": "Portfolio Management",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "237064574",
+      "title": "Financial crime specialist Flagright raises $12.5 million",
+      "summary": "AI compliance platform Flagright has raised $12.5 million in a funding round led by Infinity Ventures, with participation from Sella Direct Ventures and continued backing from existing investors including Frontline and Y Combinator.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47937/financial-crime-specialist-flagright-raises-125-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-17",
+      "category": "RegTech",
+      "tags": [
+        "financial",
+        "flagright",
+        "ai"
+      ]
+    },
+    {
+      "id": "836182465",
+      "title": "Shush…financial firms have an AI problem. They just don't know what it is yet.",
+      "summary": "When Standard Chartered and HSBC made headlines recently over AI and job cuts, they were talking abo...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32031/shushfinancial-firms-have-an-ai-problem-they-just-dont-know-what-it-is-yet?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-17",
+      "category": "Banking",
+      "tags": [
+        "shush",
+        "ai",
+        "they"
+      ]
+    },
+    {
+      "id": "679706816",
+      "title": "The TikTok Treasury: Why the UK’s Next Generation of Founders is Turning to Social Media and AI for Financial Literacy",
+      "summary": "Xero research reveals that while 72% of UK students aged 16–21 aspire to start a business, many lack financial confidence and are increasingly turning to TikTok and AI tools for guidance on tax, budgeting and cash-flow management. The post The TikTok Treasury: Why the UK s Next G…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-tiktok-treasury-why-the-uks-next-generation-of-founders-is-turning-to-social-media-and-ai-for-financial-literacy/",
+      "date": "2026-06-17",
+      "category": "Payments",
+      "tags": [
+        "the tiktok",
+        "treasury",
+        "why"
+      ]
+    },
+    {
+      "id": "995471625",
+      "title": "Flagright Secures $12.5 Million to Expand Financial Crime Compliance",
+      "summary": "Flagright raised $12.5 million in a Series A funding round to increase the capabilities and adoption of its artificial intelligence operating system for financial crime compliance. The company will use the new funding to expand explainable AI uses cases across investigations, ale…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/flagright-secures-12-5-million-to-expand-ai-powered-financial-crime-compliance/",
+      "date": "2026-06-17",
+      "category": "RegTech",
+      "tags": [
+        "flagright secures",
+        "million",
+        "expand financial"
+      ]
+    },
+    {
+      "id": "211615828",
+      "title": "61% of Consumers Would Let AI Pick Pay Later Options",
+      "summary": "“The Pay Later Ecosystem Report: Consumers Will Let AI Recommend Pay Later, But They Want Control” examines how artificial intelligence could change the way consumers choose Pay Later options at checkout. Based on a survey of 2,034 U.S. consumers conducted March 30–April 14, 2026…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/bnpl/2026/61percent-of-consumers-would-let-ai-pick-pay-later-options/",
+      "date": "2026-06-17",
+      "category": "Payments",
+      "tags": [
+        "consumers would",
+        "let ai",
+        "pick pay"
+      ]
+    },
+    {
+      "id": "93699665",
+      "title": "Coinbase Expands App With AI Investment Adviser and Developer Platform",
+      "summary": "Coinbase has launched an artificial intelligence-powered, Securities and Exchange Commission-registered investment adviser to its app. The company is rolling out the new Coinbase Advisor to Coinbase One members in the United States, it said Tuesday (June 16). “From helping you de…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/financial-apps/2026/coinbase-expands-app-with-ai-investment-adviser-and-developer-platform/",
+      "date": "2026-06-17",
+      "category": "Banking",
+      "tags": [
+        "coinbase expands",
+        "app with",
+        "ai investment"
+      ]
+    },
+    {
+      "id": "314492828",
+      "title": "Singapore leads APAC in AI agent deployment but also in rollbacks, research finds",
+      "summary": "Singapore enterprises are deploying AI agents at the highest rate in Asia-Pacific, yet are also among the most likely to pull them back after going live, according to new research by communications tech company Sinch. The report, titled The AI Production Paradox, found that 82 pe…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-leads-apac-in-ai-agent-deployment-but-also-in-rollbacks-research-finds-20260617/",
+      "date": "2026-06-17",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "apac",
+        "ai"
+      ]
+    },
+    {
+      "id": "27545416",
+      "title": "She watched her neighbour’s garage burn down. Now she’s building AI that explains itself before disaster strikes",
+      "summary": "A lithium battery explosion in a Singapore residential garage is not the kind of event that typically sparks a deeptech startup. But for Muriel Demarcus, a seasoned infrastructure risk professional with three decades of managing billion-dollar projects across Europe and Asia Paci…",
+      "source": "e27",
+      "url": "https://e27.co/how-marsham-edge-is-rethinking-ai-anomaly-detection-20260617/",
+      "date": "2026-06-17",
+      "category": "Banking",
+      "tags": [
+        "she",
+        "now",
+        "ai"
+      ]
+    },
+    {
+      "id": "656994977",
+      "title": "Pine Labs Launches P3P to Unlock Autonomous AI Payments on India’s UPI Network",
+      "summary": "Pine Labs has launched the Pine Labs Payment Protocol (P3P), India's first agentic payment protocol built on Unified Payments Interface, enabling AI agents to autonomously execute real-time transactions through pre-approved payment mandates. The post Pine Labs Launches P3P to Unl…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/pine-labs-launches-p3p-to-unlock-autonomous-ai-payments-on-indias-upi-network/",
+      "date": "2026-06-16",
+      "category": "Payments",
+      "tags": [
+        "pine labs",
+        "launches",
+        "unlock autonomous"
+      ]
+    },
+    {
+      "id": "308293048",
+      "title": "Global Tech Powerhouses Head to Berlin to Chart Europe’s Trillion Euro AI Future",
+      "summary": "GITEX AI EUROPE has opened in Berlin, bringing together policymakers, technology leaders, startups and investors managing over $1 trillion in assets to drive AI innovation, cross-border collaboration and deep-tech investment across Europe. The post Global Tech Powerhouses Head to…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/global-tech-powerhouses-head-to-berlin-to-chart-europes-trillion-euro-ai-future/",
+      "date": "2026-06-16",
+      "category": "Payments",
+      "tags": [
+        "global tech",
+        "powerhouses head",
+        "berlin"
+      ]
+    },
+    {
+      "id": "875800735",
+      "title": "Coinbase introduces AI adviser, stock options, and pre-IPO markets in finance push",
+      "summary": "The crypto exchange is expanding into investing, derivatives and banking services as it pursues an all-in-one financial platform.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-intoduces-ai-advisor-stock-options-and-pre-ipo-markets-in-finance-push",
+      "date": "2026-06-16",
+      "category": "Trading",
+      "tags": [
+        "coinbase",
+        "ai",
+        "ipo"
+      ]
+    },
     {
       "id": "472914572",
       "title": "EBAday 2026: Is AI living up to its hype?",
@@ -732,160 +886,6 @@
         "the smartest",
         "payment stack",
         "may be"
-      ]
-    },
-    {
-      "id": "629826479",
-      "title": "ShiftControl launches AI-native IT operations platform built for Google Workspace",
-      "summary": "Singapore-based IT automation startup ShiftControl has launched a next-generation IT operations platform designed to run natively on Google Workspace, the company announced at Echelon Singapore, the region s flagship technology conference. The platform is aimed at small and mid-s…",
-      "source": "e27",
-      "url": "https://e27.co/shiftcontrol-google-workspace-20260611/",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "shiftcontrol",
-        "ai",
-        "it"
-      ]
-    },
-    {
-      "id": "401240178",
-      "title": "SeaX Ventures backs Onibi in strategic funding round to accelerate AI-powered RPG across Asia",
-      "summary": "Onibi, the game studio developing the AI-powered open-world multiplayer RPG Tomo: Endless Blue, has closed a strategic funding round led by SeaX Ventures and Pix Capital. The investment will be used to accelerate the title towards a full commercial launch, support studio expansio…",
-      "source": "e27",
-      "url": "https://e27.co/seax-ventures-backs-onibi-in-strategic-funding-round-to-accelerate-ai-powered-rpg-across-asia-20260611/",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "seax ventures",
-        "onibi",
-        "ai"
-      ]
-    },
-    {
-      "id": "414090990",
-      "title": "Applied’s US$500M Singapore expansion tightens ties with Southeast Asia’s chip push",
-      "summary": "California-based Applied Materials has sharply increased its manufacturing footprint in Singapore with a US$500 million Tampines Campus, a move aimed at supplying semiconductor makers racing to meet surging demand for AI-optimised chips. The facility, which more than doubles the …",
-      "source": "e27",
-      "url": "https://e27.co/applieds-us500m-singapore-expansion-tightens-ties-with-southeast-asias-chip-push-20260611/",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "applied",
-        "us",
-        "singapore"
-      ]
-    },
-    {
-      "id": "695662622",
-      "title": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
-      "summary": "Over 8 in 10 or 86% of bank leaders across five markets in Asia Pacific said that artificial intelligence (AI) agents could be the next largest exploitable vulnerability in the next year.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/news/86-apac-bank-leaders-flag-ai-agents-top-fraud-risk",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "over",
-        "asia pacific",
-        "ai"
-      ]
-    },
-    {
-      "id": "450100377",
-      "title": "Why Real-Time Data Is the Hard Part of AI in Financial Services",
-      "summary": "When people in financial services talk about AI today, the conversation usually starts with the mode...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31980/why-real-time-data-is-the-hard-part-of-ai-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "why real",
-        "time data",
-        "is"
-      ]
-    },
-    {
-      "id": "853060995",
-      "title": "Nasdaq Verafin adds new members to agentic AI workforce",
-      "summary": "Nasdaq's anti-financial crime unit Verafin has expanded its suite of agentic AI digital workers with new AML and fraud analysts.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47899/nasdaq-verafin-adds-new-members-to-agentic-ai-workforce?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "nasdaq verafin",
-        "ai",
-        "nasdaq"
-      ]
-    },
-    {
-      "id": "666426365",
-      "title": "Presidio launches AI governance platform for financial services",
-      "summary": "Financial institutions are entering a new operating model shaped by AI, automation, and rising expectations for more personalized, efficient, and compliant client experiences.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110103/presidio-launches-ai-governance-platform-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "presidio",
-        "ai",
-        "financial"
-      ]
-    },
-    {
-      "id": "891217820",
-      "title": "Plum rolls out AI-powered money guidance",
-      "summary": "Smart money app Plum has launched a new financial guidance service called Plum Plan, transforming the way people build, manage and grow their wealth over their lifetime.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110102/plum-rolls-out-ai-powered-money-guidance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-10",
-      "category": "Banking",
-      "tags": [
-        "plum",
-        "ai",
-        "smart"
-      ]
-    },
-    {
-      "id": "39083085",
-      "title": "Phonepe introduces AI-powered payment page creator",
-      "summary": "PhonePe today announced the launch of SmartPages, an AI-powered payment page creator built natively into the PhonePe Payment Gateway (PG) dashboard.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110100/phonepe-introduces-ai-powered-payment-page-creator?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-10",
-      "category": "Payments",
-      "tags": [
-        "phonepe",
-        "ai",
-        "phonepe"
-      ]
-    },
-    {
-      "id": "981863864",
-      "title": "Netomi CEO says $5 trillion AI customer experience market could boost stablecoin demand",
-      "summary": "Puneet Mehta, a former high-level Wall Street engineer and data scientist, said the rapid expansion of AI enterprise software will increase demand for stablecoins and blockchain.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/10/netomi-ceo-says-usd5-trillion-ai-customer-experience-market-could-boost-stablecoin-demand",
-      "date": "2026-06-10",
-      "category": "Payments",
-      "tags": [
-        "netomi ceo",
-        "ai",
-        "puneet mehta"
-      ]
-    },
-    {
-      "id": "17359430",
-      "title": "Mastercard prepares for a future where AI agents make payments",
-      "summary": "The company is working with Coinbase, Stripe and other companies to build trusted payment systems for AI-driven commerce.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/10/mastercard-prepares-for-a-future-where-ai-agents-make-payments-with-latest-introduction",
-      "date": "2026-06-10",
-      "category": "Payments",
-      "tags": [
-        "mastercard",
-        "ai",
-        "coinbase"
       ]
     }
   ]
