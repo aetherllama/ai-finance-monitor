@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-17T11:53:50Z",
+  "last_updated": "2026-06-17T21:12:51Z",
   "insights": {
     "risks": [
       "Regulatory: Financial crime specialist Flagright raises $12.5 million — review compliance obligations.",
-      "Trading risk: Coinbase introduces AI adviser, stock options, and pre-IPO markets in finance push — assess algorithmic exposure.",
-      "Operational: Shush…financial firms have an AI problem. They just don't know what it is yet. — evaluate model governance gaps."
+      "Trading risk: BitGo stock surges on $50 million share buyback as value languishes 65% below IPO price — assess algorithmic exposure.",
+      "Operational: To avoid backlash, tech giants must share their AI wealth before it’s too late — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The TikTok Treasury: Why the UK’s Next Generation of Founders is Turning to Social Media and AI for Financial Literacy — potential infrastructure advantage.",
-      "Banking efficiency: Shush…financial firms have an AI problem. They just don't know what it is yet. — cost reduction opportunity."
+      "Payments: The AI Premium: How Artificial Intelligence Is Rewriting Fintech's Funding Playbook — potential infrastructure advantage.",
+      "Banking efficiency: To avoid backlash, tech giants must share their AI wealth before it’s too late — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Regulatory AI",
@@ -54,6 +54,61 @@
     }
   ],
   "articles": [
+    {
+      "id": "502150024",
+      "title": "To avoid backlash, tech giants must share their AI wealth before it’s too late",
+      "summary": "The US cannot wait for the worst job losses to hit before moving corporate and public policy in a pro-worker direction",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/588ad229-1874-46dc-ad60-87f62b259fd3",
+      "date": "2026-06-17",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "the us"
+      ]
+    },
+    {
+      "id": "287837389",
+      "title": "The AI Premium: How Artificial Intelligence Is Rewriting Fintech's Funding Playbook",
+      "summary": "The numbers tell a stark story. Fintech startups that credibly embed artificial intelligence into th...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32036/the-ai-premium-how-artificial-intelligence-is-rewriting-fintechs-funding-playbook?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-17",
+      "category": "Payments",
+      "tags": [
+        "the ai",
+        "premium",
+        "how artificial"
+      ]
+    },
+    {
+      "id": "940514304",
+      "title": "BitGo stock surges on $50 million share buyback as value languishes 65% below IPO price",
+      "summary": "The buyback comes as newly public digital-asset firms face a tougher environment, with crypto markets lagging and investor attention shifting toward AI stocks.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/06/17/bitgo-stock-surges-on-usd50-million-share-buyback-as-value-languishes-65-below-ipo-price",
+      "date": "2026-06-17",
+      "category": "Trading",
+      "tags": [
+        "bitgo",
+        "ipo",
+        "ai"
+      ]
+    },
+    {
+      "id": "493922828",
+      "title": "Connecticut Requires AI Companies to Disclose Subscription Limits",
+      "summary": "Connecticut has passed a law requiring artificial intelligence (AI) subscription providers to disclose usage caps, feature restrictions, and any discretion to reduce service quality before a customer pays. It takes effect Oct. 1. Gov. Ned Lamont in May signed SB 5, “An Act Concer…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/connecticut-requires-ai-companies-to-disclose-subscription-limits/",
+      "date": "2026-06-17",
+      "category": "Payments",
+      "tags": [
+        "connecticut requires",
+        "ai companies",
+        "disclose subscription"
+      ]
+    },
     {
       "id": "237064574",
       "title": "Financial crime specialist Flagright raises $12.5 million",
@@ -830,62 +885,6 @@
       "tags": [
         "we",
         "ai"
-      ]
-    },
-    {
-      "id": "943138412",
-      "title": "FSB guides banks on responsible adoption of AI",
-      "summary": "The Financial Stability Council is inviting feedback on a new consultation on sound practices for the responsible adoption of artificial intelligence within the financial sector.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47895/fsb-guides-banks-on-responsible-adoption-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-11",
-      "category": "RegTech",
-      "tags": [
-        "fsb",
-        "ai the",
-        "financial stability"
-      ]
-    },
-    {
-      "id": "24297253",
-      "title": "Bootomline releases AI CFO Suite",
-      "summary": "Bottomline, a global leader in business payments, today announced the launch of its CFO Suite, a modular platform designed to help finance leaders leverage AI to see, manage, predict, and protect operational cash flow across the Office of the CFO.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110111/bootomline-releases-ai-cfo-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "bootomline",
-        "ai cfo",
-        "suite bottomline"
-      ]
-    },
-    {
-      "id": "487900818",
-      "title": "Key Non-Negotiables for a Controllable AI Adoption in Banking",
-      "summary": "In the FinextraTV studio at The Temenos Community Forum in Copenhagen, Sai Rangachari, Chief Product Officer, Temenos, discussed the balance of retaining control, whilst embedding AI into banking processes. Rangachari explained the three non-negotiables of AI-based products: audi…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3523/key-non-negotiables-for-a-controllable-ai-adoption-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "key non",
-        "negotiables",
-        "controllable ai"
-      ]
-    },
-    {
-      "id": "306607065",
-      "title": "The Smartest Payment Stack May Be the Simplest One",
-      "summary": "Orchestration solves a longstanding challenge in payments. It allows merchants to connect to multiple payment providers through a single layer of infrastructure, dynamically route transactions to maximize approval rates, reduce downtime through automated failover and gain leverag…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/payments-innovation/2026/the-smartest-payment-stack-may-be-the-simplest-one/",
-      "date": "2026-06-11",
-      "category": "Payments",
-      "tags": [
-        "the smartest",
-        "payment stack",
-        "may be"
       ]
     }
   ]
