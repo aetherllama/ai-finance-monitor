@@ -1,35 +1,39 @@
 {
-  "last_updated": "2026-06-17T21:12:51Z",
+  "last_updated": "2026-06-18T11:11:06Z",
   "insights": {
     "risks": [
       "Regulatory: Financial crime specialist Flagright raises $12.5 million — review compliance obligations.",
       "Trading risk: BitGo stock surges on $50 million share buyback as value languishes 65% below IPO price — assess algorithmic exposure.",
-      "Operational: To avoid backlash, tech giants must share their AI wealth before it’s too late — evaluate model governance gaps."
+      "Operational: Tru Cooperative Bank selects DataVisor for fraud prevention — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The AI Premium: How Artificial Intelligence Is Rewriting Fintech's Funding Playbook — potential infrastructure advantage.",
-      "Banking efficiency: To avoid backlash, tech giants must share their AI wealth before it’s too late — cost reduction opportunity."
+      "Payments: Visa and Mastercard Put Tokens in Charge of AI Commerce — potential infrastructure advantage.",
+      "Banking efficiency: Tru Cooperative Bank selects DataVisor for fraud prevention — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 7
+      "count": 9
     },
     {
       "topic": "Automation",
       "count": 4
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Fraud Detection",
       "count": 3
     },
     {
-      "topic": "Payments AI",
+      "topic": "Customer Service AI",
       "count": 2
     },
     {
-      "topic": "Fraud Detection",
+      "topic": "Regulatory AI",
+      "count": 2
+    },
+    {
+      "topic": "Payments AI",
       "count": 2
     },
     {
@@ -45,15 +49,109 @@
       "count": 1
     },
     {
-      "topic": "Customer Service AI",
-      "count": 1
-    },
-    {
       "topic": "Portfolio Management",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "714877901",
+      "title": "Tru Cooperative Bank selects DataVisor for fraud prevention",
+      "summary": "DataVisor, the leading AI-powered fraud and AML platform, today announced that Tru Cooperative Bank (formerly First West Credit Union) has selected DataVisor’s AI-powered fraud and risk platform to protect members in real time across the banking journey.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110184/tru-cooperative-bank-selects-datavisor-for-fraud-prevention?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "tru cooperative",
+        "bank",
+        "datavisor"
+      ]
+    },
+    {
+      "id": "481204812",
+      "title": "Has AI Impact Accelerated Beyond Expectation?",
+      "summary": "At the Temenos Community Forum, Patrice Amann, Regional Industry Leader, Insurance and Banking, Microsoft joined the FinextraTV studio to share his insights on the speed of impact across AI and cloud. Amann said they expected there to be more of a gradual implementation, but inst…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3528/has-ai-impact-accelerated-beyond-expectation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "has ai",
+        "impact accelerated",
+        "beyond expectation"
+      ]
+    },
+    {
+      "id": "937682428",
+      "title": "PYMNTS Panel Concludes Credit Unions Face an AI Trust Test",
+      "summary": "Watch more: Virtual Roundtable With Jeremiah Lotz and Cheryl Middleton Jones of Velera and Cal Al-Dhubaib of Rubrik The conventional wisdom surrounding artificial intelligence in financial services is that the race has already started, and anyone who is not sprinting has already …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/pymnts-panel-concludes-credit-unions-face-an-ai-trust-test/",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "pymnts panel",
+        "concludes credit",
+        "unions face"
+      ]
+    },
+    {
+      "id": "386386640",
+      "title": "Just 30% of Financial Firms Use AI for Customer Retention",
+      "summary": "Enterprise artificial intelligence has moved past the pilot stage, but there are some challenges when it comes to gaining wider acceptance. The PYMNTS Intelligence report “Financial Services Pulls Ahead in the Enterprise AI Race” was based on a survey of 60 senior technology exec…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/just-30-percent-of-financial-firms-use-ai-for-customer-retention/",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "just",
+        "financial firms",
+        "use ai"
+      ]
+    },
+    {
+      "id": "461380271",
+      "title": "Apple Plans Price Hikes as AI Companies Drive Up Chip Costs",
+      "summary": "Apple plans to raise prices due to a surge in the costs of memory and storage chips, CEO Tim Cook told The Wall Street Journal (WSJ) in a report posted Wednesday (June 17). Cook declined to say when the planned price increases would take effect, how large they would be, or which …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/apple/2026/apple-plans-price-hikes-as-ai-companies-drive-up-chip-costs/",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "apple plans",
+        "price hikes",
+        "ai companies"
+      ]
+    },
+    {
+      "id": "490487195",
+      "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
+      "summary": "Acrab Inc., a Singapore-headquartered frontier tech company, has announced it has secured more than US$350 million in cumulative financing since its founding in 2024, as it looks to establish itself as a foundational infrastructure provider for the next generation of agentic AI. …",
+      "source": "e27",
+      "url": "https://e27.co/acrab-raises-us350m-to-advance-agentic-ai-compute-infrastructure-20260618/",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "acrab",
+        "us",
+        "agentic ai"
+      ]
+    },
+    {
+      "id": "565822064",
+      "title": "Visa and Mastercard Put Tokens in Charge of AI Commerce",
+      "summary": "The race to build agentic commerce is producing no shortage of attention around artificial intelligence (AI) assistants. OpenAI, Google, Perplexity and others want consumers to delegate shopping decisions to software. Yet before any AI agent can complete a purchase, a merchant, i…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/visa-and-mastercard-put-tokens-in-charge-of-ai-commerce/",
+      "date": "2026-06-17",
+      "category": "Payments",
+      "tags": [
+        "visa",
+        "mastercard put",
+        "tokens"
+      ]
+    },
     {
       "id": "502150024",
       "title": "To avoid backlash, tech giants must share their AI wealth before it’s too late",
@@ -788,103 +886,6 @@
       "tags": [
         "the ai",
         "wall street"
-      ]
-    },
-    {
-      "id": "222138353",
-      "title": "Bottomline releases AI CFO Suite",
-      "summary": "Bottomline, a global leader in business payments, today announced the launch of its CFO Suite, a modular platform designed to help finance leaders leverage AI to see, manage, predict, and protect operational cash flow across the Office of the CFO.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110111/bottomline-releases-ai-cfo-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "bottomline",
-        "ai cfo",
-        "suite bottomline"
-      ]
-    },
-    {
-      "id": "188053276",
-      "title": "Why Financial Services Firms Can't Convert AI Into ROI",
-      "summary": "Boards and regulators are asking the same question: where is the ROI? The answer lies not in models",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31992/why-financial-services-firms-cant-convert-ai-into-roi?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "why financial",
-        "services firms",
-        "can"
-      ]
-    },
-    {
-      "id": "463986251",
-      "title": "The Most Expensive Assumption in Banking: That the AI Gap Is Linear",
-      "summary": "There is a quiet assumption sitting inside most bank AI strategies, and it is getting more expensive...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31989/the-most-expensive-assumption-in-banking-that-the-ai-gap-is-linear?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "the most",
-        "expensive assumption",
-        "banking"
-      ]
-    },
-    {
-      "id": "54097057",
-      "title": "The compliance reckoning KYC leaders can't afford to ignore",
-      "summary": "The EU AI Act doesn't just regulate AI. It redefines what it means to run a compliant KYC operation...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/31987/the-compliance-reckoning-kyc-leaders-cant-afford-to-ignore?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "kyc",
-        "the eu",
-        "ai act"
-      ]
-    },
-    {
-      "id": "828821939",
-      "title": "Nvidia Taps Abridge to Train AI on Real Doctor Visits",
-      "summary": "Nvidia is partnering with Abridge to build an artificial intelligence (AI) model for clinical conversations, the Wall Street Journal reported Thursday (June 11). Abridge’s platform listens to doctor-patient exchanges and automatically generates clinical notes. The model will run …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-taps-abridge-to-train-ai-on-real-doctor-visits/",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "nvidia taps",
-        "abridge",
-        "train ai"
-      ]
-    },
-    {
-      "id": "94501912",
-      "title": "Bottomline Launches AI-Powered CFO Finance Platform",
-      "summary": "Bottomline launched a platform to help chief financial officers use artificial intelligence to oversee cash flow. The CFO Suite combines cash forecasting, invoice management, collections and payments in one system, according to a Thursday (June 11) press release. The new software…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cfo/2026/bottomline-launches-ai-powered-cfo-finance-platform/",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "bottomline launches",
-        "ai",
-        "powered cfo"
-      ]
-    },
-    {
-      "id": "465272768",
-      "title": "We will need a new tax code for the wealth AI creates",
-      "summary": "The question isn’t whether mass underemployment arrives but whether we have a policy framework ready when it does",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b277360e-bf23-4366-afd7-acab940f66b7",
-      "date": "2026-06-11",
-      "category": "Banking",
-      "tags": [
-        "we",
-        "ai"
       ]
     }
   ]
