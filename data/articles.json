@@ -1,24 +1,28 @@
 {
-  "last_updated": "2026-06-18T11:11:06Z",
+  "last_updated": "2026-06-18T21:22:54Z",
   "insights": {
     "risks": [
       "Regulatory: Financial crime specialist Flagright raises $12.5 million — review compliance obligations.",
       "Trading risk: BitGo stock surges on $50 million share buyback as value languishes 65% below IPO price — assess algorithmic exposure.",
-      "Operational: Tru Cooperative Bank selects DataVisor for fraud prevention — evaluate model governance gaps."
+      "Operational: Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Visa and Mastercard Put Tokens in Charge of AI Commerce — potential infrastructure advantage.",
-      "Banking efficiency: Tru Cooperative Bank selects DataVisor for fraud prevention — cost reduction opportunity."
+      "Payments: Alchemy's AI-driven identity and payment service gains access to Visa network — potential infrastructure advantage.",
+      "Banking efficiency: Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 11
     },
     {
       "topic": "Automation",
       "count": 4
+    },
+    {
+      "topic": "Payments AI",
+      "count": 3
     },
     {
       "topic": "Fraud Detection",
@@ -30,10 +34,6 @@
     },
     {
       "topic": "Regulatory AI",
-      "count": 2
-    },
-    {
-      "topic": "Payments AI",
       "count": 2
     },
     {
@@ -54,6 +54,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "297376707",
+      "title": "Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled",
+      "summary": "Contributors: Vadim Belski, Head of AI and Principal Architect at ScienceSoft, Stacy Dubovik, Financ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32046/agentic-ai-in-insurance-claims-where-to-start-what-to-automate-and-what-to-keep-human-controlled?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "agentic ai",
+        "insurance claims",
+        "where"
+      ]
+    },
+    {
+      "id": "543724460",
+      "title": "Alchemy's AI-driven identity and payment service gains access to Visa network",
+      "summary": "The AgentCard integration with Visa Intelligent Commerce allows AI agents built on models from any provider, including OpenAI or Anthropic, to effect commercial transactions.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
+      "date": "2026-06-18",
+      "category": "Payments",
+      "tags": [
+        "alchemy",
+        "ai",
+        "visa"
+      ]
+    },
+    {
+      "id": "962434513",
+      "title": "Alchemy Teams With Visa on AI Agent Payment Stack",
+      "summary": "Blockchain infrastructure platform Alchemy integrated its artificial intelligence-powered agent card with Visa Intelligent Commerce. The integration is designed to provide AI agents a “complete identity and payment stack” and let them make online purchases on consumers’ behalf, a…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/partnerships/2026/alchemy-teams-with-visa-ai-agent-payment-stack/",
+      "date": "2026-06-18",
+      "category": "Payments",
+      "tags": [
+        "alchemy teams",
+        "with visa",
+        "ai agent"
+      ]
+    },
     {
       "id": "714877901",
       "title": "Tru Cooperative Bank selects DataVisor for fraud prevention",
@@ -845,47 +887,6 @@
         "credit unions",
         "need ai",
         "chat"
-      ]
-    },
-    {
-      "id": "693967735",
-      "title": "Beyond the hype: How an AI Agent powered real connections at Echelon Singapore 2026",
-      "summary": "When the doors opened at the Suntec Singapore CEC on June 3 and 4, the energy was palpable. Echelon Singapore 2026 set an ambitious tone for the region with its central theme: Moving Southeast Asia from AI hype to real-world implementation. Ecosystem Convergence to Build an Intel…",
-      "source": "e27",
-      "url": "https://e27.co/beyond-the-hype-how-an-ai-agent-powered-real-connections-at-echelon-singapore-2026-20260612/",
-      "date": "2026-06-12",
-      "category": "Banking",
-      "tags": [
-        "beyond",
-        "how",
-        "ai agent"
-      ]
-    },
-    {
-      "id": "19142967",
-      "title": "The flattening: How AI is collapsing the middle of the risk function",
-      "summary": "Last year, I drew the org chart of the risk team I would hire if I were building from zero. I drew four boxes. Fifteen years earlier, when I first joined a risk team inside an Indonesian bank, the chart I worked under had eleven boxes — analysts feeding into officers feeding into…",
-      "source": "e27",
-      "url": "https://e27.co/the-flattening-how-ai-is-collapsing-the-middle-of-the-risk-function-20260605/",
-      "date": "2026-06-12",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "last",
-        "fifteen"
-      ]
-    },
-    {
-      "id": "51322365",
-      "title": "The AI public market floodgates are opening",
-      "summary": "The huge sums that Wall Street is about to be asked for look like being only a down payment",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/da78ce3e-fd1a-472d-b486-ee199b7c427d",
-      "date": "2026-06-11",
-      "category": "Payments",
-      "tags": [
-        "the ai",
-        "wall street"
       ]
     }
   ]
