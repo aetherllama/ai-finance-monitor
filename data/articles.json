@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-06-19T11:26:55Z",
+  "last_updated": "2026-06-19T20:27:21Z",
   "insights": {
     "risks": [
       "Trading risk: Senate Bill Would Require AI Firms to Yield Half Ownership to Public — assess algorithmic exposure.",
-      "Operational: Deutsche Bank exec lauds AI impact on project times — evaluate model governance gaps."
+      "Operational: NatWest CEO Thwaite says AI will take some banking jobs — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Alchemy's AI-driven identity and payment service gains access to Visa network — potential infrastructure advantage.",
-      "Banking efficiency: Deutsche Bank exec lauds AI impact on project times — cost reduction opportunity."
+      "Payments: How AI Fintech Startups Can Avoid Getting Buried in the Noise — potential infrastructure advantage.",
+      "Banking efficiency: NatWest CEO Thwaite says AI will take some banking jobs — cost reduction opportunity.",
+      "InsurTech: The Download: AI bottleneck debates, and BCI trials take off — underwriting modernisation potential."
     ]
   },
   "trending": [
@@ -16,15 +17,7 @@
       "count": 9
     },
     {
-      "topic": "Automation",
-      "count": 4
-    },
-    {
       "topic": "Payments AI",
-      "count": 3
-    },
-    {
-      "topic": "Customer Service AI",
       "count": 2
     },
     {
@@ -32,27 +25,135 @@
       "count": 2
     },
     {
+      "topic": "Automation",
+      "count": 2
+    },
+    {
       "topic": "Fraud Detection",
+      "count": 1
+    },
+    {
+      "topic": "Customer Service AI",
       "count": 1
     },
     {
       "topic": "Copilot / Assistants",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
-    },
-    {
-      "topic": "Portfolio Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "987571986",
+      "title": "NatWest CEO Thwaite says AI will take some banking jobs",
+      "summary": "NatWest's Paul Thwaite has become the latest bank CEO to predict that artificial intelligence will take over some jobs in the sector but says that this does not necessarily mean overall headcounts will drop.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47960/natwest-ceo-thwaite-says-ai-will-take-some-banking-jobs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "natwest ceo",
+        "thwaite",
+        "ai"
+      ]
+    },
+    {
+      "id": "576149851",
+      "title": "Eltropy expands agentic AI certification",
+      "summary": "Eltropy, the leading agentic AI platform for credit unions and community banks, is expanding access to its AI Certification program — opening free enrollment to credit union and community bank professionals, and deepening the program's reach through league partnerships and indust…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110197/eltropy-expands-agentic-ai-certification?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "eltropy",
+        "ai",
+        "ai certification"
+      ]
+    },
+    {
+      "id": "716839945",
+      "title": "First Commerce Bank picks FIS core banking platform",
+      "summary": "FIS (NYSE: FIS), a global leader in financial services technology, announced that First Commerce Bank, a $1.8B-asset community bank based in New Jersey, has selected FIS as its go-forward core banking platform – giving the institution a modern, AI-ready foundation as community ba…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110196/first-commerce-bank-picks-fis-core-banking-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "first commerce",
+        "bank",
+        "fis"
+      ]
+    },
+    {
+      "id": "846999712",
+      "title": "How AI Fintech Startups Can Avoid Getting Buried in the Noise",
+      "summary": "There are roughly 14,000 fintech startups operating across the Americas alone. A growing majority of...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32056/how-ai-fintech-startups-can-avoid-getting-buried-in-the-noise?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-19",
+      "category": "Payments",
+      "tags": [
+        "how ai",
+        "fintech startups",
+        "can avoid"
+      ]
+    },
+    {
+      "id": "757540614",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge cla…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "date": "2026-06-19",
+      "category": "InsurTech",
+      "tags": [
+        "the download",
+        "ai",
+        "bci"
+      ]
+    },
+    {
+      "id": "149384977",
+      "title": "NatWest CEO Says AI Will Take Over Some Existing Banking Roles",
+      "summary": "NatWest CEO Paul Thwaite said artificial intelligence (AI) is going to change the bank’s workforce, though he didn’t say whether it would reduce the size, Finextra reported Friday (June 19). Speaking at a business summit hosted by The Times, Thwaite said, per the report: “In effe…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/natwest-ceo-says-ai-will-take-over-some-existing-banking-roles/",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "natwest ceo",
+        "says ai",
+        "will take"
+      ]
+    },
+    {
+      "id": "60629832",
+      "title": "Soaring AI Costs Push Enterprise Buyers to Cheaper Chinese Models",
+      "summary": "Large artificial intelligence (AI) labs like Anthropic and OpenAI could see their growth impacted by AI users’ efforts to control costs, the Financial Times reported Thursday (June 18). Companies are looking to better manage their use of AI after seeing the costs of the technolog…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/soaring-ai-costs-push-enterprise-buyers-to-cheaper-chinese-models/",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "soaring ai",
+        "costs push",
+        "enterprise buyers"
+      ]
+    },
+    {
+      "id": "379711221",
+      "title": "Momentum without maturity: Southeast Asia’s AI reality",
+      "summary": "The AI hype cycle loves a clean split: innovators and laggards. Southeast Asia’s story is messier and more interesting. A study titled “AI in Southeast Asia: An era of opportunity” by McKinsey and the Singapore Economic Development Board surveyed 330 respondents across six econom…",
+      "source": "e27",
+      "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "momentum",
+        "southeast asia",
+        "ai"
+      ]
+    },
     {
       "id": "11132216",
       "title": "Deutsche Bank exec lauds AI impact on project times",
@@ -778,114 +879,6 @@
         "aunties",
         "ai",
         "wenhui lim"
-      ]
-    },
-    {
-      "id": "881893979",
-      "title": "Experian and ServiceNow Launch ‘Agent Operating System’ to Bring Regulated Agentic AI to Lending Workflows",
-      "summary": "Experian has launched its Agent Operating System (AOS) in partnership with ServiceNow, providing a compliance-focused framework for deploying autonomous AI agents across the lending lifecycle. The post Experian and ServiceNow Launch Agent Operating System to Bring Regulated Agent…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/experian-and-servicenow-launch-agent-operating-system-to-bring-regulated-agentic-ai-to-lending-workflows/",
-      "date": "2026-06-14",
-      "category": "RegTech",
-      "tags": [
-        "experian",
-        "servicenow launch",
-        "agent operating"
-      ]
-    },
-    {
-      "id": "971192453",
-      "title": "Wall Street digests record fundraising haul as AI race intensifies",
-      "summary": "SpaceX, Anthropic and Alphabet financings highlight investors’ willingness to absorb a torrent of new issuance",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06",
-      "date": "2026-06-14",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "ai",
-        "spacex"
-      ]
-    },
-    {
-      "id": "721523370",
-      "title": "AI Governance in Enterprise Adoption: Why Trust Will Define the Next Wave of Innovation",
-      "summary": "Artificial Intelligence (AI) is no longer an emerging technology for the financial services sector—i...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32004/ai-governance-in-enterprise-adoption-why-trust-will-define-the-next-wave-of-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-13",
-      "category": "Banking",
-      "tags": [
-        "ai governance",
-        "enterprise adoption",
-        "why trust"
-      ]
-    },
-    {
-      "id": "404991053",
-      "title": "Navigating the Data Deluge: IXOPAY Launches AI Assistant ‘IXONav’ to Unify Multi-PSP Orchestration",
-      "summary": "IXOPAY has unveiled its Payments Intelligence suite and IXONav, an AI-powered payments assistant, at Money20/20 Europe. The new tools leverage anomaly detection and generative AI to help merchants unify payment data, optimize performance across providers, and improve decision-mak…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/navigating-the-data-deluge-ixopay-launches-ai-assistant-ixonav-to-unify-multi-psp-orchestration/",
-      "date": "2026-06-13",
-      "category": "Payments",
-      "tags": [
-        "navigating",
-        "data deluge",
-        "ixopay launches"
-      ]
-    },
-    {
-      "id": "626947466",
-      "title": "AI is disrupting investment",
-      "summary": "The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1",
-      "date": "2026-06-13",
-      "category": "Banking",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "656401884",
-      "title": "Tokenization mirrors the $20 trillion ETF boom as blockchain and AI converge, Ondo exec says",
-      "summary": "Tokenization is laying the groundwork for autonomous investing and real-time portfolio management, Ondo's new head of portfolio products John Hoffman said.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/13/tokenization-mirrors-the-usd20-trillion-etf-boom-as-blockchain-and-ai-converge-ondo-exec-says",
-      "date": "2026-06-13",
-      "category": "Trading",
-      "tags": [
-        "tokenization",
-        "etf",
-        "ai"
-      ]
-    },
-    {
-      "id": "677274075",
-      "title": "How AI is disrupting investment",
-      "summary": "The technology is leading to a fundamental shift in the way investors allocate funds and diversify risks across every asset class",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b9273a66-f05d-4b28-bf34-be8ab93b89d1",
-      "date": "2026-06-13",
-      "category": "Banking",
-      "tags": [
-        "how ai"
-      ]
-    },
-    {
-      "id": "686382014",
-      "title": "AI is revolutionising the stock market",
-      "summary": "Big Tech no longer prints money; it needs it. What will that mean when confidence dips?",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b31f1e09-5aae-4cad-af15-97adb15dba70",
-      "date": "2026-06-13",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "big tech",
-        "what"
       ]
     }
   ]
