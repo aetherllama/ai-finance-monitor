@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-06-18T21:22:54Z",
+  "last_updated": "2026-06-19T11:26:55Z",
   "insights": {
     "risks": [
-      "Regulatory: Financial crime specialist Flagright raises $12.5 million — review compliance obligations.",
-      "Trading risk: BitGo stock surges on $50 million share buyback as value languishes 65% below IPO price — assess algorithmic exposure.",
-      "Operational: Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled — evaluate model governance gaps."
+      "Trading risk: Senate Bill Would Require AI Firms to Yield Half Ownership to Public — assess algorithmic exposure.",
+      "Operational: Deutsche Bank exec lauds AI impact on project times — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Alchemy's AI-driven identity and payment service gains access to Visa network — potential infrastructure advantage.",
-      "Banking efficiency: Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled — cost reduction opportunity."
+      "Banking efficiency: Deutsche Bank exec lauds AI impact on project times — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
     },
     {
       "topic": "Automation",
@@ -25,16 +24,16 @@
       "count": 3
     },
     {
-      "topic": "Fraud Detection",
-      "count": 3
-    },
-    {
       "topic": "Customer Service AI",
       "count": 2
     },
     {
       "topic": "Regulatory AI",
       "count": 2
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
     },
     {
       "topic": "Copilot / Assistants",
@@ -54,6 +53,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "11132216",
+      "title": "Deutsche Bank exec lauds AI impact on project times",
+      "summary": "Greater use of AI has drastically reduced the time of projects, according to a leading investment bank.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47958/deutsche-bank-exec-lauds-ai-impact-on-project-times?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "ai",
+        "greater"
+      ]
+    },
+    {
+      "id": "444191921",
+      "title": "Deutsche Bank Points to Proven Returns on AI Investments",
+      "summary": "Deutsche Bank executive Denis Roux said Thursday (June 18) that artificial intelligence (AI) is enabling the bank to cut the completion time of some tasks from two years to as little as three months, Reuters reported Thursday. Roux, who is Deutsche Bank’s chief information office…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deutsche-bank-points-to-proven-returns-on-ai-investments/",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "points",
+        "proven returns"
+      ]
+    },
+    {
+      "id": "937433528",
+      "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
+      "summary": "Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan s JR East Group, marking a significant step in the company s expansion into the Japanese market. The investment comes alongside a deploym…",
+      "source": "e27",
+      "url": "https://e27.co/fileai-funding-20260619/",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "jr east",
+        "group",
+        "japan singapore"
+      ]
+    },
+    {
+      "id": "621621851",
+      "title": "AI governance in banking operations and decisioning",
+      "summary": "Banks are still talking about AI governance as though it belongs mainly to policy teams, future regulation, and committee oversight. That view is already out of date. AI governance is now an operating model issue. The real danger is not only that a model makes a poor recommendati…",
+      "source": "e27",
+      "url": "https://e27.co/ai-governance-in-banking-operations-and-decisioning-20260606/",
+      "date": "2026-06-19",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "banks",
+        "that"
+      ]
+    },
+    {
+      "id": "354652477",
+      "title": "Senate Bill Would Require AI Firms to Yield Half Ownership to Public",
+      "summary": "Sen. Bernie Sanders (I-Vt.) has introduced a bill that would impose a one-time 50% tax on the stock of the biggest artificial intelligence (AI) companies and deposit that stock into a new sovereign wealth fund, giving the public 50% ownership of the companies. At current valuatio…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/senate-bill-would-require-ai-firms-to-yield-half-ownership-to-public/",
+      "date": "2026-06-18",
+      "category": "Trading",
+      "tags": [
+        "senate bill",
+        "would require",
+        "ai firms"
+      ]
+    },
+    {
+      "id": "491511097",
+      "title": "AI and Digital Money’s Next Test is Proving Their Business Case",
+      "summary": "Two developments this week, one in artificial intelligence (AI) and the other in financial services, underscore a reality confronting businesses across industries. Their technological capability is advancing faster than the economic models needed to support large-scale adoption. …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/innovation/2026/ai-and-digital-moneys-next-test-is-proving-their-business-case/",
+      "date": "2026-06-18",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "digital money",
+        "next test"
+      ]
+    },
     {
       "id": "297376707",
       "title": "Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled",
@@ -803,90 +886,6 @@
         "ai",
         "big tech",
         "what"
-      ]
-    },
-    {
-      "id": "896744426",
-      "title": "Elon Musk becomes trillionaire as SpaceX soars in Wall Street debut",
-      "summary": "AI and rockets group cracks list of world’s most valuable companies after historic IPO",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/097216e1-f3fc-4052-a5b5-fc66cfc57563",
-      "date": "2026-06-12",
-      "category": "Banking",
-      "tags": [
-        "elon musk",
-        "spacex",
-        "wall street"
-      ]
-    },
-    {
-      "id": "897294997",
-      "title": "Fraudio raises funds for AI fraud detection",
-      "summary": "Fraudio, a real-time payments, fraud prevention platform has raised a new funding round led by Alea Capital Partners to accelerate its international expansion and further develop its AI-powered fraud detection technology.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110126/fraudio-raises-funds-for-ai-fraud-detection?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-12",
-      "category": "Banking",
-      "tags": [
-        "fraudio",
-        "ai",
-        "alea capital"
-      ]
-    },
-    {
-      "id": "814471298",
-      "title": "Stripe rolls out tools to help UK businesses sell globally and build for the AI economy",
-      "summary": "Stripe today shared new tools to help UK businesses sell globally and seize the AI commerce opportunity, from expanded multi-currency treasury capabilities to new fraud defences, and the ability for UK businesses to sell across multiple AI agents through a single integration.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110123/stripe-rolls-out-tools-to-help-uk-businesses-sell-globally-and-build-for-the-ai-economy?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-12",
-      "category": "Banking",
-      "tags": [
-        "stripe",
-        "uk",
-        "ai"
-      ]
-    },
-    {
-      "id": "594673268",
-      "title": "Anthropic Vertical Software Rollout Threatens Enterprise AI Builders",
-      "summary": "Anthropic’s introduction of industry-specific artificial intelligence tools threatens the business of companies that use its AI models to build their own tools, The Information reported Thursday (June 11). The report highlighted 13 industry-specific tools introduced by Anthropic,…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-vertical-software-rollout-threatens-enterprise-ai-builders/",
-      "date": "2026-06-12",
-      "category": "Banking",
-      "tags": [
-        "anthropic vertical",
-        "software rollout",
-        "threatens enterprise"
-      ]
-    },
-    {
-      "id": "941948297",
-      "title": "Visa Unleashes OpenAI Alliance and Programmable Money Rails to Power the AI Agent Economy",
-      "summary": "Visa has introduced new AI, tokenization and stablecoin capabilities, including a partnership with OpenAI, a Large Transaction Model for fraud prevention, and tokenized deposit technology designed to support secure machine-to-machine payments and next-generation banking infrastru…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/visa-unleashes-openai-alliance-and-programmable-money-rails-to-power-the-ai-agent-economy/",
-      "date": "2026-06-12",
-      "category": "Payments",
-      "tags": [
-        "visa unleashes",
-        "openai alliance",
-        "programmable money"
-      ]
-    },
-    {
-      "id": "826481163",
-      "title": "Credit Unions Need AI Chat to Stay in the Conversation",
-      "summary": "Financial institutions once competed on branch networks, interest rates and, later, mobile apps. Increasingly, however, the next competitive frontier may not be a physical or digital destination at all. It may be the conversation itself. New findings in the April edition of the C…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/credit-unions-need-ai-chat-to-stay-in-the-conversation/",
-      "date": "2026-06-12",
-      "category": "Banking",
-      "tags": [
-        "credit unions",
-        "need ai",
-        "chat"
       ]
     }
   ]
