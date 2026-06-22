@@ -1,24 +1,27 @@
 {
-  "last_updated": "2026-06-22T12:52:59Z",
+  "last_updated": "2026-06-22T21:33:07Z",
   "insights": {
     "risks": [
       "Regulatory: Dun & Bradstreet introduces agentic AI — review compliance obligations.",
-      "Operational: Lloyds Bank on the hunt for 300 agentic AI specialists — evaluate model governance gaps."
+      "Operational: NatWest launches bank-wide AI ethics accreditation — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The Trust Layer Triumph: Why Credibility is Eclipsing Capability in Europe’s AI Race — potential infrastructure advantage.",
-      "Banking efficiency: Lloyds Bank on the hunt for 300 agentic AI specialists — cost reduction opportunity.",
-      "InsurTech: The Download: AI bottleneck debates, and BCI trials take off — underwriting modernisation potential."
+      "Payments: MoonPay Acquires AI Accounting Agent Maker Entendre — potential infrastructure advantage.",
+      "Banking efficiency: NatWest launches bank-wide AI ethics accreditation — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Payments AI",
       "count": 2
+    },
+    {
+      "topic": "Stablecoin AI",
+      "count": 1
     },
     {
       "topic": "Credit & Underwriting",
@@ -46,6 +49,61 @@
     }
   ],
   "articles": [
+    {
+      "id": "764973638",
+      "title": "NatWest launches bank-wide AI ethics accreditation",
+      "summary": "NatWest has launched an accreditation programme in AI and data ethics to help employees learn about the responsible use of the technology.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47969/natwest-launches-bank-wide-ai-ethics-accreditation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "natwest",
+        "ai"
+      ]
+    },
+    {
+      "id": "338974137",
+      "title": "Banks Have to Compete With AI Hyperscalers Now",
+      "summary": "Three years ago, the conversation about AI in banking was simple: can we use this for customer suppo...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32071/banks-have-to-compete-with-ai-hyperscalers-now?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "banks have",
+        "compete with",
+        "ai hyperscalers"
+      ]
+    },
+    {
+      "id": "318629920",
+      "title": "The AI Agent That Clears Your Alert Backlog Is Only as Defensible as What It Dismisses",
+      "summary": "The pitch landing on the desks of heads of financial crime, MLROs, and transaction-monitoring leads ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32070/the-ai-agent-that-clears-your-alert-backlog-is-only-as-defensible-as-what-it-dismisses?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "the ai",
+        "agent that",
+        "clears your"
+      ]
+    },
+    {
+      "id": "951689823",
+      "title": "MoonPay Acquires AI Accounting Agent Maker Entendre",
+      "summary": "Crypto payments company MoonPay has acquired Entendre, which makes artificial intelligence (AI) accounting agents for stablecoin firms. The purchase “extends MoonPay’s infrastructure into the financial operations layer,” the company said in a Monday (June 22) news release, adding…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/acquiring/2026/moonpay-acquires-ai-accounting-agent-maker-entendre/",
+      "date": "2026-06-22",
+      "category": "Payments",
+      "tags": [
+        "moonpay acquires",
+        "ai accounting",
+        "agent maker"
+      ]
+    },
     {
       "id": "381692802",
       "title": "Lloyds Bank on the hunt for 300 agentic AI specialists",
@@ -827,62 +885,6 @@
         "vietnam",
         "ai",
         "now"
-      ]
-    },
-    {
-      "id": "284040861",
-      "title": "From pyramids to prompts: The great recomposition of work in the age of AI",
-      "summary": "The pyramids were not just monuments—they were organisational systems. Thousands of people coordinated over years to execute a single intent through hierarchy, repetition, and control. Fast forward to today. A three-person startup in Jakarta can now handle curriculum design, QA, …",
-      "source": "e27",
-      "url": "https://e27.co/from-pyramids-to-prompts-the-great-recomposition-of-work-in-the-age-of-ai-20260609/",
-      "date": "2026-06-16",
-      "category": "Payments",
-      "tags": [
-        "from",
-        "ai the",
-        "thousands"
-      ]
-    },
-    {
-      "id": "673501795",
-      "title": "Microsoft Faces Shareholder Lawsuit Over Alleged AI Spending Cover-Up",
-      "summary": "Microsoft shareholders sued the company Friday (June 12), alleging that it defrauded them and inflated its stock price by concealing slower growth in its Azure cloud business and a need to invest billions of dollars in artificial intelligence infrastructure, Reuters reported Mond…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-faces-shareholder-lawsuit-over-alleged-ai-spending-cover-up/",
-      "date": "2026-06-15",
-      "category": "Trading",
-      "tags": [
-        "microsoft faces",
-        "shareholder lawsuit",
-        "over alleged"
-      ]
-    },
-    {
-      "id": "298448554",
-      "title": "Akuvo ships portfolio intelligence package",
-      "summary": "AKUVO, a leading provider of cloud-native, AI-driven collections and credit risk technology, today announced the launch of AKUVO IQ, its new portfolio intelligence solution.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110138/akuvo-ships-portfolio-intelligence-package?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-15",
-      "category": "Trading",
-      "tags": [
-        "akuvo",
-        "akuvo",
-        "ai"
-      ]
-    },
-    {
-      "id": "256633650",
-      "title": "AIQ Markets teams with MarketAxess on AI-native corporate bond tech",
-      "summary": "AIQ Markets, a New York-based fintech company building AI-powered tools for the U.S. corporate bond market, has partnered with MarketAxess, a leading electronic trading platform for fixed-income securities, to develop AIQ Insight™, an AI-native tool designed for fixed-income trad…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110137/aiq-markets-teams-with-marketaxess-on-ai-native-corporate-bond-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-15",
-      "category": "Trading",
-      "tags": [
-        "aiq markets",
-        "marketaxess",
-        "ai"
       ]
     }
   ]
