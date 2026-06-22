@@ -1,32 +1,28 @@
 {
-  "last_updated": "2026-06-21T20:26:55Z",
+  "last_updated": "2026-06-22T12:52:59Z",
   "insights": {
     "risks": [
-      "Trading risk: Senate Bill Would Require AI Firms to Yield Half Ownership to Public — assess algorithmic exposure.",
-      "Operational: NatWest CEO Thwaite says AI will take some banking jobs — evaluate model governance gaps."
+      "Regulatory: Dun & Bradstreet introduces agentic AI — review compliance obligations.",
+      "Operational: Lloyds Bank on the hunt for 300 agentic AI specialists — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: How AI Fintech Startups Can Avoid Getting Buried in the Noise — potential infrastructure advantage.",
-      "Banking efficiency: NatWest CEO Thwaite says AI will take some banking jobs — cost reduction opportunity.",
+      "Payments: The Trust Layer Triumph: Why Credibility is Eclipsing Capability in Europe’s AI Race — potential infrastructure advantage.",
+      "Banking efficiency: Lloyds Bank on the hunt for 300 agentic AI specialists — cost reduction opportunity.",
       "InsurTech: The Download: AI bottleneck debates, and BCI trials take off — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Payments AI",
       "count": 2
     },
     {
-      "topic": "Regulatory AI",
-      "count": 2
-    },
-    {
-      "topic": "Automation",
-      "count": 2
+      "topic": "Credit & Underwriting",
+      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -37,11 +33,159 @@
       "count": 1
     },
     {
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
+      "topic": "Automation",
+      "count": 1
+    },
+    {
       "topic": "Copilot / Assistants",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "381692802",
+      "title": "Lloyds Bank on the hunt for 300 agentic AI specialists",
+      "summary": "Lloyds Banking Group is embarking on a rectruitment drive for almost 300 agentic AI-related roles, including data & AI scientists, engineers, responsible AI specialists and AI product managers",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47965/lloyds-bank-on-the-hunt-for-300-agentic-ai-specialists?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "lloyds bank",
+        "ai",
+        "lloyds banking"
+      ]
+    },
+    {
+      "id": "780098095",
+      "title": "Atom Bank cuts loan administration times with AI-ready lending platform",
+      "summary": "Atom Bank has implemented AI-ready lending infrastructure from Flowable, designed to redefine speed, efficiency, and scalability for its commercial real estate buasiness.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47963/atom-bank-cuts-loan-administration-times-with-ai-ready-lending-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "atom bank",
+        "ai",
+        "flowable"
+      ]
+    },
+    {
+      "id": "545022679",
+      "title": "Santander extends AI access to all employees as business value starts to kick in",
+      "summary": "Santander is rolling out AI access to all of its 185,000 employees as the technology starts to garner tangible results, with the Spanish bank expecting it to generate more than €200 million in business value in 2026.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47962/santander-extends-ai-access-to-all-employees-as-business-value-starts-to-kick-in?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "santander",
+        "ai",
+        "spanish"
+      ]
+    },
+    {
+      "id": "437793174",
+      "title": "Dun & Bradstreet introduces agentic AI",
+      "summary": "Dun & Bradstreet today announced new agentic capabilities that act inside compliance workflows, allowing organizations at all levels of AI maturity to reduce processing times by 70-90% and transform risk mitigation into a business enabler.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110203/dun--bradstreet-introduces-agentic-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "RegTech",
+      "tags": [
+        "dun",
+        "bradstreet",
+        "ai dun"
+      ]
+    },
+    {
+      "id": "550520670",
+      "title": "Why ISO Compliance May Not Be as Ubiquitous as It Seems",
+      "summary": "Joining FinextraTV at the EBAday 2026 studio in Copenhagen, Paul Ruskin, Director of Business Development, Trace Financial shared his thoughts on the progression of ISO 20022 and, in particular, looking towards the November deadline for structured addresses. Beginning by explaini…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3529/why-iso-compliance-may-not-be-as-ubiquitous-as-it-seems?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-22",
+      "category": "RegTech",
+      "tags": [
+        "why iso",
+        "compliance may",
+        "not be"
+      ]
+    },
+    {
+      "id": "713352665",
+      "title": "The Trust Layer Triumph: Why Credibility is Eclipsing Capability in Europe’s AI Race",
+      "summary": "At GITEX AI EUROPE 2026 in Berlin, global innovators, investors and policymakers will explore how trust, security and governance are becoming the defining pillars of the next generation of AI, as Europe shifts its focus beyond model scale toward credible enterprise adoption. The …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-trust-layer-triumph-why-credibility-is-eclipsing-capability-in-europes-ai-race/",
+      "date": "2026-06-22",
+      "category": "Payments",
+      "tags": [
+        "the trust",
+        "layer triumph",
+        "why credibility"
+      ]
+    },
+    {
+      "id": "474511379",
+      "title": "The art of AI integration: Growing your business with chatbots and human expertise",
+      "summary": "Singapore is working towards becoming a leader in artificial intelligence (AI), ranking among the top ten countries for AI startups and investments according to sources like Visual Capitalist and Techopedia. The rise of AI, particularly through AI chatbots, is making a big impact…",
+      "source": "e27",
+      "url": "https://e27.co/the-art-of-ai-integration-growing-your-business-with-chatbots-and-human-expertise-20240509/",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "growing",
+        "singapore"
+      ]
+    },
+    {
+      "id": "655623934",
+      "title": "What nine AI workflow submissions reveal about Echelon Singapore’s builder pipeline",
+      "summary": "The useful test of an AI competition is whether it can repeatedly turn broad interest into specific, inspectable builder output. That is the most important signal from the AI Workflow Competition at Echelon Singapore 2026. Nine other entries reviewed by e27 showed builders workin…",
+      "source": "e27",
+      "url": "https://e27.co/what-nine-ai-workflow-submissions-reveal-about-echelon-singapores-builder-pipeline-20260622/",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "what",
+        "ai",
+        "echelon singapore"
+      ]
+    },
+    {
+      "id": "982348469",
+      "title": "From support inbox to signal feed: Inside the AI workflow that won at Echelon Singapore 2026",
+      "summary": "A customer support inbox usually looks like a backlog: questions to answer, complaints to resolve, and product details to clarify before the next message arrives. For Aaryan Kandiah, it looked like something else: a live stream of business signals. That shift helped him win the A…",
+      "source": "e27",
+      "url": "https://e27.co/from-support-inbox-to-signal-feed-inside-the-ai-workflow-that-won-at-echelon-singapore-2026-20260622/",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "from",
+        "inside",
+        "ai"
+      ]
+    },
+    {
+      "id": "245018356",
+      "title": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
+      "summary": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/news/nab-deploys-ai-analytics-tool-saving-2-4-days-use-case",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "national australia",
+        "bank",
+        "nab"
+      ]
+    },
     {
       "id": "987571986",
       "title": "NatWest CEO Thwaite says AI will take some banking jobs",
@@ -739,146 +883,6 @@
         "aiq markets",
         "marketaxess",
         "ai"
-      ]
-    },
-    {
-      "id": "315897501",
-      "title": "Turning IAPP’s Agentic AI Guidance Into A Banking Playbook",
-      "summary": "Time has always been among finance’s biggest pressure points. Picture this: a small business owner a...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32016/turning-iapps-agentic-ai-guidance-into-a-banking-playbook?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-15",
-      "category": "Banking",
-      "tags": [
-        "turning iapp",
-        "agentic ai",
-        "guidance into"
-      ]
-    },
-    {
-      "id": "365341041",
-      "title": "FintechOS Reaches Profitability as AI Platform Fuels US Growth",
-      "summary": "FintechOS has reached profitability after recurring revenue rose 40% year on year, supported by 130% growth in the US and adoption of its AI-powered platform. The post FintechOS Reaches Profitability as AI Platform Fuels US Growth appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/fintechos-reaches-profitability-as-ai-platform-fuels-us-growth/",
-      "date": "2026-06-15",
-      "category": "Payments",
-      "tags": [
-        "fintechos reaches",
-        "profitability",
-        "ai platform"
-      ]
-    },
-    {
-      "id": "104126126",
-      "title": "AI Scam Surge Prompts Google to File Lawsuit",
-      "summary": "Phishing texts that mimic a bank alert or a package delivery notice usually point to a fake website built to capture passwords and card numbers. Google says one criminal network used artificial intelligence to build those websites at a scale no human team could match. Google has …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/fraud-attack/2026/ai-scam-surge-prompts-google-to-file-lawsuit/",
-      "date": "2026-06-15",
-      "category": "Banking",
-      "tags": [
-        "ai scam",
-        "surge prompts",
-        "google"
-      ]
-    },
-    {
-      "id": "71867867",
-      "title": "Nvidia Aims to Raise $20 Billion to Continue AI Chip Production",
-      "summary": "Artificial intelligence (AI) chipmaker Nvidia is reportedly planning to raise $20 billion through a U.S. bond issuance. The company has not accessed the investment-grade bond market since raising $5 billion 2021, a source familiar with the matter told Reuters in a report publishe…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-aims-to-raise-20-billion-to-continue-ai-chip-production/",
-      "date": "2026-06-15",
-      "category": "Banking",
-      "tags": [
-        "nvidia aims",
-        "raise",
-        "billion"
-      ]
-    },
-    {
-      "id": "575292661",
-      "title": "AI fintech startup Waniwani raises $8 million",
-      "summary": "Waniwani, a fintech startup that uses AI to helps vendors surface their technology to financial institutions, has raised an $8 million Seed round.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47916/ai-fintech-startup-waniwani-raises-8-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-15",
-      "category": "Payments",
-      "tags": [
-        "ai",
-        "waniwani",
-        "seed"
-      ]
-    },
-    {
-      "id": "355088329",
-      "title": "AI Moves Compliance From Detection to Investigation",
-      "summary": "Watch more: The Digital Shift With Flagright’s Baran Ozkan Financial institutions have traditionally treated compliance as a detection problem. And, for years, they’ve put their money where their mouth is. Banks have invested heavily in transaction monitoring systems, sanctions s…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-moves-compliance-from-detection-to-investigation/",
-      "date": "2026-06-15",
-      "category": "RegTech",
-      "tags": [
-        "ai moves",
-        "compliance from",
-        "detection"
-      ]
-    },
-    {
-      "id": "550646689",
-      "title": "Meta Facing Pressure to Show It Can Monetize AI Creations",
-      "summary": "In 2025, Meta spent $14 billion to bring Alexandr Wang and his Scale AI team into the fold. One year later, the company is facing substantial pressure to prove it can monetize the resulting tools such as its Muse Spark model as its stock continues to underperform compared to othe…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/meta-facing-pressure-to-show-it-can-monetize-ai-creations/",
-      "date": "2026-06-15",
-      "category": "Trading",
-      "tags": [
-        "meta facing",
-        "pressure",
-        "show it"
-      ]
-    },
-    {
-      "id": "800733599",
-      "title": "AI user roles surge as Singapore pivots from specialist to mainstream hires",
-      "summary": "AI skills have shifted from specialist niches into mainstream hiring practices, with AI‑related job postings leaping to capture 5.3 per cent of all roles in 2025, up from 3.3 per cent the year before. That rise represents roughly 30,000 additional listings in a labour market othe…",
-      "source": "e27",
-      "url": "https://e27.co/ai-user-roles-surge-as-singapore-pivots-from-specialist-to-mainstream-hires-20260615/",
-      "date": "2026-06-15",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "singapore",
-        "that"
-      ]
-    },
-    {
-      "id": "188901015",
-      "title": "Pints AI raises US$5.6M to chase automation wins as SEA firms embrace operational AI",
-      "summary": "Singapore venture firm Tin Men Capital has invested in enterprise AI startup Pints AI as part of a US$5.6 million funding round, underscoring growing investor appetite for practical, business-facing artificial intelligence across Southeast Asia. The capital will be deployed to be…",
-      "source": "e27",
-      "url": "https://e27.co/pints-ai-raises-us5-6m-to-chase-automation-wins-as-sea-firms-embrace-operational-ai-20260615/",
-      "date": "2026-06-15",
-      "category": "Banking",
-      "tags": [
-        "pints ai",
-        "us",
-        "sea"
-      ]
-    },
-    {
-      "id": "7822467",
-      "title": "‘Aunties were invisible. AI helped me change that’: Wenhui Lim on the Auntieverse",
-      "summary": "Wenhui Lim, aka niceaunties , is a Singapore-based artist, designer, and public speaker whose practice centres on reimagining the cultural figure of the auntie. Through speculative storytelling, she places ageing women at the centre of everyday life, exploring themes of food, bea…",
-      "source": "e27",
-      "url": "https://e27.co/aunties-were-invisible-ai-helped-me-change-that-wenhui-lim-on-the-antiverse-20260615/",
-      "date": "2026-06-15",
-      "category": "Banking",
-      "tags": [
-        "aunties",
-        "ai",
-        "wenhui lim"
       ]
     }
   ]
