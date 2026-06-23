@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-22T21:33:07Z",
+  "last_updated": "2026-06-23T10:38:21Z",
   "insights": {
     "risks": [
-      "Regulatory: Dun & Bradstreet introduces agentic AI — review compliance obligations.",
-      "Operational: NatWest launches bank-wide AI ethics accreditation — evaluate model governance gaps."
+      "Regulatory: Banks Replace Real Customers With AI Clones for Product Testing — review compliance obligations.",
+      "Operational: NAB rolls out conversational AI; creates AI crybercrime hub — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: MoonPay Acquires AI Accounting Agent Maker Entendre — potential infrastructure advantage.",
-      "Banking efficiency: NatWest launches bank-wide AI ethics accreditation — cost reduction opportunity."
+      "Payments: Payment Processors Can’t Win on Uptime Alone Anymore — potential infrastructure advantage.",
+      "Banking efficiency: NAB rolls out conversational AI; creates AI crybercrime hub — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -42,13 +42,107 @@
     {
       "topic": "Automation",
       "count": 1
-    },
-    {
-      "topic": "Copilot / Assistants",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "127806630",
+      "title": "NAB rolls out conversational AI; creates AI crybercrime hub",
+      "summary": "NAB is rolling out a conversational AI tool from Databricks that enables staff to explore data by asking simple questions. At the same time, the bank is tackling the downside of the AI boom with a new hub that brings together frontline responders across technology, cyber security…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47972/nab-rolls-out-conversational-ai-creates-ai-crybercrime-hub?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "nab",
+        "ai",
+        "databricks"
+      ]
+    },
+    {
+      "id": "44925789",
+      "title": "Payment Processors Can’t Win on Uptime Alone Anymore",
+      "summary": "Watch more: What’s Next in Payments With Matthew Pearce of i2c For years, payment processors competed on uptime, scale and cost. Artificial intelligence (AI) is changing those dynamics, pushing providers to demonstrate that they can help financial institutions make better decisio…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/payments-innovation/2026/payment-processors-cant-win-on-uptime-alone-anymore/",
+      "date": "2026-06-23",
+      "category": "Payments",
+      "tags": [
+        "payment processors",
+        "can",
+        "win"
+      ]
+    },
+    {
+      "id": "424342264",
+      "title": "Banks Replace Real Customers With AI Clones for Product Testing",
+      "summary": "Testing a new credit card or banking product once required months of regulatory vetting and customer recruitment. Now banks build the customer instead. Financial institutions are replacing live customers with artificial intelligence-generated stand-ins — synthetic profiles that c…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-replace-real-customers-with-ai-clones-for-product-testing/",
+      "date": "2026-06-23",
+      "category": "RegTech",
+      "tags": [
+        "banks replace",
+        "real customers",
+        "with ai"
+      ]
+    },
+    {
+      "id": "146267813",
+      "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
+      "summary": "H3 Zoom, a Singapore‑based deeptech startup building AI‑driven inspection and asset‑intelligence software, has closed an oversubscribed Series A round of US$3.6 million. The financing was led by JRE Ventures, the corporate venture arm of Japan’s East Japan Railway Company, with p…",
+      "source": "e27",
+      "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "from",
+        "zoom",
+        "us"
+      ]
+    },
+    {
+      "id": "168323607",
+      "title": "Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism",
+      "summary": "Singapore has set an ambitious target: 100,000 AI-bilingual workers by 2029. The goal signals a broader reckoning with how AI is reshaping the professional workforce — not merely as a productivity tool, but as a capability that demands a new kind of literacy. Yet as training prog…",
+      "source": "e27",
+      "url": "https://e27.co/tribe-academy-ai-bilingualism-20260623/",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "tribe academy",
+        "felicia tan",
+        "why"
+      ]
+    },
+    {
+      "id": "932378834",
+      "title": "5 Seoul startups made their Southeast Asia debut at Echelon Singapore 2026 under the SBA pavilion",
+      "summary": "Seoul s startup ecosystem has spent the past decade building a reputation for technical depth, from enterprise AI to deep tech materials science. What has been harder to build is the second half of the story: a credible path for those companies to operate beyond Korea s borders. …",
+      "source": "e27",
+      "url": "https://e27.co/5-seoul-startups-made-their-southeast-asia-debut-at-echelon-singapore-2026-under-the-sba-pavilion-20260623/",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "seoul",
+        "southeast asia",
+        "echelon singapore"
+      ]
+    },
+    {
+      "id": "318286765",
+      "title": "Singapore’s AI opportunity is no longer about adoption, it’s about discipline",
+      "summary": "Singapore’s startup ecosystem has entered a more demanding phase. For the past decade, Southeast Asia has been defined by digital adoption: more users, more platforms, more capital, and more ambitious founders. That story is still alive. The latest Google, Temasek, and Bain e-Con…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-ai-opportunity-is-no-longer-about-adoption-its-about-discipline-20260619/",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "southeast asia"
+      ]
+    },
     {
       "id": "764973638",
       "title": "NatWest launches bank-wide AI ethics accreditation",
@@ -787,104 +881,6 @@
         "coinbase",
         "ai",
         "ipo"
-      ]
-    },
-    {
-      "id": "472914572",
-      "title": "EBAday 2026: Is AI living up to its hype?",
-      "summary": "The EBAday 2026 panel session, ‘Translating AI Adoption to Real Impact’ explored how financial institutions are deploying AI across their businesses and how ethics, innovation, and risk are managed with the new technology.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47933/ebaday-2026-is-ai-living-up-to-its-hype?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-16",
-      "category": "Banking",
-      "tags": [
-        "ebaday",
-        "is ai",
-        "the ebaday"
-      ]
-    },
-    {
-      "id": "709229857",
-      "title": "Shield surveilles Microsoft Copilot interactions",
-      "summary": "Shield, the global communications surveillance platform for financial services, today extended the reach of its communications surveillance platform to cover Microsoft 365 Copilot interactions and image-based content, bringing two of the fastest-growing compliance blind spots und…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110155/shield-surveilles-microsoft-copilot-interactions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-16",
-      "category": "RegTech",
-      "tags": [
-        "shield",
-        "microsoft copilot",
-        "microsoft"
-      ]
-    },
-    {
-      "id": "994082138",
-      "title": "Coinbase intoduces AI advisor, stock options, and pre-IPO markets in finance push",
-      "summary": "The crypto exchange is expanding into investing, derivatives and banking services as it pursues an all-in-one financial platform.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-intoduces-ai-advisor-stock-options-and-pre-ipo-markets-in-finance-push",
-      "date": "2026-06-16",
-      "category": "Trading",
-      "tags": [
-        "coinbase",
-        "ai",
-        "ipo"
-      ]
-    },
-    {
-      "id": "530374131",
-      "title": "Mercury Deploys Conversational AI Interface Across FinTech Platform",
-      "summary": "Mercury has added a conversational artificial intelligence (AI) interface to its financial platform. With the new Mercury Command, users can chat with the platform, tell it what to do in natural language, and see it complete the work with their approval, the company said in a Tue…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/mercury-deploys-conversational-ai-interface-across-fintech-platform/",
-      "date": "2026-06-16",
-      "category": "Payments",
-      "tags": [
-        "mercury deploys",
-        "conversational ai",
-        "interface across"
-      ]
-    },
-    {
-      "id": "494727902",
-      "title": "Workers sprint ahead of bosses in AI adoption in Singapore, exposing a transformation gap",
-      "summary": "Singapore s workforce is among the world s most active and responsible adopters of AI at work, according to new local findings from Microsoft s 2026 Work Trend Index. The research, however, also identifies a pressing Transformation Paradox : employees are moving faster with AI th…",
-      "source": "e27",
-      "url": "https://e27.co/workers-sprint-ahead-of-bosses-in-ai-adoption-in-singapore-exposing-a-transformation-gap-20260616/",
-      "date": "2026-06-16",
-      "category": "Banking",
-      "tags": [
-        "workers",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "124153293",
-      "title": "Ecosystem Roundup: Vietnam’s AI surge is more than a funding spike",
-      "summary": "Vietnam’s AI investment surge is striking not just for its scale, but for what it signals about the country’s evolving economic identity. A leap to US$130M in 2025 suggests that Vietnam is no longer merely a manufacturing story or a low-cost outsourcing destination; it is trying …",
-      "source": "e27",
-      "url": "https://e27.co/ecosystem-roundup-vietnams-ai-surge-is-more-than-a-funding-spike-20260616/",
-      "date": "2026-06-16",
-      "category": "Banking",
-      "tags": [
-        "ecosystem roundup",
-        "vietnam",
-        "ai"
-      ]
-    },
-    {
-      "id": "617493225",
-      "title": "Vietnam’s AI funding just grew 13x in two years. Now comes the hard part",
-      "summary": "The number is arresting: AI startup investment in Vietnam reached US$130 million in 2025, a 13-fold increase since 2023. In a region where AI funding headlines tend to flow towards Singapore, India, or the occasional Indonesian unicorn, Vietnam s emergence as a serious AI capital…",
-      "source": "e27",
-      "url": "https://e27.co/vietnams-ai-funding-just-grew-13x-in-two-years-now-comes-the-hard-part-20260616/",
-      "date": "2026-06-16",
-      "category": "Banking",
-      "tags": [
-        "vietnam",
-        "ai",
-        "now"
       ]
     }
   ]
