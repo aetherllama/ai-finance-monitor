@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-23T10:38:21Z",
+  "last_updated": "2026-06-23T21:01:51Z",
   "insights": {
     "risks": [
       "Regulatory: Banks Replace Real Customers With AI Clones for Product Testing — review compliance obligations.",
-      "Operational: NAB rolls out conversational AI; creates AI crybercrime hub — evaluate model governance gaps."
+      "Operational: Backbase buys agentic banking platform Kasisto — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Payment Processors Can’t Win on Uptime Alone Anymore — potential infrastructure advantage.",
-      "Banking efficiency: NAB rolls out conversational AI; creates AI crybercrime hub — cost reduction opportunity."
+      "Banking efficiency: Backbase buys agentic banking platform Kasisto — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,15 +16,15 @@
       "count": 11
     },
     {
-      "topic": "Payments AI",
-      "count": 2
-    },
-    {
       "topic": "Stablecoin AI",
       "count": 1
     },
     {
       "topic": "Credit & Underwriting",
+      "count": 1
+    },
+    {
+      "topic": "Payments AI",
       "count": 1
     },
     {
@@ -38,13 +38,65 @@
     {
       "topic": "Regulatory AI",
       "count": 1
-    },
-    {
-      "topic": "Automation",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "233932716",
+      "title": "Backbase buys agentic banking platform Kasisto",
+      "summary": "Banking tech vendor Backbase has acquired financial services agentic AI specialist Kasisto. Terms of the deal were not disclosed.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47979/backbase-buys-agentic-banking-platform-kasisto?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "backbase",
+        "kasisto banking",
+        "ai"
+      ]
+    },
+    {
+      "id": "837397331",
+      "title": "NAB rolls out conversational AI; creates AI cybercrime hub",
+      "summary": "NAB is rolling out a conversational AI tool from Databricks that enables staff to explore data by asking simple questions. At the same time, the bank is tackling the downside of the AI boom with a new hub that brings together frontline responders across technology, cyber security…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47972/nab-rolls-out-conversational-ai-creates-ai-cybercrime-hub?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "nab",
+        "ai",
+        "databricks"
+      ]
+    },
+    {
+      "id": "165878570",
+      "title": "AI-native loan origination platform Lama AI lands $20m Series A",
+      "summary": "Lama AI, the AI-native loan origination platform built for community and regional banks, today announced a Series A led by EJF Ventures, bringing total funding raised to over $20 million, supporting its 3x year-over-year growth. The company’s platform is already in production at …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110230/ai-native-loan-origination-platform-lama-ai-lands-20m-series-a?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "lama ai",
+        "series"
+      ]
+    },
+    {
+      "id": "452348008",
+      "title": "GoldenSource releases AI platform",
+      "summary": "Today, GoldenSource launched its AI platform, GoldenSource Scout, designed to help financial services firms close the AI trust gap.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110225/goldensource-releases-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-23",
+      "category": "Banking",
+      "tags": [
+        "goldensource",
+        "ai",
+        "today"
+      ]
+    },
     {
       "id": "127806630",
       "title": "NAB rolls out conversational AI; creates AI crybercrime hub",
@@ -825,62 +877,6 @@
         "singapore",
         "apac",
         "ai"
-      ]
-    },
-    {
-      "id": "27545416",
-      "title": "She watched her neighbour’s garage burn down. Now she’s building AI that explains itself before disaster strikes",
-      "summary": "A lithium battery explosion in a Singapore residential garage is not the kind of event that typically sparks a deeptech startup. But for Muriel Demarcus, a seasoned infrastructure risk professional with three decades of managing billion-dollar projects across Europe and Asia Paci…",
-      "source": "e27",
-      "url": "https://e27.co/how-marsham-edge-is-rethinking-ai-anomaly-detection-20260617/",
-      "date": "2026-06-17",
-      "category": "Banking",
-      "tags": [
-        "she",
-        "now",
-        "ai"
-      ]
-    },
-    {
-      "id": "656994977",
-      "title": "Pine Labs Launches P3P to Unlock Autonomous AI Payments on India’s UPI Network",
-      "summary": "Pine Labs has launched the Pine Labs Payment Protocol (P3P), India's first agentic payment protocol built on Unified Payments Interface, enabling AI agents to autonomously execute real-time transactions through pre-approved payment mandates. The post Pine Labs Launches P3P to Unl…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/pine-labs-launches-p3p-to-unlock-autonomous-ai-payments-on-indias-upi-network/",
-      "date": "2026-06-16",
-      "category": "Payments",
-      "tags": [
-        "pine labs",
-        "launches",
-        "unlock autonomous"
-      ]
-    },
-    {
-      "id": "308293048",
-      "title": "Global Tech Powerhouses Head to Berlin to Chart Europe’s Trillion Euro AI Future",
-      "summary": "GITEX AI EUROPE has opened in Berlin, bringing together policymakers, technology leaders, startups and investors managing over $1 trillion in assets to drive AI innovation, cross-border collaboration and deep-tech investment across Europe. The post Global Tech Powerhouses Head to…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/global-tech-powerhouses-head-to-berlin-to-chart-europes-trillion-euro-ai-future/",
-      "date": "2026-06-16",
-      "category": "Payments",
-      "tags": [
-        "global tech",
-        "powerhouses head",
-        "berlin"
-      ]
-    },
-    {
-      "id": "875800735",
-      "title": "Coinbase introduces AI adviser, stock options, and pre-IPO markets in finance push",
-      "summary": "The crypto exchange is expanding into investing, derivatives and banking services as it pursues an all-in-one financial platform.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/16/coinbase-intoduces-ai-advisor-stock-options-and-pre-ipo-markets-in-finance-push",
-      "date": "2026-06-16",
-      "category": "Trading",
-      "tags": [
-        "coinbase",
-        "ai",
-        "ipo"
       ]
     }
   ]
