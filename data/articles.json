@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-06-23T21:01:51Z",
+  "last_updated": "2026-06-24T10:25:09Z",
   "insights": {
     "risks": [
       "Regulatory: Banks Replace Real Customers With AI Clones for Product Testing — review compliance obligations.",
-      "Operational: Backbase buys agentic banking platform Kasisto — evaluate model governance gaps."
+      "Operational: Starling rolls out AI-powered romance scam detection feature — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Payment Processors Can’t Win on Uptime Alone Anymore — potential infrastructure advantage.",
-      "Banking efficiency: Backbase buys agentic banking platform Kasisto — cost reduction opportunity."
+      "Payments: Zeller enters the cloud point-of-sale software market with AI-first system built for SMEs — potential infrastructure advantage.",
+      "Banking efficiency: Starling rolls out AI-powered romance scam detection feature — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Stablecoin AI",
@@ -41,6 +41,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "80704795",
+      "title": "Starling rolls out AI-powered romance scam detection feature",
+      "summary": "Starling Bank has rolled out an AI-powered feature designed to detect romance scammers, investment heists and deepfake phishing attempts.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47977/starling-rolls-out-ai-powered-romance-scam-detection-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-24",
+      "category": "Banking",
+      "tags": [
+        "starling",
+        "ai",
+        "starling bank"
+      ]
+    },
+    {
+      "id": "362102414",
+      "title": "MoonPay acquires AI bookkeeping platform Entendre",
+      "summary": "We're pleased to announce the acquisition of Entendre, an AI-enabled finance operations platform built for companies moving, settling, or holding value onchain.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110240/moonpay-acquires-ai-bookkeeping-platform-entendre?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-24",
+      "category": "Banking",
+      "tags": [
+        "moonpay",
+        "ai",
+        "entendre we"
+      ]
+    },
+    {
+      "id": "486797667",
+      "title": "Zeller enters the cloud point-of-sale software market with AI-first system built for SMEs",
+      "summary": "Australian fintech Zeller has today released a new point-of-sale (POS) app aimed at small and medium-sized businesses, expanding its offering beyond fintech into core business operations software.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110239/zeller-enters-the-cloud-point-of-sale-software-market-with-ai-first-system-built-for-smes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-24",
+      "category": "Payments",
+      "tags": [
+        "zeller",
+        "ai",
+        "smes australian"
+      ]
+    },
+    {
+      "id": "788587759",
+      "title": "Banks Can’t Fight AI Fraud With Yesterday’s Rules",
+      "summary": "Watch more: What’s Next in Payments With Entersekt’s Richard Bailey Banks have spent much of the past two years asking whether artificial intelligence should be viewed as an enhancement or a competitive differentiator. Richard Bailey believes the discussion should begin somewhere…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-cant-fight-ai-fraud-with-yesterdays-rules/",
+      "date": "2026-06-24",
+      "category": "Banking",
+      "tags": [
+        "banks can",
+        "fight ai",
+        "fraud with"
+      ]
+    },
     {
       "id": "233932716",
       "title": "Backbase buys agentic banking platform Kasisto",
@@ -821,62 +877,6 @@
         "the tiktok",
         "treasury",
         "why"
-      ]
-    },
-    {
-      "id": "995471625",
-      "title": "Flagright Secures $12.5 Million to Expand Financial Crime Compliance",
-      "summary": "Flagright raised $12.5 million in a Series A funding round to increase the capabilities and adoption of its artificial intelligence operating system for financial crime compliance. The company will use the new funding to expand explainable AI uses cases across investigations, ale…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/flagright-secures-12-5-million-to-expand-ai-powered-financial-crime-compliance/",
-      "date": "2026-06-17",
-      "category": "RegTech",
-      "tags": [
-        "flagright secures",
-        "million",
-        "expand financial"
-      ]
-    },
-    {
-      "id": "211615828",
-      "title": "61% of Consumers Would Let AI Pick Pay Later Options",
-      "summary": "“The Pay Later Ecosystem Report: Consumers Will Let AI Recommend Pay Later, But They Want Control” examines how artificial intelligence could change the way consumers choose Pay Later options at checkout. Based on a survey of 2,034 U.S. consumers conducted March 30–April 14, 2026…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/bnpl/2026/61percent-of-consumers-would-let-ai-pick-pay-later-options/",
-      "date": "2026-06-17",
-      "category": "Payments",
-      "tags": [
-        "consumers would",
-        "let ai",
-        "pick pay"
-      ]
-    },
-    {
-      "id": "93699665",
-      "title": "Coinbase Expands App With AI Investment Adviser and Developer Platform",
-      "summary": "Coinbase has launched an artificial intelligence-powered, Securities and Exchange Commission-registered investment adviser to its app. The company is rolling out the new Coinbase Advisor to Coinbase One members in the United States, it said Tuesday (June 16). “From helping you de…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/financial-apps/2026/coinbase-expands-app-with-ai-investment-adviser-and-developer-platform/",
-      "date": "2026-06-17",
-      "category": "Banking",
-      "tags": [
-        "coinbase expands",
-        "app with",
-        "ai investment"
-      ]
-    },
-    {
-      "id": "314492828",
-      "title": "Singapore leads APAC in AI agent deployment but also in rollbacks, research finds",
-      "summary": "Singapore enterprises are deploying AI agents at the highest rate in Asia-Pacific, yet are also among the most likely to pull them back after going live, according to new research by communications tech company Sinch. The report, titled The AI Production Paradox, found that 82 pe…",
-      "source": "e27",
-      "url": "https://e27.co/singapore-leads-apac-in-ai-agent-deployment-but-also-in-rollbacks-research-finds-20260617/",
-      "date": "2026-06-17",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "apac",
-        "ai"
       ]
     }
   ]
