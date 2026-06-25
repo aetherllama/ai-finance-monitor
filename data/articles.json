@@ -1,24 +1,28 @@
 {
-  "last_updated": "2026-06-25T10:17:38Z",
+  "last_updated": "2026-06-25T21:00:25Z",
   "insights": {
     "risks": [
       "Regulatory: AI Forces Compliance Teams to Rethink Alert Strategy — review compliance obligations.",
-      "Trading risk: How AI makes investing and trading safer and more accessible — assess algorithmic exposure.",
-      "Operational: SBI Holdings invests in agent orchestration platform Pints AI — evaluate model governance gaps."
+      "Trading risk: BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics — assess algorithmic exposure.",
+      "Operational: Arca raises $64m for AI-native wealth management — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Mastercard and PrivatBank complete Ukraine’s first payment executed by an AI agent — potential infrastructure advantage.",
-      "Banking efficiency: SBI Holdings invests in agent orchestration platform Pints AI — cost reduction opportunity."
+      "Banking efficiency: Arca raises $64m for AI-native wealth management — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "Regulatory AI",
       "count": 2
+    },
+    {
+      "topic": "Robo-Advisory",
+      "count": 1
     },
     {
       "topic": "Automation",
@@ -31,17 +35,105 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "676002110",
+      "title": "Arca raises $64m for AI-native wealth management",
+      "summary": "Arca, an AI-native wealth management startup promising to humanise the sector in the age of robo-advisors, has emerged from stealth with $64 million in funding.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47995/arca-raises-64m-for-ai-native-wealth-management?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-25",
+      "category": "Banking",
+      "tags": [
+        "arca",
+        "ai"
+      ]
+    },
+    {
+      "id": "518233075",
+      "title": "Goldman Sachs leads $110 million round in financial AI firm Taktile",
+      "summary": "Goldman Sachs has led a $110 million Series C fundraising round for financial services specific AI firm Taktile.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47992/goldman-sachs-leads-110-million-round-in-financial-ai-firm-taktile?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-25",
+      "category": "Banking",
+      "tags": [
+        "goldman sachs",
+        "ai",
+        "taktile goldman"
+      ]
+    },
+    {
+      "id": "325550836",
+      "title": "Jack Henry partner Google Cloud for AI-driven security",
+      "summary": "Jack Henry (Nasdaq: JKHY) and Google Cloud today announced an expanded collaboration to deliver AI-driven security capabilities for banks and credit unions. Building on their strategic relationship established in 2022, Jack Henry will use Google Cloud's suite of agentic defense p…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110254/jack-henry-partner-google-cloud-for-ai-driven-security?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-25",
+      "category": "Banking",
+      "tags": [
+        "jack henry",
+        "google cloud",
+        "ai"
+      ]
+    },
+    {
+      "id": "409508478",
+      "title": "Best AI-Native Loan Origination Platforms in 2026",
+      "summary": "Best AI-Native Loan Origination Platforms in 2026 Loan origination is being rebuilt around AI. I'm ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32100/best-ai-native-loan-origination-platforms-in-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-25",
+      "category": "Banking",
+      "tags": [
+        "best ai",
+        "native loan",
+        "origination platforms"
+      ]
+    },
+    {
+      "id": "321890195",
+      "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
+      "summary": "BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
+      "date": "2026-06-25",
+      "category": "Trading",
+      "tags": [
+        "blackberry",
+        "ai"
+      ]
+    },
+    {
+      "id": "884815057",
+      "title": "Scaled Cognition Raises $100 Million to Address AI Hallucinations",
+      "summary": "AI lab Scaled Cognition has raised $100 million in new funding. The company’s Series A round, announced Thursday (June 9), values Scaled Cognition at $750 million and will help it expand its research team and speed product development. In an interview with the Wall Street Journal…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/scaled-cognition-raises-100-million-to-address-ai-hallucinations/",
+      "date": "2026-06-25",
+      "category": "Banking",
+      "tags": [
+        "scaled cognition",
+        "raises",
+        "million"
+      ]
+    },
+    {
+      "id": "183192221",
+      "title": "Salesforce Pushes AI Into the Fulfillment Decisions Payments Can’t See",
+      "summary": "Salesforce on Wednesday (June 24) launched Agentic Order Management, a system that lets retailers control fulfillment through plain-language instructions instead of code or manual rule-setting. A logistics manager can type “ship from the closest warehouse with available stock” or…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-pushes-ai-into-the-fulfillment-decisions-payments-cant-see/",
+      "date": "2026-06-25",
+      "category": "Trading",
+      "tags": [
+        "salesforce pushes",
+        "ai into",
+        "fulfillment decisions"
+      ]
+    },
     {
       "id": "800265014",
       "title": "SBI Holdings invests in agent orchestration platform Pints AI",
@@ -781,104 +873,6 @@
         "senate bill",
         "would require",
         "ai firms"
-      ]
-    },
-    {
-      "id": "491511097",
-      "title": "AI and Digital Money’s Next Test is Proving Their Business Case",
-      "summary": "Two developments this week, one in artificial intelligence (AI) and the other in financial services, underscore a reality confronting businesses across industries. Their technological capability is advancing faster than the economic models needed to support large-scale adoption. …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/innovation/2026/ai-and-digital-moneys-next-test-is-proving-their-business-case/",
-      "date": "2026-06-18",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "digital money",
-        "next test"
-      ]
-    },
-    {
-      "id": "297376707",
-      "title": "Agentic AI in Insurance Claims: Where to Start, What to Automate, and What to Keep Human-Controlled",
-      "summary": "Contributors: Vadim Belski, Head of AI and Principal Architect at ScienceSoft, Stacy Dubovik, Financ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32046/agentic-ai-in-insurance-claims-where-to-start-what-to-automate-and-what-to-keep-human-controlled?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-18",
-      "category": "Banking",
-      "tags": [
-        "agentic ai",
-        "insurance claims",
-        "where"
-      ]
-    },
-    {
-      "id": "543724460",
-      "title": "Alchemy's AI-driven identity and payment service gains access to Visa network",
-      "summary": "The AgentCard integration with Visa Intelligent Commerce allows AI agents built on models from any provider, including OpenAI or Anthropic, to effect commercial transactions.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network",
-      "date": "2026-06-18",
-      "category": "Payments",
-      "tags": [
-        "alchemy",
-        "ai",
-        "visa"
-      ]
-    },
-    {
-      "id": "962434513",
-      "title": "Alchemy Teams With Visa on AI Agent Payment Stack",
-      "summary": "Blockchain infrastructure platform Alchemy integrated its artificial intelligence-powered agent card with Visa Intelligent Commerce. The integration is designed to provide AI agents a “complete identity and payment stack” and let them make online purchases on consumers’ behalf, a…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/partnerships/2026/alchemy-teams-with-visa-ai-agent-payment-stack/",
-      "date": "2026-06-18",
-      "category": "Payments",
-      "tags": [
-        "alchemy teams",
-        "with visa",
-        "ai agent"
-      ]
-    },
-    {
-      "id": "714877901",
-      "title": "Tru Cooperative Bank selects DataVisor for fraud prevention",
-      "summary": "DataVisor, the leading AI-powered fraud and AML platform, today announced that Tru Cooperative Bank (formerly First West Credit Union) has selected DataVisor’s AI-powered fraud and risk platform to protect members in real time across the banking journey.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110184/tru-cooperative-bank-selects-datavisor-for-fraud-prevention?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-18",
-      "category": "Banking",
-      "tags": [
-        "tru cooperative",
-        "bank",
-        "datavisor"
-      ]
-    },
-    {
-      "id": "481204812",
-      "title": "Has AI Impact Accelerated Beyond Expectation?",
-      "summary": "At the Temenos Community Forum, Patrice Amann, Regional Industry Leader, Insurance and Banking, Microsoft joined the FinextraTV studio to share his insights on the speed of impact across AI and cloud. Amann said they expected there to be more of a gradual implementation, but inst…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3528/has-ai-impact-accelerated-beyond-expectation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-18",
-      "category": "Banking",
-      "tags": [
-        "has ai",
-        "impact accelerated",
-        "beyond expectation"
-      ]
-    },
-    {
-      "id": "937682428",
-      "title": "PYMNTS Panel Concludes Credit Unions Face an AI Trust Test",
-      "summary": "Watch more: Virtual Roundtable With Jeremiah Lotz and Cheryl Middleton Jones of Velera and Cal Al-Dhubaib of Rubrik The conventional wisdom surrounding artificial intelligence in financial services is that the race has already started, and anyone who is not sprinting has already …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/pymnts-panel-concludes-credit-unions-face-an-ai-trust-test/",
-      "date": "2026-06-18",
-      "category": "Banking",
-      "tags": [
-        "pymnts panel",
-        "concludes credit",
-        "unions face"
       ]
     }
   ]
