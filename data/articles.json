@@ -1,24 +1,28 @@
 {
-  "last_updated": "2026-06-26T10:25:10Z",
+  "last_updated": "2026-06-26T20:48:58Z",
   "insights": {
     "risks": [
       "Regulatory: Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries — review compliance obligations.",
       "Trading risk: OpenAI Weighs Delay of IPO as Tech Stock Volatility Rattles Advisers — assess algorithmic exposure.",
-      "Operational: Google Finance gets an app — evaluate model governance gaps."
+      "Operational: AI Traders Must Never Be Allowed to Hide Behind the Machine — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: 70% of Consumers Pick Retailers Based on Payment Options — potential infrastructure advantage.",
-      "Banking efficiency: Google Finance gets an app — cost reduction opportunity."
+      "Banking efficiency: AI Traders Must Never Be Allowed to Hide Behind the Machine — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Regulatory AI",
       "count": 2
+    },
+    {
+      "topic": "Risk Management",
+      "count": 1
     },
     {
       "topic": "Robo-Advisory",
@@ -38,6 +42,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "804132268",
+      "title": "AI Traders Must Never Be Allowed to Hide Behind the Machine",
+      "summary": "Yuval Noah Harari's warning in the Financial Times about granting legal personhood to AI agents sho...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32116/ai-traders-must-never-be-allowed-to-hide-behind-the-machine?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-26",
+      "category": "Banking",
+      "tags": [
+        "ai traders",
+        "must never",
+        "be allowed"
+      ]
+    },
+    {
+      "id": "352871657",
+      "title": "How Banks can compete for AI Talent",
+      "summary": "Every bank I talk to says the same thing: we cannot hire top AI talent because we cannot compete wit...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32112/how-banks-can-compete-for-ai-talent?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-26",
+      "category": "Banking",
+      "tags": [
+        "how banks",
+        "ai talent",
+        "every"
+      ]
+    },
+    {
+      "id": "687562782",
+      "title": "AI-Generated Fake Receipts Now Make Up 71% of Expense Fraud",
+      "summary": "Four in 10 U.S. employees have used artificial intelligence to generate a fake expense receipt, according to a survey released Tuesday (June 23) by expense management platform Emburse. The survey, conducted by Atomik Research in the U.S. and U.K., found 19% of those employees fab…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-generated-fake-receipts-now-make-up-71percent-of-expense-fraud/",
+      "date": "2026-06-26",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "generated fake",
+        "receipts now"
+      ]
+    },
+    {
+      "id": "825995417",
+      "title": "Quantifind Secures $200 Million to Scale AI-Native Risk Intelligence Platform",
+      "summary": "Quantifind has secured a $200 million growth investment to accelerate the international expansion of its artificial intelligence (AI)-native risk intelligence platform for financial crime prevention. The company’s Graphyte platform is used by multinational financial institutions …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/quantifind-secures-200-million-to-scale-ai-native-risk-intelligence-platform/",
+      "date": "2026-06-26",
+      "category": "Banking",
+      "tags": [
+        "quantifind secures",
+        "million",
+        "scale ai"
+      ]
+    },
     {
       "id": "145682886",
       "title": "Google Finance gets an app",
@@ -816,62 +876,6 @@
         "eltropy",
         "ai",
         "ai certification"
-      ]
-    },
-    {
-      "id": "716839945",
-      "title": "First Commerce Bank picks FIS core banking platform",
-      "summary": "FIS (NYSE: FIS), a global leader in financial services technology, announced that First Commerce Bank, a $1.8B-asset community bank based in New Jersey, has selected FIS as its go-forward core banking platform – giving the institution a modern, AI-ready foundation as community ba…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110196/first-commerce-bank-picks-fis-core-banking-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "first commerce",
-        "bank",
-        "fis"
-      ]
-    },
-    {
-      "id": "846999712",
-      "title": "How AI Fintech Startups Can Avoid Getting Buried in the Noise",
-      "summary": "There are roughly 14,000 fintech startups operating across the Americas alone. A growing majority of...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32056/how-ai-fintech-startups-can-avoid-getting-buried-in-the-noise?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-19",
-      "category": "Payments",
-      "tags": [
-        "how ai",
-        "fintech startups",
-        "can avoid"
-      ]
-    },
-    {
-      "id": "757540614",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge cla…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-      "date": "2026-06-19",
-      "category": "InsurTech",
-      "tags": [
-        "the download",
-        "ai",
-        "bci"
-      ]
-    },
-    {
-      "id": "149384977",
-      "title": "NatWest CEO Says AI Will Take Over Some Existing Banking Roles",
-      "summary": "NatWest CEO Paul Thwaite said artificial intelligence (AI) is going to change the bank’s workforce, though he didn’t say whether it would reduce the size, Finextra reported Friday (June 19). Speaking at a business summit hosted by The Times, Thwaite said, per the report: “In effe…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/natwest-ceo-says-ai-will-take-over-some-existing-banking-roles/",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "natwest ceo",
-        "says ai",
-        "will take"
       ]
     }
   ]
