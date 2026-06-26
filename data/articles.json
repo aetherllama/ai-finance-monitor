@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-06-25T21:00:25Z",
+  "last_updated": "2026-06-26T10:25:10Z",
   "insights": {
     "risks": [
-      "Regulatory: AI Forces Compliance Teams to Rethink Alert Strategy — review compliance obligations.",
-      "Trading risk: BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics — assess algorithmic exposure.",
-      "Operational: Arca raises $64m for AI-native wealth management — evaluate model governance gaps."
+      "Regulatory: Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries — review compliance obligations.",
+      "Trading risk: OpenAI Weighs Delay of IPO as Tech Stock Volatility Rattles Advisers — assess algorithmic exposure.",
+      "Operational: Google Finance gets an app — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Mastercard and PrivatBank complete Ukraine’s first payment executed by an AI agent — potential infrastructure advantage.",
-      "Banking efficiency: Arca raises $64m for AI-native wealth management — cost reduction opportunity."
+      "Payments: 70% of Consumers Pick Retailers Based on Payment Options — potential infrastructure advantage.",
+      "Banking efficiency: Google Finance gets an app — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Regulatory AI",
@@ -38,6 +38,103 @@
     }
   ],
   "articles": [
+    {
+      "id": "145682886",
+      "title": "Google Finance gets an app",
+      "summary": "Google has launched a dedicated mobile app for its recently revamped, AI-infused, financial data, news and analytics service.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/47998/google-finance-gets-an-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-26",
+      "category": "Banking",
+      "tags": [
+        "google finance",
+        "google",
+        "ai"
+      ]
+    },
+    {
+      "id": "735870802",
+      "title": "Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries",
+      "summary": "Today, Smarsh, a global leader in digital communications compliance and intelligence, announced breakthrough results from its strategic collaboration agreement (SCA) with Amazon Web Services (AWS), delivering a new standard for compliant AI adoption in regulated industries.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110256/smarsh-collaborates-with-aws-to-deliver-compliant-ai-adoption-in-regulated-industries?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-26",
+      "category": "RegTech",
+      "tags": [
+        "smarsh",
+        "aws",
+        "ai"
+      ]
+    },
+    {
+      "id": "801830843",
+      "title": "Firms Discover AI’s Limit Is Infrastructure",
+      "summary": "Watch more: What’s Next in Payments With Maverick Payments’ Ben Griefer As artificial intelligence (AI) reshapes nearly every corner of financial services, the payments industry is confronting a question that extends beyond technology: Is AI primarily a tool for cutting costs, or…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/payments-innovation/2026/firms-discover-ais-limit-is-infrastructure/",
+      "date": "2026-06-26",
+      "category": "Banking",
+      "tags": [
+        "firms discover",
+        "ai",
+        "limit is"
+      ]
+    },
+    {
+      "id": "861974462",
+      "title": "70% of Consumers Pick Retailers Based on Payment Options",
+      "summary": "Only about 20% of businesses appear ready for the next phase of shopping, where AI agents may help consumers find, compare and buy products before they ever visit a merchant’s site. That gap sits at the center of “The Next-Gen Commerce Playbook: Turning Checkout Into a Compoundin…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/checkout-conversion/2026/70-percent-of-consumers-pick-retailers-based-on-payment-options/",
+      "date": "2026-06-26",
+      "category": "Payments",
+      "tags": [
+        "consumers pick",
+        "retailers based",
+        "payment options"
+      ]
+    },
+    {
+      "id": "250608432",
+      "title": "OpenAI Weighs Delay of IPO as Tech Stock Volatility Rattles Advisers",
+      "summary": "OpenAI is considering delaying its initial public offering until 2027 due to recent volatility in tech stocks, Bloomberg reported Thursday (June 25), citing a paywalled article by The New York Times. The artificial intelligence startup’s advisers have told it that this volatility…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/openai-weighs-delay-of-ipo-as-tech-stock-volatility-rattles-advisers/",
+      "date": "2026-06-26",
+      "category": "Trading",
+      "tags": [
+        "openai weighs",
+        "delay",
+        "ipo"
+      ]
+    },
+    {
+      "id": "837365375",
+      "title": "Stripe, Banks Tell Congress Payment Rules No Longer Fit Modern Commerce",
+      "summary": "Lawmakers spent much of Wednesday wrestling with a question that reaches well beyond faster payments: whether a regulatory framework built for deposit-taking banks can continue to govern a financial system in which software platforms, digital assets and artificial intelligence ar…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/legal/2026/stripe-banks-tell-congress-payment-rules-no-longer-fit-modern-commerce/",
+      "date": "2026-06-26",
+      "category": "Payments",
+      "tags": [
+        "stripe",
+        "banks tell",
+        "congress payment"
+      ]
+    },
+    {
+      "id": "806144404",
+      "title": "Maybank is deploying AI-powered advisory tools to strengthen its wealth management capabilities.",
+      "summary": "Maybank is deploying AI-powered advisory tools to strengthen its wealth management capabilities.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/wealth-management/news/maybank-arms-relationship-managers-new-ai-advisory-tools",
+      "date": "2026-06-26",
+      "category": "Banking",
+      "tags": [
+        "maybank",
+        "ai"
+      ]
+    },
     {
       "id": "676002110",
       "title": "Arca raises $64m for AI-native wealth management",
@@ -775,104 +872,6 @@
         "natwest ceo",
         "says ai",
         "will take"
-      ]
-    },
-    {
-      "id": "60629832",
-      "title": "Soaring AI Costs Push Enterprise Buyers to Cheaper Chinese Models",
-      "summary": "Large artificial intelligence (AI) labs like Anthropic and OpenAI could see their growth impacted by AI users’ efforts to control costs, the Financial Times reported Thursday (June 18). Companies are looking to better manage their use of AI after seeing the costs of the technolog…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/soaring-ai-costs-push-enterprise-buyers-to-cheaper-chinese-models/",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "soaring ai",
-        "costs push",
-        "enterprise buyers"
-      ]
-    },
-    {
-      "id": "379711221",
-      "title": "Momentum without maturity: Southeast Asia’s AI reality",
-      "summary": "The AI hype cycle loves a clean split: innovators and laggards. Southeast Asia’s story is messier and more interesting. A study titled “AI in Southeast Asia: An era of opportunity” by McKinsey and the Singapore Economic Development Board surveyed 330 respondents across six econom…",
-      "source": "e27",
-      "url": "https://e27.co/momentum-without-maturity-southeast-asias-ai-reality-20260224/",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "momentum",
-        "southeast asia",
-        "ai"
-      ]
-    },
-    {
-      "id": "11132216",
-      "title": "Deutsche Bank exec lauds AI impact on project times",
-      "summary": "Greater use of AI has drastically reduced the time of projects, according to a leading investment bank.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47958/deutsche-bank-exec-lauds-ai-impact-on-project-times?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "ai",
-        "greater"
-      ]
-    },
-    {
-      "id": "444191921",
-      "title": "Deutsche Bank Points to Proven Returns on AI Investments",
-      "summary": "Deutsche Bank executive Denis Roux said Thursday (June 18) that artificial intelligence (AI) is enabling the bank to cut the completion time of some tasks from two years to as little as three months, Reuters reported Thursday. Roux, who is Deutsche Bank’s chief information office…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deutsche-bank-points-to-proven-returns-on-ai-investments/",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "points",
-        "proven returns"
-      ]
-    },
-    {
-      "id": "937433528",
-      "title": "fileAI secures strategic investment from JR East Group’s venture arm to expand in Japan",
-      "summary": "Singapore-based enterprise AI company fileAI has received a strategic investment from JRE VENTURES, the corporate venture capital arm of Japan s JR East Group, marking a significant step in the company s expansion into the Japanese market. The investment comes alongside a deploym…",
-      "source": "e27",
-      "url": "https://e27.co/fileai-funding-20260619/",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "jr east",
-        "group",
-        "japan singapore"
-      ]
-    },
-    {
-      "id": "621621851",
-      "title": "AI governance in banking operations and decisioning",
-      "summary": "Banks are still talking about AI governance as though it belongs mainly to policy teams, future regulation, and committee oversight. That view is already out of date. AI governance is now an operating model issue. The real danger is not only that a model makes a poor recommendati…",
-      "source": "e27",
-      "url": "https://e27.co/ai-governance-in-banking-operations-and-decisioning-20260606/",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "banks",
-        "that"
-      ]
-    },
-    {
-      "id": "354652477",
-      "title": "Senate Bill Would Require AI Firms to Yield Half Ownership to Public",
-      "summary": "Sen. Bernie Sanders (I-Vt.) has introduced a bill that would impose a one-time 50% tax on the stock of the biggest artificial intelligence (AI) companies and deposit that stock into a new sovereign wealth fund, giving the public 50% ownership of the companies. At current valuatio…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/senate-bill-would-require-ai-firms-to-yield-half-ownership-to-public/",
-      "date": "2026-06-18",
-      "category": "Trading",
-      "tags": [
-        "senate bill",
-        "would require",
-        "ai firms"
       ]
     }
   ]
