@@ -1,20 +1,24 @@
 {
-  "last_updated": "2026-06-26T20:48:58Z",
+  "last_updated": "2026-06-27T09:31:17Z",
   "insights": {
     "risks": [
       "Regulatory: Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries — review compliance obligations.",
-      "Trading risk: OpenAI Weighs Delay of IPO as Tech Stock Volatility Rattles Advisers — assess algorithmic exposure.",
-      "Operational: AI Traders Must Never Be Allowed to Hide Behind the Machine — evaluate model governance gaps."
+      "Trading risk: Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap — assess algorithmic exposure.",
+      "Operational: Wedbush Says Missing ROI Metrics Threaten Further Enterprise AI Deployment — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: 70% of Consumers Pick Retailers Based on Payment Options — potential infrastructure advantage.",
-      "Banking efficiency: AI Traders Must Never Be Allowed to Hide Behind the Machine — cost reduction opportunity."
+      "Banking efficiency: Wedbush Says Missing ROI Metrics Threaten Further Enterprise AI Deployment — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
+    },
+    {
+      "topic": "Automation",
+      "count": 2
     },
     {
       "topic": "Regulatory AI",
@@ -29,10 +33,6 @@
       "count": 1
     },
     {
-      "topic": "Automation",
-      "count": 1
-    },
-    {
       "topic": "Stablecoin AI",
       "count": 1
     },
@@ -42,6 +42,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "772695991",
+      "title": "Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap",
+      "summary": "Oxyfinz has launched a new initiative to help independent wealth managers and boutique firms in the UAE scale operations, offering free access to institutional-grade portfolio automation tools for firms operating in the Dubai International Financial Centre and Abu Dhabi Global Ma…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/oxyfinz-unveils-free-software-initiative-to-bridge-the-uae-wealth-management-technology-gap/",
+      "date": "2026-06-27",
+      "category": "Trading",
+      "tags": [
+        "oxyfinz unveils",
+        "free software",
+        "initiative"
+      ]
+    },
+    {
+      "id": "725611177",
+      "title": "Wedbush Says Missing ROI Metrics Threaten Further Enterprise AI Deployment",
+      "summary": "Many enterprises have not developed a way to determine whether they have gained a good return on investment on the artificial intelligence (AI) tools they have deployed, Wedbush Securities analysts said, according to a Friday (June 26) report by Seeking Alpha. That is perhaps the…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/wedbush-says-missing-roi-metrics-threaten-further-enterprise-ai-deployment/",
+      "date": "2026-06-27",
+      "category": "Banking",
+      "tags": [
+        "wedbush says",
+        "missing roi",
+        "metrics threaten"
+      ]
+    },
     {
       "id": "804132268",
       "title": "AI Traders Must Never Be Allowed to Hide Behind the Machine",
@@ -848,34 +876,6 @@
         "national australia",
         "bank",
         "nab"
-      ]
-    },
-    {
-      "id": "987571986",
-      "title": "NatWest CEO Thwaite says AI will take some banking jobs",
-      "summary": "NatWest's Paul Thwaite has become the latest bank CEO to predict that artificial intelligence will take over some jobs in the sector but says that this does not necessarily mean overall headcounts will drop.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47960/natwest-ceo-thwaite-says-ai-will-take-some-banking-jobs?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "natwest ceo",
-        "thwaite",
-        "ai"
-      ]
-    },
-    {
-      "id": "576149851",
-      "title": "Eltropy expands agentic AI certification",
-      "summary": "Eltropy, the leading agentic AI platform for credit unions and community banks, is expanding access to its AI Certification program — opening free enrollment to credit union and community bank professionals, and deepening the program's reach through league partnerships and indust…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110197/eltropy-expands-agentic-ai-certification?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-19",
-      "category": "Banking",
-      "tags": [
-        "eltropy",
-        "ai",
-        "ai certification"
       ]
     }
   ]
