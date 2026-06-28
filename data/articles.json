@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T10:05:53Z",
+  "last_updated": "2026-06-28T20:16:29Z",
   "insights": {
     "risks": [
       "Regulatory: Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries — review compliance obligations.",
@@ -698,6 +698,20 @@
       ]
     },
     {
+      "id": "162714312",
+      "title": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
+      "summary": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/news/nab-deploys-ai-analytics-tool-saving-2-4-days-use-case",
+      "date": "2026-06-22",
+      "category": "Banking",
+      "tags": [
+        "national australia",
+        "bank",
+        "nab"
+      ]
+    },
+    {
       "id": "764973638",
       "title": "NatWest launches bank-wide AI ethics accreditation",
       "summary": "NatWest has launched an accreditation programme in AI and data ethics to help employees learn about the responsible use of the technology.",
@@ -862,20 +876,6 @@
         "what",
         "ai",
         "echelon singapore"
-      ]
-    },
-    {
-      "id": "982348469",
-      "title": "From support inbox to signal feed: Inside the AI workflow that won at Echelon Singapore 2026",
-      "summary": "A customer support inbox usually looks like a backlog: questions to answer, complaints to resolve, and product details to clarify before the next message arrives. For Aaryan Kandiah, it looked like something else: a live stream of business signals. That shift helped him win the A…",
-      "source": "e27",
-      "url": "https://e27.co/from-support-inbox-to-signal-feed-inside-the-ai-workflow-that-won-at-echelon-singapore-2026-20260622/",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "from",
-        "inside",
-        "ai"
       ]
     }
   ]
