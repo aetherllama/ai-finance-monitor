@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-27T20:11:13Z",
+  "last_updated": "2026-06-28T10:05:53Z",
   "insights": {
     "risks": [
       "Regulatory: Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries — review compliance obligations.",
       "Trading risk: Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap — assess algorithmic exposure.",
-      "Operational: Wedbush Says Missing ROI Metrics Threaten Further Enterprise AI Deployment — evaluate model governance gaps."
+      "Operational: AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: 70% of Consumers Pick Retailers Based on Payment Options — potential infrastructure advantage.",
-      "Banking efficiency: Wedbush Says Missing ROI Metrics Threaten Further Enterprise AI Deployment — cost reduction opportunity."
+      "Banking efficiency: AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -42,6 +42,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "655940447",
+      "title": "AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns",
+      "summary": "Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
+      "date": "2026-06-28",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "bis",
+        "weak"
+      ]
+    },
     {
       "id": "772695991",
       "title": "Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap",
@@ -862,20 +876,6 @@
         "from",
         "inside",
         "ai"
-      ]
-    },
-    {
-      "id": "245018356",
-      "title": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
-      "summary": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/news/nab-deploys-ai-analytics-tool-saving-2-4-days-use-case",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "national australia",
-        "bank",
-        "nab"
       ]
     }
   ]
