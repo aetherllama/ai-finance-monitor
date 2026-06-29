@@ -1,24 +1,22 @@
 {
-  "last_updated": "2026-06-29T12:02:44Z",
+  "last_updated": "2026-06-29T20:50:19Z",
   "insights": {
     "risks": [
-      "Regulatory: Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries — review compliance obligations.",
       "Trading risk: Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap — assess algorithmic exposure.",
-      "Operational: Shield extends agentic AI comms surveillance tool — evaluate model governance gaps."
+      "Operational: Personetics embeds AI into Fiserv Experience Digital — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: 70% of Consumers Pick Retailers Based on Payment Options — potential infrastructure advantage.",
-      "Banking efficiency: Shield extends agentic AI comms surveillance tool — cost reduction opportunity."
+      "Banking efficiency: Personetics embeds AI into Fiserv Experience Digital — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 4
     },
     {
       "topic": "Risk Management",
@@ -35,13 +33,65 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "77152019",
+      "title": "Personetics embeds AI into Fiserv Experience Digital",
+      "summary": "As consumers and small businesses increasingly expect digital banking experiences that are more relevant, timely, and intuitive, Personetics, the Cognitive Banking platform, today announced that Personetics’ AI-driven platform is now embedded within Experience Digital (XD) from F…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110271/personetics-embeds-ai-into-fiserv-experience-digital?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "personetics",
+        "ai",
+        "fiserv experience"
+      ]
+    },
+    {
+      "id": "402314349",
+      "title": "From 75% to 90%: Why Risk Automation Is Now the Real Frontier for Insurance AI",
+      "summary": "For the past many years, insurance AI has had one clear job, and that is to create claims at a faste...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32131/from-75-to-90-why-risk-automation-is-now-the-real-frontier-for-insurance-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "from",
+        "why risk",
+        "automation is"
+      ]
+    },
+    {
+      "id": "345062702",
+      "title": "AI can do the junior work, so who becomes the next CFO?",
+      "summary": "There's a lot of discussion right now about how AI can ease the load on finance and payroll teams, w...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32130/ai-can-do-the-junior-work-so-who-becomes-the-next-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "cfo",
+        "there"
+      ]
+    },
+    {
+      "id": "235806593",
+      "title": "Your AI opens a bank account for you. Who goes to jail if it lies?",
+      "summary": "Most people still view artificial intelligence through the lens of a chat box. We tend to think of A...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32129/your-ai-opens-a-bank-account-for-you-who-goes-to-jail-if-it-lies?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "your ai",
+        "who",
+        "most"
+      ]
+    },
     {
       "id": "483782041",
       "title": "Shield extends agentic AI comms surveillance tool",
@@ -820,62 +870,6 @@
         "moonpay acquires",
         "ai accounting",
         "agent maker"
-      ]
-    },
-    {
-      "id": "381692802",
-      "title": "Lloyds Bank on the hunt for 300 agentic AI specialists",
-      "summary": "Lloyds Banking Group is embarking on a rectruitment drive for almost 300 agentic AI-related roles, including data & AI scientists, engineers, responsible AI specialists and AI product managers",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47965/lloyds-bank-on-the-hunt-for-300-agentic-ai-specialists?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "lloyds bank",
-        "ai",
-        "lloyds banking"
-      ]
-    },
-    {
-      "id": "780098095",
-      "title": "Atom Bank cuts loan administration times with AI-ready lending platform",
-      "summary": "Atom Bank has implemented AI-ready lending infrastructure from Flowable, designed to redefine speed, efficiency, and scalability for its commercial real estate buasiness.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47963/atom-bank-cuts-loan-administration-times-with-ai-ready-lending-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "atom bank",
-        "ai",
-        "flowable"
-      ]
-    },
-    {
-      "id": "545022679",
-      "title": "Santander extends AI access to all employees as business value starts to kick in",
-      "summary": "Santander is rolling out AI access to all of its 185,000 employees as the technology starts to garner tangible results, with the Spanish bank expecting it to generate more than €200 million in business value in 2026.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47962/santander-extends-ai-access-to-all-employees-as-business-value-starts-to-kick-in?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "santander",
-        "ai",
-        "spanish"
-      ]
-    },
-    {
-      "id": "437793174",
-      "title": "Dun & Bradstreet introduces agentic AI",
-      "summary": "Dun & Bradstreet today announced new agentic capabilities that act inside compliance workflows, allowing organizations at all levels of AI maturity to reduce processing times by 70-90% and transform risk mitigation into a business enabler.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110203/dun--bradstreet-introduces-agentic-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "RegTech",
-      "tags": [
-        "dun",
-        "bradstreet",
-        "ai dun"
       ]
     }
   ]
