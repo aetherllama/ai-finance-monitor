@@ -1,32 +1,32 @@
 {
-  "last_updated": "2026-06-28T20:16:29Z",
+  "last_updated": "2026-06-29T12:02:44Z",
   "insights": {
     "risks": [
       "Regulatory: Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries — review compliance obligations.",
       "Trading risk: Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap — assess algorithmic exposure.",
-      "Operational: AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns — evaluate model governance gaps."
+      "Operational: Shield extends agentic AI comms surveillance tool — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: 70% of Consumers Pick Retailers Based on Payment Options — potential infrastructure advantage.",
-      "Banking efficiency: AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns — cost reduction opportunity."
+      "Banking efficiency: Shield extends agentic AI comms surveillance tool — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
+      "count": 3
+    },
+    {
+      "topic": "Risk Management",
       "count": 2
     },
     {
       "topic": "Regulatory AI",
       "count": 2
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
     },
     {
       "topic": "Robo-Advisory",
@@ -42,6 +42,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "483782041",
+      "title": "Shield extends agentic AI comms surveillance tool",
+      "summary": "Shield, the global Communication Risk Management platform for financial services, today added two new AI agents to AmplifAI, its agentic suite for digital communications surveillance and investigations.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110260/shield-extends-agentic-ai-comms-surveillance-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "shield",
+        "ai",
+        "communication risk"
+      ]
+    },
+    {
+      "id": "122214459",
+      "title": "Quantifind raises $200m for AI-powered risk management",
+      "summary": "Quantifind, the leader in AI-native Risk Intelligence for modern financial crime and national security operations, today announced a $200 million growth investment led by Summit Partners, with participation from existing investors Citi Ventures, S&P Global, Deloitte, and Stephens…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110259/quantifind-raises-200m-for-ai-powered-risk-management?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "quantifind",
+        "ai",
+        "risk intelligence"
+      ]
+    },
+    {
+      "id": "447925090",
+      "title": "The Practical AI Opportunity: Why SMBs Want Guidance Before Automation",
+      "summary": "Artificial intelligence (AI) has rapidly moved from experimental technology to business necessity. Yet for many small to mid-sized businesses (SMBs), the most valuable AI applications are not futuristic autonomous agents or complex automation tools. Instead, they are practical so…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/tracker_posts/the-practical-ai-opportunity-why-smbs-want-guidance-before-automation/",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "the practical",
+        "ai opportunity",
+        "why smbs"
+      ]
+    },
+    {
+      "id": "976433158",
+      "title": "Thailand-founded Amity sets up Singapore AI hub, eyes 2027 IPO",
+      "summary": "Thailand-founded enterprise AI company Amity has opened a Singapore office and AI Research Application Center (ARAC), placing the city-state at the centre of its regional expansion, product development, and planned path to a public listing in 2027. The move follows Amity’s US$100…",
+      "source": "e27",
+      "url": "https://e27.co/thailand-founded-amity-sets-up-singapore-ai-hub-eyes-2027-ipo-20260629/",
+      "date": "2026-06-29",
+      "category": "Banking",
+      "tags": [
+        "thailand",
+        "amity",
+        "singapore ai"
+      ]
+    },
     {
       "id": "655940447",
       "title": "AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns",
@@ -820,62 +876,6 @@
         "dun",
         "bradstreet",
         "ai dun"
-      ]
-    },
-    {
-      "id": "550520670",
-      "title": "Why ISO Compliance May Not Be as Ubiquitous as It Seems",
-      "summary": "Joining FinextraTV at the EBAday 2026 studio in Copenhagen, Paul Ruskin, Director of Business Development, Trace Financial shared his thoughts on the progression of ISO 20022 and, in particular, looking towards the November deadline for structured addresses. Beginning by explaini…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3529/why-iso-compliance-may-not-be-as-ubiquitous-as-it-seems?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "RegTech",
-      "tags": [
-        "why iso",
-        "compliance may",
-        "not be"
-      ]
-    },
-    {
-      "id": "713352665",
-      "title": "The Trust Layer Triumph: Why Credibility is Eclipsing Capability in Europe’s AI Race",
-      "summary": "At GITEX AI EUROPE 2026 in Berlin, global innovators, investors and policymakers will explore how trust, security and governance are becoming the defining pillars of the next generation of AI, as Europe shifts its focus beyond model scale toward credible enterprise adoption. The …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-trust-layer-triumph-why-credibility-is-eclipsing-capability-in-europes-ai-race/",
-      "date": "2026-06-22",
-      "category": "Payments",
-      "tags": [
-        "the trust",
-        "layer triumph",
-        "why credibility"
-      ]
-    },
-    {
-      "id": "474511379",
-      "title": "The art of AI integration: Growing your business with chatbots and human expertise",
-      "summary": "Singapore is working towards becoming a leader in artificial intelligence (AI), ranking among the top ten countries for AI startups and investments according to sources like Visual Capitalist and Techopedia. The rise of AI, particularly through AI chatbots, is making a big impact…",
-      "source": "e27",
-      "url": "https://e27.co/the-art-of-ai-integration-growing-your-business-with-chatbots-and-human-expertise-20240509/",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "growing",
-        "singapore"
-      ]
-    },
-    {
-      "id": "655623934",
-      "title": "What nine AI workflow submissions reveal about Echelon Singapore’s builder pipeline",
-      "summary": "The useful test of an AI competition is whether it can repeatedly turn broad interest into specific, inspectable builder output. That is the most important signal from the AI Workflow Competition at Echelon Singapore 2026. Nine other entries reviewed by e27 showed builders workin…",
-      "source": "e27",
-      "url": "https://e27.co/what-nine-ai-workflow-submissions-reveal-about-echelon-singapores-builder-pipeline-20260622/",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "what",
-        "ai",
-        "echelon singapore"
       ]
     }
   ]
