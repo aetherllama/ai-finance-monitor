@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-06-29T20:50:19Z",
+  "last_updated": "2026-06-30T10:33:16Z",
   "insights": {
     "risks": [
-      "Trading risk: Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap — assess algorithmic exposure.",
-      "Operational: Personetics embeds AI into Fiserv Experience Digital — evaluate model governance gaps."
+      "Trading risk: SoftSolutions adds AI to fixed income trading platform — assess algorithmic exposure.",
+      "Operational: Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Personetics embeds AI into Fiserv Experience Digital — cost reduction opportunity."
+      "Payments: The Missing Link in Agentic Commerce and the Threat of AI Merchant Impersonation — potential infrastructure advantage.",
+      "Banking efficiency: Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 6
     },
     {
       "topic": "Risk Management",
@@ -29,13 +30,106 @@
     {
       "topic": "Robo-Advisory",
       "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "793663342",
+      "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
+      "summary": "Investors switch to soaring chipmakers benefiting from hyperscalers’ vast AI spending",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "magnificent seven",
+        "wall street",
+        "investors"
+      ]
+    },
+    {
+      "id": "40475945",
+      "title": "SoftSolutions adds AI to fixed income trading platform",
+      "summary": "AI is now integrated into nexRates. SoftSolutions today announced that its flagship fixed-income trading platform ships with production-ready AI capabilities, giving traders the agility to move at the speed of the market.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110283/softsolutions-adds-ai-to-fixed-income-trading-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-30",
+      "category": "Trading",
+      "tags": [
+        "softsolutions",
+        "ai"
+      ]
+    },
+    {
+      "id": "194423284",
+      "title": "AI insurtech Federato launches in APAC",
+      "summary": "Federato, the AI-native platform that changes the way insurance work gets done, today announced it is bringing its proven AI-native insurance platform to APAC and Japan.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110275/ai-insurtech-federato-launches-in-apac?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "federato",
+        "apac federato"
+      ]
+    },
+    {
+      "id": "757090958",
+      "title": "The Missing Link in Agentic Commerce and the Threat of AI Merchant Impersonation",
+      "summary": "As agentic commerce grows, the payments industry faces a new security challenge: while AI buyer authentication has advanced, weaker merchant verification leaves payment networks vulnerable to AI-driven impersonation fraud and scam websites. The post The Missing Link in Agentic Co…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-missing-link-in-agentic-commerce-and-the-threat-of-ai-merchant-impersonation/",
+      "date": "2026-06-30",
+      "category": "Payments",
+      "tags": [
+        "the missing",
+        "link",
+        "agentic commerce"
+      ]
+    },
+    {
+      "id": "487006045",
+      "title": "German-listed DDB acquires Singapore’s Infinium Robotics in US$24M share deal",
+      "summary": "Singapore-founded Infinium Robotics has been acquired by German-listed Deutsche Defence Beteiligungen (DDB) in a share-based transaction valued at up to about US$24 million, giving the autonomous warehouse drone company a public-market platform in Europe as demand for industrial …",
+      "source": "e27",
+      "url": "https://e27.co/german-listed-ddb-acquires-singapores-infinium-robotics-in-us24m-share-deal-20260630/",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "german",
+        "ddb",
+        "singapore"
+      ]
+    },
+    {
+      "id": "703340268",
+      "title": "Akro AI raises US$700K in pre-seed to automate data workflows in regulated industries",
+      "summary": "Akro AI, a Singapore-based AI startup, has raised a US$700,000 pre-seed funding round led by Amigos Venture Capital. The round also included participation from strategic angel investors across financial services, healthcare, and consumer tech. Akro AI builds automation tools for …",
+      "source": "e27",
+      "url": "https://e27.co/akro-ai-raises-us700k-in-pre-seed-to-automate-data-workflows-in-regulated-industries-20260630/",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "akro ai",
+        "us",
+        "singapore"
+      ]
+    },
+    {
+      "id": "166053662",
+      "title": "Why one AI workshop won’t transform your organisation",
+      "summary": "Most organisations that say they are investing in AI are actually investing in awareness. There is a difference, and it matters more than many leaders realise. Across workplaces today, AI adoption is accelerating. Employees are experimenting with chatbots, attending workshops and…",
+      "source": "e27",
+      "url": "https://e27.co/why-one-ai-workshop-wont-transform-your-organisation-20260623/",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "why",
+        "ai",
+        "most"
+      ]
+    },
     {
       "id": "77152019",
       "title": "Personetics embeds AI into Fiserv Experience Digital",
@@ -773,103 +867,6 @@
         "tribe academy",
         "felicia tan",
         "why"
-      ]
-    },
-    {
-      "id": "932378834",
-      "title": "5 Seoul startups made their Southeast Asia debut at Echelon Singapore 2026 under the SBA pavilion",
-      "summary": "Seoul s startup ecosystem has spent the past decade building a reputation for technical depth, from enterprise AI to deep tech materials science. What has been harder to build is the second half of the story: a credible path for those companies to operate beyond Korea s borders. …",
-      "source": "e27",
-      "url": "https://e27.co/5-seoul-startups-made-their-southeast-asia-debut-at-echelon-singapore-2026-under-the-sba-pavilion-20260623/",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "seoul",
-        "southeast asia",
-        "echelon singapore"
-      ]
-    },
-    {
-      "id": "318286765",
-      "title": "Singapore’s AI opportunity is no longer about adoption, it’s about discipline",
-      "summary": "Singapore’s startup ecosystem has entered a more demanding phase. For the past decade, Southeast Asia has been defined by digital adoption: more users, more platforms, more capital, and more ambitious founders. That story is still alive. The latest Google, Temasek, and Bain e-Con…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-ai-opportunity-is-no-longer-about-adoption-its-about-discipline-20260619/",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "southeast asia"
-      ]
-    },
-    {
-      "id": "162714312",
-      "title": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
-      "summary": "National Australia Bank (NAB) is rolling out a conversational artificial intelligence (AI) analytics tool.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/news/nab-deploys-ai-analytics-tool-saving-2-4-days-use-case",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "national australia",
-        "bank",
-        "nab"
-      ]
-    },
-    {
-      "id": "764973638",
-      "title": "NatWest launches bank-wide AI ethics accreditation",
-      "summary": "NatWest has launched an accreditation programme in AI and data ethics to help employees learn about the responsible use of the technology.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47969/natwest-launches-bank-wide-ai-ethics-accreditation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "natwest",
-        "ai"
-      ]
-    },
-    {
-      "id": "338974137",
-      "title": "Banks Have to Compete With AI Hyperscalers Now",
-      "summary": "Three years ago, the conversation about AI in banking was simple: can we use this for customer suppo...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32071/banks-have-to-compete-with-ai-hyperscalers-now?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "banks have",
-        "compete with",
-        "ai hyperscalers"
-      ]
-    },
-    {
-      "id": "318629920",
-      "title": "The AI Agent That Clears Your Alert Backlog Is Only as Defensible as What It Dismisses",
-      "summary": "The pitch landing on the desks of heads of financial crime, MLROs, and transaction-monitoring leads ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32070/the-ai-agent-that-clears-your-alert-backlog-is-only-as-defensible-as-what-it-dismisses?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-22",
-      "category": "Banking",
-      "tags": [
-        "the ai",
-        "agent that",
-        "clears your"
-      ]
-    },
-    {
-      "id": "951689823",
-      "title": "MoonPay Acquires AI Accounting Agent Maker Entendre",
-      "summary": "Crypto payments company MoonPay has acquired Entendre, which makes artificial intelligence (AI) accounting agents for stablecoin firms. The purchase “extends MoonPay’s infrastructure into the financial operations layer,” the company said in a Monday (June 22) news release, adding…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/acquiring/2026/moonpay-acquires-ai-accounting-agent-maker-entendre/",
-      "date": "2026-06-22",
-      "category": "Payments",
-      "tags": [
-        "moonpay acquires",
-        "ai accounting",
-        "agent maker"
       ]
     }
   ]
