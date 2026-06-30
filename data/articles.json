@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-06-30T10:33:16Z",
+  "last_updated": "2026-06-30T20:58:55Z",
   "insights": {
     "risks": [
+      "Regulatory: ACA Group Directs Capital to Durham to Fuel In-House AI Compliance Architecture — review compliance obligations.",
       "Trading risk: SoftSolutions adds AI to fixed income trading platform — assess algorithmic exposure.",
-      "Operational: Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation — evaluate model governance gaps."
+      "Operational: FactSet agrees AI partnership with Google Cloud — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: The Missing Link in Agentic Commerce and the Threat of AI Merchant Impersonation — potential infrastructure advantage.",
-      "Banking efficiency: Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation — cost reduction opportunity."
+      "Banking efficiency: FactSet agrees AI partnership with Google Cloud — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -20,11 +21,11 @@
       "count": 6
     },
     {
-      "topic": "Risk Management",
-      "count": 2
+      "topic": "Regulatory AI",
+      "count": 4
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Risk Management",
       "count": 2
     },
     {
@@ -33,6 +34,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "41122273",
+      "title": "FactSet agrees AI partnership with Google Cloud",
+      "summary": "FactSet, a leading global data and AI solutions provider to the financial markets, today announced a multi-faceted strategic partnership with Google Cloud to create a new generation of AI-powered solutions for the financial industry.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110299/factset-agrees-ai-partnership-with-google-cloud?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "factset",
+        "ai",
+        "google cloud"
+      ]
+    },
+    {
+      "id": "806112841",
+      "title": "IBanFirst connects Claude AI to Excel to turn spreadsheet into a live treasury agent",
+      "summary": "For a decade, treasury technology has promised more: more software, more platforms, more logins, all while the working reality for most finance teams has barely changed.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110290/ibanfirst-connects-claude-ai-to-excel-to-turn-spreadsheet-into-a-live-treasury-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "ibanfirst",
+        "claude ai",
+        "excel"
+      ]
+    },
+    {
+      "id": "44129087",
+      "title": "How AI is Exposing the Operational Visibility Gap in Financial Institutions",
+      "summary": "Financial institutions have spent the last few years accelerating AI programmes, but many are now ru...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32144/how-ai-is-exposing-the-operational-visibility-gap-in-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "exposing",
+        "operational visibility"
+      ]
+    },
+    {
+      "id": "387202703",
+      "title": "ACA Group Directs Capital to Durham to Fuel In-House AI Compliance Architecture",
+      "summary": "ACA Group has opened a new innovation and technology center in Durham, North Carolina, to strengthen in-house AI development and enhance its proprietary ComplianceAlpha platform. The post ACA Group Directs Capital to Durham to Fuel In-House AI Compliance Architecture appeared fir…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/aca-group-directs-capital-to-durham-to-fuel-in-house-ai-compliance-architecture/",
+      "date": "2026-06-30",
+      "category": "RegTech",
+      "tags": [
+        "aca group",
+        "directs capital",
+        "durham"
+      ]
+    },
+    {
+      "id": "471255021",
+      "title": "LeapXpert Raises $180m to Bring AI Into Governed Enterprise Messaging",
+      "summary": "LeapXpert has raised $180million in growth funding to expand its messaging compliance and corporate intelligence platform, using AI to transform conversations across channels like WhatsApp and Signal into secure, compliant business data for financial institutions and enterprises.…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/leapxpert-secures-massive-180m-growth-round-to-unlock-enterprise-ai-comms/",
+      "date": "2026-06-30",
+      "category": "RegTech",
+      "tags": [
+        "leapxpert raises",
+        "bring ai",
+        "into governed"
+      ]
+    },
+    {
+      "id": "642010301",
+      "title": "EQS Launches Native Intelligence Layer to Automate Enterprise Compliance Workflows",
+      "summary": "EQS Group has launched Q by EQS, an AI-powered compliance assistant designed to embed secure, auditable AI into corporate workflows, with a focus on governance, human oversight and regulatory compliance. The post EQS Launches Native Intelligence Layer to Automate Enterprise Compl…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/eqs-launches-native-intelligence-layer-to-automate-enterprise-compliance-workflows/",
+      "date": "2026-06-30",
+      "category": "RegTech",
+      "tags": [
+        "eqs launches",
+        "native intelligence",
+        "layer"
+      ]
+    },
+    {
+      "id": "668590216",
+      "title": "OpenAI Economist Says Jobs Data Disproves AI Unemployment Fears",
+      "summary": "Jobs data contradicts the common fear that artificial intelligence will put people out of work, OpenAI Chief Economist Aaron Chatterji said Tuesday (June 30). Speaking at the European Central Bank’s ECB Forum on Central Banking, Chatterji said people often come to him with anxiet…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-economist-says-jobs-data-disproves-ai-unemployment-fears/",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "openai economist",
+        "says jobs",
+        "data disproves"
+      ]
+    },
+    {
+      "id": "457012722",
+      "title": "Companies Look to Cloud-Era Solutions to Control AI Spending",
+      "summary": "Businesses have reportedly turned to an array of tactics to help manage rising AI spending. As The Wall Street Journal (WSJ) reported Tuesday (June 30), artificial intelligence (AI) is increasingly being billed according to usage, with companies facing volatile pricing for tokens…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/companies-look-to-cloud-era-solutions-to-control-ai-spending/",
+      "date": "2026-06-30",
+      "category": "Banking",
+      "tags": [
+        "companies look",
+        "cloud",
+        "era solutions"
+      ]
+    },
     {
       "id": "793663342",
       "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
@@ -755,118 +868,6 @@
         "backbase",
         "kasisto banking",
         "ai"
-      ]
-    },
-    {
-      "id": "837397331",
-      "title": "NAB rolls out conversational AI; creates AI cybercrime hub",
-      "summary": "NAB is rolling out a conversational AI tool from Databricks that enables staff to explore data by asking simple questions. At the same time, the bank is tackling the downside of the AI boom with a new hub that brings together frontline responders across technology, cyber security…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47972/nab-rolls-out-conversational-ai-creates-ai-cybercrime-hub?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "nab",
-        "ai",
-        "databricks"
-      ]
-    },
-    {
-      "id": "165878570",
-      "title": "AI-native loan origination platform Lama AI lands $20m Series A",
-      "summary": "Lama AI, the AI-native loan origination platform built for community and regional banks, today announced a Series A led by EJF Ventures, bringing total funding raised to over $20 million, supporting its 3x year-over-year growth. The company’s platform is already in production at …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110230/ai-native-loan-origination-platform-lama-ai-lands-20m-series-a?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "lama ai",
-        "series"
-      ]
-    },
-    {
-      "id": "452348008",
-      "title": "GoldenSource releases AI platform",
-      "summary": "Today, GoldenSource launched its AI platform, GoldenSource Scout, designed to help financial services firms close the AI trust gap.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110225/goldensource-releases-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "goldensource",
-        "ai",
-        "today"
-      ]
-    },
-    {
-      "id": "127806630",
-      "title": "NAB rolls out conversational AI; creates AI crybercrime hub",
-      "summary": "NAB is rolling out a conversational AI tool from Databricks that enables staff to explore data by asking simple questions. At the same time, the bank is tackling the downside of the AI boom with a new hub that brings together frontline responders across technology, cyber security…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47972/nab-rolls-out-conversational-ai-creates-ai-crybercrime-hub?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "nab",
-        "ai",
-        "databricks"
-      ]
-    },
-    {
-      "id": "44925789",
-      "title": "Payment Processors Can’t Win on Uptime Alone Anymore",
-      "summary": "Watch more: What’s Next in Payments With Matthew Pearce of i2c For years, payment processors competed on uptime, scale and cost. Artificial intelligence (AI) is changing those dynamics, pushing providers to demonstrate that they can help financial institutions make better decisio…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/payments-innovation/2026/payment-processors-cant-win-on-uptime-alone-anymore/",
-      "date": "2026-06-23",
-      "category": "Payments",
-      "tags": [
-        "payment processors",
-        "can",
-        "win"
-      ]
-    },
-    {
-      "id": "424342264",
-      "title": "Banks Replace Real Customers With AI Clones for Product Testing",
-      "summary": "Testing a new credit card or banking product once required months of regulatory vetting and customer recruitment. Now banks build the customer instead. Financial institutions are replacing live customers with artificial intelligence-generated stand-ins — synthetic profiles that c…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-replace-real-customers-with-ai-clones-for-product-testing/",
-      "date": "2026-06-23",
-      "category": "RegTech",
-      "tags": [
-        "banks replace",
-        "real customers",
-        "with ai"
-      ]
-    },
-    {
-      "id": "146267813",
-      "title": "From façades to railways: H3 Zoom raises US$3.6M to commercialise AI inspection tech across SEA, Japan",
-      "summary": "H3 Zoom, a Singapore‑based deeptech startup building AI‑driven inspection and asset‑intelligence software, has closed an oversubscribed Series A round of US$3.6 million. The financing was led by JRE Ventures, the corporate venture arm of Japan’s East Japan Railway Company, with p…",
-      "source": "e27",
-      "url": "https://e27.co/from-facades-to-railways-h3-zoom-raises-us3-6m-to-commercialise-ai-inspection-tech-across-sea-japan-20260623/",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "from",
-        "zoom",
-        "us"
-      ]
-    },
-    {
-      "id": "168323607",
-      "title": "Tribe Academy’s Felicia Tan: Why good prompt engineering and critical thinking are keys to AI bilingualism",
-      "summary": "Singapore has set an ambitious target: 100,000 AI-bilingual workers by 2029. The goal signals a broader reckoning with how AI is reshaping the professional workforce — not merely as a productivity tool, but as a capability that demands a new kind of literacy. Yet as training prog…",
-      "source": "e27",
-      "url": "https://e27.co/tribe-academy-ai-bilingualism-20260623/",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "tribe academy",
-        "felicia tan",
-        "why"
       ]
     }
   ]
