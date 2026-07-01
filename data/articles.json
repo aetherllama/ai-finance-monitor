@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-01T10:44:15Z",
+  "last_updated": "2026-07-01T20:49:04Z",
   "insights": {
     "risks": [
-      "Regulatory: ACA Group Directs Capital to Durham to Fuel In-House AI Compliance Architecture — review compliance obligations.",
-      "Trading risk: EC Markets installs Acuity Trading's AI-driven trading tools — assess algorithmic exposure.",
-      "Operational: AI not eliminating need for bankers - survey — evaluate model governance gaps."
+      "Trading risk: Pico and LDA Technologies partner on high-fidelity data for real-time AI and trading workflows — assess algorithmic exposure.",
+      "Operational: BoE calls for bespoke AI regulation — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Unzer appoints chief product and AI officer — potential infrastructure advantage.",
-      "Banking efficiency: AI not eliminating need for bankers - survey — cost reduction opportunity."
+      "Payments: AI Fraud Detection in 2026: Vladyslav Kolodistyi on Why Payment Orchestration Decides Who Wins — potential infrastructure advantage.",
+      "Banking efficiency: BoE calls for bespoke AI regulation — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -22,11 +21,15 @@
     },
     {
       "topic": "Regulatory AI",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Risk Management",
       "count": 2
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
     },
     {
       "topic": "Robo-Advisory",
@@ -34,6 +37,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "715711710",
+      "title": "BoE calls for bespoke AI regulation",
+      "summary": "A senior official at the Bank of England has called for an updated regulatory framework to cater for the inexorable rise of agentic AI",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48022/boe-calls-for-bespoke-ai-regulation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "boe",
+        "ai",
+        "bank"
+      ]
+    },
+    {
+      "id": "673072291",
+      "title": "Pico and LDA Technologies partner on high-fidelity data for real-time AI and trading workflows",
+      "summary": "Pico, a leading global provider of mission-critical technology services, software, data and analytics for the financial markets community, and LDA Technologies, a leader in ultra-low latency networking and FPGA applications, today announced that Pico’s Corvil Analytics platform w…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110320/pico-and-lda-technologies-partner-on-high-fidelity-data-for-real-time-ai-and-trading-workflows?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-01",
+      "category": "Trading",
+      "tags": [
+        "pico",
+        "lda technologies",
+        "ai"
+      ]
+    },
+    {
+      "id": "308305583",
+      "title": "AI Fraud Detection in 2026: Vladyslav Kolodistyi on Why Payment Orchestration Decides Who Wins",
+      "summary": "In this competitive analysis, Vladyslav Kolodistyi from PayAdmit argues that the gap between mercha",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32163/ai-fraud-detection-in-2026-vladyslav-kolodistyi-on-why-payment-orchestration-decides-who-wins?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-01",
+      "category": "Payments",
+      "tags": [
+        "ai fraud",
+        "detection",
+        "vladyslav kolodistyi"
+      ]
+    },
+    {
+      "id": "911109880",
+      "title": "JPMorgan AI Chief Teresa Heitsenrether Plans Year-End Retirement",
+      "summary": "JPMorganChase’s artificial intelligence chief, Teresa Heitsenrether, will retire from the company at the end of the year, Bloomberg reported Wednesday (July 1). Heitsenrether has been with the bank for nearly 40 years, previously led its prime brokerage and securities services un…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/personnel/2026/jpmorgan-ai-chief-teresa-heitsenrether-plans-year-end-retirement/",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "jpmorgan ai",
+        "chief teresa",
+        "heitsenrether plans"
+      ]
+    },
     {
       "id": "801156075",
       "title": "AI not eliminating need for bankers - survey",
@@ -810,62 +869,6 @@
         "sbi holdings",
         "pints ai",
         "japanese"
-      ]
-    },
-    {
-      "id": "898439772",
-      "title": "A view from the techUK summit: what it takes to scale AI with confidence",
-      "summary": "At techUK’s Agents of Change: AI in Financial Services summit this week, I joined a panel on scaling...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32101/a-view-from-the-techuk-summit-what-it-takes-to-scale-ai-with-confidence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "agents",
-        "change"
-      ]
-    },
-    {
-      "id": "128596772",
-      "title": "Fighting AI with AI – are financial services keeping pace with new-age fraudsters?",
-      "summary": "Last year, a quarter (24%) of UK consumers told us they were worried about the risks that AI posed. ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32099/fighting-ai-with-ai--are-financial-services-keeping-pace-with-new-age-fraudsters?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "fighting ai",
-        "ai",
-        "last"
-      ]
-    },
-    {
-      "id": "477461001",
-      "title": "Southern Africa Mobilises Collaborative AI Frameworks to Combat Next-Gen Financial Crime",
-      "summary": "11th Annual AML Financial Crime Southern Africa Conference returns to Johannesburg this September, bringing together regulators, financial institutions and technology leaders to tackle evolving financial crime risks, regulatory challenges and AI-driven compliance strategies. The …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/southern-africa-mobilises-collaborative-ai-frameworks-to-combat-next-gen-financial-crime/",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "southern africa",
-        "mobilises collaborative",
-        "ai frameworks"
-      ]
-    },
-    {
-      "id": "946372562",
-      "title": "AI Forces Compliance Teams to Rethink Alert Strategy",
-      "summary": "Financial crime compliance programs are a game of alerts. Or at least they used to be in the pre-AI era, when compliance teams operated on a linear equation in which more transactions generated more alerts, and more alerts required more analysts. But financial services is firmly …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/ai-forces-compliance-teams-to-rethink-alert-strategy/",
-      "date": "2026-06-25",
-      "category": "RegTech",
-      "tags": [
-        "ai forces",
-        "compliance teams",
-        "rethink alert"
       ]
     }
   ]
