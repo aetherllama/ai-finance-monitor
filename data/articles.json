@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-06-30T20:58:55Z",
+  "last_updated": "2026-07-01T10:44:15Z",
   "insights": {
     "risks": [
       "Regulatory: ACA Group Directs Capital to Durham to Fuel In-House AI Compliance Architecture — review compliance obligations.",
-      "Trading risk: SoftSolutions adds AI to fixed income trading platform — assess algorithmic exposure.",
-      "Operational: FactSet agrees AI partnership with Google Cloud — evaluate model governance gaps."
+      "Trading risk: EC Markets installs Acuity Trading's AI-driven trading tools — assess algorithmic exposure.",
+      "Operational: AI not eliminating need for bankers - survey — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The Missing Link in Agentic Commerce and the Threat of AI Merchant Impersonation — potential infrastructure advantage.",
-      "Banking efficiency: FactSet agrees AI partnership with Google Cloud — cost reduction opportunity."
+      "Payments: Unzer appoints chief product and AI officer — potential infrastructure advantage.",
+      "Banking efficiency: AI not eliminating need for bankers - survey — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Regulatory AI",
@@ -34,6 +34,158 @@
     }
   ],
   "articles": [
+    {
+      "id": "801156075",
+      "title": "AI not eliminating need for bankers - survey",
+      "summary": "The notion that artificial intelligence (AI) will replace financial services workers is \"no longer true\", suggests a recently published report.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48020/ai-not-eliminating-need-for-bankers---survey?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "544987648",
+      "title": "Danske Bank extends AWS partnership for AI push",
+      "summary": "Denmark’s Danske Bank is expanding its collaboration with Amazon Web Services as it bids to accelerate the rollout of AI-enabled products and services.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48014/danske-bank-extends-aws-partnership-for-ai-push?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "danske bank",
+        "aws",
+        "ai"
+      ]
+    },
+    {
+      "id": "267936322",
+      "title": "EC Markets installs Acuity Trading's AI-driven trading tools",
+      "summary": "EC Markets traders will gain access to Acuity Trading’s full suite of AI-driven market, event and trade intelligence tools through EC Insights, bringing together sentiment analysis, economic data, macroeconomic context and AI-supported market commentary within the EC Markets trad…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110308/ec-markets-installs-acuity-tradings-ai-driven-trading-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-01",
+      "category": "Trading",
+      "tags": [
+        "ec markets",
+        "acuity trading",
+        "ai"
+      ]
+    },
+    {
+      "id": "918774382",
+      "title": "Unzer appoints chief product and AI officer",
+      "summary": "Unzer, a leading European provider of payment and software solutions, has appointed Isabelle Bénard as Chief Product & AI Officer (CPAIO).",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110303/unzer-appoints-chief-product-and-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-01",
+      "category": "Payments",
+      "tags": [
+        "unzer",
+        "ai",
+        "european"
+      ]
+    },
+    {
+      "id": "643680175",
+      "title": "Google Cloud Pursues Financial Markets in FactSet Alliance",
+      "summary": "Google Cloud and FactSet, a provider of data and artificial intelligence solutions to the financial markets, plan to jointly develop AI agents designed to assist with portfolio operations, deal advisory and corporate finance. The agents are one of three areas of focus the compani…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-pursues-financial-markets-in-factset-alliance/",
+      "date": "2026-07-01",
+      "category": "Trading",
+      "tags": [
+        "google cloud",
+        "pursues financial",
+        "markets"
+      ]
+    },
+    {
+      "id": "42869653",
+      "title": "Singapore’s Acti raises US$5.3M to turn the keyboard into an AI agent layer",
+      "summary": "Singapore-based Acti has secured US$5.3 million in seed funding to build what it calls an “agentic keyboard”, a product that aims to move AI assistance away from standalone chat apps and into the interface people use across almost every digital interaction. The round was led by U…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-acti-raises-us5-3m-to-turn-the-keyboard-into-an-ai-agent-layer-20260701/",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "acti",
+        "us"
+      ]
+    },
+    {
+      "id": "10199144",
+      "title": "\"The humans are here to stay,\" says DBS's Wilfred Quek. AI is cutting wealth prep from hours to minutes—freeing advisers to serve more clients with the same personal touch, at scale.",
+      "summary": "\"The humans are here to stay,\" says DBS's Wilfred Quek. AI is cutting wealth prep from hours to minutes—freeing advisers to serve more clients with the same personal touch, at scale.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/event-news/ai-shifting-how-wealth-management-solutions-are-built-and-delivered-scale",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "dbs",
+        "wilfred quek",
+        "ai"
+      ]
+    },
+    {
+      "id": "367155752",
+      "title": "Asia's insurance industry is rethinking how it defines customer value as ageing populations, widening protection gaps and advances in AI force insurers to move beyond selling policies, panellists said at the Asian Banking & Finance and Insurance Asia Summit today.",
+      "summary": "Asia's insurance industry is rethinking how it defines customer value as ageing populations, widening protection gaps and advances in AI force insurers to move beyond selling policies, panellists said at the Asian Banking & Finance and Insurance Asia Summit today.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/insurance/event-news/asia-insurers-risk-irrelevance-protection-gaps-widen",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "asia",
+        "ai",
+        "asian banking"
+      ]
+    },
+    {
+      "id": "850767502",
+      "title": "Banks are moving beyond experimenting with AI, but executives say governance will determine who benefits. Leaders at the Asian Banking & Finance and Insurance Asia Summit said oversight, accountability and human judgment must keep pace as AI adoption expands.",
+      "summary": "Banks are moving beyond experimenting with AI, but executives say governance will determine who benefits. Leaders at the Asian Banking & Finance and Insurance Asia Summit said oversight, accountability and human judgment must keep pace as AI adoption expands.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/event-news/ai-governance-failures-threaten-banks-returns",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "banks",
+        "ai",
+        "leaders"
+      ]
+    },
+    {
+      "id": "311273084",
+      "title": "Trust is becoming a balance-sheet issue for insurers betting on artificial intelligence, as companies race to automate underwriting, claims and customer service whilst trying to keep employees, customers and regulators onside, said Ker Ching Chock, CFO, MSIG Singapore at the Asian Banking & Finance and Insurance Asia Summit today.",
+      "summary": "Trust is becoming a balance-sheet issue for insurers betting on artificial intelligence, as companies race to automate underwriting, claims and customer service whilst trying to keep employees, customers and regulators onside, said Ker Ching Chock, CFO, MSIG Singapore at the Asian Banking & Finance and Insurance Asia Summit today.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/insurance/event-news/insurers-chase-ai-gains-workers-fear-job-losses",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "trust",
+        "ker ching",
+        "chock"
+      ]
+    },
+    {
+      "id": "94758555",
+      "title": "At the Asian Banking and Finance and Insurance Asia Summit in Singapore, Oliver Wyman's Ashwini Karandikar explained how hidden instructions in financial documents can quietly hijack AI systems.",
+      "summary": "At the Asian Banking and Finance and Insurance Asia Summit in Singapore, Oliver Wyman's Ashwini Karandikar explained how hidden instructions in financial documents can quietly hijack AI systems.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/event-news/ai-oversight-gains-urgency-deepfake-scams-surge-2000",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "asian banking",
+        "finance",
+        "insurance asia"
+      ]
+    },
     {
       "id": "41122273",
       "title": "FactSet agrees AI partnership with Google Cloud",
@@ -714,160 +866,6 @@
         "ai forces",
         "compliance teams",
         "rethink alert"
-      ]
-    },
-    {
-      "id": "107781631",
-      "title": "AI Is Now the Threat Banks Must Plan Around",
-      "summary": "The world’s top intelligence agencies warned that artificial intelligence (AI) is making cyberattacks faster, cheaper and harder to stop—and banks are in the crosshairs. The financial sector isn’t waiting. It’s already fighting back with the same technology fueling the threat. Th…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/2026/ai-is-now-the-threat-banks-must-plan-around/",
-      "date": "2026-06-24",
-      "category": "Banking",
-      "tags": [
-        "ai is",
-        "now",
-        "threat banks"
-      ]
-    },
-    {
-      "id": "597094022",
-      "title": "Mastercard and PrivatBank complete Ukraine’s first payment executed by an AI agent",
-      "summary": "Mastercard and PrivatBank have completed Ukraine’s first agentic transaction, through Mastercard Agent Pay.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110244/mastercard-and-privatbank-complete-ukraines-first-payment-executed-by-an-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-24",
-      "category": "Payments",
-      "tags": [
-        "mastercard",
-        "privatbank",
-        "ukraine"
-      ]
-    },
-    {
-      "id": "209063985",
-      "title": "Fintech Scotland launches innovvation challengge on responsible AI",
-      "summary": "Fintech companies from around the world with innovative AI solutions can now apply to the award-winning Financial Regulation Innovation Lab’s new innovation call – on responsible AI in financial services.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110242/fintech-scotland-launches-innovvation-challengge-on-responsible-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-24",
-      "category": "Payments",
-      "tags": [
-        "fintech scotland",
-        "ai fintech",
-        "ai"
-      ]
-    },
-    {
-      "id": "678671603",
-      "title": "Automation is just the start - how AI can truly transform payment testing",
-      "summary": "Artificial Intelligence (AI) is rapidly becoming one of the most powerful technologies in financial ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32093/automation-is-just-the-start---how-ai-can-truly-transform-payment-testing?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-24",
-      "category": "Payments",
-      "tags": [
-        "automation",
-        "ai",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "id": "36768",
-      "title": "Enterprise SaaS Contracts Are Secret AI Training Licenses",
-      "summary": "Standard clauses buried in enterprise software agreements are giving artificial intelligence (AI) vendors sweeping rights to train models on source code, financial records, legal documents and customer data. Most companies don’t know the exposure exists. The Federal Trade Commiss…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/enterprise-saas-contracts-are-secret-ai-training-licenses/",
-      "date": "2026-06-24",
-      "category": "Banking",
-      "tags": [
-        "enterprise saas",
-        "contracts are",
-        "secret ai"
-      ]
-    },
-    {
-      "id": "594994404",
-      "title": "How AI makes investing and trading safer and more accessible",
-      "summary": "AI adoption is growing, with 85 per cent of financial institutions integrating AI tools to enhance speed, efficiency, and data analysis. However, these systems are no longer exclusive to large institutions or seasoned traders. By making investing safer and more approachable, AI i…",
-      "source": "e27",
-      "url": "https://e27.co/how-ai-makes-investing-and-trading-safer-and-more-accessible-20250102/",
-      "date": "2026-06-24",
-      "category": "Trading",
-      "tags": [
-        "how ai",
-        "ai",
-        "however"
-      ]
-    },
-    {
-      "id": "80704795",
-      "title": "Starling rolls out AI-powered romance scam detection feature",
-      "summary": "Starling Bank has rolled out an AI-powered feature designed to detect romance scammers, investment heists and deepfake phishing attempts.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47977/starling-rolls-out-ai-powered-romance-scam-detection-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-24",
-      "category": "Banking",
-      "tags": [
-        "starling",
-        "ai",
-        "starling bank"
-      ]
-    },
-    {
-      "id": "362102414",
-      "title": "MoonPay acquires AI bookkeeping platform Entendre",
-      "summary": "We're pleased to announce the acquisition of Entendre, an AI-enabled finance operations platform built for companies moving, settling, or holding value onchain.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110240/moonpay-acquires-ai-bookkeeping-platform-entendre?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-24",
-      "category": "Banking",
-      "tags": [
-        "moonpay",
-        "ai",
-        "entendre we"
-      ]
-    },
-    {
-      "id": "486797667",
-      "title": "Zeller enters the cloud point-of-sale software market with AI-first system built for SMEs",
-      "summary": "Australian fintech Zeller has today released a new point-of-sale (POS) app aimed at small and medium-sized businesses, expanding its offering beyond fintech into core business operations software.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110239/zeller-enters-the-cloud-point-of-sale-software-market-with-ai-first-system-built-for-smes?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-24",
-      "category": "Payments",
-      "tags": [
-        "zeller",
-        "ai",
-        "smes australian"
-      ]
-    },
-    {
-      "id": "788587759",
-      "title": "Banks Can’t Fight AI Fraud With Yesterday’s Rules",
-      "summary": "Watch more: What’s Next in Payments With Entersekt’s Richard Bailey Banks have spent much of the past two years asking whether artificial intelligence should be viewed as an enhancement or a competitive differentiator. Richard Bailey believes the discussion should begin somewhere…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/banks-cant-fight-ai-fraud-with-yesterdays-rules/",
-      "date": "2026-06-24",
-      "category": "Banking",
-      "tags": [
-        "banks can",
-        "fight ai",
-        "fraud with"
-      ]
-    },
-    {
-      "id": "233932716",
-      "title": "Backbase buys agentic banking platform Kasisto",
-      "summary": "Banking tech vendor Backbase has acquired financial services agentic AI specialist Kasisto. Terms of the deal were not disclosed.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47979/backbase-buys-agentic-banking-platform-kasisto?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-23",
-      "category": "Banking",
-      "tags": [
-        "backbase",
-        "kasisto banking",
-        "ai"
       ]
     }
   ]
