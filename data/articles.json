@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-01T20:49:04Z",
+  "last_updated": "2026-07-02T10:12:20Z",
   "insights": {
     "risks": [
       "Trading risk: Pico and LDA Technologies partner on high-fidelity data for real-time AI and trading workflows — assess algorithmic exposure.",
-      "Operational: BoE calls for bespoke AI regulation — evaluate model governance gaps."
+      "Operational: OCBC adds AI-powered financial advisor avatars to app — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI Fraud Detection in 2026: Vladyslav Kolodistyi on Why Payment Orchestration Decides Who Wins — potential infrastructure advantage.",
-      "Banking efficiency: BoE calls for bespoke AI regulation — cost reduction opportunity."
+      "Payments: SoFi buys AI-based investing startup Composer — potential infrastructure advantage.",
+      "Banking efficiency: OCBC adds AI-powered financial advisor avatars to app — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Regulatory AI",
@@ -37,6 +37,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "53210273",
+      "title": "OCBC adds AI-powered financial advisor avatars to app",
+      "summary": "OCBC has revamped its mobile app with two AI-powered avatars that deliver \"hyper-personalised\" wealth management services in real-time 24 hours a day.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48025/ocbc-adds-ai-powered-financial-advisor-avatars-to-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "ocbc",
+        "ai"
+      ]
+    },
+    {
+      "id": "169724644",
+      "title": "SoFi buys AI-based investing startup Composer",
+      "summary": "US fintech SoFi has acquired Composer, a Toronto-based AI-powered retail investing startup. Financial terms were not disclosed.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48026/sofi-buys-ai-based-investing-startup-composer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-02",
+      "category": "Payments",
+      "tags": [
+        "sofi",
+        "ai",
+        "composer us"
+      ]
+    },
+    {
+      "id": "404520707",
+      "title": "Treasurer unveils AlphaLenz at Echelon Singapore 2026 to target finance and insurance automation",
+      "summary": "Treasurer, an AI financial technology company, used Echelon Singapore 2026 to introduce AlphaLenz, its enterprise AX solution for financial and insurance institutions, as it looks to deepen its footprint across Southeast Asia’s fast-growing fintech and enterprise AI market. The c…",
+      "source": "e27",
+      "url": "https://e27.co/treasurer-unveils-alphalenz-at-echelon-singapore-2026-to-target-finance-and-insurance-automation-20260702/",
+      "date": "2026-07-02",
+      "category": "Payments",
+      "tags": [
+        "treasurer",
+        "alphalenz",
+        "echelon singapore"
+      ]
+    },
+    {
+      "id": "511705366",
+      "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
+      "summary": "LinqAlpha, a New York-headquartered AI startup building intelligence tools for institutional investors, has raised US$22 million in a Series A round backed by a group of global and Asian investors. The round was anchored by AVP, Atinum Investment, and GFT Ventures. It also drew p…",
+      "source": "e27",
+      "url": "https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "linqalpha",
+        "us",
+        "ai"
+      ]
+    },
+    {
+      "id": "249296266",
+      "title": "Retailers Turn to AI Agents to Meet Shoppers Before Checkout",
+      "summary": "Retailers have spent years enhancing digital shopping capabilities. Today, many merchants are evaluating which features still justify additional investment as artificial intelligence becomes a larger part of their technology plans. The PYMNTS Intelligence report “Global Digital S…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-shopping-assistants-top-retail-budgets/",
+      "date": "2026-07-01",
+      "category": "Banking",
+      "tags": [
+        "retailers turn",
+        "ai agents",
+        "meet shoppers"
+      ]
+    },
     {
       "id": "715711710",
       "title": "BoE calls for bespoke AI regulation",
@@ -800,75 +869,6 @@
         "jack henry",
         "google cloud",
         "ai"
-      ]
-    },
-    {
-      "id": "409508478",
-      "title": "Best AI-Native Loan Origination Platforms in 2026",
-      "summary": "Best AI-Native Loan Origination Platforms in 2026 Loan origination is being rebuilt around AI. I'm ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32100/best-ai-native-loan-origination-platforms-in-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "best ai",
-        "native loan",
-        "origination platforms"
-      ]
-    },
-    {
-      "id": "321890195",
-      "title": "BlackBerry is making a massive comeback as an 'uncrashable' software layer for AI and robotics",
-      "summary": "BlackBerry's stock is surging after the company's massive earnings beat and is pivoting into becoming a critical component of the AI and robotics boom.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/06/25/blackberry-is-making-a-massive-comeback-as-an-uncrashable-software-layer-for-ai-and-robotics",
-      "date": "2026-06-25",
-      "category": "Trading",
-      "tags": [
-        "blackberry",
-        "ai"
-      ]
-    },
-    {
-      "id": "884815057",
-      "title": "Scaled Cognition Raises $100 Million to Address AI Hallucinations",
-      "summary": "AI lab Scaled Cognition has raised $100 million in new funding. The company’s Series A round, announced Thursday (June 9), values Scaled Cognition at $750 million and will help it expand its research team and speed product development. In an interview with the Wall Street Journal…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/scaled-cognition-raises-100-million-to-address-ai-hallucinations/",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "scaled cognition",
-        "raises",
-        "million"
-      ]
-    },
-    {
-      "id": "183192221",
-      "title": "Salesforce Pushes AI Into the Fulfillment Decisions Payments Can’t See",
-      "summary": "Salesforce on Wednesday (June 24) launched Agentic Order Management, a system that lets retailers control fulfillment through plain-language instructions instead of code or manual rule-setting. A logistics manager can type “ship from the closest warehouse with available stock” or…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-pushes-ai-into-the-fulfillment-decisions-payments-cant-see/",
-      "date": "2026-06-25",
-      "category": "Trading",
-      "tags": [
-        "salesforce pushes",
-        "ai into",
-        "fulfillment decisions"
-      ]
-    },
-    {
-      "id": "800265014",
-      "title": "SBI Holdings invests in agent orchestration platform Pints AI",
-      "summary": "Japanese financial group SBI Holdings has co-led a $5.6 million pre-Series A funding round for Pints AI, an agentic artificial intelligence startup specialising in the financial services sector.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47985/sbi-holdings-invests-in-agent-orchestration-platform-pints-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "sbi holdings",
-        "pints ai",
-        "japanese"
       ]
     }
   ]
