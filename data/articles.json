@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-02T10:12:20Z",
+  "last_updated": "2026-07-02T20:21:45Z",
   "insights": {
     "risks": [
-      "Trading risk: Pico and LDA Technologies partner on high-fidelity data for real-time AI and trading workflows — assess algorithmic exposure.",
-      "Operational: OCBC adds AI-powered financial advisor avatars to app — evaluate model governance gaps."
+      "Trading risk: How AI in Wealth Management Turns the Portfolio into a Commodity — assess algorithmic exposure.",
+      "Operational: JP Morgan's AI head to depart after 4 decades — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: SoFi buys AI-based investing startup Composer — potential infrastructure advantage.",
-      "Banking efficiency: OCBC adds AI-powered financial advisor avatars to app — cost reduction opportunity."
+      "Payments: From Cost Centers to Profit Drivers: How Automation and Fintech Are Scaling Pharma Manufacturing — potential infrastructure advantage.",
+      "Banking efficiency: JP Morgan's AI head to depart after 4 decades — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 8
     },
     {
       "topic": "Regulatory AI",
@@ -28,15 +28,131 @@
       "count": 2
     },
     {
-      "topic": "Fraud Detection",
+      "topic": "Payments AI",
       "count": 1
     },
     {
-      "topic": "Robo-Advisory",
+      "topic": "Stablecoin AI",
+      "count": 1
+    },
+    {
+      "topic": "Fraud Detection",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "359191059",
+      "title": "JP Morgan's AI head to depart after 4 decades",
+      "summary": "Teresa Heitsenrether, chief data and analytics officer at JP Morgan Chase, is set to leave the bank after a career spanning four decades",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48028/jp-morgans-ai-head-to-depart-after-4-decades?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "jp morgan",
+        "ai",
+        "teresa heitsenrether"
+      ]
+    },
+    {
+      "id": "618626307",
+      "title": "WealthAi and Flanks team up to solve wealth management's costly data problem",
+      "summary": "WealthAi, the AI operating system for wealth managers, has partnered with Flanks, the AI wealth data infrastructure, to bring institution-grade data from more than 650 institutions worldwide directly into the WealthAi platform.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110330/wealthai-and-flanks-team-up-to-solve-wealth-managements-costly-data-problem?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "wealthai",
+        "flanks",
+        "ai"
+      ]
+    },
+    {
+      "id": "250626738",
+      "title": "From Cost Centers to Profit Drivers: How Automation and Fintech Are Scaling Pharma Manufacturing",
+      "summary": "For years, pharmaceutical manufacturing was viewed primarily as a cost-heavy operational function. C...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32169/from-cost-centers-to-profit-drivers-how-automation-and-fintech-are-scaling-pharma-manufacturing?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-02",
+      "category": "Payments",
+      "tags": [
+        "from cost",
+        "centers",
+        "profit drivers"
+      ]
+    },
+    {
+      "id": "267033358",
+      "title": "AI will not replace Bankers. It will expose weak Operating Models.",
+      "summary": "Artificial Intelligence has quickly become the defining topic in banking boardrooms. Institutions ac...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32166/ai-will-not-replace-bankers-it-will-expose-weak-operating-models?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "bankers",
+        "it"
+      ]
+    },
+    {
+      "id": "119576423",
+      "title": "Mosta Launches MainUSD to Fuse Autonomous AI Agent Workflows with Global Cross-Border Settlement Rails",
+      "summary": "Mosta has launched MainUSD, a USD stablecoin issued by Brale, enabling low-cost, multi-chain settlement for global business payments and AI-driven commerce. The post Mosta Launches MainUSD to Fuse Autonomous AI Agent Workflows with Global Cross-Border Settlement Rails appeared fi…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/mosta-launches-mainusd-to-fuse-autonomous-ai-agent-workflows-with-global-cross-border-settlement-rails/",
+      "date": "2026-07-02",
+      "category": "Payments",
+      "tags": [
+        "mosta launches",
+        "mainusd",
+        "fuse autonomous"
+      ]
+    },
+    {
+      "id": "848269734",
+      "title": "SpaceX Built the Network an AI Device Needs. Now What?",
+      "summary": "SpaceX controls a satellite broadband network, a direct-to-cell service and an AI company. What it doesn’t have is a consumer device that connects all three. That gap is what makes the question worth asking. The Wall Street Journal reported Wednesday (July 1) that SpaceX showed i…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-built-the-network-an-ai-device-needs-now-what/",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "spacex built",
+        "network",
+        "ai device"
+      ]
+    },
+    {
+      "id": "927408674",
+      "title": "Jeff Bezos’ Family Office Accelerates AI Bets",
+      "summary": "Jeff Bezos’ family office, Bezos Expeditions, made five direct investments in artificial intelligence startups in June, CNBC reported Thursday (July 2), citing exclusive data provided by private wealth intelligence platform Fintrx. The startups include Prometheus, which aims to u…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jeff-bezos-family-office-accelerates-ai-bets/",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "jeff bezos",
+        "family office",
+        "accelerates ai"
+      ]
+    },
+    {
+      "id": "768753916",
+      "title": "Qualcomm Announces 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC",
+      "summary": "San Diego, June 22, 2026 — Qualcomm Technologies, Inc. announced the 15 shortlisted startups selected to advance in the Qualcomm® AI Program for Innovators (QAIPI) 2026, recognising startups developing next-generation AI solutions across industries. Representing Japan, Singapore,…",
+      "source": "e27",
+      "url": "https://e27.co/qualcomm-announces-15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac-20260702/",
+      "date": "2026-07-02",
+      "category": "Banking",
+      "tags": [
+        "qualcomm announces",
+        "startups selected",
+        "qualcomm ai"
+      ]
+    },
     {
       "id": "53210273",
       "title": "OCBC adds AI-powered financial advisor avatars to app",
@@ -90,6 +206,20 @@
         "linqalpha",
         "us",
         "ai"
+      ]
+    },
+    {
+      "id": "648564392",
+      "title": "How AI in Wealth Management Turns the Portfolio into a Commodity",
+      "summary": "Anthony Villis of First Wealth explains why AI could make human judgement, trust and emotional intelligence more valuable in financial planning. The post How AI in Wealth Management Turns the Portfolio into a Commodity appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/how-ai-in-wealth-management-turns-the-portfolio-into-a-commodity/",
+      "date": "2026-07-01",
+      "category": "Trading",
+      "tags": [
+        "how ai",
+        "wealth management",
+        "turns"
       ]
     },
     {
@@ -744,130 +874,6 @@
       "tags": [
         "google finance",
         "google",
-        "ai"
-      ]
-    },
-    {
-      "id": "735870802",
-      "title": "Smarsh collaborates with AWS to deliver compliant AI adoption in regulated industries",
-      "summary": "Today, Smarsh, a global leader in digital communications compliance and intelligence, announced breakthrough results from its strategic collaboration agreement (SCA) with Amazon Web Services (AWS), delivering a new standard for compliant AI adoption in regulated industries.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110256/smarsh-collaborates-with-aws-to-deliver-compliant-ai-adoption-in-regulated-industries?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-26",
-      "category": "RegTech",
-      "tags": [
-        "smarsh",
-        "aws",
-        "ai"
-      ]
-    },
-    {
-      "id": "801830843",
-      "title": "Firms Discover AI’s Limit Is Infrastructure",
-      "summary": "Watch more: What’s Next in Payments With Maverick Payments’ Ben Griefer As artificial intelligence (AI) reshapes nearly every corner of financial services, the payments industry is confronting a question that extends beyond technology: Is AI primarily a tool for cutting costs, or…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/payments-innovation/2026/firms-discover-ais-limit-is-infrastructure/",
-      "date": "2026-06-26",
-      "category": "Banking",
-      "tags": [
-        "firms discover",
-        "ai",
-        "limit is"
-      ]
-    },
-    {
-      "id": "861974462",
-      "title": "70% of Consumers Pick Retailers Based on Payment Options",
-      "summary": "Only about 20% of businesses appear ready for the next phase of shopping, where AI agents may help consumers find, compare and buy products before they ever visit a merchant’s site. That gap sits at the center of “The Next-Gen Commerce Playbook: Turning Checkout Into a Compoundin…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/checkout-conversion/2026/70-percent-of-consumers-pick-retailers-based-on-payment-options/",
-      "date": "2026-06-26",
-      "category": "Payments",
-      "tags": [
-        "consumers pick",
-        "retailers based",
-        "payment options"
-      ]
-    },
-    {
-      "id": "250608432",
-      "title": "OpenAI Weighs Delay of IPO as Tech Stock Volatility Rattles Advisers",
-      "summary": "OpenAI is considering delaying its initial public offering until 2027 due to recent volatility in tech stocks, Bloomberg reported Thursday (June 25), citing a paywalled article by The New York Times. The artificial intelligence startup’s advisers have told it that this volatility…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/openai-weighs-delay-of-ipo-as-tech-stock-volatility-rattles-advisers/",
-      "date": "2026-06-26",
-      "category": "Trading",
-      "tags": [
-        "openai weighs",
-        "delay",
-        "ipo"
-      ]
-    },
-    {
-      "id": "837365375",
-      "title": "Stripe, Banks Tell Congress Payment Rules No Longer Fit Modern Commerce",
-      "summary": "Lawmakers spent much of Wednesday wrestling with a question that reaches well beyond faster payments: whether a regulatory framework built for deposit-taking banks can continue to govern a financial system in which software platforms, digital assets and artificial intelligence ar…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/legal/2026/stripe-banks-tell-congress-payment-rules-no-longer-fit-modern-commerce/",
-      "date": "2026-06-26",
-      "category": "Payments",
-      "tags": [
-        "stripe",
-        "banks tell",
-        "congress payment"
-      ]
-    },
-    {
-      "id": "806144404",
-      "title": "Maybank is deploying AI-powered advisory tools to strengthen its wealth management capabilities.",
-      "summary": "Maybank is deploying AI-powered advisory tools to strengthen its wealth management capabilities.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/wealth-management/news/maybank-arms-relationship-managers-new-ai-advisory-tools",
-      "date": "2026-06-26",
-      "category": "Banking",
-      "tags": [
-        "maybank",
-        "ai"
-      ]
-    },
-    {
-      "id": "676002110",
-      "title": "Arca raises $64m for AI-native wealth management",
-      "summary": "Arca, an AI-native wealth management startup promising to humanise the sector in the age of robo-advisors, has emerged from stealth with $64 million in funding.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47995/arca-raises-64m-for-ai-native-wealth-management?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "arca",
-        "ai"
-      ]
-    },
-    {
-      "id": "518233075",
-      "title": "Goldman Sachs leads $110 million round in financial AI firm Taktile",
-      "summary": "Goldman Sachs has led a $110 million Series C fundraising round for financial services specific AI firm Taktile.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/47992/goldman-sachs-leads-110-million-round-in-financial-ai-firm-taktile?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "goldman sachs",
-        "ai",
-        "taktile goldman"
-      ]
-    },
-    {
-      "id": "325550836",
-      "title": "Jack Henry partner Google Cloud for AI-driven security",
-      "summary": "Jack Henry (Nasdaq: JKHY) and Google Cloud today announced an expanded collaboration to deliver AI-driven security capabilities for banks and credit unions. Building on their strategic relationship established in 2022, Jack Henry will use Google Cloud's suite of agentic defense p…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110254/jack-henry-partner-google-cloud-for-ai-driven-security?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-25",
-      "category": "Banking",
-      "tags": [
-        "jack henry",
-        "google cloud",
         "ai"
       ]
     }
