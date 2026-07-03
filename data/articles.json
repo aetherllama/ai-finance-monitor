@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-03T10:08:12Z",
+  "last_updated": "2026-07-03T20:17:38Z",
   "insights": {
     "risks": [
-      "Regulatory: The Monetary Authority of Singapore (MAS) is proposing an industry-developed framework for the use of artificial intelligence (AI) agents in financial services. — review compliance obligations.",
-      "Operational: MDOTM raises $27m for AI investment platform — evaluate model governance gaps."
+      "Regulatory: Monetary Authority of Singapore and banks team on safeguards for AI agents — review compliance obligations.",
+      "Operational: Starling to axe 130 jobs as part of automation drive — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Changing travel habits across Southeast Asia are creating new opportunities for banks and payment providers, with customer segmentation, experience-led spending, and AI emerging as the key themes shaping the market, according to Euromonitor International. — potential infrastructure advantage.",
-      "Banking efficiency: MDOTM raises $27m for AI investment platform — cost reduction opportunity.",
+      "Banking efficiency: Starling to axe 130 jobs as part of automation drive — cost reduction opportunity.",
       "InsurTech: Insurers are beginning to use agentic artificial intelligence to automate underwriting, document verification, and customer servicing, but human oversight remains necessary for decisions that carry financial and regulatory risk. — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -42,6 +42,61 @@
     }
   ],
   "articles": [
+    {
+      "id": "856029996",
+      "title": "Starling to axe 130 jobs as part of automation drive",
+      "summary": "UK challenger bank Starling has announced plans to cut more than 100 jobs as part of an efficiency drive.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48039/starling-to-axe-130-jobs-as-part-of-automation-drive?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-03",
+      "category": "Banking",
+      "tags": [
+        "starling",
+        "uk"
+      ]
+    },
+    {
+      "id": "649089760",
+      "title": "Monetary Authority of Singapore and banks team on safeguards for AI agents",
+      "summary": "The Monetary Authority of Singapore (MAS), together with leading financial institutions and FinTechs, today published an industry white paper on developing safeguards for AI agents in Finance.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110344/monetary-authority-of-singapore-and-banks-team-on-safeguards-for-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-03",
+      "category": "RegTech",
+      "tags": [
+        "monetary authority",
+        "singapore",
+        "ai"
+      ]
+    },
+    {
+      "id": "314341503",
+      "title": "geoSurge Raises $12 Million to Help Brands Secure AI Visibility",
+      "summary": "geoSurge raised $12 million in a seed round to help brands shape how they are seen in generative artificial intelligence systems such as ChatGPT, Gemini and Claude. The company was founded just over a year ago and now supports customers across four continents and multiple industr…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/geosurge-raises-12-million-to-help-brands-secure-ai-visibility/",
+      "date": "2026-07-03",
+      "category": "Banking",
+      "tags": [
+        "raises",
+        "million",
+        "help brands"
+      ]
+    },
+    {
+      "id": "797522488",
+      "title": "Starling Bank Cuts 130 Jobs Amid AI Adoption and Restructuring",
+      "summary": "Starling Bank plans to cut about 130 jobs as it automates roles and restructures its banking and technology operations to eliminate duplicate roles, the Financial Times reported Friday (July 3). The company said in the report that it completed some major projects and began using …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/starling-bank-cuts-130-jobs-amid-ai-adoption-and-restructuring/",
+      "date": "2026-07-03",
+      "category": "Banking",
+      "tags": [
+        "starling bank",
+        "cuts",
+        "jobs amid"
+      ]
+    },
     {
       "id": "655542694",
       "title": "MDOTM raises $27m for AI investment platform",
@@ -818,62 +873,6 @@
         "the practical",
         "ai opportunity",
         "why smbs"
-      ]
-    },
-    {
-      "id": "976433158",
-      "title": "Thailand-founded Amity sets up Singapore AI hub, eyes 2027 IPO",
-      "summary": "Thailand-founded enterprise AI company Amity has opened a Singapore office and AI Research Application Center (ARAC), placing the city-state at the centre of its regional expansion, product development, and planned path to a public listing in 2027. The move follows Amity’s US$100…",
-      "source": "e27",
-      "url": "https://e27.co/thailand-founded-amity-sets-up-singapore-ai-hub-eyes-2027-ipo-20260629/",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "thailand",
-        "amity",
-        "singapore ai"
-      ]
-    },
-    {
-      "id": "655940447",
-      "title": "AI ‘exuberance’ risks ending in lengthy investment bust, BIS warns",
-      "summary": "Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
-      "date": "2026-06-28",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "bis",
-        "weak"
-      ]
-    },
-    {
-      "id": "772695991",
-      "title": "Oxyfinz Unveils Free Software Initiative to Bridge the UAE Wealth Management Technology Gap",
-      "summary": "Oxyfinz has launched a new initiative to help independent wealth managers and boutique firms in the UAE scale operations, offering free access to institutional-grade portfolio automation tools for firms operating in the Dubai International Financial Centre and Abu Dhabi Global Ma…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/oxyfinz-unveils-free-software-initiative-to-bridge-the-uae-wealth-management-technology-gap/",
-      "date": "2026-06-27",
-      "category": "Trading",
-      "tags": [
-        "oxyfinz unveils",
-        "free software",
-        "initiative"
-      ]
-    },
-    {
-      "id": "725611177",
-      "title": "Wedbush Says Missing ROI Metrics Threaten Further Enterprise AI Deployment",
-      "summary": "Many enterprises have not developed a way to determine whether they have gained a good return on investment on the artificial intelligence (AI) tools they have deployed, Wedbush Securities analysts said, according to a Friday (June 26) report by Seeking Alpha. That is perhaps the…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/wedbush-says-missing-roi-metrics-threaten-further-enterprise-ai-deployment/",
-      "date": "2026-06-27",
-      "category": "Banking",
-      "tags": [
-        "wedbush says",
-        "missing roi",
-        "metrics threaten"
       ]
     }
   ]
