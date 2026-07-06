@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-05T20:17:41Z",
+  "last_updated": "2026-07-06T11:40:08Z",
   "insights": {
     "risks": [
       "Regulatory: Monetary Authority of Singapore and banks team on safeguards for AI agents — review compliance obligations.",
-      "Operational: Starling to axe 130 jobs as part of automation drive — evaluate model governance gaps."
+      "Operational: From Digital-First to AI-First: The Shift Banks Can No Longer Defer — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Changing travel habits across Southeast Asia are creating new opportunities for banks and payment providers, with customer segmentation, experience-led spending, and AI emerging as the key themes shaping the market, according to Euromonitor International. — potential infrastructure advantage.",
-      "Banking efficiency: Starling to axe 130 jobs as part of automation drive — cost reduction opportunity.",
+      "Banking efficiency: From Digital-First to AI-First: The Shift Banks Can No Longer Defer — cost reduction opportunity.",
       "InsurTech: Insurers are beginning to use agentic artificial intelligence to automate underwriting, document verification, and customer servicing, but human oversight remains necessary for decisions that carry financial and regulatory risk. — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Regulatory AI",
@@ -35,13 +35,37 @@
     {
       "topic": "Fraud Detection",
       "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "947897179",
+      "title": "From Digital-First to AI-First: The Shift Banks Can No Longer Defer",
+      "summary": "For more than two decades, banking technology has been shaped by one ambition: make execution faster...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32192/from-digital-first-to-ai-first-the-shift-banks-can-no-longer-defer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-06",
+      "category": "Banking",
+      "tags": [
+        "from digital",
+        "first",
+        "ai"
+      ]
+    },
+    {
+      "id": "616335126",
+      "title": "When AI agents start acting on our behalf, security gets more complicated",
+      "summary": "For many Southeast Asian businesses, the promise of AI agents is easy to understand. A bank wants to resolve customer issues faster. A hospital wants to reduce administrative load. An e-commerce platform wants to automate repetitive inquiries from sellers. A logistics company wan…",
+      "source": "e27",
+      "url": "https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/",
+      "date": "2026-07-06",
+      "category": "Banking",
+      "tags": [
+        "when ai",
+        "southeast asian",
+        "ai"
+      ]
+    },
     {
       "id": "856029996",
       "title": "Starling to axe 130 jobs as part of automation drive",
@@ -845,34 +869,6 @@
         "shield",
         "ai",
         "communication risk"
-      ]
-    },
-    {
-      "id": "122214459",
-      "title": "Quantifind raises $200m for AI-powered risk management",
-      "summary": "Quantifind, the leader in AI-native Risk Intelligence for modern financial crime and national security operations, today announced a $200 million growth investment led by Summit Partners, with participation from existing investors Citi Ventures, S&P Global, Deloitte, and Stephens…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110259/quantifind-raises-200m-for-ai-powered-risk-management?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "quantifind",
-        "ai",
-        "risk intelligence"
-      ]
-    },
-    {
-      "id": "447925090",
-      "title": "The Practical AI Opportunity: Why SMBs Want Guidance Before Automation",
-      "summary": "Artificial intelligence (AI) has rapidly moved from experimental technology to business necessity. Yet for many small to mid-sized businesses (SMBs), the most valuable AI applications are not futuristic autonomous agents or complex automation tools. Instead, they are practical so…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/tracker_posts/the-practical-ai-opportunity-why-smbs-want-guidance-before-automation/",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "the practical",
-        "ai opportunity",
-        "why smbs"
       ]
     }
   ]
