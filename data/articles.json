@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-06T11:40:08Z",
+  "last_updated": "2026-07-06T20:54:08Z",
   "insights": {
     "risks": [
       "Regulatory: Monetary Authority of Singapore and banks team on safeguards for AI agents — review compliance obligations.",
-      "Operational: From Digital-First to AI-First: The Shift Banks Can No Longer Defer — evaluate model governance gaps."
+      "Operational: An AI Trained on Wall Street’s Own Data Just Beat GPT — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Changing travel habits across Southeast Asia are creating new opportunities for banks and payment providers, with customer segmentation, experience-led spending, and AI emerging as the key themes shaping the market, according to Euromonitor International. — potential infrastructure advantage.",
-      "Banking efficiency: From Digital-First to AI-First: The Shift Banks Can No Longer Defer — cost reduction opportunity.",
+      "Banking efficiency: An AI Trained on Wall Street’s Own Data Just Beat GPT — cost reduction opportunity.",
       "InsurTech: Insurers are beginning to use agentic artificial intelligence to automate underwriting, document verification, and customer servicing, but human oversight remains necessary for decisions that carry financial and regulatory risk. — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -38,6 +38,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "35914817",
+      "title": "An AI Trained on Wall Street’s Own Data Just Beat GPT",
+      "summary": "General-purpose AI models have been trained on enormous volumes of public financial data. What they cannot replicate is the judgment an experienced investment analyst builds over years — which signals matter, which documents are worth reading and how to separate the relevant from…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/an-ai-trained-on-wall-streets-own-data-just-beat-gpt/",
+      "date": "2026-07-06",
+      "category": "Banking",
+      "tags": [
+        "an ai",
+        "trained",
+        "wall street"
+      ]
+    },
     {
       "id": "947897179",
       "title": "From Digital-First to AI-First: The Shift Banks Can No Longer Defer",
@@ -855,20 +869,6 @@
         "your ai",
         "who",
         "most"
-      ]
-    },
-    {
-      "id": "483782041",
-      "title": "Shield extends agentic AI comms surveillance tool",
-      "summary": "Shield, the global Communication Risk Management platform for financial services, today added two new AI agents to AmplifAI, its agentic suite for digital communications surveillance and investigations.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110260/shield-extends-agentic-ai-comms-surveillance-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "shield",
-        "ai",
-        "communication risk"
       ]
     }
   ]
