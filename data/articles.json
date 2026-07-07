@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-07T10:28:18Z",
+  "last_updated": "2026-07-07T20:51:16Z",
   "insights": {
     "risks": [
-      "Regulatory: Monetary Authority of Singapore and banks team on safeguards for AI agents — review compliance obligations.",
+      "Regulatory: ThetaRay hires Santander compliance chief Luis Pinedo — review compliance obligations.",
       "Trading risk: SpaceX wins bullish recommendations from Wall Street banks — assess algorithmic exposure.",
-      "Operational: AI Gives Every Purchase Its Own Credit Decision — evaluate model governance gaps."
+      "Operational: ECB tells banks to submit plans to address AI cyber threats — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: AI Gives Every Purchase Its Own Credit Decision — cost reduction opportunity.",
-      "InsurTech: Insurers are beginning to use agentic artificial intelligence to automate underwriting, document verification, and customer servicing, but human oversight remains necessary for decisions that carry financial and regulatory risk. — underwriting modernisation potential."
+      "Payments: Melio Launches Agentic B2B Payment Network for US SMBs — potential infrastructure advantage.",
+      "Banking efficiency: ECB tells banks to submit plans to address AI cyber threats — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 4
     },
     {
       "topic": "Regulatory AI",
@@ -38,6 +38,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "105695110",
+      "title": "ECB tells banks to submit plans to address AI cyber threats",
+      "summary": "The European Central Bank has told banks to draw up action plans to address AI-enabled cyber threats, warning that emerging models such as Anthropic's Mythos have \"potentially profound implications\" for the resilience of IT system.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48049/ecb-tells-banks-to-submit-plans-to-address-ai-cyber-threats?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-07",
+      "category": "Banking",
+      "tags": [
+        "ecb",
+        "ai",
+        "the european"
+      ]
+    },
+    {
+      "id": "558457535",
+      "title": "ThetaRay hires Santander compliance chief Luis Pinedo",
+      "summary": "ThetaRay, a leader in AI infrastructure for financial crime compliance, today announced the appointment of Luis Pinedo as Chief Strategic Customers Officer.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110358/thetaray-hires-santander-compliance-chief-luis-pinedo?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-07",
+      "category": "RegTech",
+      "tags": [
+        "thetaray",
+        "santander",
+        "luis pinedo"
+      ]
+    },
+    {
+      "id": "625590355",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, wit…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "date": "2026-07-07",
+      "category": "Banking",
+      "tags": [
+        "the download",
+        "openai",
+        "treasury"
+      ]
+    },
+    {
+      "id": "736768157",
+      "title": "Melio Launches Agentic B2B Payment Network for US SMBs",
+      "summary": "The Xero-owned AP platform says its AI agents can pay suppliers directly through their AR systems, removing the need for supplier onboarding. The post Melio Launches Agentic B2B Payment Network for US SMBs appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/melio-launches-agentic-b2b-payment-network-for-us-smbs/",
+      "date": "2026-07-07",
+      "category": "Payments",
+      "tags": [
+        "melio launches",
+        "agentic",
+        "payment network"
+      ]
+    },
     {
       "id": "608329876",
       "title": "SpaceX wins bullish recommendations from Wall Street banks",
@@ -813,62 +869,6 @@
         "ai",
         "federato",
         "apac federato"
-      ]
-    },
-    {
-      "id": "757090958",
-      "title": "The Missing Link in Agentic Commerce and the Threat of AI Merchant Impersonation",
-      "summary": "As agentic commerce grows, the payments industry faces a new security challenge: while AI buyer authentication has advanced, weaker merchant verification leaves payment networks vulnerable to AI-driven impersonation fraud and scam websites. The post The Missing Link in Agentic Co…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-missing-link-in-agentic-commerce-and-the-threat-of-ai-merchant-impersonation/",
-      "date": "2026-06-30",
-      "category": "Payments",
-      "tags": [
-        "the missing",
-        "link",
-        "agentic commerce"
-      ]
-    },
-    {
-      "id": "487006045",
-      "title": "German-listed DDB acquires Singapore’s Infinium Robotics in US$24M share deal",
-      "summary": "Singapore-founded Infinium Robotics has been acquired by German-listed Deutsche Defence Beteiligungen (DDB) in a share-based transaction valued at up to about US$24 million, giving the autonomous warehouse drone company a public-market platform in Europe as demand for industrial …",
-      "source": "e27",
-      "url": "https://e27.co/german-listed-ddb-acquires-singapores-infinium-robotics-in-us24m-share-deal-20260630/",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "german",
-        "ddb",
-        "singapore"
-      ]
-    },
-    {
-      "id": "703340268",
-      "title": "Akro AI raises US$700K in pre-seed to automate data workflows in regulated industries",
-      "summary": "Akro AI, a Singapore-based AI startup, has raised a US$700,000 pre-seed funding round led by Amigos Venture Capital. The round also included participation from strategic angel investors across financial services, healthcare, and consumer tech. Akro AI builds automation tools for …",
-      "source": "e27",
-      "url": "https://e27.co/akro-ai-raises-us700k-in-pre-seed-to-automate-data-workflows-in-regulated-industries-20260630/",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "akro ai",
-        "us",
-        "singapore"
-      ]
-    },
-    {
-      "id": "166053662",
-      "title": "Why one AI workshop won’t transform your organisation",
-      "summary": "Most organisations that say they are investing in AI are actually investing in awareness. There is a difference, and it matters more than many leaders realise. Across workplaces today, AI adoption is accelerating. Employees are experimenting with chatbots, attending workshops and…",
-      "source": "e27",
-      "url": "https://e27.co/why-one-ai-workshop-wont-transform-your-organisation-20260623/",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "why",
-        "ai",
-        "most"
       ]
     }
   ]
