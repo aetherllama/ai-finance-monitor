@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-07-06T20:54:08Z",
+  "last_updated": "2026-07-07T10:28:18Z",
   "insights": {
     "risks": [
       "Regulatory: Monetary Authority of Singapore and banks team on safeguards for AI agents — review compliance obligations.",
-      "Operational: An AI Trained on Wall Street’s Own Data Just Beat GPT — evaluate model governance gaps."
+      "Trading risk: SpaceX wins bullish recommendations from Wall Street banks — assess algorithmic exposure.",
+      "Operational: AI Gives Every Purchase Its Own Credit Decision — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Changing travel habits across Southeast Asia are creating new opportunities for banks and payment providers, with customer segmentation, experience-led spending, and AI emerging as the key themes shaping the market, according to Euromonitor International. — potential infrastructure advantage.",
-      "Banking efficiency: An AI Trained on Wall Street’s Own Data Just Beat GPT — cost reduction opportunity.",
+      "Banking efficiency: AI Gives Every Purchase Its Own Credit Decision — cost reduction opportunity.",
       "InsurTech: Insurers are beginning to use agentic artificial intelligence to automate underwriting, document verification, and customer servicing, but human oversight remains necessary for decisions that carry financial and regulatory risk. — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Regulatory AI",
@@ -38,6 +38,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "608329876",
+      "title": "SpaceX wins bullish recommendations from Wall Street banks",
+      "summary": "Morgan Stanley gives Musk’s AI and rocket stock $300 price target as quiet period ends following record IPO",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ea0a1a37-75a0-4658-93c1-d58bccaacf2b",
+      "date": "2026-07-07",
+      "category": "Trading",
+      "tags": [
+        "spacex",
+        "wall street",
+        "morgan stanley"
+      ]
+    },
+    {
+      "id": "852791116",
+      "title": "AI Gives Every Purchase Its Own Credit Decision",
+      "summary": "For most of the history of financial services, credit functioned as a blunt instrument. A bank extended a line, a customer drew on it and borrowing remained separate from spending. The amount borrowed determined the terms, while what customers actually purchased was irrelevant. T…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-gives-every-purchase-its-own-credit-decision/",
+      "date": "2026-07-07",
+      "category": "Banking",
+      "tags": [
+        "ai gives",
+        "every purchase",
+        "its own"
+      ]
+    },
+    {
+      "id": "160775143",
+      "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
+      "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s 2026 Data Streaming Report found that 78 per …",
+      "source": "e27",
+      "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
+      "date": "2026-07-07",
+      "category": "Banking",
+      "tags": [
+        "agentic ai",
+        "singapore",
+        "ai"
+      ]
+    },
+    {
+      "id": "733514443",
+      "title": "FCA’s AI review points to Regulatory Intelligence as next competitive advantage",
+      "summary": "Today’s Mills Review on AI in retail financial services reveals that the industry's primary challeng...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32198/fcas-ai-review-points-to-regulatory-intelligence-as-next-competitive-advantage?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-06",
+      "category": "Banking",
+      "tags": [
+        "fca",
+        "ai",
+        "regulatory intelligence"
+      ]
+    },
     {
       "id": "35914817",
       "title": "An AI Trained on Wall Street’s Own Data Just Beat GPT",
@@ -812,62 +868,6 @@
       "tags": [
         "why",
         "ai",
-        "most"
-      ]
-    },
-    {
-      "id": "77152019",
-      "title": "Personetics embeds AI into Fiserv Experience Digital",
-      "summary": "As consumers and small businesses increasingly expect digital banking experiences that are more relevant, timely, and intuitive, Personetics, the Cognitive Banking platform, today announced that Personetics’ AI-driven platform is now embedded within Experience Digital (XD) from F…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110271/personetics-embeds-ai-into-fiserv-experience-digital?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "personetics",
-        "ai",
-        "fiserv experience"
-      ]
-    },
-    {
-      "id": "402314349",
-      "title": "From 75% to 90%: Why Risk Automation Is Now the Real Frontier for Insurance AI",
-      "summary": "For the past many years, insurance AI has had one clear job, and that is to create claims at a faste...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32131/from-75-to-90-why-risk-automation-is-now-the-real-frontier-for-insurance-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "from",
-        "why risk",
-        "automation is"
-      ]
-    },
-    {
-      "id": "345062702",
-      "title": "AI can do the junior work, so who becomes the next CFO?",
-      "summary": "There's a lot of discussion right now about how AI can ease the load on finance and payroll teams, w...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32130/ai-can-do-the-junior-work-so-who-becomes-the-next-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "cfo",
-        "there"
-      ]
-    },
-    {
-      "id": "235806593",
-      "title": "Your AI opens a bank account for you. Who goes to jail if it lies?",
-      "summary": "Most people still view artificial intelligence through the lens of a chat box. We tend to think of A...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32129/your-ai-opens-a-bank-account-for-you-who-goes-to-jail-if-it-lies?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-29",
-      "category": "Banking",
-      "tags": [
-        "your ai",
-        "who",
         "most"
       ]
     }
