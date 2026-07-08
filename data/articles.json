@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-08T09:28:24Z",
+  "last_updated": "2026-07-08T20:23:37Z",
   "insights": {
     "risks": [
       "Regulatory: AI Automation for Tax Compliance: A Governance-First Framework for the Intelligent Tax Function — review compliance obligations.",
-      "Trading risk: SpaceX wins bullish recommendations from Wall Street banks — assess algorithmic exposure.",
-      "Operational: Singapore’s Temasek doubles down on AI and private credit — evaluate model governance gaps."
+      "Trading risk: BNB Chain is building a new layer-1 for high-frequency trading and AI agents — assess algorithmic exposure.",
+      "Operational: SBS embeds AI into core banking platform — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: 42% of Issuers Say AI Has Cut Fraud Losses by at Least $5 Million — potential infrastructure advantage.",
-      "Banking efficiency: Singapore’s Temasek doubles down on AI and private credit — cost reduction opportunity."
+      "Payments: AI in Banking: What is Myth and What is Reality? — potential infrastructure advantage.",
+      "Banking efficiency: SBS embeds AI into core banking platform — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Automation",
@@ -38,6 +38,103 @@
     }
   ],
   "articles": [
+    {
+      "id": "97607421",
+      "title": "SBS embeds AI into core banking platform",
+      "summary": "SBS, the global financial technology company that more than 1,500 financial institutions rely on to digitally transform the way they operate, is launching SBS AI Foundation, embedding enterprise AI directly into the core banking, lending, and digital banking products its clients …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110374/sbs-embeds-ai-into-core-banking-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "sbs",
+        "ai",
+        "sbs ai"
+      ]
+    },
+    {
+      "id": "850948488",
+      "title": "Profile releases AI orchestration platform for banks",
+      "summary": "Profile (ATH: PROF), a global financial technology leader with a presence in more than 50 countries, today announced the launch of ProfileOne, an enterprise-grade agentic AI orchestration platform designed to help financial institutions move from insight to controlled execution a…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110372/profile-releases-ai-orchestration-platform-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "profile",
+        "ai",
+        "ath"
+      ]
+    },
+    {
+      "id": "687127127",
+      "title": "AI in Banking: What is Myth and What is Reality?",
+      "summary": "At EBAday in Copenhagen, Tapan Agarwal, Head of Payments Solutions and Krishnan Srinivasan (KS), President and Region Head, Europe and CIS Markets, Intellect Design Arena, discussed the myths and truths surrounding AI with FinextraTV. KS began by listing the many ways he has expe…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3544/ai-in-banking-what-is-myth-and-what-is-reality?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-08",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "banking",
+        "what"
+      ]
+    },
+    {
+      "id": "19560893",
+      "title": "BNB Chain is building a new layer-1 for high-frequency trading and AI agents",
+      "summary": "The network aims to process over 100,000 transactions per second by streaming them directly, eliminating public queues to make trades faster and more secure.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/web3/2026/07/08/bnb-chain-is-building-a-new-layer-1-for-high-frequency-trading-and-ai-agents",
+      "date": "2026-07-08",
+      "category": "Trading",
+      "tags": [
+        "bnb chain",
+        "ai"
+      ]
+    },
+    {
+      "id": "213081902",
+      "title": "State Farm’s AI Overhaul Gets Low Marks From Customers",
+      "summary": "State Farm customers and agents are reportedly unhappy with the insurer’s AI facelift. Last month, The Wall Street Journal (WSJ) revealed State Farm’s plans for a company-wide artificial intelligence (AI) overhaul. The news outlet reported Wednesday (July 8) on the public respons…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/state-farms-ai-overhaul-gets-low-marks-from-customers/",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "state farm",
+        "ai overhaul",
+        "gets low"
+      ]
+    },
+    {
+      "id": "634517338",
+      "title": "Nobody Licensed AI to Give Financial Advice",
+      "summary": "Financial regulation was built around a specific relationship: a licensed adviser who owes the client a duty of care, carries professional indemnity insurance and answers to a regulator if something goes wrong. General-purpose artificial intelligence (AI) models carry none of tho…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nobody-licensed-ai-to-give-financial-advice/",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "nobody licensed",
+        "ai",
+        "give financial"
+      ]
+    },
+    {
+      "id": "99448062",
+      "title": "OpenAI Lands $520 Million Line of Credit From Bank of America",
+      "summary": "Bank of America has reportedly given OpenAI a $520 million line of credit ahead of its planned IPO. That’s according to a report Wednesday (July 8) by Reuters, citing a source with knowledge of the matter. According to Reuters, the loan makes Bank of America one of OpenAI’s bigge…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-lands-520-million-line-of-credit-from-bank-of-america/",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "openai lands",
+        "million line",
+        "credit from"
+      ]
+    },
     {
       "id": "694094531",
       "title": "Singapore’s Temasek doubles down on AI and private credit",
@@ -772,104 +869,6 @@
         "google cloud",
         "pursues financial",
         "markets"
-      ]
-    },
-    {
-      "id": "42869653",
-      "title": "Singapore’s Acti raises US$5.3M to turn the keyboard into an AI agent layer",
-      "summary": "Singapore-based Acti has secured US$5.3 million in seed funding to build what it calls an “agentic keyboard”, a product that aims to move AI assistance away from standalone chat apps and into the interface people use across almost every digital interaction. The round was led by U…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-acti-raises-us5-3m-to-turn-the-keyboard-into-an-ai-agent-layer-20260701/",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "acti",
-        "us"
-      ]
-    },
-    {
-      "id": "10199144",
-      "title": "\"The humans are here to stay,\" says DBS's Wilfred Quek. AI is cutting wealth prep from hours to minutes—freeing advisers to serve more clients with the same personal touch, at scale.",
-      "summary": "\"The humans are here to stay,\" says DBS's Wilfred Quek. AI is cutting wealth prep from hours to minutes—freeing advisers to serve more clients with the same personal touch, at scale.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/event-news/ai-shifting-how-wealth-management-solutions-are-built-and-delivered-scale",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "dbs",
-        "wilfred quek",
-        "ai"
-      ]
-    },
-    {
-      "id": "367155752",
-      "title": "Asia's insurance industry is rethinking how it defines customer value as ageing populations, widening protection gaps and advances in AI force insurers to move beyond selling policies, panellists said at the Asian Banking & Finance and Insurance Asia Summit today.",
-      "summary": "Asia's insurance industry is rethinking how it defines customer value as ageing populations, widening protection gaps and advances in AI force insurers to move beyond selling policies, panellists said at the Asian Banking & Finance and Insurance Asia Summit today.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/insurance/event-news/asia-insurers-risk-irrelevance-protection-gaps-widen",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "asia",
-        "ai",
-        "asian banking"
-      ]
-    },
-    {
-      "id": "850767502",
-      "title": "Banks are moving beyond experimenting with AI, but executives say governance will determine who benefits. Leaders at the Asian Banking & Finance and Insurance Asia Summit said oversight, accountability and human judgment must keep pace as AI adoption expands.",
-      "summary": "Banks are moving beyond experimenting with AI, but executives say governance will determine who benefits. Leaders at the Asian Banking & Finance and Insurance Asia Summit said oversight, accountability and human judgment must keep pace as AI adoption expands.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/event-news/ai-governance-failures-threaten-banks-returns",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "banks",
-        "ai",
-        "leaders"
-      ]
-    },
-    {
-      "id": "311273084",
-      "title": "Trust is becoming a balance-sheet issue for insurers betting on artificial intelligence, as companies race to automate underwriting, claims and customer service whilst trying to keep employees, customers and regulators onside, said Ker Ching Chock, CFO, MSIG Singapore at the Asian Banking & Finance and Insurance Asia Summit today.",
-      "summary": "Trust is becoming a balance-sheet issue for insurers betting on artificial intelligence, as companies race to automate underwriting, claims and customer service whilst trying to keep employees, customers and regulators onside, said Ker Ching Chock, CFO, MSIG Singapore at the Asian Banking & Finance and Insurance Asia Summit today.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/insurance/event-news/insurers-chase-ai-gains-workers-fear-job-losses",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "trust",
-        "ker ching",
-        "chock"
-      ]
-    },
-    {
-      "id": "94758555",
-      "title": "At the Asian Banking and Finance and Insurance Asia Summit in Singapore, Oliver Wyman's Ashwini Karandikar explained how hidden instructions in financial documents can quietly hijack AI systems.",
-      "summary": "At the Asian Banking and Finance and Insurance Asia Summit in Singapore, Oliver Wyman's Ashwini Karandikar explained how hidden instructions in financial documents can quietly hijack AI systems.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/event-news/ai-oversight-gains-urgency-deepfake-scams-surge-2000",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "asian banking",
-        "finance",
-        "insurance asia"
-      ]
-    },
-    {
-      "id": "41122273",
-      "title": "FactSet agrees AI partnership with Google Cloud",
-      "summary": "FactSet, a leading global data and AI solutions provider to the financial markets, today announced a multi-faceted strategic partnership with Google Cloud to create a new generation of AI-powered solutions for the financial industry.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110299/factset-agrees-ai-partnership-with-google-cloud?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "factset",
-        "ai",
-        "google cloud"
       ]
     }
   ]
