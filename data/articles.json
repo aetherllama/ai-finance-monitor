@@ -1,28 +1,24 @@
 {
-  "last_updated": "2026-07-07T20:51:16Z",
+  "last_updated": "2026-07-08T09:28:24Z",
   "insights": {
     "risks": [
-      "Regulatory: ThetaRay hires Santander compliance chief Luis Pinedo — review compliance obligations.",
+      "Regulatory: AI Automation for Tax Compliance: A Governance-First Framework for the Intelligent Tax Function — review compliance obligations.",
       "Trading risk: SpaceX wins bullish recommendations from Wall Street banks — assess algorithmic exposure.",
-      "Operational: ECB tells banks to submit plans to address AI cyber threats — evaluate model governance gaps."
+      "Operational: Singapore’s Temasek doubles down on AI and private credit — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Melio Launches Agentic B2B Payment Network for US SMBs — potential infrastructure advantage.",
-      "Banking efficiency: ECB tells banks to submit plans to address AI cyber threats — cost reduction opportunity."
+      "Payments: 42% of Issuers Say AI Has Cut Fraud Losses by at Least $5 Million — potential infrastructure advantage.",
+      "Banking efficiency: Singapore’s Temasek doubles down on AI and private credit — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 4
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 3
+      "count": 5
     },
     {
       "topic": "Payments AI",
@@ -33,11 +29,155 @@
       "count": 1
     },
     {
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
       "topic": "Fraud Detection",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "694094531",
+      "title": "Singapore’s Temasek doubles down on AI and private credit",
+      "summary": "State investor focuses on accelerating returns after several lacklustre years",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/39e28145-ed1d-493f-bfc3-aeaa0ea88096",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "temasek",
+        "ai"
+      ]
+    },
+    {
+      "id": "568468091",
+      "title": "Meniga integrates with bank AI assistants for conversational banking",
+      "summary": "Meniga has launched Fini, an advanced, standards-compliant MCP server that enables banks to bring agentic AI into their digital channels using Meniga's financial intelligence.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110368/meniga-integrates-with-bank-ai-assistants-for-conversational-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "meniga",
+        "ai",
+        "fini"
+      ]
+    },
+    {
+      "id": "661073358",
+      "title": "BlockAPT launches AI-powered cyber defence for SMEs",
+      "summary": "Cyber defence firm BlockAPT has launched Pivotra AI Essential, an AI-powered cyber defence solution built specifically for small and medium-sized enterprises (SME) in the financial services space to help them keep up and stay protected in the era of machine-speed cyber threats.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110365/blockapt-launches-ai-powered-cyber-defence-for-smes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "blockapt",
+        "ai",
+        "smes cyber"
+      ]
+    },
+    {
+      "id": "104437829",
+      "title": "Building the AI-First Bank: Why the CIO Agenda Must Move Beyond Channels",
+      "summary": "The banking industry has spent years perfecting the digital channel. Mobile apps became cleaner. Web...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32223/building-the-ai-first-bank-why-the-cio-agenda-must-move-beyond-channels?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "building",
+        "ai",
+        "first bank"
+      ]
+    },
+    {
+      "id": "496503685",
+      "title": "AI Automation for Tax Compliance: A Governance-First Framework for the Intelligent Tax Function",
+      "summary": "Tax compliance is undergoing a structural transformation. Historically, tax functions have relied on...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32222/ai-automation-for-tax-compliance-a-governance-first-framework-for-the-intelligent-tax-function?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-08",
+      "category": "RegTech",
+      "tags": [
+        "ai automation",
+        "tax compliance",
+        "governance"
+      ]
+    },
+    {
+      "id": "973392138",
+      "title": "Pay Later Credit Option May Have to Win Over the Algorithm First",
+      "summary": "Artificial intelligence (AI) is beginning to influence a part of commerce that has traditionally belonged to consumers: choosing how to pay. For years, Pay Later providers competed for attention at checkout through marketing, merchant placement and promotional financing. New PYMN…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/consumer-insights/2026/pay-later-credit-option-may-have-to-win-over-the-algorithm-first/",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "pay later",
+        "credit option",
+        "may have"
+      ]
+    },
+    {
+      "id": "166138552",
+      "title": "42% of Issuers Say AI Has Cut Fraud Losses by at Least $5 Million",
+      "summary": "Payments used to be judged by whether they moved money quickly. Now they are judged by how well they make decisions before, during and after a transaction. The PYMNTS Intelligence report “Where Payment Decisions Happen: How Issuer Data Is Powering the Next Era of Commerce,” a col…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/42-percent-of-issuers-say-ai-has-cut-fraud-losses-by-at-least-5-million/",
+      "date": "2026-07-08",
+      "category": "Payments",
+      "tags": [
+        "issuers say",
+        "ai has",
+        "cut fraud"
+      ]
+    },
+    {
+      "id": "587106105",
+      "title": "Singapore’s AI adoption problem is not worker resistance, but weak execution",
+      "summary": "Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per …",
+      "source": "e27",
+      "url": "https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "salesforce"
+      ]
+    },
+    {
+      "id": "581633402",
+      "title": "The vision-based shift: Transforming construction safety with AI",
+      "summary": "There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project management platforms. All…",
+      "source": "e27",
+      "url": "https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/",
+      "date": "2026-07-08",
+      "category": "Banking",
+      "tags": [
+        "transforming",
+        "ai there",
+        "singapore"
+      ]
+    },
+    {
+      "id": "696859580",
+      "title": "Central Asian AI Infrastructure: Why Freedom Holding, NVIDIA, and Citi Are Partnering in Kazakhstan",
+      "summary": "Quick Answer: The competitive advantage in modern financial markets is rapidly shifting from front-e...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32219/central-asian-ai-infrastructure-why-freedom-holding-nvidia-and-citi-are-partnering-in-kazakhstan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-07",
+      "category": "Banking",
+      "tags": [
+        "central asian",
+        "ai infrastructure",
+        "why freedom"
+      ]
+    },
     {
       "id": "105695110",
       "title": "ECB tells banks to submit plans to address AI cyber threats",
@@ -730,145 +870,6 @@
         "factset",
         "ai",
         "google cloud"
-      ]
-    },
-    {
-      "id": "806112841",
-      "title": "IBanFirst connects Claude AI to Excel to turn spreadsheet into a live treasury agent",
-      "summary": "For a decade, treasury technology has promised more: more software, more platforms, more logins, all while the working reality for most finance teams has barely changed.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110290/ibanfirst-connects-claude-ai-to-excel-to-turn-spreadsheet-into-a-live-treasury-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "ibanfirst",
-        "claude ai",
-        "excel"
-      ]
-    },
-    {
-      "id": "44129087",
-      "title": "How AI is Exposing the Operational Visibility Gap in Financial Institutions",
-      "summary": "Financial institutions have spent the last few years accelerating AI programmes, but many are now ru...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32144/how-ai-is-exposing-the-operational-visibility-gap-in-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "exposing",
-        "operational visibility"
-      ]
-    },
-    {
-      "id": "387202703",
-      "title": "ACA Group Directs Capital to Durham to Fuel In-House AI Compliance Architecture",
-      "summary": "ACA Group has opened a new innovation and technology center in Durham, North Carolina, to strengthen in-house AI development and enhance its proprietary ComplianceAlpha platform. The post ACA Group Directs Capital to Durham to Fuel In-House AI Compliance Architecture appeared fir…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/aca-group-directs-capital-to-durham-to-fuel-in-house-ai-compliance-architecture/",
-      "date": "2026-06-30",
-      "category": "RegTech",
-      "tags": [
-        "aca group",
-        "directs capital",
-        "durham"
-      ]
-    },
-    {
-      "id": "471255021",
-      "title": "LeapXpert Raises $180m to Bring AI Into Governed Enterprise Messaging",
-      "summary": "LeapXpert has raised $180million in growth funding to expand its messaging compliance and corporate intelligence platform, using AI to transform conversations across channels like WhatsApp and Signal into secure, compliant business data for financial institutions and enterprises.…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/leapxpert-secures-massive-180m-growth-round-to-unlock-enterprise-ai-comms/",
-      "date": "2026-06-30",
-      "category": "RegTech",
-      "tags": [
-        "leapxpert raises",
-        "bring ai",
-        "into governed"
-      ]
-    },
-    {
-      "id": "642010301",
-      "title": "EQS Launches Native Intelligence Layer to Automate Enterprise Compliance Workflows",
-      "summary": "EQS Group has launched Q by EQS, an AI-powered compliance assistant designed to embed secure, auditable AI into corporate workflows, with a focus on governance, human oversight and regulatory compliance. The post EQS Launches Native Intelligence Layer to Automate Enterprise Compl…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/eqs-launches-native-intelligence-layer-to-automate-enterprise-compliance-workflows/",
-      "date": "2026-06-30",
-      "category": "RegTech",
-      "tags": [
-        "eqs launches",
-        "native intelligence",
-        "layer"
-      ]
-    },
-    {
-      "id": "668590216",
-      "title": "OpenAI Economist Says Jobs Data Disproves AI Unemployment Fears",
-      "summary": "Jobs data contradicts the common fear that artificial intelligence will put people out of work, OpenAI Chief Economist Aaron Chatterji said Tuesday (June 30). Speaking at the European Central Bank’s ECB Forum on Central Banking, Chatterji said people often come to him with anxiet…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-economist-says-jobs-data-disproves-ai-unemployment-fears/",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "openai economist",
-        "says jobs",
-        "data disproves"
-      ]
-    },
-    {
-      "id": "457012722",
-      "title": "Companies Look to Cloud-Era Solutions to Control AI Spending",
-      "summary": "Businesses have reportedly turned to an array of tactics to help manage rising AI spending. As The Wall Street Journal (WSJ) reported Tuesday (June 30), artificial intelligence (AI) is increasingly being billed according to usage, with companies facing volatile pricing for tokens…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/companies-look-to-cloud-era-solutions-to-control-ai-spending/",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "companies look",
-        "cloud",
-        "era solutions"
-      ]
-    },
-    {
-      "id": "793663342",
-      "title": "Magnificent Seven stocks shed $2.3tn in Wall Street tech rotation",
-      "summary": "Investors switch to soaring chipmakers benefiting from hyperscalers’ vast AI spending",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b90bdfcb-d773-42f7-bb5f-52dbd28b2174",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "magnificent seven",
-        "wall street",
-        "investors"
-      ]
-    },
-    {
-      "id": "40475945",
-      "title": "SoftSolutions adds AI to fixed income trading platform",
-      "summary": "AI is now integrated into nexRates. SoftSolutions today announced that its flagship fixed-income trading platform ships with production-ready AI capabilities, giving traders the agility to move at the speed of the market.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110283/softsolutions-adds-ai-to-fixed-income-trading-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-30",
-      "category": "Trading",
-      "tags": [
-        "softsolutions",
-        "ai"
-      ]
-    },
-    {
-      "id": "194423284",
-      "title": "AI insurtech Federato launches in APAC",
-      "summary": "Federato, the AI-native platform that changes the way insurance work gets done, today announced it is bringing its proven AI-native insurance platform to APAC and Japan.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110275/ai-insurtech-federato-launches-in-apac?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-06-30",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "federato",
-        "apac federato"
       ]
     }
   ]
