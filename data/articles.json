@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-08T20:23:37Z",
+  "last_updated": "2026-07-09T10:27:24Z",
   "insights": {
     "risks": [
-      "Regulatory: AI Automation for Tax Compliance: A Governance-First Framework for the Intelligent Tax Function — review compliance obligations.",
       "Trading risk: BNB Chain is building a new layer-1 for high-frequency trading and AI agents — assess algorithmic exposure.",
-      "Operational: SBS embeds AI into core banking platform — evaluate model governance gaps."
+      "Operational: AI-based fincrime startup Tangos raises $20 million — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI in Banking: What is Myth and What is Reality? — potential infrastructure advantage.",
-      "Banking efficiency: SBS embeds AI into core banking platform — cost reduction opportunity."
+      "Banking efficiency: AI-based fincrime startup Tangos raises $20 million — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -38,6 +37,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "540482964",
+      "title": "AI-based fincrime startup Tangos raises $20 million",
+      "summary": "Financial crime prevention platform Tangos AI has closed a $20 million seed financing round led by Red Dot Capital Partners, with participation from Leaders Fund, Clarim Ventures, VentureIsrael, Signal Fire, Clutch Capital and Selah Ventures and a strategic investment by Bright D…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48062/ai-based-fincrime-startup-tangos-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-09",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "tangos",
+        "financial"
+      ]
+    },
+    {
+      "id": "511456826",
+      "title": "85% of Financial Firms Plan AI Budget Increases",
+      "summary": "Enterprise artificial intelligence (AI) is no longer just a technology project. It is becoming a line item with momentum. That’s the clearest signal from “The Enterprise AI Benchmark Report: Financial Services Pulls Ahead in the Enterprise AI Race,” a new PYMNTS Intelligence stud…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/85percent-financial-firms-plan-ai-budget-increases/",
+      "date": "2026-07-09",
+      "category": "Banking",
+      "tags": [
+        "financial firms",
+        "plan ai",
+        "budget increases"
+      ]
+    },
+    {
+      "id": "736851843",
+      "title": "Why the US tech rebound matters for SEA’s AI and venture ecosystem",
+      "summary": "The United States accounted for US$368 billion in technology funding in the first half of 2026, taking 82 per cent of global tech investment during the period, according to a new report by Tracxn. On paper, the numbers suggest a sharp rebound. Funding rose across headline categor…",
+      "source": "e27",
+      "url": "https://e27.co/why-the-us-tech-rebound-matters-for-seas-ai-and-venture-ecosystem-20260709/",
+      "date": "2026-07-09",
+      "category": "Banking",
+      "tags": [
+        "why",
+        "us",
+        "sea"
+      ]
+    },
+    {
+      "id": "310563608",
+      "title": "Speaking at the Insurance Asia Summit in Singapore, HSBC Singapore's Ashmita Acharya said Singaporean investors are highly literate consumers of artificial intelligence, but still hesitate to let it guide major financial decisions.",
+      "summary": "Speaking at the Insurance Asia Summit in Singapore, HSBC Singapore's Ashmita Acharya said Singaporean investors are highly literate consumers of artificial intelligence, but still hesitate to let it guide major financial decisions.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/event-news/nine-in-10-investors-do-not-trust-ai-investment-decisions",
+      "date": "2026-07-09",
+      "category": "Banking",
+      "tags": [
+        "speaking",
+        "insurance asia",
+        "summit"
+      ]
+    },
     {
       "id": "97607421",
       "title": "SBS embeds AI into core banking platform",
@@ -813,62 +868,6 @@
       "category": "Banking",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "544987648",
-      "title": "Danske Bank extends AWS partnership for AI push",
-      "summary": "Denmark’s Danske Bank is expanding its collaboration with Amazon Web Services as it bids to accelerate the rollout of AI-enabled products and services.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48014/danske-bank-extends-aws-partnership-for-ai-push?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "danske bank",
-        "aws",
-        "ai"
-      ]
-    },
-    {
-      "id": "267936322",
-      "title": "EC Markets installs Acuity Trading's AI-driven trading tools",
-      "summary": "EC Markets traders will gain access to Acuity Trading’s full suite of AI-driven market, event and trade intelligence tools through EC Insights, bringing together sentiment analysis, economic data, macroeconomic context and AI-supported market commentary within the EC Markets trad…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110308/ec-markets-installs-acuity-tradings-ai-driven-trading-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-01",
-      "category": "Trading",
-      "tags": [
-        "ec markets",
-        "acuity trading",
-        "ai"
-      ]
-    },
-    {
-      "id": "918774382",
-      "title": "Unzer appoints chief product and AI officer",
-      "summary": "Unzer, a leading European provider of payment and software solutions, has appointed Isabelle Bénard as Chief Product & AI Officer (CPAIO).",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110303/unzer-appoints-chief-product-and-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-01",
-      "category": "Payments",
-      "tags": [
-        "unzer",
-        "ai",
-        "european"
-      ]
-    },
-    {
-      "id": "643680175",
-      "title": "Google Cloud Pursues Financial Markets in FactSet Alliance",
-      "summary": "Google Cloud and FactSet, a provider of data and artificial intelligence solutions to the financial markets, plan to jointly develop AI agents designed to assist with portfolio operations, deal advisory and corporate finance. The agents are one of three areas of focus the compani…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-cloud-pursues-financial-markets-in-factset-alliance/",
-      "date": "2026-07-01",
-      "category": "Trading",
-      "tags": [
-        "google cloud",
-        "pursues financial",
-        "markets"
       ]
     }
   ]
