@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-09T10:27:24Z",
+  "last_updated": "2026-07-09T20:49:50Z",
   "insights": {
     "risks": [
       "Trading risk: BNB Chain is building a new layer-1 for high-frequency trading and AI agents — assess algorithmic exposure.",
-      "Operational: AI-based fincrime startup Tangos raises $20 million — evaluate model governance gaps."
+      "Operational: Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI in Banking: What is Myth and What is Reality? — potential infrastructure advantage.",
-      "Banking efficiency: AI-based fincrime startup Tangos raises $20 million — cost reduction opportunity."
+      "Banking efficiency: Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -37,6 +37,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "213898202",
+      "title": "Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition",
+      "summary": "Axos Financial subsidiary Axos Nevada Holding plans to acquire Arc Technologies to expand Axos’ artificial intelligence capabilities and enhance its ability to serve small businesses across the United States. The companies have entered into a definitive agreement for the acquisit…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/axos-aims-to-expand-ai-powered-financial-services-with-arc-acquisition/",
+      "date": "2026-07-09",
+      "category": "Banking",
+      "tags": [
+        "axos aims",
+        "expand ai",
+        "powered financial"
+      ]
+    },
     {
       "id": "540482964",
       "title": "AI-based fincrime startup Tangos raises $20 million",
@@ -856,18 +870,6 @@
         "jpmorgan ai",
         "chief teresa",
         "heitsenrether plans"
-      ]
-    },
-    {
-      "id": "801156075",
-      "title": "AI not eliminating need for bankers - survey",
-      "summary": "The notion that artificial intelligence (AI) will replace financial services workers is \"no longer true\", suggests a recently published report.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48020/ai-not-eliminating-need-for-bankers---survey?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "ai"
       ]
     }
   ]
