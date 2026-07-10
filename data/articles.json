@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-10T10:26:01Z",
+  "last_updated": "2026-07-10T20:27:18Z",
   "insights": {
     "risks": [
-      "Trading risk: BNB Chain is building a new layer-1 for high-frequency trading and AI agents — assess algorithmic exposure.",
-      "Operational: OpenAI and Google sell AI models to blacklisted China groups — evaluate model governance gaps."
+      "Regulatory: 66% of Banks Are Stuck at the AI Pilot Stage — review compliance obligations.",
+      "Operational: Big Tech Doubles Down on AI Infrastructure — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Is AI The 'Wingman' Data Needed? — potential infrastructure advantage.",
-      "Banking efficiency: OpenAI and Google sell AI models to blacklisted China groups — cost reduction opportunity."
+      "Banking efficiency: Big Tech Doubles Down on AI Infrastructure — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Payments AI",
@@ -29,6 +29,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "462634855",
+      "title": "66% of Banks Are Stuck at the AI Pilot Stage",
+      "summary": "Nearly 80% of financial institutions plan to innovate with AI in financial crime compliance by 2026 ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32243/66-of-banks-are-stuck-at-the-ai-pilot-stage?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-10",
+      "category": "RegTech",
+      "tags": [
+        "banks are",
+        "stuck",
+        "ai pilot"
+      ]
+    },
+    {
+      "id": "992257297",
+      "title": "Big Tech Doubles Down on AI Infrastructure",
+      "summary": "The five companies spending the most on artificial intelligence (AI) data centers in the United States doubled their debt load over the past five years to finance their efforts, Bloomberg reported Friday (July 10). In total, Alphabet, Amazon, Meta, Microsoft and Oracle added abou…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/big-tech-doubles-down-on-ai-infrastructure/",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "big tech",
+        "doubles down",
+        "ai infrastructure"
+      ]
+    },
+    {
+      "id": "228911816",
+      "title": "JPMorgan AI Agents Beat Traditional Investment Portfolios in Historical Simulations",
+      "summary": "JPMorgan Chase Co. tested artificial intelligence (AI) agents that allocate capital between stocks in response to changing market conditions, and it found that all eight agents beat both the traditional 60/40 portfolio and the bank’s own rules-based market regime model, Bloomberg…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jpmorgan-ai-agents-beat-traditional-investment-portfolios-in-historical-simulations/",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "jpmorgan ai",
+        "agents beat",
+        "traditional investment"
+      ]
+    },
+    {
+      "id": "623547405",
+      "title": "AI Chipmaker SK hynix Secures $26.5 Billion to Boost Capacity",
+      "summary": "South Korean memory chipmaker SK hynix raised $26.5 billion in its U.S. market debut Friday (July 10), completing the largest-ever U.S. listing by a foreign company, the Financial Times reported Friday. The company’s U.S. market debut followed a first quarter in which SK hynix sa…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/ai-chipmaker-sk-hynix-secures-26-5-billion-to-boost-capacity/",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "ai chipmaker",
+        "sk",
+        "secures"
+      ]
+    },
     {
       "id": "688336753",
       "title": "OpenAI and Google sell AI models to blacklisted China groups",
@@ -806,61 +862,6 @@
         "qualcomm announces",
         "startups selected",
         "qualcomm ai"
-      ]
-    },
-    {
-      "id": "53210273",
-      "title": "OCBC adds AI-powered financial advisor avatars to app",
-      "summary": "OCBC has revamped its mobile app with two AI-powered avatars that deliver \"hyper-personalised\" wealth management services in real-time 24 hours a day.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48025/ocbc-adds-ai-powered-financial-advisor-avatars-to-app?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "ocbc",
-        "ai"
-      ]
-    },
-    {
-      "id": "169724644",
-      "title": "SoFi buys AI-based investing startup Composer",
-      "summary": "US fintech SoFi has acquired Composer, a Toronto-based AI-powered retail investing startup. Financial terms were not disclosed.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48026/sofi-buys-ai-based-investing-startup-composer?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-02",
-      "category": "Payments",
-      "tags": [
-        "sofi",
-        "ai",
-        "composer us"
-      ]
-    },
-    {
-      "id": "404520707",
-      "title": "Treasurer unveils AlphaLenz at Echelon Singapore 2026 to target finance and insurance automation",
-      "summary": "Treasurer, an AI financial technology company, used Echelon Singapore 2026 to introduce AlphaLenz, its enterprise AX solution for financial and insurance institutions, as it looks to deepen its footprint across Southeast Asia’s fast-growing fintech and enterprise AI market. The c…",
-      "source": "e27",
-      "url": "https://e27.co/treasurer-unveils-alphalenz-at-echelon-singapore-2026-to-target-finance-and-insurance-automation-20260702/",
-      "date": "2026-07-02",
-      "category": "Payments",
-      "tags": [
-        "treasurer",
-        "alphalenz",
-        "echelon singapore"
-      ]
-    },
-    {
-      "id": "511705366",
-      "title": "LinqAlpha raises US$22M to bring agentic AI to public-market investors",
-      "summary": "LinqAlpha, a New York-headquartered AI startup building intelligence tools for institutional investors, has raised US$22 million in a Series A round backed by a group of global and Asian investors. The round was anchored by AVP, Atinum Investment, and GFT Ventures. It also drew p…",
-      "source": "e27",
-      "url": "https://e27.co/linqalpha-raises-us22m-to-bring-agentic-ai-to-public-market-investors-20260702/",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "linqalpha",
-        "us",
-        "ai"
       ]
     }
   ]
