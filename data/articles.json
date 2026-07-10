@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-09T20:49:50Z",
+  "last_updated": "2026-07-10T10:26:01Z",
   "insights": {
     "risks": [
       "Trading risk: BNB Chain is building a new layer-1 for high-frequency trading and AI agents — assess algorithmic exposure.",
-      "Operational: Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition — evaluate model governance gaps."
+      "Operational: OpenAI and Google sell AI models to blacklisted China groups — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI in Banking: What is Myth and What is Reality? — potential infrastructure advantage.",
-      "Banking efficiency: Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition — cost reduction opportunity."
+      "Payments: Is AI The 'Wingman' Data Needed? — potential infrastructure advantage.",
+      "Banking efficiency: OpenAI and Google sell AI models to blacklisted China groups — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -26,17 +26,92 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "688336753",
+      "title": "OpenAI and Google sell AI models to blacklisted China groups",
+      "summary": "US groups have been supplying AI services to Singapore-based subsidiaries of Alibaba, Baidu and Tencent",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "openai",
+        "google",
+        "ai"
+      ]
+    },
+    {
+      "id": "656154761",
+      "title": "Why AI could be a financial ‘sludge’ buster",
+      "summary": "Regulators want to use the technology in their bid to cut red tape",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "why ai",
+        "regulators"
+      ]
+    },
+    {
+      "id": "575324733",
+      "title": "AI investing startup GIM raises $20 million",
+      "summary": "Grace Investment Machine (GIM) has raised $20 million in Series A funding to build agentic systems for capital markets.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48066/ai-investing-startup-gim-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "gim",
+        "grace investment"
+      ]
+    },
+    {
+      "id": "984906626",
+      "title": "Is AI The 'Wingman' Data Needed?",
+      "summary": "At EBAday in Copenhagen, Lauran Macare, Head of Data and Risk, Payments Technology, Natwest, spoke to FinextraTV about a panel she featured on surrounding payments innovation. Macare referred to AI as the 'wingman' that data needed to ensure its importance within payment agendas,…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3561/is-ai-the-wingman-data-needed?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-10",
+      "category": "Payments",
+      "tags": [
+        "is ai",
+        "wingman",
+        "data needed"
+      ]
+    },
+    {
+      "id": "976470008",
+      "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
+      "summary": "Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipsos found that 76 per c…",
+      "source": "e27",
+      "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "singapore",
+        "hsbc"
+      ]
+    },
+    {
+      "id": "157924047",
+      "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
+      "summary": "The fraud officer I sat with in Yogyakarta last month had spent eleven years catching counterfeit invoices, suspicious wire transfers, and informal collusion patterns at a regional bank s branch network. She is exceptionally good at her job. She has also spent the last three week…",
+      "source": "e27",
+      "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "yogyakarta",
+        "ai",
+        "asean"
+      ]
+    },
     {
       "id": "213898202",
       "title": "Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition",
@@ -786,90 +861,6 @@
         "linqalpha",
         "us",
         "ai"
-      ]
-    },
-    {
-      "id": "648564392",
-      "title": "How AI in Wealth Management Turns the Portfolio into a Commodity",
-      "summary": "Anthony Villis of First Wealth explains why AI could make human judgement, trust and emotional intelligence more valuable in financial planning. The post How AI in Wealth Management Turns the Portfolio into a Commodity appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/how-ai-in-wealth-management-turns-the-portfolio-into-a-commodity/",
-      "date": "2026-07-01",
-      "category": "Trading",
-      "tags": [
-        "how ai",
-        "wealth management",
-        "turns"
-      ]
-    },
-    {
-      "id": "249296266",
-      "title": "Retailers Turn to AI Agents to Meet Shoppers Before Checkout",
-      "summary": "Retailers have spent years enhancing digital shopping capabilities. Today, many merchants are evaluating which features still justify additional investment as artificial intelligence becomes a larger part of their technology plans. The PYMNTS Intelligence report “Global Digital S…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-shopping-assistants-top-retail-budgets/",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "retailers turn",
-        "ai agents",
-        "meet shoppers"
-      ]
-    },
-    {
-      "id": "715711710",
-      "title": "BoE calls for bespoke AI regulation",
-      "summary": "A senior official at the Bank of England has called for an updated regulatory framework to cater for the inexorable rise of agentic AI",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48022/boe-calls-for-bespoke-ai-regulation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "boe",
-        "ai",
-        "bank"
-      ]
-    },
-    {
-      "id": "673072291",
-      "title": "Pico and LDA Technologies partner on high-fidelity data for real-time AI and trading workflows",
-      "summary": "Pico, a leading global provider of mission-critical technology services, software, data and analytics for the financial markets community, and LDA Technologies, a leader in ultra-low latency networking and FPGA applications, today announced that Pico’s Corvil Analytics platform w…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110320/pico-and-lda-technologies-partner-on-high-fidelity-data-for-real-time-ai-and-trading-workflows?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-01",
-      "category": "Trading",
-      "tags": [
-        "pico",
-        "lda technologies",
-        "ai"
-      ]
-    },
-    {
-      "id": "308305583",
-      "title": "AI Fraud Detection in 2026: Vladyslav Kolodistyi on Why Payment Orchestration Decides Who Wins",
-      "summary": "In this competitive analysis, Vladyslav Kolodistyi from PayAdmit argues that the gap between mercha",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32163/ai-fraud-detection-in-2026-vladyslav-kolodistyi-on-why-payment-orchestration-decides-who-wins?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-01",
-      "category": "Payments",
-      "tags": [
-        "ai fraud",
-        "detection",
-        "vladyslav kolodistyi"
-      ]
-    },
-    {
-      "id": "911109880",
-      "title": "JPMorgan AI Chief Teresa Heitsenrether Plans Year-End Retirement",
-      "summary": "JPMorganChase’s artificial intelligence chief, Teresa Heitsenrether, will retire from the company at the end of the year, Bloomberg reported Wednesday (July 1). Heitsenrether has been with the bank for nearly 40 years, previously led its prime brokerage and securities services un…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/personnel/2026/jpmorgan-ai-chief-teresa-heitsenrether-plans-year-end-retirement/",
-      "date": "2026-07-01",
-      "category": "Banking",
-      "tags": [
-        "jpmorgan ai",
-        "chief teresa",
-        "heitsenrether plans"
       ]
     }
   ]
