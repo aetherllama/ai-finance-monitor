@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-10T20:27:18Z",
+  "last_updated": "2026-07-11T08:50:38Z",
   "insights": {
     "risks": [
       "Regulatory: 66% of Banks Are Stuck at the AI Pilot Stage — review compliance obligations.",
-      "Operational: Big Tech Doubles Down on AI Infrastructure — evaluate model governance gaps."
+      "Operational: Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Is AI The 'Wingman' Data Needed? — potential infrastructure advantage.",
-      "Banking efficiency: Big Tech Doubles Down on AI Infrastructure — cost reduction opportunity."
+      "Banking efficiency: Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -29,6 +29,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "268199751",
+      "title": "Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech",
+      "summary": "Apple has sued OpenAI and two of its employees, alleging that they stole trade secrets from Apple to support OpenAI’s development of devices. The OpenAI employees named in the lawsuit, Chief Hardware Officer Tang Tan and technical staff member Chang Liu, are former Apple employee…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/legal/2026/apple-lawsuit-claims-openai-is-developing-ai-devices-using-stolen-tech/",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "apple lawsuit",
+        "claims openai",
+        "developing ai"
+      ]
+    },
+    {
+      "id": "247972382",
+      "title": "AI Cracked the Mortgage Verification System",
+      "summary": "Mortgage underwriting runs on documents. Payslips, bank statements and tax returns are the evidence that lenders verify before approving a loan. Generative artificial intelligence can now produce all three in formats that pass standard checks. Australia’s mortgage market may be f…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-cracked-mortgage-verification-system/",
+      "date": "2026-07-10",
+      "category": "Banking",
+      "tags": [
+        "ai cracked",
+        "mortgage verification",
+        "system mortgage"
+      ]
+    },
     {
       "id": "462634855",
       "title": "66% of Banks Are Stuck at the AI Pilot Stage",
@@ -834,34 +862,6 @@
         "spacex built",
         "network",
         "ai device"
-      ]
-    },
-    {
-      "id": "927408674",
-      "title": "Jeff Bezos’ Family Office Accelerates AI Bets",
-      "summary": "Jeff Bezos’ family office, Bezos Expeditions, made five direct investments in artificial intelligence startups in June, CNBC reported Thursday (July 2), citing exclusive data provided by private wealth intelligence platform Fintrx. The startups include Prometheus, which aims to u…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jeff-bezos-family-office-accelerates-ai-bets/",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "jeff bezos",
-        "family office",
-        "accelerates ai"
-      ]
-    },
-    {
-      "id": "768753916",
-      "title": "Qualcomm Announces 15 Startups Selected for Qualcomm AI Program for Innovators 2026 – APAC",
-      "summary": "San Diego, June 22, 2026 — Qualcomm Technologies, Inc. announced the 15 shortlisted startups selected to advance in the Qualcomm® AI Program for Innovators (QAIPI) 2026, recognising startups developing next-generation AI solutions across industries. Representing Japan, Singapore,…",
-      "source": "e27",
-      "url": "https://e27.co/qualcomm-announces-15-startups-selected-for-qualcomm-ai-program-for-innovators-2026-apac-20260702/",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "qualcomm announces",
-        "startups selected",
-        "qualcomm ai"
       ]
     }
   ]
