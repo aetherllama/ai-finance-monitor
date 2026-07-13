@@ -1,34 +1,82 @@
 {
-  "last_updated": "2026-07-12T20:07:27Z",
+  "last_updated": "2026-07-13T10:31:01Z",
   "insights": {
     "risks": [
       "Regulatory: 66% of Banks Are Stuck at the AI Pilot Stage — review compliance obligations.",
-      "Operational: Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech — evaluate model governance gaps."
+      "Operational: UK banks join financial services 'Skills Compact' to prepare staff for AI revolution — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Is AI The 'Wingman' Data Needed? — potential infrastructure advantage.",
-      "Banking efficiency: Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech — cost reduction opportunity."
+      "Payments: 85% of CFOs Say Automation Cuts Payments Friction — potential infrastructure advantage.",
+      "Banking efficiency: UK banks join financial services 'Skills Compact' to prepare staff for AI revolution — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Automation",
-      "count": 4
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
+      "count": 3
     }
   ],
   "articles": [
+    {
+      "id": "284515120",
+      "title": "UK banks join financial services 'Skills Compact' to prepare staff for AI revolution",
+      "summary": "The Financial Services Skills Commission has signed up to 20 financial services companies to a new 'Skills Compact' designed to prepare their workforces for the forthcoming AI revolution.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48077/uk-banks-join-financial-services-skills-compact-to-prepare-staff-for-ai-revolution?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-13",
+      "category": "Banking",
+      "tags": [
+        "uk",
+        "skills compact",
+        "ai"
+      ]
+    },
+    {
+      "id": "317915625",
+      "title": "Early AI adopters set to dominate European banking market - Visa study",
+      "summary": "Artificial intelligence will fundamentally reshape retail banking by 2030, with early adopters set to significantly outperform laggards, according to a Visa survey of European industry players.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48076/early-ai-adopters-set-to-dominate-european-banking-market---visa-study?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-13",
+      "category": "Banking",
+      "tags": [
+        "early ai",
+        "european",
+        "visa"
+      ]
+    },
+    {
+      "id": "162659038",
+      "title": "85% of CFOs Say Automation Cuts Payments Friction",
+      "summary": "Security controls are designed to stop bad payments, but new data suggested the strongest systems may be the ones customers barely notice. The PYMNTS Intelligence report “When Controls Slow Commerce: The Data Behind Middle-Market Payment Friction,” the latest installment of the 2…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/85-percent-of-cfos-say-automation-cuts-payments-friction/",
+      "date": "2026-07-13",
+      "category": "Payments",
+      "tags": [
+        "cfos say",
+        "automation cuts",
+        "payments friction"
+      ]
+    },
+    {
+      "id": "338521062",
+      "title": "Most AI pilots die in week six. Here’s what LinqAlpha does differently",
+      "summary": "LinqAlpha, the New York-headquartered AI startup building intelligence tools for institutional investors, recently raised US$22 million in a Series A round anchored by AVP, Atinum Investment, and GFT Ventures, with a notably Asia-heavy syndicate including SV Investment, Mirae Ass…",
+      "source": "e27",
+      "url": "https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/",
+      "date": "2026-07-13",
+      "category": "Banking",
+      "tags": [
+        "most ai",
+        "here",
+        "linqalpha"
+      ]
+    },
     {
       "id": "268199751",
       "title": "Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech",
@@ -806,62 +854,6 @@
         "wealthai",
         "flanks",
         "ai"
-      ]
-    },
-    {
-      "id": "250626738",
-      "title": "From Cost Centers to Profit Drivers: How Automation and Fintech Are Scaling Pharma Manufacturing",
-      "summary": "For years, pharmaceutical manufacturing was viewed primarily as a cost-heavy operational function. C...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32169/from-cost-centers-to-profit-drivers-how-automation-and-fintech-are-scaling-pharma-manufacturing?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-02",
-      "category": "Payments",
-      "tags": [
-        "from cost",
-        "centers",
-        "profit drivers"
-      ]
-    },
-    {
-      "id": "267033358",
-      "title": "AI will not replace Bankers. It will expose weak Operating Models.",
-      "summary": "Artificial Intelligence has quickly become the defining topic in banking boardrooms. Institutions ac...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32166/ai-will-not-replace-bankers-it-will-expose-weak-operating-models?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "bankers",
-        "it"
-      ]
-    },
-    {
-      "id": "119576423",
-      "title": "Mosta Launches MainUSD to Fuse Autonomous AI Agent Workflows with Global Cross-Border Settlement Rails",
-      "summary": "Mosta has launched MainUSD, a USD stablecoin issued by Brale, enabling low-cost, multi-chain settlement for global business payments and AI-driven commerce. The post Mosta Launches MainUSD to Fuse Autonomous AI Agent Workflows with Global Cross-Border Settlement Rails appeared fi…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/mosta-launches-mainusd-to-fuse-autonomous-ai-agent-workflows-with-global-cross-border-settlement-rails/",
-      "date": "2026-07-02",
-      "category": "Payments",
-      "tags": [
-        "mosta launches",
-        "mainusd",
-        "fuse autonomous"
-      ]
-    },
-    {
-      "id": "848269734",
-      "title": "SpaceX Built the Network an AI Device Needs. Now What?",
-      "summary": "SpaceX controls a satellite broadband network, a direct-to-cell service and an AI company. What it doesn’t have is a consumer device that connects all three. That gap is what makes the question worth asking. The Wall Street Journal reported Wednesday (July 1) that SpaceX showed i…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-built-the-network-an-ai-device-needs-now-what/",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "spacex built",
-        "network",
-        "ai device"
       ]
     }
   ]
