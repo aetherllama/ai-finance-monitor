@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-13T10:31:01Z",
+  "last_updated": "2026-07-13T20:19:00Z",
   "insights": {
     "risks": [
-      "Regulatory: 66% of Banks Are Stuck at the AI Pilot Stage — review compliance obligations.",
-      "Operational: UK banks join financial services 'Skills Compact' to prepare staff for AI revolution — evaluate model governance gaps."
+      "Regulatory: Narmi releases AI to streamline account opening for communitty banks and credit unions — review compliance obligations.",
+      "Operational: A Chatbot Just Did an Investment Banker’s Job — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: 85% of CFOs Say Automation Cuts Payments Friction — potential infrastructure advantage.",
-      "Banking efficiency: UK banks join financial services 'Skills Compact' to prepare staff for AI revolution — cost reduction opportunity."
+      "Payments: Reshaping American Finance in July 2026 — potential infrastructure advantage.",
+      "Banking efficiency: A Chatbot Just Did an Investment Banker’s Job — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,10 +17,70 @@
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 4
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "132990085",
+      "title": "Narmi releases AI to streamline account opening for communitty banks and credit unions",
+      "summary": "Narmi, a leading digital banking platform provider for banks and credit unions, today announced the upcoming launch of AI Decision Assist, a new agentic AI capability designed to help financial institutions automate and accelerate account opening reviews while still maintaining c…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110407/narmi-releases-ai-to-streamline-account-opening-for-communitty-banks-and-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-13",
+      "category": "RegTech",
+      "tags": [
+        "narmi",
+        "ai",
+        "ai decision"
+      ]
+    },
+    {
+      "id": "196581623",
+      "title": "Reshaping American Finance in July 2026",
+      "summary": "From government-backed child investment accounts to Plaid's IPO ambitions, AI-driven banking deals, and Klarna's travel expansion, this week's biggest fintech stories signal major shifts across finance. The post Reshaping American Finance in July 2026 appeared first on The Fintec…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/reshaping-american-finance-in-july-2026/",
+      "date": "2026-07-13",
+      "category": "Payments",
+      "tags": [
+        "reshaping american",
+        "finance",
+        "july"
+      ]
+    },
+    {
+      "id": "648805315",
+      "title": "Afternoon Wins AdviceTech Catwalk 2026 AI Competition",
+      "summary": "AI-powered advice automation platform Afternoon beat four rivals at the lang cat's annual early-stage fintech showcase, decided by two votes. The post Afternoon Wins AdviceTech Catwalk 2026 AI Competition appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/afternoon-wins-advicetech-catwalk-2026-ai-competition/",
+      "date": "2026-07-13",
+      "category": "Payments",
+      "tags": [
+        "afternoon wins",
+        "advicetech catwalk",
+        "ai competition"
+      ]
+    },
+    {
+      "id": "807724858",
+      "title": "A Chatbot Just Did an Investment Banker’s Job",
+      "summary": "When CVC Capital Partners put Greek eCommerce platform Skroutz up for sale earlier this year, it skipped investment bankers and used artificial intelligence to run the process instead, The Wall Street Journal reported. CVC sent prospective buyers a link to a data portal that func…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/a-chatbot-just-did-an-investment-bankers-job/",
+      "date": "2026-07-13",
+      "category": "Banking",
+      "tags": [
+        "chatbot just",
+        "did",
+        "investment banker"
+      ]
+    },
     {
       "id": "284515120",
       "title": "UK banks join financial services 'Skills Compact' to prepare staff for AI revolution",
@@ -800,60 +860,6 @@
         "the monetary",
         "authority",
         "singapore"
-      ]
-    },
-    {
-      "id": "256787921",
-      "title": "Insurers are beginning to use agentic artificial intelligence to automate underwriting, document verification, and customer servicing, but human oversight remains necessary for decisions that carry financial and regulatory risk.",
-      "summary": "Insurers are beginning to use agentic artificial intelligence to automate underwriting, document verification, and customer servicing, but human oversight remains necessary for decisions that carry financial and regulatory risk.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/insurance/event-news/human-oversight-remains-central-insurers-adopt-agentic-ai-valantic",
-      "date": "2026-07-03",
-      "category": "InsurTech",
-      "tags": [
-        "insurers"
-      ]
-    },
-    {
-      "id": "771730016",
-      "title": "Changing travel habits across Southeast Asia are creating new opportunities for banks and payment providers, with customer segmentation, experience-led spending, and AI emerging as the key themes shaping the market, according to Euromonitor International.",
-      "summary": "Changing travel habits across Southeast Asia are creating new opportunities for banks and payment providers, with customer segmentation, experience-led spending, and AI emerging as the key themes shaping the market, according to Euromonitor International.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/event-news/travel-trends-reshape-banks-payment-strategies-euromonitor",
-      "date": "2026-07-03",
-      "category": "Payments",
-      "tags": [
-        "changing",
-        "southeast asia",
-        "ai"
-      ]
-    },
-    {
-      "id": "359191059",
-      "title": "JP Morgan's AI head to depart after 4 decades",
-      "summary": "Teresa Heitsenrether, chief data and analytics officer at JP Morgan Chase, is set to leave the bank after a career spanning four decades",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48028/jp-morgans-ai-head-to-depart-after-4-decades?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "jp morgan",
-        "ai",
-        "teresa heitsenrether"
-      ]
-    },
-    {
-      "id": "618626307",
-      "title": "WealthAi and Flanks team up to solve wealth management's costly data problem",
-      "summary": "WealthAi, the AI operating system for wealth managers, has partnered with Flanks, the AI wealth data infrastructure, to bring institution-grade data from more than 650 institutions worldwide directly into the WealthAi platform.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110330/wealthai-and-flanks-team-up-to-solve-wealth-managements-costly-data-problem?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-02",
-      "category": "Banking",
-      "tags": [
-        "wealthai",
-        "flanks",
-        "ai"
       ]
     }
   ]
