@@ -1,34 +1,178 @@
 {
-  "last_updated": "2026-07-14T09:07:59Z",
+  "last_updated": "2026-07-14T20:15:56Z",
   "insights": {
     "risks": [
       "Regulatory: Narmi releases AI to streamline account opening for communitty banks and credit unions — review compliance obligations.",
-      "Operational: From copilot to autopilot: Exploring agentic AI’s impact on treasury — evaluate model governance gaps."
+      "Trading risk: Wall Street banks smash records on stock trading boom — assess algorithmic exposure.",
+      "Operational: Visa unveils AI assistant for banking apps — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Complexity & Expense Controls. Why the Finance Function has an Expenses Challenge. — potential infrastructure advantage.",
-      "Banking efficiency: From copilot to autopilot: Exploring agentic AI’s impact on treasury — cost reduction opportunity."
+      "Payments: AIQ Markets Pilots AI Bond Platform with MarketAxess — potential infrastructure advantage.",
+      "Banking efficiency: Visa unveils AI assistant for banking apps — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 8
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 3
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 2
+    },
+    {
+      "topic": "Generative AI",
+      "count": 1
     },
     {
       "topic": "Copilot / Assistants",
       "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "237990385",
+      "title": "Wall Street banks smash records on stock trading boom",
+      "summary": "Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
+      "date": "2026-07-14",
+      "category": "Trading",
+      "tags": [
+        "wall street",
+        "earnings",
+        "jpmorgan"
+      ]
+    },
+    {
+      "id": "955142164",
+      "title": "Visa unveils AI assistant for banking apps",
+      "summary": "Visa has taken the wraps off an AI assistant that US banks can embed into their own apps to provide cardholders with financial insights.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48094/visa-unveils-ai-assistant-for-banking-apps?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "visa",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "584226215",
+      "title": "AI private banking startup Flex raises $70m",
+      "summary": "Flex, an AI-native private banking platform for high-net-worth business owners, has raised $70 million in funding as it bids to go global.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48092/ai-private-banking-startup-flex-raises-70m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "flex"
+      ]
+    },
+    {
+      "id": "163055272",
+      "title": "AI investment boom could turn to bust, warns BIS paper",
+      "summary": "The trillion-dollar AI investment boom risks a bust that could damage the global economy, the Bank for International Settlements has warned.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48088/ai-investment-boom-could-turn-to-bust-warns-bis-paper?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "bis",
+        "bank"
+      ]
+    },
+    {
+      "id": "3483935",
+      "title": "Grasshopper becomes the first bank to be listed on Anthropic's MCP directory",
+      "summary": "Building on the launch of the first Model Context Protocol (MCP) server by a U.S. bank, Grasshopper and our digital banking technology partner, Narmi, are making secure AI-powered banking even easier to discover and use.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110415/grasshopper-becomes-the-first-bank-to-be-listed-on-anthropics-mcp-directory?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "grasshopper",
+        "anthropic",
+        "mcp"
+      ]
+    },
+    {
+      "id": "199810243",
+      "title": "The AI Guardrails in Financial Services: Why Independent Validation Cannot Be Assumed",
+      "summary": "If your institution has deployed a generative AI system in production, you have a guardrail layer. T...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32266/the-ai-guardrails-in-financial-services-why-independent-validation-cannot-be-assumed?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "the ai",
+        "guardrails",
+        "financial services"
+      ]
+    },
+    {
+      "id": "707910256",
+      "title": "AIQ Markets Pilots AI Bond Platform with MarketAxess",
+      "summary": "AIQ Markets has launched AIQ Insight with MarketAxess as its first client, letting traders query corporate bond data and build portfolios via natural language. The post AIQ Markets Pilots AI Bond Platform with MarketAxess appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/aiq-markets-pilots-ai-bond-platform-with-marketaxess/",
+      "date": "2026-07-14",
+      "category": "Payments",
+      "tags": [
+        "aiq markets",
+        "pilots ai",
+        "bond platform"
+      ]
+    },
+    {
+      "id": "22484248",
+      "title": "JPMorgan Wants Employees to Go Easy on AI Usage",
+      "summary": "JPMorgan Chase says it is advising its workers to think twice about their artificial intelligence (AI) usage. This effort by the country’s largest bank, addressed during its Tuesday (July 14) earnings call, comes as many businesses are eyeing their AI consumption amid rising cost…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jpmorgan-wants-employees-to-go-easy-on-ai-usage/",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "jpmorgan wants",
+        "employees",
+        "go easy"
+      ]
+    },
+    {
+      "id": "457913522",
+      "title": "Wells Fargo Wealth Unit Drives Productivity Boom With New AI Suite",
+      "summary": "Wells Fargo’s Wealth Investment Management business has invested over $1 billion over the past several years to modernize its technology platform, with a new generative artificial intelligence-powered suite of tools for financial advisors being the latest addition, Wells Fargo Ch…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/wells-fargo-wealth-unit-drives-productivity-boom-with-new-ai-suite/",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "wells fargo",
+        "wealth unit",
+        "drives productivity"
+      ]
+    },
+    {
+      "id": "623439370",
+      "title": "BIS Warns That AI Debt Could Turn Boom to Bust",
+      "summary": "Excessive artificial intelligence (AI) investment could make the technology’s boom unsustainable, according to a new Bank for International Settlements report. “The AI build-out ranks among the largest technology-driven investment booms in U.S. history,” Phurichai Rungcharoenkitk…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bis-warns-that-ai-debt-could-turn-boom-to-bust/",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "bis warns",
+        "that ai",
+        "debt could"
+      ]
+    },
     {
       "id": "539213635",
       "title": "From copilot to autopilot: Exploring agentic AI’s impact on treasury",
@@ -725,145 +869,6 @@
         "melio launches",
         "agentic",
         "payment network"
-      ]
-    },
-    {
-      "id": "608329876",
-      "title": "SpaceX wins bullish recommendations from Wall Street banks",
-      "summary": "Morgan Stanley gives Musk’s AI and rocket stock $300 price target as quiet period ends following record IPO",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ea0a1a37-75a0-4658-93c1-d58bccaacf2b",
-      "date": "2026-07-07",
-      "category": "Trading",
-      "tags": [
-        "spacex",
-        "wall street",
-        "morgan stanley"
-      ]
-    },
-    {
-      "id": "852791116",
-      "title": "AI Gives Every Purchase Its Own Credit Decision",
-      "summary": "For most of the history of financial services, credit functioned as a blunt instrument. A bank extended a line, a customer drew on it and borrowing remained separate from spending. The amount borrowed determined the terms, while what customers actually purchased was irrelevant. T…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-gives-every-purchase-its-own-credit-decision/",
-      "date": "2026-07-07",
-      "category": "Banking",
-      "tags": [
-        "ai gives",
-        "every purchase",
-        "its own"
-      ]
-    },
-    {
-      "id": "160775143",
-      "title": "Agentic AI ambitions in Singapore run into legacy systems and data quality gaps",
-      "summary": "Singapore’s enterprise AI adoption is moving faster than the data infrastructure required to support it, according to a new Confluent report that points to a widening gap between experimentation and production readiness. The company’s 2026 Data Streaming Report found that 78 per …",
-      "source": "e27",
-      "url": "https://e27.co/agentic-ai-ambitions-in-singapore-run-into-legacy-systems-and-data-quality-gaps-20260707/",
-      "date": "2026-07-07",
-      "category": "Banking",
-      "tags": [
-        "agentic ai",
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "733514443",
-      "title": "FCA’s AI review points to Regulatory Intelligence as next competitive advantage",
-      "summary": "Today’s Mills Review on AI in retail financial services reveals that the industry's primary challeng...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32198/fcas-ai-review-points-to-regulatory-intelligence-as-next-competitive-advantage?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-06",
-      "category": "Banking",
-      "tags": [
-        "fca",
-        "ai",
-        "regulatory intelligence"
-      ]
-    },
-    {
-      "id": "35914817",
-      "title": "An AI Trained on Wall Street’s Own Data Just Beat GPT",
-      "summary": "General-purpose AI models have been trained on enormous volumes of public financial data. What they cannot replicate is the judgment an experienced investment analyst builds over years — which signals matter, which documents are worth reading and how to separate the relevant from…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/an-ai-trained-on-wall-streets-own-data-just-beat-gpt/",
-      "date": "2026-07-06",
-      "category": "Banking",
-      "tags": [
-        "an ai",
-        "trained",
-        "wall street"
-      ]
-    },
-    {
-      "id": "947897179",
-      "title": "From Digital-First to AI-First: The Shift Banks Can No Longer Defer",
-      "summary": "For more than two decades, banking technology has been shaped by one ambition: make execution faster...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32192/from-digital-first-to-ai-first-the-shift-banks-can-no-longer-defer?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-06",
-      "category": "Banking",
-      "tags": [
-        "from digital",
-        "first",
-        "ai"
-      ]
-    },
-    {
-      "id": "616335126",
-      "title": "When AI agents start acting on our behalf, security gets more complicated",
-      "summary": "For many Southeast Asian businesses, the promise of AI agents is easy to understand. A bank wants to resolve customer issues faster. A hospital wants to reduce administrative load. An e-commerce platform wants to automate repetitive inquiries from sellers. A logistics company wan…",
-      "source": "e27",
-      "url": "https://e27.co/when-ai-agents-start-acting-on-our-behalf-security-gets-more-complicated-20260702/",
-      "date": "2026-07-06",
-      "category": "Banking",
-      "tags": [
-        "when ai",
-        "southeast asian",
-        "ai"
-      ]
-    },
-    {
-      "id": "856029996",
-      "title": "Starling to axe 130 jobs as part of automation drive",
-      "summary": "UK challenger bank Starling has announced plans to cut more than 100 jobs as part of an efficiency drive.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48039/starling-to-axe-130-jobs-as-part-of-automation-drive?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-03",
-      "category": "Banking",
-      "tags": [
-        "starling",
-        "uk"
-      ]
-    },
-    {
-      "id": "649089760",
-      "title": "Monetary Authority of Singapore and banks team on safeguards for AI agents",
-      "summary": "The Monetary Authority of Singapore (MAS), together with leading financial institutions and FinTechs, today published an industry white paper on developing safeguards for AI agents in Finance.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110344/monetary-authority-of-singapore-and-banks-team-on-safeguards-for-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-03",
-      "category": "RegTech",
-      "tags": [
-        "monetary authority",
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "314341503",
-      "title": "geoSurge Raises $12 Million to Help Brands Secure AI Visibility",
-      "summary": "geoSurge raised $12 million in a seed round to help brands shape how they are seen in generative artificial intelligence systems such as ChatGPT, Gemini and Claude. The company was founded just over a year ago and now supports customers across four continents and multiple industr…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/geosurge-raises-12-million-to-help-brands-secure-ai-visibility/",
-      "date": "2026-07-03",
-      "category": "Banking",
-      "tags": [
-        "raises",
-        "million",
-        "help brands"
       ]
     }
   ]
