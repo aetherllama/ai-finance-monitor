@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-07-15T09:11:40Z",
+  "last_updated": "2026-07-15T20:14:28Z",
   "insights": {
     "risks": [
-      "Regulatory: The Nvidia clampdown is a warning for Southeast Asia’s AI boom — review compliance obligations.",
+      "Regulatory: Paytia lets AI agents take card payments — without the card ever reaching the AI — review compliance obligations.",
       "Trading risk: Wall Street banks smash records on stock trading boom — assess algorithmic exposure.",
-      "Operational: Halo Fund leads $70M investment into AI-native private banking platform Flex — evaluate model governance gaps."
+      "Operational: Dan Ives and Trump family-linked securities group launch AI bank, because why not? — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Halo Fund leads $70M investment into AI-native private banking platform Flex — cost reduction opportunity."
+      "Banking efficiency: Dan Ives and Trump family-linked securities group launch AI bank, because why not? — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
-    },
-    {
-      "topic": "Automation",
-      "count": 3
+      "count": 10
     },
     {
       "topic": "Customer Service AI",
+      "count": 2
+    },
+    {
+      "topic": "Automation",
       "count": 2
     },
     {
@@ -33,6 +33,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "357602531",
+      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?",
+      "summary": "Ives and Yorkville. Name a more iconic duo",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "dan ives",
+        "trump",
+        "ai"
+      ]
+    },
+    {
+      "id": "769124618",
+      "title": "UK government backs financial services AI adoption plan",
+      "summary": "The UK government has welcomed a 10-point artificial intelligence adoption plan for financial services put together by executives from Starling Bank and Lloyds.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48101/uk-government-backs-financial-services-ai-adoption-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "uk",
+        "ai",
+        "the uk"
+      ]
+    },
+    {
+      "id": "124073561",
+      "title": "Paytia lets AI agents take card payments — without the card ever reaching the AI",
+      "summary": "Businesses are putting AI agents on the phone and in chat faster than their compliance teams can keep up.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110426/paytia-lets-ai-agents-take-card-payments--without-the-card-ever-reaching-the-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-15",
+      "category": "RegTech",
+      "tags": [
+        "paytia",
+        "ai",
+        "ai businesses"
+      ]
+    },
     {
       "id": "859909758",
       "title": "Halo Fund leads $70M investment into AI-native private banking platform Flex",
@@ -826,48 +868,6 @@
         "meniga",
         "ai",
         "fini"
-      ]
-    },
-    {
-      "id": "661073358",
-      "title": "BlockAPT launches AI-powered cyber defence for SMEs",
-      "summary": "Cyber defence firm BlockAPT has launched Pivotra AI Essential, an AI-powered cyber defence solution built specifically for small and medium-sized enterprises (SME) in the financial services space to help them keep up and stay protected in the era of machine-speed cyber threats.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110365/blockapt-launches-ai-powered-cyber-defence-for-smes?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-08",
-      "category": "Banking",
-      "tags": [
-        "blockapt",
-        "ai",
-        "smes cyber"
-      ]
-    },
-    {
-      "id": "104437829",
-      "title": "Building the AI-First Bank: Why the CIO Agenda Must Move Beyond Channels",
-      "summary": "The banking industry has spent years perfecting the digital channel. Mobile apps became cleaner. Web...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32223/building-the-ai-first-bank-why-the-cio-agenda-must-move-beyond-channels?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-08",
-      "category": "Banking",
-      "tags": [
-        "building",
-        "ai",
-        "first bank"
-      ]
-    },
-    {
-      "id": "496503685",
-      "title": "AI Automation for Tax Compliance: A Governance-First Framework for the Intelligent Tax Function",
-      "summary": "Tax compliance is undergoing a structural transformation. Historically, tax functions have relied on...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32222/ai-automation-for-tax-compliance-a-governance-first-framework-for-the-intelligent-tax-function?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-08",
-      "category": "RegTech",
-      "tags": [
-        "ai automation",
-        "tax compliance",
-        "governance"
       ]
     }
   ]
