@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-14T20:15:56Z",
+  "last_updated": "2026-07-15T09:11:40Z",
   "insights": {
     "risks": [
-      "Regulatory: Narmi releases AI to streamline account opening for communitty banks and credit unions — review compliance obligations.",
+      "Regulatory: The Nvidia clampdown is a warning for Southeast Asia’s AI boom — review compliance obligations.",
       "Trading risk: Wall Street banks smash records on stock trading boom — assess algorithmic exposure.",
-      "Operational: Visa unveils AI assistant for banking apps — evaluate model governance gaps."
+      "Operational: Halo Fund leads $70M investment into AI-native private banking platform Flex — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AIQ Markets Pilots AI Bond Platform with MarketAxess — potential infrastructure advantage.",
-      "Banking efficiency: Visa unveils AI assistant for banking apps — cost reduction opportunity."
+      "Banking efficiency: Halo Fund leads $70M investment into AI-native private banking platform Flex — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Automation",
@@ -34,6 +33,132 @@
     }
   ],
   "articles": [
+    {
+      "id": "859909758",
+      "title": "Halo Fund leads $70M investment into AI-native private banking platform Flex",
+      "summary": "Flex today announced a $70 million Series B1, led by Ryan Smith and Ryan Sweeney’s Halo Fund with participation from Portage Ventures, Wellington, Crosslink Capital, 53 Stations, Titanium Ventures, Spice, Florida Funders, Spice, and others.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110421/halo-fund-leads-70m-investment-into-ai-native-private-banking-platform-flex?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "halo fund",
+        "ai",
+        "flex flex"
+      ]
+    },
+    {
+      "id": "361151133",
+      "title": "THE TRUST ARCHITECTURE FOR AGENTIC AI",
+      "summary": "Implementing Governance, Auditability, and Deterministic Guardrails in Core Banking Executive Summar...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32280/the-trust-architecture-for-agentic-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "the trust",
+        "architecture for",
+        "agentic ai"
+      ]
+    },
+    {
+      "id": "743921734",
+      "title": "LEAPFROGGING THE LEGACY: How Agentic AI Orchestration is Rewriting Retail Banking CX for Gen Z",
+      "summary": "Executive Summary: For large institutions navigating complex consumer banking modernization programs...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32277/leapfrogging-the-legacy-how-agentic-ai-orchestration-is-rewriting-retail-banking-cx-for-gen-z?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "leapfrogging the",
+        "legacy",
+        "how agentic"
+      ]
+    },
+    {
+      "id": "881511398",
+      "title": "Fed’s Bowman Says Tailored AI Supervision Drives Financial Inclusion",
+      "summary": "Federal Reserve supervision should not hinder banks’ implementation of artificial intelligence (AI), because the technology can contribute to financial inclusion, Federal Reserve Vice Chair for Supervision Michelle W. Bowman said Tuesday (July 14). In a speech delivered via pre-r…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/feds-bowman-says-tailored-ai-supervision-drives-financial-inclusion/",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "fed",
+        "bowman says",
+        "tailored ai"
+      ]
+    },
+    {
+      "id": "697478723",
+      "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
+      "summary": "Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is increasingly being treate…",
+      "source": "e27",
+      "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/",
+      "date": "2026-07-15",
+      "category": "RegTech",
+      "tags": [
+        "the nvidia",
+        "southeast asia",
+        "ai"
+      ]
+    },
+    {
+      "id": "582570847",
+      "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
+      "summary": "Google said active users of its Gemini app in Southeast Asia have more than doubled over the past year, with adoption in the region outpacing any previous Google app launch, according to the company’s first Gemini Southeast Asia Report 2026 . The report covers six of Gemini’s lar…",
+      "source": "e27",
+      "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "gemini",
+        "sea",
+        "ai"
+      ]
+    },
+    {
+      "id": "836002965",
+      "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
+      "summary": "Singapore isn t just punching above its weight in Southeast Asia s tech race; it s rewriting the scoreboard entirely. In the past 18 months alone, 21 startups headquartered in the Lion City have collectively pulled in nearly US$15.7 billion in equity funding, a figure that rivals…",
+      "source": "e27",
+      "url": "https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "inside singapore",
+        "singapore",
+        "southeast asia"
+      ]
+    },
+    {
+      "id": "588060137",
+      "title": "The Bangko Sentral ng Pilipinas (BSP) has issued governance principles for financial institutions adopting artificial intelligence (AI).",
+      "summary": "The Bangko Sentral ng Pilipinas (BSP) has issued governance principles for financial institutions adopting artificial intelligence (AI).",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/news/bsp-unveils-ai-rules-philippine-banks-and-vendors",
+      "date": "2026-07-15",
+      "category": "Banking",
+      "tags": [
+        "the bangko",
+        "sentral",
+        "pilipinas"
+      ]
+    },
+    {
+      "id": "153787871",
+      "title": "Only 1 in 4 (25%) of financial institutions in Malaysia would make decisions based on outputs generated by artificial intelligence (AI), according to a joint study by the Asia Institution of Chartered Bankers (AICB), the research firm Ecosystm, and AICB's Chief Risk Officers' Forum.",
+      "summary": "Only 1 in 4 (25%) of financial institutions in Malaysia would make decisions based on outputs generated by artificial intelligence (AI), according to a joint study by the Asia Institution of Chartered Bankers (AICB), the research firm Ecosystm, and AICB's Chief Risk Officers' Forum.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/in-focus/only-1-in-4-malaysian-banks-trust-ai-outputs-decisions-study",
+      "date": "2026-07-14",
+      "category": "Banking",
+      "tags": [
+        "only",
+        "malaysia",
+        "ai"
+      ]
+    },
     {
       "id": "237990385",
       "title": "Wall Street banks smash records on stock trading boom",
@@ -743,132 +868,6 @@
         "ai automation",
         "tax compliance",
         "governance"
-      ]
-    },
-    {
-      "id": "973392138",
-      "title": "Pay Later Credit Option May Have to Win Over the Algorithm First",
-      "summary": "Artificial intelligence (AI) is beginning to influence a part of commerce that has traditionally belonged to consumers: choosing how to pay. For years, Pay Later providers competed for attention at checkout through marketing, merchant placement and promotional financing. New PYMN…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/consumer-insights/2026/pay-later-credit-option-may-have-to-win-over-the-algorithm-first/",
-      "date": "2026-07-08",
-      "category": "Banking",
-      "tags": [
-        "pay later",
-        "credit option",
-        "may have"
-      ]
-    },
-    {
-      "id": "166138552",
-      "title": "42% of Issuers Say AI Has Cut Fraud Losses by at Least $5 Million",
-      "summary": "Payments used to be judged by whether they moved money quickly. Now they are judged by how well they make decisions before, during and after a transaction. The PYMNTS Intelligence report “Where Payment Decisions Happen: How Issuer Data Is Powering the Next Era of Commerce,” a col…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/42-percent-of-issuers-say-ai-has-cut-fraud-losses-by-at-least-5-million/",
-      "date": "2026-07-08",
-      "category": "Payments",
-      "tags": [
-        "issuers say",
-        "ai has",
-        "cut fraud"
-      ]
-    },
-    {
-      "id": "587106105",
-      "title": "Singapore’s AI adoption problem is not worker resistance, but weak execution",
-      "summary": "Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per …",
-      "source": "e27",
-      "url": "https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/",
-      "date": "2026-07-08",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "salesforce"
-      ]
-    },
-    {
-      "id": "581633402",
-      "title": "The vision-based shift: Transforming construction safety with AI",
-      "summary": "There is a camera pointed at almost every corner of a modern Singapore construction site. Drones are flying scheduled routes overhead. IoT sensors on entry points track who comes and goes. Site conditions are continuously captured and uploaded to project management platforms. All…",
-      "source": "e27",
-      "url": "https://e27.co/the-vision-based-shift-transforming-construction-safety-with-ai-20260706/",
-      "date": "2026-07-08",
-      "category": "Banking",
-      "tags": [
-        "transforming",
-        "ai there",
-        "singapore"
-      ]
-    },
-    {
-      "id": "696859580",
-      "title": "Central Asian AI Infrastructure: Why Freedom Holding, NVIDIA, and Citi Are Partnering in Kazakhstan",
-      "summary": "Quick Answer: The competitive advantage in modern financial markets is rapidly shifting from front-e...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32219/central-asian-ai-infrastructure-why-freedom-holding-nvidia-and-citi-are-partnering-in-kazakhstan?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-07",
-      "category": "Banking",
-      "tags": [
-        "central asian",
-        "ai infrastructure",
-        "why freedom"
-      ]
-    },
-    {
-      "id": "105695110",
-      "title": "ECB tells banks to submit plans to address AI cyber threats",
-      "summary": "The European Central Bank has told banks to draw up action plans to address AI-enabled cyber threats, warning that emerging models such as Anthropic's Mythos have \"potentially profound implications\" for the resilience of IT system.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48049/ecb-tells-banks-to-submit-plans-to-address-ai-cyber-threats?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-07",
-      "category": "Banking",
-      "tags": [
-        "ecb",
-        "ai",
-        "the european"
-      ]
-    },
-    {
-      "id": "558457535",
-      "title": "ThetaRay hires Santander compliance chief Luis Pinedo",
-      "summary": "ThetaRay, a leader in AI infrastructure for financial crime compliance, today announced the appointment of Luis Pinedo as Chief Strategic Customers Officer.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110358/thetaray-hires-santander-compliance-chief-luis-pinedo?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-07",
-      "category": "RegTech",
-      "tags": [
-        "thetaray",
-        "santander",
-        "luis pinedo"
-      ]
-    },
-    {
-      "id": "625590355",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, wit…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "date": "2026-07-07",
-      "category": "Banking",
-      "tags": [
-        "the download",
-        "openai",
-        "treasury"
-      ]
-    },
-    {
-      "id": "736768157",
-      "title": "Melio Launches Agentic B2B Payment Network for US SMBs",
-      "summary": "The Xero-owned AP platform says its AI agents can pay suppliers directly through their AR systems, removing the need for supplier onboarding. The post Melio Launches Agentic B2B Payment Network for US SMBs appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/melio-launches-agentic-b2b-payment-network-for-us-smbs/",
-      "date": "2026-07-07",
-      "category": "Payments",
-      "tags": [
-        "melio launches",
-        "agentic",
-        "payment network"
       ]
     }
   ]
