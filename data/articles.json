@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-07-17T09:12:32Z",
+  "last_updated": "2026-07-17T20:08:47Z",
   "insights": {
     "risks": [
-      "Regulatory: The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway — review compliance obligations.",
+      "Regulatory: California Tightens Scrutiny of AI Hiring Tools Amid Reports of Racial Bias — review compliance obligations.",
       "Trading risk: The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs — assess algorithmic exposure.",
-      "Operational: The fatwa lag: How AI is overtaking the system designed to govern Islamic finance — evaluate model governance gaps."
+      "Operational: Accuracy Is the Wrong Scoreboard for AI in Finance — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents — potential infrastructure advantage.",
-      "Banking efficiency: The fatwa lag: How AI is overtaking the system designed to govern Islamic finance — cost reduction opportunity.",
+      "Banking efficiency: Accuracy Is the Wrong Scoreboard for AI in Finance — cost reduction opportunity.",
       "InsurTech: UnitedHealth Says AI Now Runs Every Function of Its Business — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Customer Service AI",
@@ -35,6 +35,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "665035364",
+      "title": "Accuracy Is the Wrong Scoreboard for AI in Finance",
+      "summary": "Every institution now measures its models by \"accuracy,\" and the number is almost always",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32313/accuracy-is-the-wrong-scoreboard-for-ai-in-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-17",
+      "category": "Banking",
+      "tags": [
+        "accuracy is",
+        "wrong scoreboard",
+        "ai"
+      ]
+    },
+    {
+      "id": "695318569",
+      "title": "Britain won’t regulate its way to AI leadership – it’s up to banks to take the first steps",
+      "summary": "Every UK bank says it’s ‘exploring AI’. But in reality, most mean they’re ‘waiting for permission’. ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32311/britain-wont-regulate-its-way-to-ai-leadership--its-up-to-banks-to-take-the-first-steps?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-17",
+      "category": "Banking",
+      "tags": [
+        "britain",
+        "ai",
+        "every uk"
+      ]
+    },
+    {
+      "id": "984188028",
+      "title": "FIS Deploys Anthropic’s Mythos 5 to Strengthen Global Financial Infrastructure",
+      "summary": "FIS has joined Anthropic’s Project Glasswing and is using the artificial intelligence company’s most advanced frontier model, Mythos 5, to secure its own systems. Project Glasswing is Anthropic’s initiative that allows select organizations that build or maintain foundational soft…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fis-deploys-anthropics-mythos-5-to-strengthen-global-financial-infrastructure/",
+      "date": "2026-07-17",
+      "category": "Banking",
+      "tags": [
+        "fis deploys",
+        "anthropic",
+        "mythos"
+      ]
+    },
+    {
+      "id": "544134588",
+      "title": "California Tightens Scrutiny of AI Hiring Tools Amid Reports of Racial Bias",
+      "summary": "California employers that use artificial intelligence (AI) to screen job candidates face an increasingly complex compliance landscape as state regulators clarify that existing anti-discrimination laws apply fully to automated decision systems (ADS). At the same time, lawmakers ar…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/california-tightens-scrutiny-of-ai-hiring-tools-amid-reports-of-racial-bias/",
+      "date": "2026-07-17",
+      "category": "RegTech",
+      "tags": [
+        "california tightens",
+        "scrutiny",
+        "ai hiring"
+      ]
+    },
+    {
+      "id": "415698325",
+      "title": "CMBI, SMBC back Whale’s US$40M Series C extension for enterprise AI expansion",
+      "summary": "Singapore-headquartered enterprise AI company Whale has raised a US$40 million extension to its Series C round, bringing the total Series C financing to US$100 million, as it looks to expand deployments across Asia Pacific and North America. The extension was led by CMB Internati…",
+      "source": "e27",
+      "url": "https://e27.co/cmbi-smbc-back-whales-us40m-series-c-extension-for-enterprise-ai-expansion-20260717/",
+      "date": "2026-07-17",
+      "category": "Banking",
+      "tags": [
+        "cmbi",
+        "smbc",
+        "whale"
+      ]
+    },
     {
       "id": "276106545",
       "title": "UnitedHealth Says AI Now Runs Every Function of Its Business",
@@ -801,75 +871,6 @@
         "jpmorgan ai",
         "agents beat",
         "traditional investment"
-      ]
-    },
-    {
-      "id": "623547405",
-      "title": "AI Chipmaker SK hynix Secures $26.5 Billion to Boost Capacity",
-      "summary": "South Korean memory chipmaker SK hynix raised $26.5 billion in its U.S. market debut Friday (July 10), completing the largest-ever U.S. listing by a foreign company, the Financial Times reported Friday. The company’s U.S. market debut followed a first quarter in which SK hynix sa…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/ai-chipmaker-sk-hynix-secures-26-5-billion-to-boost-capacity/",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "ai chipmaker",
-        "sk",
-        "secures"
-      ]
-    },
-    {
-      "id": "688336753",
-      "title": "OpenAI and Google sell AI models to blacklisted China groups",
-      "summary": "US groups have been supplying AI services to Singapore-based subsidiaries of Alibaba, Baidu and Tencent",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5d6aafa1-5d47-4585-aa95-6ec06a6cd20f",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "openai",
-        "google",
-        "ai"
-      ]
-    },
-    {
-      "id": "656154761",
-      "title": "Why AI could be a financial ‘sludge’ buster",
-      "summary": "Regulators want to use the technology in their bid to cut red tape",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/da32dec7-bec6-483a-9595-18a3e9575a3f",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "why ai",
-        "regulators"
-      ]
-    },
-    {
-      "id": "575324733",
-      "title": "AI investing startup GIM raises $20 million",
-      "summary": "Grace Investment Machine (GIM) has raised $20 million in Series A funding to build agentic systems for capital markets.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48066/ai-investing-startup-gim-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "gim",
-        "grace investment"
-      ]
-    },
-    {
-      "id": "984906626",
-      "title": "Is AI The 'Wingman' Data Needed?",
-      "summary": "At EBAday in Copenhagen, Lauran Macare, Head of Data and Risk, Payments Technology, Natwest, spoke to FinextraTV about a panel she featured on surrounding payments innovation. Macare referred to AI as the 'wingman' that data needed to ensure its importance within payment agendas,…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3561/is-ai-the-wingman-data-needed?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-10",
-      "category": "Payments",
-      "tags": [
-        "is ai",
-        "wingman",
-        "data needed"
       ]
     }
   ]
