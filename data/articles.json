@@ -1,14 +1,15 @@
 {
-  "last_updated": "2026-07-16T20:04:30Z",
+  "last_updated": "2026-07-17T09:12:32Z",
   "insights": {
     "risks": [
       "Regulatory: The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway — review compliance obligations.",
       "Trading risk: The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs — assess algorithmic exposure.",
-      "Operational: The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix — evaluate model governance gaps."
+      "Operational: The fatwa lag: How AI is overtaking the system designed to govern Islamic finance — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents — potential infrastructure advantage.",
-      "Banking efficiency: The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix — cost reduction opportunity."
+      "Banking efficiency: The fatwa lag: How AI is overtaking the system designed to govern Islamic finance — cost reduction opportunity.",
+      "InsurTech: UnitedHealth Says AI Now Runs Every Function of Its Business — underwriting modernisation potential."
     ]
   },
   "trending": [
@@ -34,6 +35,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "276106545",
+      "title": "UnitedHealth Says AI Now Runs Every Function of Its Business",
+      "summary": "Every claim UnitedHealth processes, every prior authorization it reviews and every patient interaction it handles now runs through artificial intelligence (AI). The company is turning that internal overhaul into a commercial product line. “Virtually everything that we do, we see …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/unitedhealths-ai-runs-every-function-of-its-business/",
+      "date": "2026-07-17",
+      "category": "InsurTech",
+      "tags": [
+        "unitedhealth says",
+        "ai now",
+        "runs every"
+      ]
+    },
+    {
+      "id": "153456644",
+      "title": "The fatwa lag: How AI is overtaking the system designed to govern Islamic finance",
+      "summary": "A sharia bank in Jakarta asked me last quarter whether their new credit scoring model needed Sharia Supervisory Board review. They had deployed it three months earlier, trained on five years of their own portfolio data, and were preparing to roll it out across their consumer fina…",
+      "source": "e27",
+      "url": "https://e27.co/the-fatwa-lag-how-ai-is-overtaking-the-system-designed-to-govern-islamic-finance-20260713/",
+      "date": "2026-07-17",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "islamic",
+        "jakarta"
+      ]
+    },
+    {
+      "id": "571777322",
+      "title": "Mitsubishi UFJ Financial Group (MUFG) and its subsidiary MUFG Bank are investing into Noetra Corp., an artificial intelligence (AI) research and development company.",
+      "summary": "Mitsubishi UFJ Financial Group (MUFG) and its subsidiary MUFG Bank are investing into Noetra Corp., an artificial intelligence (AI) research and development company.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/news/mufg-invests-in-noetra-back-japans-ai-model-push",
+      "date": "2026-07-17",
+      "category": "Banking",
+      "tags": [
+        "mitsubishi ufj",
+        "financial group",
+        "mufg"
+      ]
+    },
+    {
+      "id": "694751842",
+      "title": "AI Will Soon Generate Thousands of Financial Apps in Minutes, But That Won’t Be Enough",
+      "summary": "Every bank will soon be able to generate a polished digital product in minutes. A new onboarding flo...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32234/ai-will-soon-generate-thousands-of-financial-apps-in-minutes-but-that-wont-be-enough?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-16",
+      "category": "Banking",
+      "tags": [
+        "ai will",
+        "soon generate",
+        "thousands"
+      ]
+    },
     {
       "id": "507859735",
       "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
@@ -813,62 +870,6 @@
         "is ai",
         "wingman",
         "data needed"
-      ]
-    },
-    {
-      "id": "976470008",
-      "title": "AI is reshaping Singapore wealth management, but not replacing the adviser",
-      "summary": "Singapore’s mass affluent and high-net-worth investors are using artificial intelligence (AI) for finance and investment at a higher rate than their global peers, but most still want a human adviser involved before they act. A new HSBC study conducted by Ipsos found that 76 per c…",
-      "source": "e27",
-      "url": "https://e27.co/ai-is-reshaping-singapore-wealth-management-but-not-replacing-the-adviser-20260710/",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "singapore",
-        "hsbc"
-      ]
-    },
-    {
-      "id": "157924047",
-      "title": "The fraud officer in Yogyakarta won’t catch the AI wave, and most ASEAN institutions don’t know it yet",
-      "summary": "The fraud officer I sat with in Yogyakarta last month had spent eleven years catching counterfeit invoices, suspicious wire transfers, and informal collusion patterns at a regional bank s branch network. She is exceptionally good at her job. She has also spent the last three week…",
-      "source": "e27",
-      "url": "https://e27.co/the-fraud-officer-in-yogyakarta-wont-catch-the-ai-wave-and-most-asean-institutions-dont-know-it-yet-20260709/",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "yogyakarta",
-        "ai",
-        "asean"
-      ]
-    },
-    {
-      "id": "213898202",
-      "title": "Axos Aims to Expand AI-Powered Financial Services With Arc Acquisition",
-      "summary": "Axos Financial subsidiary Axos Nevada Holding plans to acquire Arc Technologies to expand Axos’ artificial intelligence capabilities and enhance its ability to serve small businesses across the United States. The companies have entered into a definitive agreement for the acquisit…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/axos-aims-to-expand-ai-powered-financial-services-with-arc-acquisition/",
-      "date": "2026-07-09",
-      "category": "Banking",
-      "tags": [
-        "axos aims",
-        "expand ai",
-        "powered financial"
-      ]
-    },
-    {
-      "id": "540482964",
-      "title": "AI-based fincrime startup Tangos raises $20 million",
-      "summary": "Financial crime prevention platform Tangos AI has closed a $20 million seed financing round led by Red Dot Capital Partners, with participation from Leaders Fund, Clarim Ventures, VentureIsrael, Signal Fire, Clutch Capital and Selah Ventures and a strategic investment by Bright D…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48062/ai-based-fincrime-startup-tangos-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-09",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "tangos",
-        "financial"
       ]
     }
   ]
