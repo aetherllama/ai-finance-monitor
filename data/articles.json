@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-07-17T20:08:47Z",
+  "last_updated": "2026-07-18T08:51:15Z",
   "insights": {
     "risks": [
       "Regulatory: California Tightens Scrutiny of AI Hiring Tools Amid Reports of Racial Bias — review compliance obligations.",
       "Trading risk: The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs — assess algorithmic exposure.",
-      "Operational: Accuracy Is the Wrong Scoreboard for AI in Finance — evaluate model governance gaps."
+      "Operational: Asia AI bets power record equities run for Wall Street banks — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents — potential infrastructure advantage.",
-      "Banking efficiency: Accuracy Is the Wrong Scoreboard for AI in Finance — cost reduction opportunity.",
+      "Banking efficiency: Asia AI bets power record equities run for Wall Street banks — cost reduction opportunity.",
       "InsurTech: UnitedHealth Says AI Now Runs Every Function of Its Business — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -35,6 +35,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "895873287",
+      "title": "Asia AI bets power record equities run for Wall Street banks",
+      "summary": "Investments in semiconductors fuel growth in regional revenues for US banks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
+      "date": "2026-07-18",
+      "category": "Banking",
+      "tags": [
+        "asia ai",
+        "wall street",
+        "investments"
+      ]
+    },
     {
       "id": "665035364",
       "title": "Accuracy Is the Wrong Scoreboard for AI in Finance",
@@ -857,20 +871,6 @@
         "big tech",
         "doubles down",
         "ai infrastructure"
-      ]
-    },
-    {
-      "id": "228911816",
-      "title": "JPMorgan AI Agents Beat Traditional Investment Portfolios in Historical Simulations",
-      "summary": "JPMorgan Chase Co. tested artificial intelligence (AI) agents that allocate capital between stocks in response to changing market conditions, and it found that all eight agents beat both the traditional 60/40 portfolio and the bank’s own rules-based market regime model, Bloomberg…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jpmorgan-ai-agents-beat-traditional-investment-portfolios-in-historical-simulations/",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "jpmorgan ai",
-        "agents beat",
-        "traditional investment"
       ]
     }
   ]
