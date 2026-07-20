@@ -1,29 +1,23 @@
 {
-  "last_updated": "2026-07-20T10:16:06Z",
+  "last_updated": "2026-07-20T20:24:39Z",
   "insights": {
     "risks": [
-      "Regulatory: California Tightens Scrutiny of AI Hiring Tools Amid Reports of Racial Bias — review compliance obligations.",
       "Trading risk: Portfolio construction in the shadow of the AI bubble — assess algorithmic exposure.",
-      "Operational: Morgan Stanley cashes in on AI boom with debt deals — evaluate model governance gaps."
+      "Operational: Is Treasury Ready for Agentic AI? Rethinking Control in an Era of Autonomous Execution — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: HSBC joins EPAA agentic AI working group as founding member — potential infrastructure advantage.",
-      "Banking efficiency: Morgan Stanley cashes in on AI boom with debt deals — cost reduction opportunity.",
-      "InsurTech: UnitedHealth Says AI Now Runs Every Function of Its Business — underwriting modernisation potential."
+      "Payments: The Impact of AI and Other New Technologies on Payment Hubs — potential infrastructure advantage.",
+      "Banking efficiency: Is Treasury Ready for Agentic AI? Rethinking Control in an Era of Autonomous Execution — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 15
     },
     {
       "topic": "Automation",
       "count": 4
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 2
     },
     {
       "topic": "Portfolio Management",
@@ -31,6 +25,10 @@
     },
     {
       "topic": "Risk Management",
+      "count": 1
+    },
+    {
+      "topic": "Customer Service AI",
       "count": 1
     },
     {
@@ -43,6 +41,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "988290916",
+      "title": "The Impact of AI and Other New Technologies on Payment Hubs",
+      "summary": "Joining the FinextraTV studio at EBADay 2026 in Copenhagen, Peter Reynolds, CEO, Otoma to share his insights on AI and vendor dependence. Reynolds began by questioning whether banks were using AI in the best areas, suggesting there could be areas such as forecasting, infrastructu…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3569/the-impact-of-ai-and-other-new-technologies-on-payment-hubs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-20",
+      "category": "Payments",
+      "tags": [
+        "the impact",
+        "ai",
+        "other new"
+      ]
+    },
+    {
+      "id": "707518120",
+      "title": "Is Treasury Ready for Agentic AI? Rethinking Control in an Era of Autonomous Execution",
+      "summary": "By Tom Gregory, Head of Treasury Management, Merchant and Government Banking, TD Bank U.S. Treasury ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32326/is-treasury-ready-for-agentic-ai-rethinking-control-in-an-era-of-autonomous-execution?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-20",
+      "category": "Banking",
+      "tags": [
+        "is treasury",
+        "ready",
+        "agentic ai"
+      ]
+    },
+    {
+      "id": "336528035",
+      "title": "Governing Agentic AI Workflows: Ensuring Accountability and Traceability in Banking",
+      "summary": "Banks are beginning to move beyond AI models that only score, classify, or recommend. The next wave ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32325/governing-agentic-ai-workflows-ensuring-accountability-and-traceability-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-20",
+      "category": "Banking",
+      "tags": [
+        "governing agentic",
+        "ai workflows",
+        "ensuring accountability"
+      ]
+    },
+    {
+      "id": "16500107",
+      "title": "The AI Agent Is Authorised. The Payment Can Still Be Wrong.",
+      "summary": "Agentic commerce has reached checkout. Yet much of its control architecture still stops at permissio...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32324/the-ai-agent-is-authorised-the-payment-can-still-be-wrong?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-20",
+      "category": "Payments",
+      "tags": [
+        "the ai",
+        "agent is",
+        "authorised"
+      ]
+    },
+    {
+      "id": "92934248",
+      "title": "Natural Raises $30 Million to Build Payment Rails for AI Agents",
+      "summary": "Natural, a year-old company that is building a foundational payment stack for artificial intelligence agents, raised $30 million in a Series A funding round. The round brings Natural’s total funding to more than $40 million, the company said in a Monday (July 20) press release. T…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/natural-raises-30-million-to-build-payment-rails-for-ai-agents/",
+      "date": "2026-07-20",
+      "category": "Payments",
+      "tags": [
+        "natural raises",
+        "million",
+        "build payment"
+      ]
+    },
     {
       "id": "110566117",
       "title": "Morgan Stanley cashes in on AI boom with debt deals",
@@ -809,76 +877,6 @@
         "singapore",
         "taiwan",
         "hard"
-      ]
-    },
-    {
-      "id": "972638993",
-      "title": "Over 3 in 4 or 76% of Singapore’s mass affluent and high net worth (HNW) investors admit to using artificial intelligence (AI) for finance and investments—but look to advisors to affirm these insights before making investment decisions, according to a study by HSBC.",
-      "summary": "Over 3 in 4 or 76% of Singapore’s mass affluent and high net worth (HNW) investors admit to using artificial intelligence (AI) for finance and investments—but look to advisors to affirm these insights before making investment decisions, according to a study by HSBC.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/wealth-management/in-focus/ai-gains-ground-singapore-wealthy-advisors-stay-central-hsbc",
-      "date": "2026-07-13",
-      "category": "Banking",
-      "tags": [
-        "over",
-        "singapore",
-        "hnw"
-      ]
-    },
-    {
-      "id": "132990085",
-      "title": "Narmi releases AI to streamline account opening for communitty banks and credit unions",
-      "summary": "Narmi, a leading digital banking platform provider for banks and credit unions, today announced the upcoming launch of AI Decision Assist, a new agentic AI capability designed to help financial institutions automate and accelerate account opening reviews while still maintaining c…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110407/narmi-releases-ai-to-streamline-account-opening-for-communitty-banks-and-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-13",
-      "category": "RegTech",
-      "tags": [
-        "narmi",
-        "ai",
-        "ai decision"
-      ]
-    },
-    {
-      "id": "196581623",
-      "title": "Reshaping American Finance in July 2026",
-      "summary": "From government-backed child investment accounts to Plaid's IPO ambitions, AI-driven banking deals, and Klarna's travel expansion, this week's biggest fintech stories signal major shifts across finance. The post Reshaping American Finance in July 2026 appeared first on The Fintec…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/reshaping-american-finance-in-july-2026/",
-      "date": "2026-07-13",
-      "category": "Payments",
-      "tags": [
-        "reshaping american",
-        "finance",
-        "july"
-      ]
-    },
-    {
-      "id": "648805315",
-      "title": "Afternoon Wins AdviceTech Catwalk 2026 AI Competition",
-      "summary": "AI-powered advice automation platform Afternoon beat four rivals at the lang cat's annual early-stage fintech showcase, decided by two votes. The post Afternoon Wins AdviceTech Catwalk 2026 AI Competition appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/afternoon-wins-advicetech-catwalk-2026-ai-competition/",
-      "date": "2026-07-13",
-      "category": "Payments",
-      "tags": [
-        "afternoon wins",
-        "advicetech catwalk",
-        "ai competition"
-      ]
-    },
-    {
-      "id": "807724858",
-      "title": "A Chatbot Just Did an Investment Banker’s Job",
-      "summary": "When CVC Capital Partners put Greek eCommerce platform Skroutz up for sale earlier this year, it skipped investment bankers and used artificial intelligence to run the process instead, The Wall Street Journal reported. CVC sent prospective buyers a link to a data portal that func…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/a-chatbot-just-did-an-investment-bankers-job/",
-      "date": "2026-07-13",
-      "category": "Banking",
-      "tags": [
-        "chatbot just",
-        "did",
-        "investment banker"
       ]
     }
   ]
