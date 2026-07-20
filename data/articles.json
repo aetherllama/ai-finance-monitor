@@ -1,29 +1,37 @@
 {
-  "last_updated": "2026-07-19T20:08:28Z",
+  "last_updated": "2026-07-20T10:16:06Z",
   "insights": {
     "risks": [
       "Regulatory: California Tightens Scrutiny of AI Hiring Tools Amid Reports of Racial Bias — review compliance obligations.",
-      "Trading risk: The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs — assess algorithmic exposure.",
-      "Operational: Asia AI bets power record equities run for Wall Street banks — evaluate model governance gaps."
+      "Trading risk: Portfolio construction in the shadow of the AI bubble — assess algorithmic exposure.",
+      "Operational: Morgan Stanley cashes in on AI boom with debt deals — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents — potential infrastructure advantage.",
-      "Banking efficiency: Asia AI bets power record equities run for Wall Street banks — cost reduction opportunity.",
+      "Payments: HSBC joins EPAA agentic AI working group as founding member — potential infrastructure advantage.",
+      "Banking efficiency: Morgan Stanley cashes in on AI boom with debt deals — cost reduction opportunity.",
       "InsurTech: UnitedHealth Says AI Now Runs Every Function of Its Business — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Customer Service AI",
       "count": 2
+    },
+    {
+      "topic": "Portfolio Management",
+      "count": 1
+    },
+    {
+      "topic": "Risk Management",
+      "count": 1
     },
     {
       "topic": "Generative AI",
@@ -35,6 +43,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "110566117",
+      "title": "Morgan Stanley cashes in on AI boom with debt deals",
+      "summary": "Wall Street bank has emerged as chief architect of financing structures behind build-out of data centres",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
+      "date": "2026-07-20",
+      "category": "Banking",
+      "tags": [
+        "morgan stanley",
+        "ai",
+        "wall street"
+      ]
+    },
+    {
+      "id": "666376252",
+      "title": "Portfolio construction in the shadow of the AI bubble",
+      "summary": "Hard choices on all sides",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1",
+      "date": "2026-07-20",
+      "category": "Trading",
+      "tags": [
+        "portfolio",
+        "ai",
+        "hard"
+      ]
+    },
+    {
+      "id": "18293239",
+      "title": "HSBC joins EPAA agentic AI working group as founding member",
+      "summary": "The Emerging Payments Association Asia (EPAA) has launched the AI & Agentic Payments Working Group with founding member HSBC, bringing together the banks, payment networks, fintechs and technology platforms that will define the standards to make agentic commerce work safely and a…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110454/hsbc-joins-epaa-agentic-ai-working-group-as-founding-member?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-20",
+      "category": "Payments",
+      "tags": [
+        "hsbc",
+        "epaa",
+        "ai"
+      ]
+    },
+    {
+      "id": "326989798",
+      "title": "FCA’s Mills Review Casts AI as Part of the Financial System, and Asks Whether the Rules Still Fit",
+      "summary": "The FCA’s Mills Review urges the UK to prepare for AI-driven finance, with a focus on regulation, accountability and consumer protection. The post FCA’s Mills Review Casts AI as Part of the Financial System, and Asks Whether the Rules Still Fit appeared first on The Fintech Times…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fcas-mills-review-casts-ai-as-part-of-the-financial-system-and-asks-whether-the-rules-still-fit/",
+      "date": "2026-07-20",
+      "category": "Payments",
+      "tags": [
+        "fca",
+        "mills review",
+        "casts ai"
+      ]
+    },
+    {
+      "id": "399213478",
+      "title": "The Housing Market Hands More Decisions to AI",
+      "summary": "For most of the history of consumer credit, the loan decision sat with a human. That model is changing. This week in the Prompt Economy™ AI agents are now handling document review, credit scoring, risk assessment and borrower communication autonomously, compressing timelines and …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-housing-market-hands-more-decisions-to-ai/",
+      "date": "2026-07-20",
+      "category": "Banking",
+      "tags": [
+        "the housing",
+        "market hands",
+        "more decisions"
+      ]
+    },
+    {
+      "id": "355757598",
+      "title": "Velera CEO Chuck Fagan Exits With a Challenge to Credit Unions",
+      "summary": "Watch more: Need to Know With Velera’s Chuck Fagan Chuck Fagan has spent more than three decades watching technology reshape financial services. Along the way, he has seen credit unions adapt to online banking, mobile apps, digital wallets, real-time payments and now, artificial …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/credit-unions/2026/velera-chuck-fagan-exits-with-challenge-credit-unions/",
+      "date": "2026-07-20",
+      "category": "Banking",
+      "tags": [
+        "velera ceo",
+        "chuck fagan",
+        "exits with"
+      ]
+    },
+    {
+      "id": "846610406",
+      "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
+      "summary": "Artificial intelligence is no longer a distant promise for Southeast Asia; it is the single most consequential bet being made across the region s venture capital landscape. In 2025, AI startup investment in Vietnam alone surged 13-fold to US$130 million, while Singapore continued…",
+      "source": "e27",
+      "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
+      "date": "2026-07-20",
+      "category": "Banking",
+      "tags": [
+        "inside sea",
+        "ai",
+        "artificial"
+      ]
+    },
+    {
+      "id": "733447017",
+      "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
+      "summary": "Artificial intelligence innovators outside of the United States can no longer be ignored. Does it mean that your AI-focused portfolio is at risk if you haven’t looked beyond Wall Street? There’s no doubt that AI is the largest driver of growth for investors in the post-pandemic l…",
+      "source": "e27",
+      "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
+      "date": "2026-07-20",
+      "category": "Trading",
+      "tags": [
+        "should ai",
+        "chinese",
+        "artificial"
+      ]
+    },
     {
       "id": "895873287",
       "title": "Asia AI bets power record equities run for Wall Street banks",
@@ -759,118 +879,6 @@
         "chatbot just",
         "did",
         "investment banker"
-      ]
-    },
-    {
-      "id": "284515120",
-      "title": "UK banks join financial services 'Skills Compact' to prepare staff for AI revolution",
-      "summary": "The Financial Services Skills Commission has signed up to 20 financial services companies to a new 'Skills Compact' designed to prepare their workforces for the forthcoming AI revolution.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48077/uk-banks-join-financial-services-skills-compact-to-prepare-staff-for-ai-revolution?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-13",
-      "category": "Banking",
-      "tags": [
-        "uk",
-        "skills compact",
-        "ai"
-      ]
-    },
-    {
-      "id": "317915625",
-      "title": "Early AI adopters set to dominate European banking market - Visa study",
-      "summary": "Artificial intelligence will fundamentally reshape retail banking by 2030, with early adopters set to significantly outperform laggards, according to a Visa survey of European industry players.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48076/early-ai-adopters-set-to-dominate-european-banking-market---visa-study?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-13",
-      "category": "Banking",
-      "tags": [
-        "early ai",
-        "european",
-        "visa"
-      ]
-    },
-    {
-      "id": "162659038",
-      "title": "85% of CFOs Say Automation Cuts Payments Friction",
-      "summary": "Security controls are designed to stop bad payments, but new data suggested the strongest systems may be the ones customers barely notice. The PYMNTS Intelligence report “When Controls Slow Commerce: The Data Behind Middle-Market Payment Friction,” the latest installment of the 2…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/85-percent-of-cfos-say-automation-cuts-payments-friction/",
-      "date": "2026-07-13",
-      "category": "Payments",
-      "tags": [
-        "cfos say",
-        "automation cuts",
-        "payments friction"
-      ]
-    },
-    {
-      "id": "338521062",
-      "title": "Most AI pilots die in week six. Here’s what LinqAlpha does differently",
-      "summary": "LinqAlpha, the New York-headquartered AI startup building intelligence tools for institutional investors, recently raised US$22 million in a Series A round anchored by AVP, Atinum Investment, and GFT Ventures, with a notably Asia-heavy syndicate including SV Investment, Mirae Ass…",
-      "source": "e27",
-      "url": "https://e27.co/most-ai-pilots-die-in-week-six-heres-what-linqalpha-does-differently-20260713/",
-      "date": "2026-07-13",
-      "category": "Banking",
-      "tags": [
-        "most ai",
-        "here",
-        "linqalpha"
-      ]
-    },
-    {
-      "id": "268199751",
-      "title": "Apple Lawsuit Claims OpenAI is Developing AI Devices Using Stolen Tech",
-      "summary": "Apple has sued OpenAI and two of its employees, alleging that they stole trade secrets from Apple to support OpenAI’s development of devices. The OpenAI employees named in the lawsuit, Chief Hardware Officer Tang Tan and technical staff member Chang Liu, are former Apple employee…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/legal/2026/apple-lawsuit-claims-openai-is-developing-ai-devices-using-stolen-tech/",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "apple lawsuit",
-        "claims openai",
-        "developing ai"
-      ]
-    },
-    {
-      "id": "247972382",
-      "title": "AI Cracked the Mortgage Verification System",
-      "summary": "Mortgage underwriting runs on documents. Payslips, bank statements and tax returns are the evidence that lenders verify before approving a loan. Generative artificial intelligence can now produce all three in formats that pass standard checks. Australia’s mortgage market may be f…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-cracked-mortgage-verification-system/",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "ai cracked",
-        "mortgage verification",
-        "system mortgage"
-      ]
-    },
-    {
-      "id": "462634855",
-      "title": "66% of Banks Are Stuck at the AI Pilot Stage",
-      "summary": "Nearly 80% of financial institutions plan to innovate with AI in financial crime compliance by 2026 ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32243/66-of-banks-are-stuck-at-the-ai-pilot-stage?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-10",
-      "category": "RegTech",
-      "tags": [
-        "banks are",
-        "stuck",
-        "ai pilot"
-      ]
-    },
-    {
-      "id": "992257297",
-      "title": "Big Tech Doubles Down on AI Infrastructure",
-      "summary": "The five companies spending the most on artificial intelligence (AI) data centers in the United States doubled their debt load over the past five years to finance their efforts, Bloomberg reported Friday (July 10). In total, Alphabet, Amazon, Meta, Microsoft and Oracle added abou…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/big-tech-doubles-down-on-ai-infrastructure/",
-      "date": "2026-07-10",
-      "category": "Banking",
-      "tags": [
-        "big tech",
-        "doubles down",
-        "ai infrastructure"
       ]
     }
   ]
