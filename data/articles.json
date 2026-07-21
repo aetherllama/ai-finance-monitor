@@ -1,27 +1,35 @@
 {
-  "last_updated": "2026-07-21T09:30:53Z",
+  "last_updated": "2026-07-21T20:20:31Z",
   "insights": {
     "risks": [
-      "Trading risk: Portfolio construction in the shadow of the AI bubble — assess algorithmic exposure.",
-      "Operational: Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer — evaluate model governance gaps."
+      "Trading risk: London Stock Exchange to launch new trading venue LSE 24 — assess algorithmic exposure.",
+      "Operational: 9fin Hires Former JPMorgan Digital Banking Chief Huw Richards — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Singapore Set to Host the 4th FinTech Week Awards & Expo 2026 — potential infrastructure advantage.",
-      "Banking efficiency: Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer — cost reduction opportunity."
+      "Banking efficiency: 9fin Hires Former JPMorgan Digital Banking Chief Huw Richards — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 17
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 2
+    },
+    {
+      "topic": "Stablecoin AI",
+      "count": 1
     },
     {
       "topic": "Generative AI",
-      "count": 2
+      "count": 1
     },
     {
       "topic": "Portfolio Management",
@@ -30,13 +38,64 @@
     {
       "topic": "Risk Management",
       "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "811700092",
+      "title": "London Stock Exchange to launch new trading venue LSE 24",
+      "summary": "London Stock Exchange today announced plans to launch London Stock Exchange 24 (LSE 24), a new 24/5 trading venue to support the next generation of digital, algorithmic and agentic trading.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110461/london-stock-exchange-to-launch-new-trading-venue-lse-24?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-21",
+      "category": "Trading",
+      "tags": [
+        "london stock",
+        "exchange",
+        "lse"
+      ]
+    },
+    {
+      "id": "888626537",
+      "title": "9fin Hires Former JPMorgan Digital Banking Chief Huw Richards",
+      "summary": "The AI-native debt markets platform has appointed Huw Richards, who led JPMorgan's Digital Investment Bank, to a newly created customer partnerships role. The post 9fin Hires Former JPMorgan Digital Banking Chief Huw Richards appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/9fin-hires-former-jpmorgan-digital-banking-chief-huw-richards/",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "hires former",
+        "jpmorgan digital",
+        "banking chief"
+      ]
+    },
+    {
+      "id": "781482891",
+      "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
+      "summary": "The firm, freshly valued at $1 billion, aims to replace legacy correspondent banking with always-on infrastructure that connects traditional payment systems and stablecoins.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "augustus",
+        "ai"
+      ]
+    },
+    {
+      "id": "619795263",
+      "title": "Billtrust Debuts AI Assistant Connectivity to Promote AR Automation",
+      "summary": "B2B cash generation platform Billtrust has launched the “Billtrust MCP Server.” With this new offering, the company becomes the first accounts receivable (AR) platform to directly link live invoice-to-cash intelligence to leading AI assistants through the Model Context Protocol (…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/billtrust-debuts-ai-assistant-connectivity-to-promote-ar-automation/",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "billtrust debuts",
+        "ai assistant",
+        "connectivity"
+      ]
+    },
     {
       "id": "199055894",
       "title": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
@@ -817,62 +876,6 @@
         "ai",
         "bis",
         "bank"
-      ]
-    },
-    {
-      "id": "3483935",
-      "title": "Grasshopper becomes the first bank to be listed on Anthropic's MCP directory",
-      "summary": "Building on the launch of the first Model Context Protocol (MCP) server by a U.S. bank, Grasshopper and our digital banking technology partner, Narmi, are making secure AI-powered banking even easier to discover and use.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110415/grasshopper-becomes-the-first-bank-to-be-listed-on-anthropics-mcp-directory?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "grasshopper",
-        "anthropic",
-        "mcp"
-      ]
-    },
-    {
-      "id": "199810243",
-      "title": "The AI Guardrails in Financial Services: Why Independent Validation Cannot Be Assumed",
-      "summary": "If your institution has deployed a generative AI system in production, you have a guardrail layer. T...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32266/the-ai-guardrails-in-financial-services-why-independent-validation-cannot-be-assumed?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "the ai",
-        "guardrails",
-        "financial services"
-      ]
-    },
-    {
-      "id": "707910256",
-      "title": "AIQ Markets Pilots AI Bond Platform with MarketAxess",
-      "summary": "AIQ Markets has launched AIQ Insight with MarketAxess as its first client, letting traders query corporate bond data and build portfolios via natural language. The post AIQ Markets Pilots AI Bond Platform with MarketAxess appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/aiq-markets-pilots-ai-bond-platform-with-marketaxess/",
-      "date": "2026-07-14",
-      "category": "Payments",
-      "tags": [
-        "aiq markets",
-        "pilots ai",
-        "bond platform"
-      ]
-    },
-    {
-      "id": "22484248",
-      "title": "JPMorgan Wants Employees to Go Easy on AI Usage",
-      "summary": "JPMorgan Chase says it is advising its workers to think twice about their artificial intelligence (AI) usage. This effort by the country’s largest bank, addressed during its Tuesday (July 14) earnings call, comes as many businesses are eyeing their AI consumption amid rising cost…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/jpmorgan-wants-employees-to-go-easy-on-ai-usage/",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "jpmorgan wants",
-        "employees",
-        "go easy"
       ]
     }
   ]
