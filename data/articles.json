@@ -1,23 +1,27 @@
 {
-  "last_updated": "2026-07-20T20:24:39Z",
+  "last_updated": "2026-07-21T09:30:53Z",
   "insights": {
     "risks": [
       "Trading risk: Portfolio construction in the shadow of the AI bubble — assess algorithmic exposure.",
-      "Operational: Is Treasury Ready for Agentic AI? Rethinking Control in an Era of Autonomous Execution — evaluate model governance gaps."
+      "Operational: Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The Impact of AI and Other New Technologies on Payment Hubs — potential infrastructure advantage.",
-      "Banking efficiency: Is Treasury Ready for Agentic AI? Rethinking Control in an Era of Autonomous Execution — cost reduction opportunity."
+      "Payments: Singapore Set to Host the 4th FinTech Week Awards & Expo 2026 — potential infrastructure advantage.",
+      "Banking efficiency: Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 16
     },
     {
       "topic": "Automation",
       "count": 4
+    },
+    {
+      "topic": "Generative AI",
+      "count": 2
     },
     {
       "topic": "Portfolio Management",
@@ -30,17 +34,79 @@
     {
       "topic": "Customer Service AI",
       "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
-    },
-    {
-      "topic": "Copilot / Assistants",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "199055894",
+      "title": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
+      "summary": "Bank of Ireland has appointed Prag Sharma from Citigroup as its first chief AI officer.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48124/bank-of-ireland-hires-citigroups-prag-sharma-as-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "ireland",
+        "citigroup"
+      ]
+    },
+    {
+      "id": "998466039",
+      "title": "Agentic AI and Smart Data: The Architecture of the UK’s New Open Finance Framework",
+      "summary": "Quick Answer - The Financial Conduct Authority (FCA) has officially launched the Smart Data Open Fin...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32331/agentic-ai-and-smart-data-the-architecture-of-the-uks-new-open-finance-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "agentic ai",
+        "smart data",
+        "the architecture"
+      ]
+    },
+    {
+      "id": "957387204",
+      "title": "Singapore Set to Host the 4th FinTech Week Awards & Expo 2026",
+      "summary": "Singapore will host the 4th FinTech Week Awards Expo on 16–17 September, bringing together global fintech leaders to explore AI, digital banking, payments, blockchain and more. The post Singapore Set to Host the 4th FinTech Week Awards Expo 2026 appeared first on The Fintech Time…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/singapore-set-to-host-the-4th-fintech-week-awards-expo-2026/",
+      "date": "2026-07-21",
+      "category": "Payments",
+      "tags": [
+        "singapore set",
+        "host",
+        "fintech week"
+      ]
+    },
+    {
+      "id": "663220882",
+      "title": "The Agentic Enterprise Connects AI to Real Business Results",
+      "summary": "Artificial intelligence is crossing an important line inside the enterprise. It is moving from generating answers and assisting employees to executing work, coordinating systems and making decisions within defined boundaries. The transition is already underway across payments, ba…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/agentic-enterprise-connects-ai-to-real-business-results/",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "the agentic",
+        "enterprise connects",
+        "ai"
+      ]
+    },
+    {
+      "id": "766046199",
+      "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
+      "summary": "Singapore is moving to sharpen the rules around how companies use personal data in generative AI, as the country tries to square two competing realities: businesses want more data to build AI systems, while users are increasingly asked to trust tools they barely understand. At th…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "singapore data"
+      ]
+    },
     {
       "id": "988290916",
       "title": "The Impact of AI and Other New Technologies on Payment Hubs",
@@ -807,76 +873,6 @@
         "jpmorgan wants",
         "employees",
         "go easy"
-      ]
-    },
-    {
-      "id": "457913522",
-      "title": "Wells Fargo Wealth Unit Drives Productivity Boom With New AI Suite",
-      "summary": "Wells Fargo’s Wealth Investment Management business has invested over $1 billion over the past several years to modernize its technology platform, with a new generative artificial intelligence-powered suite of tools for financial advisors being the latest addition, Wells Fargo Ch…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/wells-fargo-wealth-unit-drives-productivity-boom-with-new-ai-suite/",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "wells fargo",
-        "wealth unit",
-        "drives productivity"
-      ]
-    },
-    {
-      "id": "623439370",
-      "title": "BIS Warns That AI Debt Could Turn Boom to Bust",
-      "summary": "Excessive artificial intelligence (AI) investment could make the technology’s boom unsustainable, according to a new Bank for International Settlements report. “The AI build-out ranks among the largest technology-driven investment booms in U.S. history,” Phurichai Rungcharoenkitk…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bis-warns-that-ai-debt-could-turn-boom-to-bust/",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "bis warns",
-        "that ai",
-        "debt could"
-      ]
-    },
-    {
-      "id": "539213635",
-      "title": "From copilot to autopilot: Exploring agentic AI’s impact on treasury",
-      "summary": "How can agentic AI empower bank and corporate treasurers?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/620/from-copilot-to-autopilot-exploring-agentic-ais-impact-on-treasury?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "from",
-        "exploring",
-        "ai"
-      ]
-    },
-    {
-      "id": "718570141",
-      "title": "Complexity & Expense Controls. Why the Finance Function has an Expenses Challenge.",
-      "summary": "Rising payment complexity, stricter regulation, hybrid working and AI-generated fraud are making traditional expense controls increasingly ineffective. As businesses seek faster financial close processes, finance teams are under growing pressure to modernise expense management wi…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/complexity-expense-controls-why-the-finance-function-has-an-expenses-challenge/",
-      "date": "2026-07-14",
-      "category": "Payments",
-      "tags": [
-        "complexity",
-        "expense controls",
-        "why"
-      ]
-    },
-    {
-      "id": "980142239",
-      "title": "Singapore and Taiwan have a new window of opportunity, but will they seize it?",
-      "summary": "Hard work and innovation have led to both Taiwan s and Singapore s AI-related boom and global leadership in IC/chip design and manufacturing and related infrastructure. You have to be good to be lucky This has placed both countries in the right place at the right time. For Taiwan…",
-      "source": "e27",
-      "url": "https://e27.co/singapore-and-taiwan-have-a-new-window-of-opportunity-but-will-they-seize-it-20260710/",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "taiwan",
-        "hard"
       ]
     }
   ]
