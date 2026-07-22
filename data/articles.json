@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-22T09:29:48Z",
+  "last_updated": "2026-07-22T20:13:40Z",
   "insights": {
     "risks": [
       "Trading risk: London Stock Exchange to launch new trading venue LSE 24 — assess algorithmic exposure.",
-      "Operational: BMLL and Sigma AI join forces — evaluate model governance gaps."
+      "Operational: Norway advisory and audit firm BDO selects Strise as AML technology provider — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Natural raises $30 million to build AI agent payments stack — potential infrastructure advantage.",
-      "Banking efficiency: BMLL and Sigma AI join forces — cost reduction opportunity."
+      "Banking efficiency: Norway advisory and audit firm BDO selects Strise as AML technology provider — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 19
+      "count": 20
     },
     {
       "topic": "Automation",
@@ -45,6 +45,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "451596211",
+      "title": "Norway advisory and audit firm BDO selects Strise as AML technology provider",
+      "summary": "BDO, one of Norway's leading advisory and audit firms, has selected Strise as its technology provider for customer due diligence and anti-money laundering (AML). The agreement makes Strise's AI platform a central part of how BDO meets its anti-money laundering obligations.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110472/norway-advisory-and-audit-firm-bdo-selects-strise-as-aml-technology-provider?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "norway",
+        "bdo",
+        "strise"
+      ]
+    },
+    {
+      "id": "131427642",
+      "title": "The Agentic Frontier: How AI agents are reshaping AML and KYC and why data quality Is everything",
+      "summary": "The fight against financial crime has always been a race. Criminals innovate, and compliance teams r...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32341/the-agentic-frontier-how-ai-agents-are-reshaping-aml-and-kyc-and-why-data-quality-is-everything?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "the agentic",
+        "frontier",
+        "how ai"
+      ]
+    },
     {
       "id": "887225778",
       "title": "Natural raises $30 million to build AI agent payments stack",
@@ -853,34 +881,6 @@
         "fed",
         "bowman says",
         "tailored ai"
-      ]
-    },
-    {
-      "id": "697478723",
-      "title": "The Nvidia clampdown is a warning for Southeast Asia’s AI boom",
-      "summary": "Nvidia’s reported move to halve the number of Asian customers authorised to buy its AI chips is more than a compliance story. It is a blunt reminder that Southeast Asia’s position in the global AI supply chain is neither neutral nor secure. The region is increasingly being treate…",
-      "source": "e27",
-      "url": "https://e27.co/the-nvidia-clampdown-is-a-warning-for-southeast-asias-ai-boom-20260714/",
-      "date": "2026-07-15",
-      "category": "RegTech",
-      "tags": [
-        "the nvidia",
-        "southeast asia",
-        "ai"
-      ]
-    },
-    {
-      "id": "582570847",
-      "title": "Gemini’s SEA growth puts local-language AI at the centre of the assistant race",
-      "summary": "Google said active users of its Gemini app in Southeast Asia have more than doubled over the past year, with adoption in the region outpacing any previous Google app launch, according to the company’s first Gemini Southeast Asia Report 2026 . The report covers six of Gemini’s lar…",
-      "source": "e27",
-      "url": "https://e27.co/geminis-sea-growth-puts-local-language-ai-at-the-centre-of-the-assistant-race-20260714/",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "gemini",
-        "sea",
-        "ai"
       ]
     }
   ]
