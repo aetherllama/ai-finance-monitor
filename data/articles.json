@@ -1,34 +1,38 @@
 {
-  "last_updated": "2026-07-21T20:20:31Z",
+  "last_updated": "2026-07-22T09:29:48Z",
   "insights": {
     "risks": [
       "Trading risk: London Stock Exchange to launch new trading venue LSE 24 — assess algorithmic exposure.",
-      "Operational: 9fin Hires Former JPMorgan Digital Banking Chief Huw Richards — evaluate model governance gaps."
+      "Operational: BMLL and Sigma AI join forces — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Singapore Set to Host the 4th FinTech Week Awards & Expo 2026 — potential infrastructure advantage.",
-      "Banking efficiency: 9fin Hires Former JPMorgan Digital Banking Chief Huw Richards — cost reduction opportunity."
+      "Payments: Natural raises $30 million to build AI agent payments stack — potential infrastructure advantage.",
+      "Banking efficiency: BMLL and Sigma AI join forces — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 19
     },
     {
       "topic": "Automation",
       "count": 5
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Generative AI",
       "count": 2
+    },
+    {
+      "topic": "Payments AI",
+      "count": 1
     },
     {
       "topic": "Stablecoin AI",
       "count": 1
     },
     {
-      "topic": "Generative AI",
+      "topic": "Customer Service AI",
       "count": 1
     },
     {
@@ -41,6 +45,104 @@
     }
   ],
   "articles": [
+    {
+      "id": "887225778",
+      "title": "Natural raises $30 million to build AI agent payments stack",
+      "summary": "Natural, a US fintech startup building a payments stack for AI agents, has raised a $30 million Series A round led by Kirsten Green at Forerunner.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48127/natural-raises-30-million-to-build-ai-agent-payments-stack?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-22",
+      "category": "Payments",
+      "tags": [
+        "natural",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "245036409",
+      "title": "BMLL and Sigma AI join forces",
+      "summary": "BMLL, the independent provider of harmonised, continually engineered historical Level 3, 2 and 1 data and analytics for Capital Markets, today announced a partnership with SIGMA AI, a provider of real-time actionable intelligence for financial markets",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110468/bmll-and-sigma-ai-join-forces?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "bmll",
+        "sigma ai",
+        "level"
+      ]
+    },
+    {
+      "id": "983443148",
+      "title": "Bank of America Tells Finance Leaders to Fix the Data First",
+      "summary": "Watch more: Summer School With Bank of America’s Matthew Davies For finance chiefs, the technology challenge is no longer a lack of options. It is an excess of them. Chief financial officers are being presented with an expanding menu of artificial intelligence tools, real-time pa…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/back-office/cfo/2026/bank-of-america-tells-finance-leaders-to-fix-the-data-first/",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "america tells",
+        "finance leaders"
+      ]
+    },
+    {
+      "id": "386892823",
+      "title": "Bank of America Equips Customer Service Reps With Gen AI",
+      "summary": "Bank of America has added new generative artificial intelligence capabilities to EricaAssist, an AI agent that works alongside the bank’s customer service representatives during calls. The new AI capabilities enable EricaAssist to deliver relevant insights in under three seconds,…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-equips-customer-service-reps-with-gen-ai/",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "america equips",
+        "customer service"
+      ]
+    },
+    {
+      "id": "980373064",
+      "title": "Capital One Tests Moving Credit Cards to Discover Network",
+      "summary": "Capital One’s Discover integration dominated discussion during the second-quarter earnings call, alongside new initiatives, with the bank testing Capital One credit cards on the Discover network while continuing to spend on technology and artificial intelligence (AI). The company…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/capital-one-tests-moving-credit-cards-to-discover-network/",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "capital one",
+        "tests moving",
+        "credit cards"
+      ]
+    },
+    {
+      "id": "587658023",
+      "title": "Singapore’s data analysts trust AI to work, not to think",
+      "summary": "Singapore s data professionals are proving to be among the most cautious in the world when it comes to letting artificial intelligence (AI) operate unsupervised. According to a new global study, 61 per cent of the city-state s data analysts prefer a human-in-the-loop approach to …",
+      "source": "e27",
+      "url": "https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "according"
+      ]
+    },
+    {
+      "id": "354281376",
+      "title": "Database management and programming rank well below generative artificial intelligence, or GenAI, amongst the skills that finance professionals in SEA expect to need over the next 5 years.",
+      "summary": "Database management and programming rank well below generative artificial intelligence, or GenAI, amongst the skills that finance professionals in SEA expect to need over the next 5 years.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/information-technology/exclusive/finance-professionals-sideline-coding-genai",
+      "date": "2026-07-21",
+      "category": "Banking",
+      "tags": [
+        "database",
+        "genai",
+        "sea"
+      ]
+    },
     {
       "id": "811700092",
       "title": "London Stock Exchange to launch new trading venue LSE 24",
@@ -779,103 +881,6 @@
         "gemini",
         "sea",
         "ai"
-      ]
-    },
-    {
-      "id": "836002965",
-      "title": "Inside Singapore’s startup boom: The 21 firms investors can’t stop funding",
-      "summary": "Singapore isn t just punching above its weight in Southeast Asia s tech race; it s rewriting the scoreboard entirely. In the past 18 months alone, 21 startups headquartered in the Lion City have collectively pulled in nearly US$15.7 billion in equity funding, a figure that rivals…",
-      "source": "e27",
-      "url": "https://e27.co/inside-singapores-startup-boom-the-21-firms-investors-cant-stop-funding-20260714/",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "inside singapore",
-        "singapore",
-        "southeast asia"
-      ]
-    },
-    {
-      "id": "588060137",
-      "title": "The Bangko Sentral ng Pilipinas (BSP) has issued governance principles for financial institutions adopting artificial intelligence (AI).",
-      "summary": "The Bangko Sentral ng Pilipinas (BSP) has issued governance principles for financial institutions adopting artificial intelligence (AI).",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/news/bsp-unveils-ai-rules-philippine-banks-and-vendors",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "the bangko",
-        "sentral",
-        "pilipinas"
-      ]
-    },
-    {
-      "id": "153787871",
-      "title": "Only 1 in 4 (25%) of financial institutions in Malaysia would make decisions based on outputs generated by artificial intelligence (AI), according to a joint study by the Asia Institution of Chartered Bankers (AICB), the research firm Ecosystm, and AICB's Chief Risk Officers' Forum.",
-      "summary": "Only 1 in 4 (25%) of financial institutions in Malaysia would make decisions based on outputs generated by artificial intelligence (AI), according to a joint study by the Asia Institution of Chartered Bankers (AICB), the research firm Ecosystm, and AICB's Chief Risk Officers' Forum.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/in-focus/only-1-in-4-malaysian-banks-trust-ai-outputs-decisions-study",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "only",
-        "malaysia",
-        "ai"
-      ]
-    },
-    {
-      "id": "237990385",
-      "title": "Wall Street banks smash records on stock trading boom",
-      "summary": "Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
-      "date": "2026-07-14",
-      "category": "Trading",
-      "tags": [
-        "wall street",
-        "earnings",
-        "jpmorgan"
-      ]
-    },
-    {
-      "id": "955142164",
-      "title": "Visa unveils AI assistant for banking apps",
-      "summary": "Visa has taken the wraps off an AI assistant that US banks can embed into their own apps to provide cardholders with financial insights.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48094/visa-unveils-ai-assistant-for-banking-apps?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "visa",
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "id": "584226215",
-      "title": "AI private banking startup Flex raises $70m",
-      "summary": "Flex, an AI-native private banking platform for high-net-worth business owners, has raised $70 million in funding as it bids to go global.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48092/ai-private-banking-startup-flex-raises-70m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "flex"
-      ]
-    },
-    {
-      "id": "163055272",
-      "title": "AI investment boom could turn to bust, warns BIS paper",
-      "summary": "The trillion-dollar AI investment boom risks a bust that could damage the global economy, the Bank for International Settlements has warned.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48088/ai-investment-boom-could-turn-to-bust-warns-bis-paper?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-14",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "bis",
-        "bank"
       ]
     }
   ]
