@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-23T09:27:06Z",
+  "last_updated": "2026-07-23T20:16:34Z",
   "insights": {
     "risks": [
-      "Operational: Deutsche Bank runs global AI hackathon — evaluate model governance gaps."
+      "Operational: How AI helps scientists design the next generation of medicines — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services — potential infrastructure advantage.",
-      "Banking efficiency: Deutsche Bank runs global AI hackathon — cost reduction opportunity."
+      "Banking efficiency: How AI helps scientists design the next generation of medicines — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -44,6 +44,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "197335123",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "designing"
+      ]
+    },
     {
       "id": "599768496",
       "title": "Deutsche Bank runs global AI hackathon",
@@ -866,20 +879,6 @@
       "tags": [
         "ai",
         "there"
-      ]
-    },
-    {
-      "id": "908747354",
-      "title": "Saudi Arabia’s ‘Year of AI’ Takes Center Stage at DeepFest 2026 as Global Tech Giants Converge on Riyadh",
-      "summary": "DeepFest 2026 will bring global AI leaders to Riyadh, showcasing Saudi Arabia’s ambition to become a global hub for AI innovation. The post Saudi Arabia’s ‘Year of AI’ Takes Center Stage at DeepFest 2026 as Global Tech Giants Converge on Riyadh appeared first on The Fintech Times…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/saudi-arabias-year-of-ai-takes-center-stage-at-deepfest-2026-as-global-tech-giants-converge-on-riyadh/",
-      "date": "2026-07-16",
-      "category": "Payments",
-      "tags": [
-        "saudi arabia",
-        "year",
-        "ai"
       ]
     }
   ]
