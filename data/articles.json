@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-07-22T20:13:40Z",
+  "last_updated": "2026-07-23T09:27:06Z",
   "insights": {
     "risks": [
-      "Trading risk: London Stock Exchange to launch new trading venue LSE 24 — assess algorithmic exposure.",
-      "Operational: Norway advisory and audit firm BDO selects Strise as AML technology provider — evaluate model governance gaps."
+      "Operational: Deutsche Bank runs global AI hackathon — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Natural raises $30 million to build AI agent payments stack — potential infrastructure advantage.",
-      "Banking efficiency: Norway advisory and audit firm BDO selects Strise as AML technology provider — cost reduction opportunity."
+      "Payments: Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services — potential infrastructure advantage.",
+      "Banking efficiency: Deutsche Bank runs global AI hackathon — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 20
+      "count": 17
     },
     {
       "topic": "Automation",
@@ -21,6 +20,10 @@
     },
     {
       "topic": "Generative AI",
+      "count": 3
+    },
+    {
+      "topic": "Customer Service AI",
       "count": 2
     },
     {
@@ -29,10 +32,6 @@
     },
     {
       "topic": "Stablecoin AI",
-      "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
       "count": 1
     },
     {
@@ -45,6 +44,132 @@
     }
   ],
   "articles": [
+    {
+      "id": "599768496",
+      "title": "Deutsche Bank runs global AI hackathon",
+      "summary": "More than 4,000 Deutsche Bank employees from around the world are coming together from across 21 locations to explore how AI can help solve practical challenges across the bank.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48136/deutsche-bank-runs-global-ai-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "ai",
+        "more"
+      ]
+    },
+    {
+      "id": "849874798",
+      "title": "Bank of America embeds generative AI into customer service tools",
+      "summary": "Bank of America has embedded generative AI into its virtual customer service assistant EricaAssist, delivering relevant client insights in seconds to 18,000 call centre employees.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48133/bank-of-america-embeds-generative-ai-into-customer-service-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "america",
+        "ai"
+      ]
+    },
+    {
+      "id": "639231930",
+      "title": "Keenai appoints Singapore head for broader push into South East Asia",
+      "summary": "Keenai, the wealthtech platform for accredited investors (AI) built in partnership with Lighthouse Canton, has appointed Varun Mittal as Country Head, Singapore, ahead of the launch of Keenai Wealth on 19 August and a wider push into Southeast Asia.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110478/keenai-appoints-singapore-head-for-broader-push-into-south-east-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "keenai",
+        "singapore",
+        "south east"
+      ]
+    },
+    {
+      "id": "381479402",
+      "title": "FinregE proposes five pillars for navigating the UK AI adoption plan",
+      "summary": "FinregE, the End-to-End Regulatory Operating System (FinregE ROS), has published a strategic analysis of the UK’s AI Adoption Plan 2026, providing a roadmap for financial institutions to navigate the regulator's requirements.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110476/finrege-proposes-five-pillars-for-navigating-the-uk-ai-adoption-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "finrege",
+        "uk ai",
+        "end"
+      ]
+    },
+    {
+      "id": "616930941",
+      "title": "Bad Financial Data Is AI’s Biggest Liability",
+      "summary": "Watch more: Summer School With Fynapse’s Ben Catterall Artificial intelligence may dominate boardroom discussions, but payments companies face a more basic challenge. They already possess enormous amounts of financial data. The harder task is turning that information into somethi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bad-financial-data-ai-biggest-liability/",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "bad financial",
+        "data is",
+        "ai"
+      ]
+    },
+    {
+      "id": "153428590",
+      "title": "The Future of Finance Depends on Better Workflows, Not Better AI",
+      "summary": "Watch more: Finance Leaders as Context Architects Artificial intelligence is not creating a finance revolution as much as it is conducting an audit. John Landy, chief technology officer at Billtrust, told PYMNTS that the lesson chief financial officers should carry forward from p…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/future-of-finance-depends-on-better-workflows-not-better-ai/",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "the future",
+        "finance depends",
+        "better workflows"
+      ]
+    },
+    {
+      "id": "167098268",
+      "title": "Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy",
+      "summary": "When Applied Materials brought ASTRA, its Applied Startup Technology Research Accelerator, to Singapore for the first time this year, it marked more than a regional expansion. It signalled that Southeast Asia s deeptech ecosystem has matured enough to bridge the gap between break…",
+      "source": "e27",
+      "url": "https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/",
+      "date": "2026-07-23",
+      "category": "Banking",
+      "tags": [
+        "corporate vc",
+        "vc",
+        "what applied"
+      ]
+    },
+    {
+      "id": "111291280",
+      "title": "Bank of England AI Warning Spurs Financial Stability Debate",
+      "summary": "The Bank of England has warned that AI adoption could threaten financial stability, raising urgent questions about governance and systemic risk. The post Bank of England AI Warning Spurs Financial Stability Debate appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/bank-of-england-ai-warning-spurs-financial-stability-debate/",
+      "date": "2026-07-22",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "england ai",
+        "warning spurs"
+      ]
+    },
+    {
+      "id": "29703853",
+      "title": "Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services",
+      "summary": "The global TCSP software provider says its deployed agents are delivering 40–60% FTE savings, with a Timesheet Agent and further releases now in the The post Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/quantios-unveils-agentic-ai-roadmap-for-trust-and-corporate-services/",
+      "date": "2026-07-22",
+      "category": "Payments",
+      "tags": [
+        "quantios unveils",
+        "agentic ai",
+        "roadmap"
+      ]
+    },
     {
       "id": "451596211",
       "title": "Norway advisory and audit firm BDO selects Strise as AML technology provider",
@@ -755,132 +880,6 @@
         "saudi arabia",
         "year",
         "ai"
-      ]
-    },
-    {
-      "id": "357873564",
-      "title": "Winnow buys Lumitics as hotel kitchens turn to AI to cut food waste",
-      "summary": "Winnow, the London-headquartered AI food waste measurement company, has acquired Singapore-founded Lumitics, in a deal that strengthens its position in Asia Pacific’s hospitality technology market. The companies did not disclose the financial terms of the transaction. The acquisi…",
-      "source": "e27",
-      "url": "https://e27.co/winnow-buys-lumitics-as-hotel-kitchens-turn-to-ai-to-cut-food-waste-20260716/",
-      "date": "2026-07-16",
-      "category": "Banking",
-      "tags": [
-        "winnow",
-        "lumitics",
-        "ai"
-      ]
-    },
-    {
-      "id": "145573550",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality: mo…",
-      "source": "VentureBeat AI",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "date": "2026-07-15",
-      "category": "Trading",
-      "tags": [
-        "agentic",
-        "enterprise ai",
-        "across"
-      ]
-    },
-    {
-      "id": "357602531",
-      "title": "Dan Ives and Trump family-linked securities group launch AI bank, because why not?",
-      "summary": "Ives and Yorkville. Name a more iconic duo",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/85576fd2-7c99-4bf2-b8f0-6c847da77bbc",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "dan ives",
-        "trump",
-        "ai"
-      ]
-    },
-    {
-      "id": "769124618",
-      "title": "UK government backs financial services AI adoption plan",
-      "summary": "The UK government has welcomed a 10-point artificial intelligence adoption plan for financial services put together by executives from Starling Bank and Lloyds.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48101/uk-government-backs-financial-services-ai-adoption-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "uk",
-        "ai",
-        "the uk"
-      ]
-    },
-    {
-      "id": "124073561",
-      "title": "Paytia lets AI agents take card payments — without the card ever reaching the AI",
-      "summary": "Businesses are putting AI agents on the phone and in chat faster than their compliance teams can keep up.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110426/paytia-lets-ai-agents-take-card-payments--without-the-card-ever-reaching-the-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-15",
-      "category": "RegTech",
-      "tags": [
-        "paytia",
-        "ai",
-        "ai businesses"
-      ]
-    },
-    {
-      "id": "859909758",
-      "title": "Halo Fund leads $70M investment into AI-native private banking platform Flex",
-      "summary": "Flex today announced a $70 million Series B1, led by Ryan Smith and Ryan Sweeney’s Halo Fund with participation from Portage Ventures, Wellington, Crosslink Capital, 53 Stations, Titanium Ventures, Spice, Florida Funders, Spice, and others.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110421/halo-fund-leads-70m-investment-into-ai-native-private-banking-platform-flex?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "halo fund",
-        "ai",
-        "flex flex"
-      ]
-    },
-    {
-      "id": "361151133",
-      "title": "THE TRUST ARCHITECTURE FOR AGENTIC AI",
-      "summary": "Implementing Governance, Auditability, and Deterministic Guardrails in Core Banking Executive Summar...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32280/the-trust-architecture-for-agentic-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "the trust",
-        "architecture for",
-        "agentic ai"
-      ]
-    },
-    {
-      "id": "743921734",
-      "title": "LEAPFROGGING THE LEGACY: How Agentic AI Orchestration is Rewriting Retail Banking CX for Gen Z",
-      "summary": "Executive Summary: For large institutions navigating complex consumer banking modernization programs...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32277/leapfrogging-the-legacy-how-agentic-ai-orchestration-is-rewriting-retail-banking-cx-for-gen-z?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "leapfrogging the",
-        "legacy",
-        "how agentic"
-      ]
-    },
-    {
-      "id": "881511398",
-      "title": "Fed’s Bowman Says Tailored AI Supervision Drives Financial Inclusion",
-      "summary": "Federal Reserve supervision should not hinder banks’ implementation of artificial intelligence (AI), because the technology can contribute to financial inclusion, Federal Reserve Vice Chair for Supervision Michelle W. Bowman said Tuesday (July 14). In a speech delivered via pre-r…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/feds-bowman-says-tailored-ai-supervision-drives-financial-inclusion/",
-      "date": "2026-07-15",
-      "category": "Banking",
-      "tags": [
-        "fed",
-        "bowman says",
-        "tailored ai"
       ]
     }
   ]
