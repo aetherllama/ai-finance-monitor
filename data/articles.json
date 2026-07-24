@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-24T09:23:44Z",
+  "last_updated": "2026-07-24T20:23:39Z",
   "insights": {
     "risks": [
-      "Operational: South Korea’s cash-rich winners of AI boom go on US buying spree — evaluate model governance gaps."
+      "Operational: Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services — potential infrastructure advantage.",
-      "Banking efficiency: South Korea’s cash-rich winners of AI boom go on US buying spree — cost reduction opportunity."
+      "Payments: Beyond the Bot: Why Human Support Still Matters in an Automated Payments Industry — potential infrastructure advantage.",
+      "Banking efficiency: Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 14
     },
     {
       "topic": "Automation",
@@ -25,6 +25,10 @@
     {
       "topic": "Customer Service AI",
       "count": 2
+    },
+    {
+      "topic": "Copilot / Assistants",
+      "count": 1
     },
     {
       "topic": "Payments AI",
@@ -44,6 +48,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "205667054",
+      "title": "Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot",
+      "summary": "Beginning today, finance teams can query their live invoice-to-cash data directly from inside Microsoft Copilot and Claude, using plain language.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110491/billtrust-launches-ar-intelligence-connection-for-claude-and-microsoft-copilot?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "billtrust",
+        "ar intelligence",
+        "claude"
+      ]
+    },
+    {
+      "id": "112692506",
+      "title": "Beyond the Bot: Why Human Support Still Matters in an Automated Payments Industry",
+      "summary": "Modern payment gateways can process more than 10,000 transactions per minute, but automation cannot ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32360/beyond-the-bot-why-human-support-still-matters-in-an-automated-payments-industry?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-24",
+      "category": "Payments",
+      "tags": [
+        "beyond",
+        "bot",
+        "why human"
+      ]
+    },
+    {
+      "id": "182998850",
+      "title": "Stripe Doubles Down on AI With OpenRouter Deal",
+      "summary": "Stripe is in talks to buy OpenRouter, an artificial intelligence startup. The deal could value the company at roughly $10 billion, The Wall Street Journal reported. An agreement could be announced soon. Still, talks could fall through, or another buyer could step in. The exact pr…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-doubles-down-ai-with-openrouter-deal/",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "stripe doubles",
+        "down",
+        "ai with"
+      ]
+    },
     {
       "id": "359892687",
       "title": "South Korea’s cash-rich winners of AI boom go on US buying spree",
@@ -838,48 +884,6 @@
         "the ai",
         "enterprises",
         "across"
-      ]
-    },
-    {
-      "id": "634946113",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector data…",
-      "source": "VentureBeat AI",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "date": "2026-07-16",
-      "category": "Banking",
-      "tags": [
-        "the ai",
-        "enterprise ai",
-        "across"
-      ]
-    },
-    {
-      "id": "794576410",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty fully…",
-      "source": "VentureBeat AI",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "date": "2026-07-16",
-      "category": "RegTech",
-      "tags": [
-        "enterprise ai",
-        "across",
-        "ai"
-      ]
-    },
-    {
-      "id": "374114806",
-      "title": "UAE Consumers Lead Global Shift Toward Autonomous AI Shopping Agents",
-      "summary": "Checkout.com research finds the UAE leads the world in readiness for agentic commerce, with 79% of consumers comfortable allowing AI to make purchases on their behalf, highlighting strong regional demand for machine-driven payment experiences. The post UAE Consumers Lead Global S…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/uae-consumers-lead-global-shift-toward-autonomous-ai-shopping-agents/",
-      "date": "2026-07-16",
-      "category": "Payments",
-      "tags": [
-        "uae consumers",
-        "lead global",
-        "shift toward"
       ]
     }
   ]
