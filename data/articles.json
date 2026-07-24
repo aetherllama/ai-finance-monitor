@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-23T20:16:34Z",
+  "last_updated": "2026-07-24T09:23:44Z",
   "insights": {
     "risks": [
-      "Operational: How AI helps scientists design the next generation of medicines — evaluate model governance gaps."
+      "Operational: South Korea’s cash-rich winners of AI boom go on US buying spree — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services — potential infrastructure advantage.",
-      "Banking efficiency: How AI helps scientists design the next generation of medicines — cost reduction opportunity."
+      "Banking efficiency: South Korea’s cash-rich winners of AI boom go on US buying spree — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -44,6 +44,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "359892687",
+      "title": "South Korea’s cash-rich winners of AI boom go on US buying spree",
+      "summary": "Companies make biggest US investment push in years to build up tech capabilities and avoid Donald Trump’s tariffs",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669?syn-25a6b1a6=1",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "south korea",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "328260747",
+      "title": "Bitwave Begins Rollout of Agentic Suite to Power Autonomous Financial Operations",
+      "summary": "Bitwave has announced the first releases from its Bitwave Agentic product suite, which is focused on accounting tools, financial data and infrastructure for AI-native financial operations. These new open-source tools join the other accounting, payments, financial operations and a…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/back-office/cfo/2026/bitwave-begins-rollout-of-agentic-suite-to-power-autonomous-financial-operations/",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "bitwave begins",
+        "rollout",
+        "agentic suite"
+      ]
+    },
+    {
+      "id": "146507854",
+      "title": "Stripe Eyes $10 Billion Deal for AI Model Marketplace OpenRouter",
+      "summary": "Stripe is in talks to buy OpenRouter, an artificial intelligence (AI) startup that could sell for roughly $10 billion, according to The Wall Street Journal. The move would mark a significant step outside payments for a company that processes transactions for much of the internet.…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter/",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "stripe eyes",
+        "billion deal",
+        "ai model"
+      ]
+    },
+    {
+      "id": "734658819",
+      "title": "The most sophisticated AI strategy is a puzzle hunt in Toa Payoh",
+      "summary": "In the tech ecosystem, we often talk about the next big thing in terms of code and cloud scalability. But as we move further into 2026, I’ve realised that the most complex system I am currently architecting isn t a SaaS platform. It is a physical puzzle hunt in the heartlands of …",
+      "source": "e27",
+      "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "toa payoh",
+        "but"
+      ]
+    },
+    {
+      "id": "117515097",
+      "title": "How AI is dismantling the risk pool in insurance",
+      "summary": "Three weeks ago, I had coffee with the chief risk officer of an Indonesian insurer who has spent the last eighteen months building an AI-driven pricing model for one of their health products. He told me the model now produces better predictions than any of their senior actuaries …",
+      "source": "e27",
+      "url": "https://e27.co/how-ai-is-dismantling-the-risk-pool-in-insurance-20260713/",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "three",
+        "indonesian"
+      ]
+    },
     {
       "id": "197335123",
       "title": "How AI helps scientists design the next generation of medicines",
@@ -810,75 +880,6 @@
         "uae consumers",
         "lead global",
         "shift toward"
-      ]
-    },
-    {
-      "id": "696949320",
-      "title": "Inside the high-stakes race to build an open financial system specifically for AI bots",
-      "summary": "The newly-convened x402 Foundation is a neutral space where competitors and payment methods can work together to create an open standard for AI agentic commerce.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/07/16/ai-payments-have-a-new-open-standards-body-its-aim-is-to-reinvent-the-internet",
-      "date": "2026-07-16",
-      "category": "Payments",
-      "tags": [
-        "inside",
-        "ai",
-        "foundation"
-      ]
-    },
-    {
-      "id": "431445078",
-      "title": "Bank of Ireland and Google offer SMEs AI scholarships",
-      "summary": "Bank of Ireland and Google have joined forces to provide up to 10,000 AI scholarships to the lender's small business customers.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48099/bank-of-ireland-and-google-offer-smes-ai-scholarships?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-16",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "ireland",
-        "google"
-      ]
-    },
-    {
-      "id": "324730464",
-      "title": "LSEG addds financial data and analytics to AI workflow automation platform",
-      "summary": "LSEG today announced that it is making its trusted, licensed data and analytics available in Model ML through its Model Context Protocol (MCP) connector, enabling secure access to AI-ready financial content within financial services workflows.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110434/lseg-addds-financial-data-and-analytics-to-ai-workflow-automation-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-16",
-      "category": "Banking",
-      "tags": [
-        "lseg",
-        "ai",
-        "model ml"
-      ]
-    },
-    {
-      "id": "729804710",
-      "title": "AI operating system Feathery raises $30 million",
-      "summary": "Feathery, the AI operating and decisioning system for financial services, announced today that it has raised $30M in total funding, including its recently completed Series A, from Portage Ventures, Index Ventures, Allstate Strategic Ventures, Clocktower Ventures, Erie Strategic V…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110432/ai-operating-system-feathery-raises-30-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-16",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "feathery",
-        "series"
-      ]
-    },
-    {
-      "id": "379019348",
-      "title": "AI-native startups are scaling on financial infrastructure built for yesterday",
-      "summary": "There's a strange asymmetry in how quickly software companies come into existence now. A two-person ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32291/ai-native-startups-are-scaling-on-financial-infrastructure-built-for-yesterday?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-16",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "there"
       ]
     }
   ]
