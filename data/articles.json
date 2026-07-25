@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-24T20:23:39Z",
+  "last_updated": "2026-07-25T09:02:38Z",
   "insights": {
     "risks": [
-      "Operational: Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot — evaluate model governance gaps."
+      "Operational: US tech groups cut 140,000 jobs despite AI spending boom — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Beyond the Bot: Why Human Support Still Matters in an Automated Payments Industry — potential infrastructure advantage.",
-      "Banking efficiency: Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot — cost reduction opportunity."
+      "Banking efficiency: US tech groups cut 140,000 jobs despite AI spending boom — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -48,6 +48,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "794644210",
+      "title": "US tech groups cut 140,000 jobs despite AI spending boom",
+      "summary": "Investment spree is reshaping Silicon Valley while wider US jobs market holds steady",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1",
+      "date": "2026-07-24",
+      "category": "Banking",
+      "tags": [
+        "us",
+        "ai",
+        "investment"
+      ]
+    },
     {
       "id": "205667054",
       "title": "Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot",
@@ -870,20 +884,6 @@
         "ai will",
         "soon generate",
         "thousands"
-      ]
-    },
-    {
-      "id": "507859735",
-      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost none …",
-      "source": "VentureBeat AI",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "date": "2026-07-16",
-      "category": "Trading",
-      "tags": [
-        "the ai",
-        "enterprises",
-        "across"
       ]
     }
   ]
