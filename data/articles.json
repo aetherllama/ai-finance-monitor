@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-25T09:02:38Z",
+  "last_updated": "2026-07-25T20:12:30Z",
   "insights": {
     "risks": [
-      "Operational: US tech groups cut 140,000 jobs despite AI spending boom — evaluate model governance gaps."
+      "Operational: Vine Launches AI Reporting Dashboard for Community Bank Lenders — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Beyond the Bot: Why Human Support Still Matters in an Automated Payments Industry — potential infrastructure advantage.",
-      "Banking efficiency: US tech groups cut 140,000 jobs despite AI spending boom — cost reduction opportunity."
+      "Banking efficiency: Vine Launches AI Reporting Dashboard for Community Bank Lenders — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -48,6 +48,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "655539074",
+      "title": "Vine Launches AI Reporting Dashboard for Community Bank Lenders",
+      "summary": "The Austin-based lending platform said its new dashboard unifies loan portfolio and core banking data to support risk and profitability decisions. The post Vine Launches AI Reporting Dashboard for Community Bank Lenders appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/vine-launches-ai-reporting-dashboard-for-community-bank-lenders/",
+      "date": "2026-07-25",
+      "category": "Banking",
+      "tags": [
+        "vine launches",
+        "ai reporting",
+        "dashboard"
+      ]
+    },
     {
       "id": "794644210",
       "title": "US tech groups cut 140,000 jobs despite AI spending boom",
@@ -870,20 +884,6 @@
         "mitsubishi ufj",
         "financial group",
         "mufg"
-      ]
-    },
-    {
-      "id": "694751842",
-      "title": "AI Will Soon Generate Thousands of Financial Apps in Minutes, But That Won’t Be Enough",
-      "summary": "Every bank will soon be able to generate a polished digital product in minutes. A new onboarding flo...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32234/ai-will-soon-generate-thousands-of-financial-apps-in-minutes-but-that-wont-be-enough?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-16",
-      "category": "Banking",
-      "tags": [
-        "ai will",
-        "soon generate",
-        "thousands"
       ]
     }
   ]
