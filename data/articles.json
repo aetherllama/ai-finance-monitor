@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-07-26T20:12:37Z",
+  "last_updated": "2026-07-27T10:47:11Z",
   "insights": {
     "risks": [
-      "Operational: Vine Launches AI Reporting Dashboard for Community Bank Lenders — evaluate model governance gaps."
+      "Operational: Insurtech Corgi hits $4 billion valuation on latest raise — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Beyond the Bot: Why Human Support Still Matters in an Automated Payments Industry — potential infrastructure advantage.",
-      "Banking efficiency: Vine Launches AI Reporting Dashboard for Community Bank Lenders — cost reduction opportunity."
+      "Payments: Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance — potential infrastructure advantage.",
+      "Banking efficiency: Insurtech Corgi hits $4 billion valuation on latest raise — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 15
     },
     {
       "topic": "Automation",
       "count": 5
     },
     {
-      "topic": "Generative AI",
+      "topic": "Customer Service AI",
       "count": 3
     },
     {
-      "topic": "Customer Service AI",
-      "count": 2
+      "topic": "Generative AI",
+      "count": 3
     },
     {
       "topic": "Copilot / Assistants",
@@ -48,6 +48,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "574232936",
+      "title": "Insurtech Corgi hits $4 billion valuation on latest raise",
+      "summary": "Corgi, an AI-powered full-stack insurance platform, has reportedly hit a $4 billion valuation after raising money from investors for the fourth time this year.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48145/insurtech-corgi-hits-4-billion-valuation-on-latest-raise?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-27",
+      "category": "Banking",
+      "tags": [
+        "insurtech corgi",
+        "corgi",
+        "ai"
+      ]
+    },
+    {
+      "id": "956512673",
+      "title": "Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance",
+      "summary": "Flock's Jay uses over a billion kilometres of driving data to give fleet managers and brokers real-time risk insight through its portal. The post Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/flock-launches-agentic-ai-assistant-jay-for-uk-fleet-insurance/",
+      "date": "2026-07-27",
+      "category": "Payments",
+      "tags": [
+        "flock launches",
+        "agentic ai",
+        "assistant jay"
+      ]
+    },
     {
       "id": "655539074",
       "title": "Vine Launches AI Reporting Dashboard for Community Bank Lenders",
@@ -856,34 +884,6 @@
         "unitedhealth says",
         "ai now",
         "runs every"
-      ]
-    },
-    {
-      "id": "153456644",
-      "title": "The fatwa lag: How AI is overtaking the system designed to govern Islamic finance",
-      "summary": "A sharia bank in Jakarta asked me last quarter whether their new credit scoring model needed Sharia Supervisory Board review. They had deployed it three months earlier, trained on five years of their own portfolio data, and were preparing to roll it out across their consumer fina…",
-      "source": "e27",
-      "url": "https://e27.co/the-fatwa-lag-how-ai-is-overtaking-the-system-designed-to-govern-islamic-finance-20260713/",
-      "date": "2026-07-17",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "islamic",
-        "jakarta"
-      ]
-    },
-    {
-      "id": "571777322",
-      "title": "Mitsubishi UFJ Financial Group (MUFG) and its subsidiary MUFG Bank are investing into Noetra Corp., an artificial intelligence (AI) research and development company.",
-      "summary": "Mitsubishi UFJ Financial Group (MUFG) and its subsidiary MUFG Bank are investing into Noetra Corp., an artificial intelligence (AI) research and development company.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/news/mufg-invests-in-noetra-back-japans-ai-model-push",
-      "date": "2026-07-17",
-      "category": "Banking",
-      "tags": [
-        "mitsubishi ufj",
-        "financial group",
-        "mufg"
       ]
     }
   ]
