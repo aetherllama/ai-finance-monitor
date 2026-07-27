@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-27T10:47:11Z",
+  "last_updated": "2026-07-27T20:25:07Z",
   "insights": {
     "risks": [
-      "Operational: Insurtech Corgi hits $4 billion valuation on latest raise — evaluate model governance gaps."
+      "Operational: HSBC to open Singapore AI centre of excellence — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance — potential infrastructure advantage.",
-      "Banking efficiency: Insurtech Corgi hits $4 billion valuation on latest raise — cost reduction opportunity."
+      "Payments: Embat expands into global banking — potential infrastructure advantage.",
+      "Banking efficiency: HSBC to open Singapore AI centre of excellence — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,7 +16,7 @@
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Customer Service AI",
@@ -48,6 +48,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "837214536",
+      "title": "HSBC to open Singapore AI centre of excellence",
+      "summary": "HSBC is set to open a global artificial intelligence centre of excellence in Singapore, hiring around 100 specialists to work under new chief AI officer David Rice.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48149/hsbc-to-open-singapore-ai-centre-of-excellence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-27",
+      "category": "Banking",
+      "tags": [
+        "hsbc",
+        "singapore ai",
+        "singapore"
+      ]
+    },
+    {
+      "id": "631993595",
+      "title": "Embat expands into global banking",
+      "summary": "Embat, the AI-powered fintech specialising in treasury management, has launched a new banking product to harmonise cash management, international payments and collections, FX hedging, account reconciliation and more into a single workflow - creating a comprehensive one-stop solut…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110496/embat-expands-into-global-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-27",
+      "category": "Payments",
+      "tags": [
+        "embat",
+        "ai",
+        "fx"
+      ]
+    },
+    {
+      "id": "438064563",
+      "title": "The Age of AI Industrialisation: Building Next Generation Banks",
+      "summary": "The banking industry has entered a new phase of AI adoption. What began as isolated pilots and exper...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32376/the-age-of-ai-industrialisation-building-next-generation-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-27",
+      "category": "Banking",
+      "tags": [
+        "the age",
+        "ai industrialisation",
+        "building next"
+      ]
+    },
+    {
+      "id": "824120138",
+      "title": "House Republicans Urge Expanded Use of AI to Combat Financial Fraud",
+      "summary": "Artificial intelligence is rapidly transforming financial fraud, giving criminal organizations the ability to generate convincing scams at unprecedented scale. But according to a report issued last week by Republicans on the House Financial Services Committee, AI can also provide…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/house-republicans-urge-expanded-use-of-ai-to-combat-financial-fraud/",
+      "date": "2026-07-27",
+      "category": "Banking",
+      "tags": [
+        "house republicans",
+        "urge expanded",
+        "use"
+      ]
+    },
     {
       "id": "574232936",
       "title": "Insurtech Corgi hits $4 billion valuation on latest raise",
@@ -828,62 +884,6 @@
         "britain",
         "ai",
         "every uk"
-      ]
-    },
-    {
-      "id": "984188028",
-      "title": "FIS Deploys Anthropic’s Mythos 5 to Strengthen Global Financial Infrastructure",
-      "summary": "FIS has joined Anthropic’s Project Glasswing and is using the artificial intelligence company’s most advanced frontier model, Mythos 5, to secure its own systems. Project Glasswing is Anthropic’s initiative that allows select organizations that build or maintain foundational soft…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fis-deploys-anthropics-mythos-5-to-strengthen-global-financial-infrastructure/",
-      "date": "2026-07-17",
-      "category": "Banking",
-      "tags": [
-        "fis deploys",
-        "anthropic",
-        "mythos"
-      ]
-    },
-    {
-      "id": "544134588",
-      "title": "California Tightens Scrutiny of AI Hiring Tools Amid Reports of Racial Bias",
-      "summary": "California employers that use artificial intelligence (AI) to screen job candidates face an increasingly complex compliance landscape as state regulators clarify that existing anti-discrimination laws apply fully to automated decision systems (ADS). At the same time, lawmakers ar…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/california-tightens-scrutiny-of-ai-hiring-tools-amid-reports-of-racial-bias/",
-      "date": "2026-07-17",
-      "category": "RegTech",
-      "tags": [
-        "california tightens",
-        "scrutiny",
-        "ai hiring"
-      ]
-    },
-    {
-      "id": "415698325",
-      "title": "CMBI, SMBC back Whale’s US$40M Series C extension for enterprise AI expansion",
-      "summary": "Singapore-headquartered enterprise AI company Whale has raised a US$40 million extension to its Series C round, bringing the total Series C financing to US$100 million, as it looks to expand deployments across Asia Pacific and North America. The extension was led by CMB Internati…",
-      "source": "e27",
-      "url": "https://e27.co/cmbi-smbc-back-whales-us40m-series-c-extension-for-enterprise-ai-expansion-20260717/",
-      "date": "2026-07-17",
-      "category": "Banking",
-      "tags": [
-        "cmbi",
-        "smbc",
-        "whale"
-      ]
-    },
-    {
-      "id": "276106545",
-      "title": "UnitedHealth Says AI Now Runs Every Function of Its Business",
-      "summary": "Every claim UnitedHealth processes, every prior authorization it reviews and every patient interaction it handles now runs through artificial intelligence (AI). The company is turning that internal overhaul into a commercial product line. “Virtually everything that we do, we see …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/unitedhealths-ai-runs-every-function-of-its-business/",
-      "date": "2026-07-17",
-      "category": "InsurTech",
-      "tags": [
-        "unitedhealth says",
-        "ai now",
-        "runs every"
       ]
     }
   ]
