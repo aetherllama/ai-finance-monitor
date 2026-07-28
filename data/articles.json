@@ -1,18 +1,23 @@
 {
-  "last_updated": "2026-07-27T20:25:07Z",
+  "last_updated": "2026-07-28T09:38:22Z",
   "insights": {
     "risks": [
-      "Operational: HSBC to open Singapore AI centre of excellence — evaluate model governance gaps."
+      "Trading risk: AI stock sell-off deepens as investors dump chipmakers — assess algorithmic exposure.",
+      "Operational: Oportun Deploys AI to Help Consumers Save for Recurring Expenses — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Embat expands into global banking — potential infrastructure advantage.",
-      "Banking efficiency: HSBC to open Singapore AI centre of excellence — cost reduction opportunity."
+      "Payments: From Data Overload to Data Insight: How AI and Modern Accounting Solutions are Transforming Expense Control — potential infrastructure advantage.",
+      "Banking efficiency: Oportun Deploys AI to Help Consumers Save for Recurring Expenses — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 14
+    },
+    {
+      "topic": "Generative AI",
+      "count": 4
     },
     {
       "topic": "Automation",
@@ -20,10 +25,6 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 3
-    },
-    {
-      "topic": "Generative AI",
       "count": 3
     },
     {
@@ -41,13 +42,120 @@
     {
       "topic": "Portfolio Management",
       "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "910442719",
+      "title": "AI stock sell-off deepens as investors dump chipmakers",
+      "summary": "South Korea’s tech-heavy Kospi leads declines in Asia",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
+      "date": "2026-07-28",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "south korea",
+        "kospi"
+      ]
+    },
+    {
+      "id": "939800950",
+      "title": "From Data Overload to Data Insight: How AI and Modern Accounting Solutions are Transforming Expense Control",
+      "summary": "AI has made expense fraud easier, but it can also be the solution. By using AI-powered accounting controls to detect suspicious patterns, automate monitoring, and strengthen governance, finance teams can reduce fraud, cut manual workloads, and turn expense management into a strat…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/from-data-overload-to-data-insight-how-ai-and-modern-accounting-solutions-are-transforming-expense-control/",
+      "date": "2026-07-28",
+      "category": "Payments",
+      "tags": [
+        "from data",
+        "overload",
+        "data insight"
+      ]
+    },
+    {
+      "id": "295457392",
+      "title": "Fraud and Disputes Rank as a Top Cost for 42% of Issuers",
+      "summary": "Card issuers must distinguish a fraudulent transaction from a legitimate one in milliseconds. Now there’s a new complication: What happens when the legitimate customer is no longer the party directly making the purchase? That question is becoming more pressing as artificial intel…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/fraud-and-disputes-rank-as-a-top-cost-for-42-of-issuers/",
+      "date": "2026-07-28",
+      "category": "Payments",
+      "tags": [
+        "fraud",
+        "disputes rank",
+        "top cost"
+      ]
+    },
+    {
+      "id": "66048289",
+      "title": "Oportun Deploys AI to Help Consumers Save for Recurring Expenses",
+      "summary": "Oportun has expanded its savings app, Set Save, to include a new artificial intelligence-powered feature that identifies routine bills and automatically helps members save toward upcoming payments. The new Smart Bills feature uses AI to understand a member’s financial habits and …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/consumer-finance/2026/oportun-deploys-ai-to-help-consumers-save-for-recurring-expenses/",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "oportun deploys",
+        "ai",
+        "help consumers"
+      ]
+    },
+    {
+      "id": "171063352",
+      "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
+      "summary": "On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to The Gemini Report Southeast Asia 2026 by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring…",
+      "source": "e27",
+      "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "the philippines",
+        "ai",
+        "singapore"
+      ]
+    },
+    {
+      "id": "50530196",
+      "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
+      "summary": "For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish bl…",
+      "source": "e27",
+      "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "southeast asia",
+        "smes"
+      ]
+    },
+    {
+      "id": "191983104",
+      "title": "The bank scaled its ASEAN franchise whilst integrating AI, enhanced security, and refreshed card propositions.",
+      "summary": "The bank scaled its ASEAN franchise whilst integrating AI, enhanced security, and refreshed card propositions.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/co-written-partner/event-news/uob-takes-home-four-wins-asian-banking-finance-retail-banking-awards-2026",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "asean",
+        "ai"
+      ]
+    },
+    {
+      "id": "943360141",
+      "title": "Nearly 4 in 10 (39%) of finance professionals from Southeast Asia named generative artificial intelligence (gen AI) as one of top three critical skills they need to have over the next five years.",
+      "summary": "Nearly 4 in 10 (39%) of finance professionals from Southeast Asia named generative artificial intelligence (gen AI) as one of top three critical skills they need to have over the next five years.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/information-technology/in-focus/sea-finance-professionals-want-gen-ai-skills-proficiency-lags",
+      "date": "2026-07-27",
+      "category": "Banking",
+      "tags": [
+        "nearly",
+        "southeast asia",
+        "ai"
+      ]
+    },
     {
       "id": "837214536",
       "title": "HSBC to open Singapore AI centre of excellence",
@@ -772,118 +880,6 @@
         "hsbc",
         "epaa",
         "ai"
-      ]
-    },
-    {
-      "id": "326989798",
-      "title": "FCA’s Mills Review Casts AI as Part of the Financial System, and Asks Whether the Rules Still Fit",
-      "summary": "The FCA’s Mills Review urges the UK to prepare for AI-driven finance, with a focus on regulation, accountability and consumer protection. The post FCA’s Mills Review Casts AI as Part of the Financial System, and Asks Whether the Rules Still Fit appeared first on The Fintech Times…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/fcas-mills-review-casts-ai-as-part-of-the-financial-system-and-asks-whether-the-rules-still-fit/",
-      "date": "2026-07-20",
-      "category": "Payments",
-      "tags": [
-        "fca",
-        "mills review",
-        "casts ai"
-      ]
-    },
-    {
-      "id": "399213478",
-      "title": "The Housing Market Hands More Decisions to AI",
-      "summary": "For most of the history of consumer credit, the loan decision sat with a human. That model is changing. This week in the Prompt Economy™ AI agents are now handling document review, credit scoring, risk assessment and borrower communication autonomously, compressing timelines and …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/the-housing-market-hands-more-decisions-to-ai/",
-      "date": "2026-07-20",
-      "category": "Banking",
-      "tags": [
-        "the housing",
-        "market hands",
-        "more decisions"
-      ]
-    },
-    {
-      "id": "355757598",
-      "title": "Velera CEO Chuck Fagan Exits With a Challenge to Credit Unions",
-      "summary": "Watch more: Need to Know With Velera’s Chuck Fagan Chuck Fagan has spent more than three decades watching technology reshape financial services. Along the way, he has seen credit unions adapt to online banking, mobile apps, digital wallets, real-time payments and now, artificial …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/credit-unions/2026/velera-chuck-fagan-exits-with-challenge-credit-unions/",
-      "date": "2026-07-20",
-      "category": "Banking",
-      "tags": [
-        "velera ceo",
-        "chuck fagan",
-        "exits with"
-      ]
-    },
-    {
-      "id": "846610406",
-      "title": "Inside SEA’s AI gold rush: The 20 investors writing the biggest cheques",
-      "summary": "Artificial intelligence is no longer a distant promise for Southeast Asia; it is the single most consequential bet being made across the region s venture capital landscape. In 2025, AI startup investment in Vietnam alone surged 13-fold to US$130 million, while Singapore continued…",
-      "source": "e27",
-      "url": "https://e27.co/inside-seas-ai-gold-rush-the-20-investors-writing-the-biggest-cheques-20260720/",
-      "date": "2026-07-20",
-      "category": "Banking",
-      "tags": [
-        "inside sea",
-        "ai",
-        "artificial"
-      ]
-    },
-    {
-      "id": "733447017",
-      "title": "Should AI investing involve diversifying into Chinese tech stocks to counterbalance new industry rivals?",
-      "summary": "Artificial intelligence innovators outside of the United States can no longer be ignored. Does it mean that your AI-focused portfolio is at risk if you haven’t looked beyond Wall Street? There’s no doubt that AI is the largest driver of growth for investors in the post-pandemic l…",
-      "source": "e27",
-      "url": "https://e27.co/should-ai-investing-involve-diversifying-into-chinese-tech-stocks-to-counterbalance-new-industry-rivals-20260719/",
-      "date": "2026-07-20",
-      "category": "Trading",
-      "tags": [
-        "should ai",
-        "chinese",
-        "artificial"
-      ]
-    },
-    {
-      "id": "895873287",
-      "title": "Asia AI bets power record equities run for Wall Street banks",
-      "summary": "Investments in semiconductors fuel growth in regional revenues for US banks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
-      "date": "2026-07-18",
-      "category": "Banking",
-      "tags": [
-        "asia ai",
-        "wall street",
-        "investments"
-      ]
-    },
-    {
-      "id": "665035364",
-      "title": "Accuracy Is the Wrong Scoreboard for AI in Finance",
-      "summary": "Every institution now measures its models by \"accuracy,\" and the number is almost always",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32313/accuracy-is-the-wrong-scoreboard-for-ai-in-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-17",
-      "category": "Banking",
-      "tags": [
-        "accuracy is",
-        "wrong scoreboard",
-        "ai"
-      ]
-    },
-    {
-      "id": "695318569",
-      "title": "Britain won’t regulate its way to AI leadership – it’s up to banks to take the first steps",
-      "summary": "Every UK bank says it’s ‘exploring AI’. But in reality, most mean they’re ‘waiting for permission’. ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32311/britain-wont-regulate-its-way-to-ai-leadership--its-up-to-banks-to-take-the-first-steps?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-17",
-      "category": "Banking",
-      "tags": [
-        "britain",
-        "ai",
-        "every uk"
       ]
     }
   ]
