@@ -1,31 +1,35 @@
 {
-  "last_updated": "2026-07-28T09:38:22Z",
+  "last_updated": "2026-07-28T20:18:47Z",
   "insights": {
     "risks": [
-      "Trading risk: AI stock sell-off deepens as investors dump chipmakers — assess algorithmic exposure.",
-      "Operational: Oportun Deploys AI to Help Consumers Save for Recurring Expenses — evaluate model governance gaps."
+      "Trading risk: The Download: OpenAI’s predictable hack, and an AI stock sell-off — assess algorithmic exposure.",
+      "Operational: PEX secures $160m to scale payments, credit and finance automation platform — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: From Data Overload to Data Insight: How AI and Modern Accounting Solutions are Transforming Expense Control — potential infrastructure advantage.",
-      "Banking efficiency: Oportun Deploys AI to Help Consumers Save for Recurring Expenses — cost reduction opportunity."
+      "Banking efficiency: PEX secures $160m to scale payments, credit and finance automation platform — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 10
+    },
+    {
+      "topic": "Automation",
+      "count": 5
     },
     {
       "topic": "Generative AI",
       "count": 4
     },
     {
-      "topic": "Automation",
-      "count": 4
-    },
-    {
       "topic": "Customer Service AI",
       "count": 3
+    },
+    {
+      "topic": "KYC / AML",
+      "count": 1
     },
     {
       "topic": "Copilot / Assistants",
@@ -38,13 +42,121 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Portfolio Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "556202215",
+      "title": "PEX secures $160m to scale payments, credit and finance automation platform",
+      "summary": "Corporate card and spend management platform PEX has secured $160 million in debt and equity financing led by Bluff Point Associates.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48150/pex-secures-160m-to-scale-payments-credit-and-finance-automation-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "pex",
+        "corporate",
+        "bluff point"
+      ]
+    },
+    {
+      "id": "547866268",
+      "title": "Conquest integrates Shaping Wealth’s Lydia agent into advisor workflow",
+      "summary": "Conquest Planning Inc. (“Conquest”), the AI-powered technology platform modernizing financial advice delivery across the full wealth spectrum, and Shaping Wealth, the leading provider of behavioral science-based learning and engagement solutions for the wealth management industry…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110518/conquest-integrates-shaping-wealths-lydia-agent-into-advisor-workflow?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "conquest",
+        "shaping wealth",
+        "lydia"
+      ]
+    },
+    {
+      "id": "103253734",
+      "title": "GoCardless and anvil partner to launch automated payments for telcos and MSPs",
+      "summary": "GoCardless, the bank payment company, has announced a partnership with anvil, an all-in-one business management and billing platform for the telecom and IT sectors.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110514/gocardless-and-anvil-partner-to-launch-automated-payments-for-telcos-and-msps?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "gocardless",
+        "msps gocardless",
+        "it"
+      ]
+    },
+    {
+      "id": "697373300",
+      "title": "Tipalti and Flagright extend AI-powered AML compliance across global payables",
+      "summary": "Flagright, the AI operating system for financial crime compliance, today announced that Tipalti has partnered with Flagright as one of the tools supporting its compliance infrastructure.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110513/tipalti-and-flagright-extend-ai-powered-aml-compliance-across-global-payables?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "tipalti",
+        "flagright",
+        "ai"
+      ]
+    },
+    {
+      "id": "675158456",
+      "title": "Fenergo launches Fen-AI to bring governed AI to client lifecycle management",
+      "summary": "Fenergo, the leading provider of digital solutions for Know Your Customer (KYC), Anti-Money Laundering (AML) and client lifecycle management (CLM), today announced the launch of Fen-AI, its agentic AI orchestration platform for financial institutions.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110510/fenergo-launches-fen-ai-to-bring-governed-ai-to-client-lifecycle-management?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "fenergo",
+        "fen",
+        "ai"
+      ]
+    },
+    {
+      "id": "31944681",
+      "title": "Current finance hiring practices are holding UK businesses back",
+      "summary": "Tech advancements and AI tools have undoubtedly streamlined work and made finance teams faster, but",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32399/current-finance-hiring-practices-are-holding-uk-businesses-back?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "current",
+        "uk",
+        "tech"
+      ]
+    },
+    {
+      "id": "742034021",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas Heaven, senior AI editor Reading OpenAI’s accou…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "date": "2026-07-28",
+      "category": "Trading",
+      "tags": [
+        "the download",
+        "openai",
+        "ai"
+      ]
+    },
+    {
+      "id": "770589530",
+      "title": "How the Philippines and Singapore use AI differently at work",
+      "summary": "Across Southeast Asia, AI is reshaping how workers operate, but not in a uniform way. A new analysis reveals a striking cultural divergence: Filipino professionals are turning to AI primarily as a burnout shield, using it to offload repetitive, draining tasks and protect their me…",
+      "source": "e27",
+      "url": "https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "how",
+        "philippines",
+        "singapore"
+      ]
+    },
     {
       "id": "910442719",
       "title": "AI stock sell-off deepens as investors dump chipmakers",
@@ -768,118 +880,6 @@
         "singapore",
         "ai",
         "singapore data"
-      ]
-    },
-    {
-      "id": "988290916",
-      "title": "The Impact of AI and Other New Technologies on Payment Hubs",
-      "summary": "Joining the FinextraTV studio at EBADay 2026 in Copenhagen, Peter Reynolds, CEO, Otoma to share his insights on AI and vendor dependence. Reynolds began by questioning whether banks were using AI in the best areas, suggesting there could be areas such as forecasting, infrastructu…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3569/the-impact-of-ai-and-other-new-technologies-on-payment-hubs?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-20",
-      "category": "Payments",
-      "tags": [
-        "the impact",
-        "ai",
-        "other new"
-      ]
-    },
-    {
-      "id": "707518120",
-      "title": "Is Treasury Ready for Agentic AI? Rethinking Control in an Era of Autonomous Execution",
-      "summary": "By Tom Gregory, Head of Treasury Management, Merchant and Government Banking, TD Bank U.S. Treasury ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32326/is-treasury-ready-for-agentic-ai-rethinking-control-in-an-era-of-autonomous-execution?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-20",
-      "category": "Banking",
-      "tags": [
-        "is treasury",
-        "ready",
-        "agentic ai"
-      ]
-    },
-    {
-      "id": "336528035",
-      "title": "Governing Agentic AI Workflows: Ensuring Accountability and Traceability in Banking",
-      "summary": "Banks are beginning to move beyond AI models that only score, classify, or recommend. The next wave ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32325/governing-agentic-ai-workflows-ensuring-accountability-and-traceability-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-20",
-      "category": "Banking",
-      "tags": [
-        "governing agentic",
-        "ai workflows",
-        "ensuring accountability"
-      ]
-    },
-    {
-      "id": "16500107",
-      "title": "The AI Agent Is Authorised. The Payment Can Still Be Wrong.",
-      "summary": "Agentic commerce has reached checkout. Yet much of its control architecture still stops at permissio...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32324/the-ai-agent-is-authorised-the-payment-can-still-be-wrong?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-20",
-      "category": "Payments",
-      "tags": [
-        "the ai",
-        "agent is",
-        "authorised"
-      ]
-    },
-    {
-      "id": "92934248",
-      "title": "Natural Raises $30 Million to Build Payment Rails for AI Agents",
-      "summary": "Natural, a year-old company that is building a foundational payment stack for artificial intelligence agents, raised $30 million in a Series A funding round. The round brings Natural’s total funding to more than $40 million, the company said in a Monday (July 20) press release. T…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/natural-raises-30-million-to-build-payment-rails-for-ai-agents/",
-      "date": "2026-07-20",
-      "category": "Payments",
-      "tags": [
-        "natural raises",
-        "million",
-        "build payment"
-      ]
-    },
-    {
-      "id": "110566117",
-      "title": "Morgan Stanley cashes in on AI boom with debt deals",
-      "summary": "Wall Street bank has emerged as chief architect of financing structures behind build-out of data centres",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1",
-      "date": "2026-07-20",
-      "category": "Banking",
-      "tags": [
-        "morgan stanley",
-        "ai",
-        "wall street"
-      ]
-    },
-    {
-      "id": "666376252",
-      "title": "Portfolio construction in the shadow of the AI bubble",
-      "summary": "Hard choices on all sides",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9523ead6-6599-4ed0-9b14-dfa70fd1b180?syn-25a6b1a6=1",
-      "date": "2026-07-20",
-      "category": "Trading",
-      "tags": [
-        "portfolio",
-        "ai",
-        "hard"
-      ]
-    },
-    {
-      "id": "18293239",
-      "title": "HSBC joins EPAA agentic AI working group as founding member",
-      "summary": "The Emerging Payments Association Asia (EPAA) has launched the AI & Agentic Payments Working Group with founding member HSBC, bringing together the banks, payment networks, fintechs and technology platforms that will define the standards to make agentic commerce work safely and a…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110454/hsbc-joins-epaa-agentic-ai-working-group-as-founding-member?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-20",
-      "category": "Payments",
-      "tags": [
-        "hsbc",
-        "epaa",
-        "ai"
       ]
     }
   ]
