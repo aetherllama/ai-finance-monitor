@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-07-29T09:40:29Z",
+  "last_updated": "2026-07-29T20:14:33Z",
   "insights": {
     "risks": [
       "Regulatory: MAS, ABS launch ACT taskforce as AI raises cyber risks for banks — review compliance obligations.",
-      "Trading risk: The Download: OpenAI’s predictable hack, and an AI stock sell-off — assess algorithmic exposure.",
-      "Operational: Bank of England probes Asian equity risk at prime brokers — evaluate model governance gaps."
+      "Trading risk: Opetek launches AI reasoning platform for intstitutional trading desks — assess algorithmic exposure.",
+      "Operational: ICE puts fixed income pricing data on leading AI platforms — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Bank of England probes Asian equity risk at prime brokers — cost reduction opportunity."
+      "Payments: MoonPay opens PayBox for AI agent transactions — potential infrastructure advantage.",
+      "Banking efficiency: ICE puts fixed income pricing data on leading AI platforms — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -41,6 +42,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "239803167",
+      "title": "MoonPay opens PayBox for AI agent transactions",
+      "summary": "MoonPay, the global financial technology company powering the movement of value across fiat and digital assets, has launched PayBox, the first payment vault built for AI that lets a person's AI agent transact on the open internet without leaving the conversation.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110532/moonpay-opens-paybox-for-ai-agent-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-29",
+      "category": "Payments",
+      "tags": [
+        "moonpay",
+        "paybox",
+        "ai"
+      ]
+    },
+    {
+      "id": "563478098",
+      "title": "ICE puts fixed income pricing data on leading AI platforms",
+      "summary": "Intercontinental Exchange, Inc. (NYSE: ICE), one of the world's leading providers of financial market technology and data powering global capital markets, today announced its fixed income data and methodologies are now available to be used on leading AI platforms by licensed user…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110528/ice-puts-fixed-income-pricing-data-on-leading-ai-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "ice",
+        "ai",
+        "intercontinental exchange"
+      ]
+    },
+    {
+      "id": "149811835",
+      "title": "Opetek launches AI reasoning platform for intstitutional trading desks",
+      "summary": "Opetek today announced the launch of ARIUS, its proprietary quantitative reasoning platform for institutional capital markets.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110522/opetek-launches-ai-reasoning-platform-for-intstitutional-trading-desks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-29",
+      "category": "Trading",
+      "tags": [
+        "opetek",
+        "ai",
+        "arius"
+      ]
+    },
+    {
+      "id": "529434772",
+      "title": "Celonis and Valence Launch AI Deductions Manager for CPG Finance Teams",
+      "summary": "The new app automates dispute resolution and evidence gathering, aiming to cut cycle times from weeks to days for consumer goods finance teams. The post Celonis and Valence Launch AI Deductions Manager for CPG Finance Teams appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/celonis-and-valence-launch-ai-deductions-manager-for-cpg-finance-teams/",
+      "date": "2026-07-29",
+      "category": "Payments",
+      "tags": [
+        "celonis",
+        "valence launch",
+        "ai deductions"
+      ]
+    },
     {
       "id": "651126676",
       "title": "Bank of England probes Asian equity risk at prime brokers",
@@ -821,62 +878,6 @@
         "bank",
         "america equips",
         "customer service"
-      ]
-    },
-    {
-      "id": "980373064",
-      "title": "Capital One Tests Moving Credit Cards to Discover Network",
-      "summary": "Capital One’s Discover integration dominated discussion during the second-quarter earnings call, alongside new initiatives, with the bank testing Capital One credit cards on the Discover network while continuing to spend on technology and artificial intelligence (AI). The company…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/capital-one-tests-moving-credit-cards-to-discover-network/",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "capital one",
-        "tests moving",
-        "credit cards"
-      ]
-    },
-    {
-      "id": "587658023",
-      "title": "Singapore’s data analysts trust AI to work, not to think",
-      "summary": "Singapore s data professionals are proving to be among the most cautious in the world when it comes to letting artificial intelligence (AI) operate unsupervised. According to a new global study, 61 per cent of the city-state s data analysts prefer a human-in-the-loop approach to …",
-      "source": "e27",
-      "url": "https://e27.co/singapores-data-analysts-trust-ai-to-work-not-to-think-20260722/",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "according"
-      ]
-    },
-    {
-      "id": "354281376",
-      "title": "Database management and programming rank well below generative artificial intelligence, or GenAI, amongst the skills that finance professionals in SEA expect to need over the next 5 years.",
-      "summary": "Database management and programming rank well below generative artificial intelligence, or GenAI, amongst the skills that finance professionals in SEA expect to need over the next 5 years.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/information-technology/exclusive/finance-professionals-sideline-coding-genai",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "database",
-        "genai",
-        "sea"
-      ]
-    },
-    {
-      "id": "811700092",
-      "title": "London Stock Exchange to launch new trading venue LSE 24",
-      "summary": "London Stock Exchange today announced plans to launch London Stock Exchange 24 (LSE 24), a new 24/5 trading venue to support the next generation of digital, algorithmic and agentic trading.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110461/london-stock-exchange-to-launch-new-trading-venue-lse-24?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-21",
-      "category": "Trading",
-      "tags": [
-        "london stock",
-        "exchange",
-        "lse"
       ]
     }
   ]
