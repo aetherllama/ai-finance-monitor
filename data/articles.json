@@ -1,31 +1,31 @@
 {
-  "last_updated": "2026-07-28T20:18:47Z",
+  "last_updated": "2026-07-29T09:40:29Z",
   "insights": {
     "risks": [
+      "Regulatory: MAS, ABS launch ACT taskforce as AI raises cyber risks for banks — review compliance obligations.",
       "Trading risk: The Download: OpenAI’s predictable hack, and an AI stock sell-off — assess algorithmic exposure.",
-      "Operational: PEX secures $160m to scale payments, credit and finance automation platform — evaluate model governance gaps."
+      "Operational: Bank of England probes Asian equity risk at prime brokers — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: From Data Overload to Data Insight: How AI and Modern Accounting Solutions are Transforming Expense Control — potential infrastructure advantage.",
-      "Banking efficiency: PEX secures $160m to scale payments, credit and finance automation platform — cost reduction opportunity."
+      "Banking efficiency: Bank of England probes Asian equity risk at prime brokers — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 5
-    },
-    {
-      "topic": "Generative AI",
       "count": 4
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Generative AI",
       "count": 3
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 2
     },
     {
       "topic": "KYC / AML",
@@ -38,13 +38,121 @@
     {
       "topic": "Payments AI",
       "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "651126676",
+      "title": "Bank of England probes Asian equity risk at prime brokers",
+      "summary": "Regulator to review exposure to AI sector at hedge funds and other clients of investment banks operating in UK",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3a99b024-c7bc-4f10-ad77-3cdfccbc39e8?syn-25a6b1a6=1",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "england",
+        "asian"
+      ]
+    },
+    {
+      "id": "377276107",
+      "title": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
+      "summary": "Singapore's central bank is establishing an AI-Driven Cyber and Technology Risk Taskforce in collaboration with the country's leadingg commercial banks and tech companies.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48163/singapores-central-bank-convenes-ai-driven-cyber-and-technology-risk-taskforce?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "driven cyber"
+      ]
+    },
+    {
+      "id": "59332932",
+      "title": "MAS, ABS launch ACT taskforce as AI raises cyber risks for banks",
+      "summary": "Singapore’s financial sector is moving to coordinate its defence against a new generation of cyber threats, as frontier artificial intelligence models begin to change how attacks are planned, scaled and executed. The Monetary Authority of Singapore (MAS) and the Association of Ba…",
+      "source": "e27",
+      "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
+      "date": "2026-07-29",
+      "category": "RegTech",
+      "tags": [
+        "mas",
+        "abs",
+        "act"
+      ]
+    },
+    {
+      "id": "150765801",
+      "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
+      "summary": "Ransomware used to be understood mainly as a technology crisis: malware enters a network, locks files, and leaves the victim weighing whether to restore from backups or pay up. A new Proofpoint study suggests that view is now too narrow, especially for digitally dense markets suc…",
+      "source": "e27",
+      "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "ransomware",
+        "singapore",
+        "proofpoint"
+      ]
+    },
+    {
+      "id": "176902061",
+      "title": "The one-person AI business is coming for the agency model",
+      "summary": "In June 2025, I started a business built on an uncomfortable question: how much of an agency does a client actually pay for, and how much of it is overhead wearing a lanyard? I run an education business in Singapore as my day job, so I see the demand side up close. SMEs want cont…",
+      "source": "e27",
+      "url": "https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "in june",
+        "singapore"
+      ]
+    },
+    {
+      "id": "616005578",
+      "title": "AI is Vietnam’s new capital magnet",
+      "summary": "Vietnam s AI startups just had their best year on record. Capital deployed into AI ventures grew roughly 13x between 2023 and 2025, closing the year at a new high, while the number of deals nearly doubled over the same stretch. In a private capital market that is still finding it…",
+      "source": "e27",
+      "url": "https://e27.co/ai-is-vietnams-new-capital-magnet-20260727/",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "vietnam",
+        "capital"
+      ]
+    },
+    {
+      "id": "631621224",
+      "title": "OCBC has unveiled its agentic artificial intelligence (AI) platform HELIOS to enhance the accuracy and completeness of wealthy customers’ onboarding.",
+      "summary": "OCBC has unveiled its agentic artificial intelligence (AI) platform HELIOS to enhance the accuracy and completeness of wealthy customers’ onboarding.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/ocbc-deploys-agentic-ai-platform-halve-wealth-client-onboarding-time",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "ocbc",
+        "ai",
+        "helios"
+      ]
+    },
+    {
+      "id": "20913566",
+      "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
+      "summary": "Scale of losses in recent weeks sparks growing risk aversion on Wall Street",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1",
+      "date": "2026-07-28",
+      "category": "Banking",
+      "tags": [
+        "hedge",
+        "ai",
+        "scale"
+      ]
+    },
     {
       "id": "556202215",
       "title": "PEX secures $160m to scale payments, credit and finance automation platform",
@@ -769,117 +877,6 @@
         "london stock",
         "exchange",
         "lse"
-      ]
-    },
-    {
-      "id": "888626537",
-      "title": "9fin Hires Former JPMorgan Digital Banking Chief Huw Richards",
-      "summary": "The AI-native debt markets platform has appointed Huw Richards, who led JPMorgan's Digital Investment Bank, to a newly created customer partnerships role. The post 9fin Hires Former JPMorgan Digital Banking Chief Huw Richards appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/9fin-hires-former-jpmorgan-digital-banking-chief-huw-richards/",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "hires former",
-        "jpmorgan digital",
-        "banking chief"
-      ]
-    },
-    {
-      "id": "781482891",
-      "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era",
-      "summary": "The firm, freshly valued at $1 billion, aims to replace legacy correspondent banking with always-on infrastructure that connects traditional payment systems and stablecoins.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/07/21/augustus-raises-usd180-million-to-build-a-clearing-bank-for-the-ai-and-stablecoin-era",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "augustus",
-        "ai"
-      ]
-    },
-    {
-      "id": "619795263",
-      "title": "Billtrust Debuts AI Assistant Connectivity to Promote AR Automation",
-      "summary": "B2B cash generation platform Billtrust has launched the “Billtrust MCP Server.” With this new offering, the company becomes the first accounts receivable (AR) platform to directly link live invoice-to-cash intelligence to leading AI assistants through the Model Context Protocol (…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/billtrust-debuts-ai-assistant-connectivity-to-promote-ar-automation/",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "billtrust debuts",
-        "ai assistant",
-        "connectivity"
-      ]
-    },
-    {
-      "id": "199055894",
-      "title": "Bank of Ireland hires Citigroup's Prag Sharma as chief AI officer",
-      "summary": "Bank of Ireland has appointed Prag Sharma from Citigroup as its first chief AI officer.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48124/bank-of-ireland-hires-citigroups-prag-sharma-as-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "ireland",
-        "citigroup"
-      ]
-    },
-    {
-      "id": "998466039",
-      "title": "Agentic AI and Smart Data: The Architecture of the UK’s New Open Finance Framework",
-      "summary": "Quick Answer - The Financial Conduct Authority (FCA) has officially launched the Smart Data Open Fin...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32331/agentic-ai-and-smart-data-the-architecture-of-the-uks-new-open-finance-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "agentic ai",
-        "smart data",
-        "the architecture"
-      ]
-    },
-    {
-      "id": "957387204",
-      "title": "Singapore Set to Host the 4th FinTech Week Awards & Expo 2026",
-      "summary": "Singapore will host the 4th FinTech Week Awards Expo on 16–17 September, bringing together global fintech leaders to explore AI, digital banking, payments, blockchain and more. The post Singapore Set to Host the 4th FinTech Week Awards Expo 2026 appeared first on The Fintech Time…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/singapore-set-to-host-the-4th-fintech-week-awards-expo-2026/",
-      "date": "2026-07-21",
-      "category": "Payments",
-      "tags": [
-        "singapore set",
-        "host",
-        "fintech week"
-      ]
-    },
-    {
-      "id": "663220882",
-      "title": "The Agentic Enterprise Connects AI to Real Business Results",
-      "summary": "Artificial intelligence is crossing an important line inside the enterprise. It is moving from generating answers and assisting employees to executing work, coordinating systems and making decisions within defined boundaries. The transition is already underway across payments, ba…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/agentic-enterprise-connects-ai-to-real-business-results/",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "the agentic",
-        "enterprise connects",
-        "ai"
-      ]
-    },
-    {
-      "id": "766046199",
-      "title": "Singapore turns AI scrutiny towards chatbots, personal data, and digital twins",
-      "summary": "Singapore is moving to sharpen the rules around how companies use personal data in generative AI, as the country tries to square two competing realities: businesses want more data to build AI systems, while users are increasingly asked to trust tools they barely understand. At th…",
-      "source": "e27",
-      "url": "https://e27.co/singapore-turns-ai-scrutiny-towards-chatbots-personal-data-and-digital-twins-20260721/",
-      "date": "2026-07-21",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "singapore data"
       ]
     }
   ]
