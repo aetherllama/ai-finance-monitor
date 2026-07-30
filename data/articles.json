@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-30T09:33:28Z",
+  "last_updated": "2026-07-30T20:17:04Z",
   "insights": {
     "risks": [
-      "Regulatory: MAS, ABS launch ACT taskforce as AI raises cyber risks for banks — review compliance obligations.",
-      "Trading risk: ‘My life’s screwed’: Korean investors stress out after AI bubble bursts — assess algorithmic exposure.",
-      "Operational: Lloyds aims for a further £2 billion in cost savings with AI to the fore — evaluate model governance gaps."
+      "Trading risk: Are investors really getting cold feet about the AI boom? — assess algorithmic exposure.",
+      "Operational: Citadel buys Situational Awareness equity holdings after steep AI losses — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: MoonPay opens PayBox for AI agent transactions — potential infrastructure advantage.",
-      "Banking efficiency: Lloyds aims for a further £2 billion in cost savings with AI to the fore — cost reduction opportunity."
+      "Banking efficiency: Citadel buys Situational Awareness equity holdings after steep AI losses — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -38,6 +37,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "720878161",
+      "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
+      "summary": "Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1",
+      "date": "2026-07-30",
+      "category": "Banking",
+      "tags": [
+        "citadel",
+        "situational awareness",
+        "ai"
+      ]
+    },
+    {
+      "id": "781026992",
+      "title": "Are investors really getting cold feet about the AI boom?",
+      "summary": "It is not clear whether there has been a serious change of heart about the trade underpinning the stock market",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/00d91e68-9508-42bd-b1e3-124bf7dd390b?syn-25a6b1a6=1",
+      "date": "2026-07-30",
+      "category": "Trading",
+      "tags": [
+        "are",
+        "ai",
+        "it"
+      ]
+    },
+    {
+      "id": "916063565",
+      "title": "On-Demand – AI, HR and financial services: Modernising banking systems from front to back",
+      "summary": "How should FIs embed AI into their core banking systems?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/619/on-demand--ai-hr-and-financial-services-modernising-banking-systems-from-front-to-back?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-30",
+      "category": "Banking",
+      "tags": [
+        "on",
+        "demand",
+        "ai"
+      ]
+    },
     {
       "id": "483359160",
       "title": "‘My life’s screwed’: Korean investors stress out after AI bubble bursts",
@@ -832,48 +873,6 @@
         "bad financial",
         "data is",
         "ai"
-      ]
-    },
-    {
-      "id": "153428590",
-      "title": "The Future of Finance Depends on Better Workflows, Not Better AI",
-      "summary": "Watch more: Finance Leaders as Context Architects Artificial intelligence is not creating a finance revolution as much as it is conducting an audit. John Landy, chief technology officer at Billtrust, told PYMNTS that the lesson chief financial officers should carry forward from p…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/future-of-finance-depends-on-better-workflows-not-better-ai/",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "the future",
-        "finance depends",
-        "better workflows"
-      ]
-    },
-    {
-      "id": "167098268",
-      "title": "Corporate VC vs financial VC: What Applied Ventures offers founders that cash can’t buy",
-      "summary": "When Applied Materials brought ASTRA, its Applied Startup Technology Research Accelerator, to Singapore for the first time this year, it marked more than a regional expansion. It signalled that Southeast Asia s deeptech ecosystem has matured enough to bridge the gap between break…",
-      "source": "e27",
-      "url": "https://e27.co/corporate-vc-vs-financial-vc-what-applied-ventures-offers-founders-that-cash-cant-buy-20260723/",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "corporate vc",
-        "vc",
-        "what applied"
-      ]
-    },
-    {
-      "id": "111291280",
-      "title": "Bank of England AI Warning Spurs Financial Stability Debate",
-      "summary": "The Bank of England has warned that AI adoption could threaten financial stability, raising urgent questions about governance and systemic risk. The post Bank of England AI Warning Spurs Financial Stability Debate appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/bank-of-england-ai-warning-spurs-financial-stability-debate/",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "england ai",
-        "warning spurs"
       ]
     }
   ]
