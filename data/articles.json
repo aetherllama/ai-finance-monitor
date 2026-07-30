@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-07-29T20:14:33Z",
+  "last_updated": "2026-07-30T09:33:28Z",
   "insights": {
     "risks": [
       "Regulatory: MAS, ABS launch ACT taskforce as AI raises cyber risks for banks — review compliance obligations.",
-      "Trading risk: Opetek launches AI reasoning platform for intstitutional trading desks — assess algorithmic exposure.",
-      "Operational: ICE puts fixed income pricing data on leading AI platforms — evaluate model governance gaps."
+      "Trading risk: ‘My life’s screwed’: Korean investors stress out after AI bubble bursts — assess algorithmic exposure.",
+      "Operational: Lloyds aims for a further £2 billion in cost savings with AI to the fore — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: MoonPay opens PayBox for AI agent transactions — potential infrastructure advantage.",
-      "Banking efficiency: ICE puts fixed income pricing data on leading AI platforms — cost reduction opportunity."
+      "Banking efficiency: Lloyds aims for a further £2 billion in cost savings with AI to the fore — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 5
     },
     {
       "topic": "Automation",
@@ -22,7 +22,7 @@
     },
     {
       "topic": "Generative AI",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
@@ -35,13 +35,107 @@
     {
       "topic": "Copilot / Assistants",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "483359160",
+      "title": "‘My life’s screwed’: Korean investors stress out after AI bubble bursts",
+      "summary": "Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
+      "date": "2026-07-30",
+      "category": "Trading",
+      "tags": [
+        "my",
+        "korean",
+        "ai"
+      ]
+    },
+    {
+      "id": "337655855",
+      "title": "Leopold Aschenbrenner’s Situational Awareness seeks to raise capital after AI rout",
+      "summary": "Hedge fund has held talks with existing investors and lenders in recent days",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549?syn-25a6b1a6=1",
+      "date": "2026-07-30",
+      "category": "Trading",
+      "tags": [
+        "leopold aschenbrenner",
+        "situational awareness",
+        "ai"
+      ]
+    },
+    {
+      "id": "814178485",
+      "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
+      "summary": "Lloyds Banking Group is targeting another £2 billion in savings over the next three years after turning in a 23% jump in half-year profits.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-30",
+      "category": "Banking",
+      "tags": [
+        "lloyds",
+        "ai",
+        "lloyds banking"
+      ]
+    },
+    {
+      "id": "199479989",
+      "title": "AI, HR and financial services: Modernising banking systems from front to back",
+      "summary": "How should FIs embed AI into their core banking systems?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/619/ai-hr-and-financial-services-modernising-banking-systems-from-front-to-back?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-30",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "hr",
+        "modernising"
+      ]
+    },
+    {
+      "id": "460674956",
+      "title": "Say it out loud: AI is forcing companies to explain themselves",
+      "summary": "Tell someone, “I’m going to make pancakes,” and see how they interpret it in their head. In New York, they’ll picture a fluffy stack with maple syrup. In Amsterdam, a thin, buttery pannenkoek the size of the plate. In Singapore, perhaps min jiang kueh, dense with crushed peanuts.…",
+      "source": "e27",
+      "url": "https://e27.co/say-it-out-loud-ai-is-forcing-companies-to-explain-themselves-20260730/",
+      "date": "2026-07-30",
+      "category": "Banking",
+      "tags": [
+        "say",
+        "ai",
+        "tell"
+      ]
+    },
+    {
+      "id": "969989013",
+      "title": "Why AI literacy may become the new financial literacy",
+      "summary": "For decades, we ve taught financial literacy as one of life s most important skills. Save before you spend. Build an emergency fund. Invest early. Understand compound interest. Avoid unnecessary debt. Those lessons remain just as relevant today as they were a generation ago. But …",
+      "source": "e27",
+      "url": "https://e27.co/why-ai-literacy-may-become-the-new-financial-literacy-20260730/",
+      "date": "2026-07-30",
+      "category": "Banking",
+      "tags": [
+        "why ai",
+        "save",
+        "build"
+      ]
+    },
+    {
+      "id": "176411835",
+      "title": "More than 1 in 3 (35%) of Singapore now use artificial intelligence (AI) tools for financial purposes, according to a survey by Million Dollar Round Table (MDRT), an insurance and financial services trade association.",
+      "summary": "More than 1 in 3 (35%) of Singapore now use artificial intelligence (AI) tools for financial purposes, according to a survey by Million Dollar Round Table (MDRT), an insurance and financial services trade association.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/in-focus/1-in-3-singaporeans-use-ai-finances-prefer-human-advisors-in-crises",
+      "date": "2026-07-29",
+      "category": "Banking",
+      "tags": [
+        "more",
+        "singapore",
+        "ai"
+      ]
+    },
     {
       "id": "239803167",
       "title": "MoonPay opens PayBox for AI agent transactions",
@@ -780,104 +874,6 @@
         "bank",
         "england ai",
         "warning spurs"
-      ]
-    },
-    {
-      "id": "29703853",
-      "title": "Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services",
-      "summary": "The global TCSP software provider says its deployed agents are delivering 40–60% FTE savings, with a Timesheet Agent and further releases now in the The post Quantios Unveils Agentic AI Roadmap for Trust and Corporate Services appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/quantios-unveils-agentic-ai-roadmap-for-trust-and-corporate-services/",
-      "date": "2026-07-22",
-      "category": "Payments",
-      "tags": [
-        "quantios unveils",
-        "agentic ai",
-        "roadmap"
-      ]
-    },
-    {
-      "id": "451596211",
-      "title": "Norway advisory and audit firm BDO selects Strise as AML technology provider",
-      "summary": "BDO, one of Norway's leading advisory and audit firms, has selected Strise as its technology provider for customer due diligence and anti-money laundering (AML). The agreement makes Strise's AI platform a central part of how BDO meets its anti-money laundering obligations.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110472/norway-advisory-and-audit-firm-bdo-selects-strise-as-aml-technology-provider?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "norway",
-        "bdo",
-        "strise"
-      ]
-    },
-    {
-      "id": "131427642",
-      "title": "The Agentic Frontier: How AI agents are reshaping AML and KYC and why data quality Is everything",
-      "summary": "The fight against financial crime has always been a race. Criminals innovate, and compliance teams r...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32341/the-agentic-frontier-how-ai-agents-are-reshaping-aml-and-kyc-and-why-data-quality-is-everything?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "the agentic",
-        "frontier",
-        "how ai"
-      ]
-    },
-    {
-      "id": "887225778",
-      "title": "Natural raises $30 million to build AI agent payments stack",
-      "summary": "Natural, a US fintech startup building a payments stack for AI agents, has raised a $30 million Series A round led by Kirsten Green at Forerunner.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48127/natural-raises-30-million-to-build-ai-agent-payments-stack?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-22",
-      "category": "Payments",
-      "tags": [
-        "natural",
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "id": "245036409",
-      "title": "BMLL and Sigma AI join forces",
-      "summary": "BMLL, the independent provider of harmonised, continually engineered historical Level 3, 2 and 1 data and analytics for Capital Markets, today announced a partnership with SIGMA AI, a provider of real-time actionable intelligence for financial markets",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110468/bmll-and-sigma-ai-join-forces?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "bmll",
-        "sigma ai",
-        "level"
-      ]
-    },
-    {
-      "id": "983443148",
-      "title": "Bank of America Tells Finance Leaders to Fix the Data First",
-      "summary": "Watch more: Summer School With Bank of America’s Matthew Davies For finance chiefs, the technology challenge is no longer a lack of options. It is an excess of them. Chief financial officers are being presented with an expanding menu of artificial intelligence tools, real-time pa…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/back-office/cfo/2026/bank-of-america-tells-finance-leaders-to-fix-the-data-first/",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "america tells",
-        "finance leaders"
-      ]
-    },
-    {
-      "id": "386892823",
-      "title": "Bank of America Equips Customer Service Reps With Gen AI",
-      "summary": "Bank of America has added new generative artificial intelligence capabilities to EricaAssist, an AI agent that works alongside the bank’s customer service representatives during calls. The new AI capabilities enable EricaAssist to deliver relevant insights in under three seconds,…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-equips-customer-service-reps-with-gen-ai/",
-      "date": "2026-07-22",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "america equips",
-        "customer service"
       ]
     }
   ]
