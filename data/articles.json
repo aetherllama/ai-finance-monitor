@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-07-30T20:17:04Z",
+  "last_updated": "2026-07-31T09:48:51Z",
   "insights": {
     "risks": [
-      "Trading risk: Are investors really getting cold feet about the AI boom? — assess algorithmic exposure.",
-      "Operational: Citadel buys Situational Awareness equity holdings after steep AI losses — evaluate model governance gaps."
+      "Trading risk: How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low — assess algorithmic exposure.",
+      "Operational: 49% of Credit Unions See AI as an Acquisition Tool — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: MoonPay opens PayBox for AI agent transactions — potential infrastructure advantage.",
-      "Banking efficiency: Citadel buys Situational Awareness equity holdings after steep AI losses — cost reduction opportunity."
+      "Payments: AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots — potential infrastructure advantage.",
+      "Banking efficiency: 49% of Credit Unions See AI as an Acquisition Tool — cost reduction opportunity."
     ]
   },
   "trending": [
     {
-      "topic": "AI Agents",
+      "topic": "Automation",
       "count": 5
     },
     {
-      "topic": "Automation",
-      "count": 4
+      "topic": "AI Agents",
+      "count": 5
     },
     {
       "topic": "Generative AI",
       "count": 2
     },
     {
-      "topic": "Customer Service AI",
-      "count": 2
+      "topic": "KYC / AML",
+      "count": 1
     },
     {
-      "topic": "KYC / AML",
+      "topic": "Customer Service AI",
       "count": 1
     },
     {
@@ -37,6 +37,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "536462195",
+      "title": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low",
+      "summary": "The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1",
+      "date": "2026-07-31",
+      "category": "Trading",
+      "tags": [
+        "how leopold",
+        "aschenbrenner",
+        "ai"
+      ]
+    },
+    {
+      "id": "390220177",
+      "title": "AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots",
+      "summary": "A new benchmarking report finds 70% of organisations call AI critical, yet just 11% are delivering transformational results at scale. The post AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-adoption-gap-widens-as-only-11-of-firms-scale-beyond-pilots/",
+      "date": "2026-07-31",
+      "category": "Payments",
+      "tags": [
+        "ai adoption",
+        "gap widens",
+        "only"
+      ]
+    },
+    {
+      "id": "304339904",
+      "title": "49% of Credit Unions See AI as an Acquisition Tool",
+      "summary": "Credit unions have a gift heading into the artificial intelligence era: Their business customers are telling them exactly what to build first. Research from PYMNTS Intelligence, with Velera, titled “The Practical AI Opportunity: Why SMBs Want Guidance Before Automation,” finds th…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/credit-unions/2026/49-percent-of-credit-unions-see-ai-as-an-acquisition-tool/",
+      "date": "2026-07-31",
+      "category": "Banking",
+      "tags": [
+        "credit unions",
+        "see ai",
+        "acquisition tool"
+      ]
+    },
+    {
+      "id": "517827936",
+      "title": "Why Southeast Asian enterprises need AI governance before scaling generative AI",
+      "summary": "Across Southeast Asia, organisations are moving rapidly from AI exploration into practical business applications. Banks are experimenting with AI assistants for customer service and internal productivity. Insurance companies are exploring AI-supported claims processing. Logistics…",
+      "source": "e27",
+      "url": "https://e27.co/why-southeast-asian-enterprises-need-ai-governance-before-scaling-generative-ai-20260730/",
+      "date": "2026-07-31",
+      "category": "Banking",
+      "tags": [
+        "why southeast",
+        "asian",
+        "ai"
+      ]
+    },
+    {
+      "id": "714807803",
+      "title": "How to use AI to become a better investor",
+      "summary": "Every few months, a new platform promises to hand retail traders the same edge that institutional desks have spent decades building. Plug in the AI, sit back, let it run. The pitch has become so familiar it barely registers anymore. I ve been trading for thirty years and made eve…",
+      "source": "e27",
+      "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/",
+      "date": "2026-07-31",
+      "category": "Trading",
+      "tags": [
+        "how",
+        "ai",
+        "every"
+      ]
+    },
     {
       "id": "720878161",
       "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
@@ -803,76 +873,6 @@
       "tags": [
         "how ai",
         "designing"
-      ]
-    },
-    {
-      "id": "599768496",
-      "title": "Deutsche Bank runs global AI hackathon",
-      "summary": "More than 4,000 Deutsche Bank employees from around the world are coming together from across 21 locations to explore how AI can help solve practical challenges across the bank.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48136/deutsche-bank-runs-global-ai-hackathon?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "ai",
-        "more"
-      ]
-    },
-    {
-      "id": "849874798",
-      "title": "Bank of America embeds generative AI into customer service tools",
-      "summary": "Bank of America has embedded generative AI into its virtual customer service assistant EricaAssist, delivering relevant client insights in seconds to 18,000 call centre employees.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48133/bank-of-america-embeds-generative-ai-into-customer-service-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "america",
-        "ai"
-      ]
-    },
-    {
-      "id": "639231930",
-      "title": "Keenai appoints Singapore head for broader push into South East Asia",
-      "summary": "Keenai, the wealthtech platform for accredited investors (AI) built in partnership with Lighthouse Canton, has appointed Varun Mittal as Country Head, Singapore, ahead of the launch of Keenai Wealth on 19 August and a wider push into Southeast Asia.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110478/keenai-appoints-singapore-head-for-broader-push-into-south-east-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "keenai",
-        "singapore",
-        "south east"
-      ]
-    },
-    {
-      "id": "381479402",
-      "title": "FinregE proposes five pillars for navigating the UK AI adoption plan",
-      "summary": "FinregE, the End-to-End Regulatory Operating System (FinregE ROS), has published a strategic analysis of the UK’s AI Adoption Plan 2026, providing a roadmap for financial institutions to navigate the regulator's requirements.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110476/finrege-proposes-five-pillars-for-navigating-the-uk-ai-adoption-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "finrege",
-        "uk ai",
-        "end"
-      ]
-    },
-    {
-      "id": "616930941",
-      "title": "Bad Financial Data Is AI’s Biggest Liability",
-      "summary": "Watch more: Summer School With Fynapse’s Ben Catterall Artificial intelligence may dominate boardroom discussions, but payments companies face a more basic challenge. They already possess enormous amounts of financial data. The harder task is turning that information into somethi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bad-financial-data-ai-biggest-liability/",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "bad financial",
-        "data is",
-        "ai"
       ]
     }
   ]
