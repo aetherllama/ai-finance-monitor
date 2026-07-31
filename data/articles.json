@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-07-31T09:48:51Z",
+  "last_updated": "2026-07-31T20:22:19Z",
   "insights": {
     "risks": [
       "Trading risk: How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low — assess algorithmic exposure.",
-      "Operational: 49% of Credit Unions See AI as an Acquisition Tool — evaluate model governance gaps."
+      "Operational: Appli signs Connect Credit Union — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots — potential infrastructure advantage.",
-      "Banking efficiency: 49% of Credit Unions See AI as an Acquisition Tool — cost reduction opportunity."
+      "Banking efficiency: Appli signs Connect Credit Union — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -37,6 +37,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "471990009",
+      "title": "Appli signs Connect Credit Union",
+      "summary": "Appli, the creator of the industry's first AI-powered smart financial calculator, announced today that Connect Credit Union has selected its calculator solution to give members a more interactive way to explore their loan options online.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110543/appli-signs-connect-credit-union?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-07-31",
+      "category": "Banking",
+      "tags": [
+        "appli",
+        "connect credit",
+        "union appli"
+      ]
+    },
+    {
+      "id": "932442610",
+      "title": "Finance Teams Are Done Flying Blind on AI Costs",
+      "summary": "The era of “tokenmaxxing,” pushing employees toward the biggest artificial intelligence (AI) models and the heaviest usage as if consumption itself were a sign of progress, is ending after two years of unchecked growth. That approach worked while AI spending was small enough to a…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/finance-teams-are-done-flying-blind-on-ai-costs/",
+      "date": "2026-07-31",
+      "category": "Banking",
+      "tags": [
+        "finance teams",
+        "are done",
+        "flying blind"
+      ]
+    },
+    {
+      "id": "326793952",
+      "title": "Chime Cuts 10% of Workforce in AI Pivot",
+      "summary": "Chime Financial plans to lay off about 150 people, or 10% of its workforce, Bloomberg reported Friday (July 31), citing a memo to employees from Chime CEO and Co-Founder Chris Britt. Reached by PYMNTS, Chime declined to comment on the report. In an excerpt from the memo obtained …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/chime-cuts-10percent-of-workforce-in-ai-pivot/",
+      "date": "2026-07-31",
+      "category": "Banking",
+      "tags": [
+        "chime cuts",
+        "workforce",
+        "ai pivot"
+      ]
+    },
     {
       "id": "536462195",
       "title": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low",
@@ -832,47 +874,6 @@
         "stripe eyes",
         "billion deal",
         "ai model"
-      ]
-    },
-    {
-      "id": "734658819",
-      "title": "The most sophisticated AI strategy is a puzzle hunt in Toa Payoh",
-      "summary": "In the tech ecosystem, we often talk about the next big thing in terms of code and cloud scalability. But as we move further into 2026, I’ve realised that the most complex system I am currently architecting isn t a SaaS platform. It is a physical puzzle hunt in the heartlands of …",
-      "source": "e27",
-      "url": "https://e27.co/the-most-sophisticated-ai-strategy-is-a-puzzle-hunt-in-toa-payoh-20260623/",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "toa payoh",
-        "but"
-      ]
-    },
-    {
-      "id": "117515097",
-      "title": "How AI is dismantling the risk pool in insurance",
-      "summary": "Three weeks ago, I had coffee with the chief risk officer of an Indonesian insurer who has spent the last eighteen months building an AI-driven pricing model for one of their health products. He told me the model now produces better predictions than any of their senior actuaries …",
-      "source": "e27",
-      "url": "https://e27.co/how-ai-is-dismantling-the-risk-pool-in-insurance-20260713/",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "three",
-        "indonesian"
-      ]
-    },
-    {
-      "id": "197335123",
-      "title": "How AI helps scientists design the next generation of medicines",
-      "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "date": "2026-07-23",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "designing"
       ]
     }
   ]
