@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-07-31T20:22:19Z",
+  "last_updated": "2026-08-01T09:09:12Z",
   "insights": {
     "risks": [
-      "Trading risk: How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low — assess algorithmic exposure.",
-      "Operational: Appli signs Connect Credit Union — evaluate model governance gaps."
+      "Trading risk: Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout — assess algorithmic exposure.",
+      "Operational: OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots — potential infrastructure advantage.",
-      "Banking efficiency: Appli signs Connect Credit Union — cost reduction opportunity."
+      "Banking efficiency: OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "AI Agents",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Generative AI",
@@ -37,6 +37,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "350518344",
+      "title": "OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit",
+      "summary": "OpenAI’s models now reach more than 1 billion active users and more than 2 million businesses, OpenAI Chief Financial Officer Sarah Friar said in a Friday (July 31) blog post. OpenAI has found that these users deploy artificial intelligence (AI) more often and more deeply as they…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-reaches-1-billion-active-users-as-ai-becomes-daily-habit/",
+      "date": "2026-08-01",
+      "category": "Banking",
+      "tags": [
+        "openai reaches",
+        "billion active",
+        "users"
+      ]
+    },
+    {
+      "id": "340999648",
+      "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
+      "summary": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
+      "date": "2026-07-31",
+      "category": "Trading",
+      "tags": [
+        "citadel",
+        "situational awareness",
+        "ai"
+      ]
+    },
     {
       "id": "471990009",
       "title": "Appli signs Connect Credit Union",
@@ -846,34 +874,6 @@
         "south korea",
         "ai",
         "us"
-      ]
-    },
-    {
-      "id": "328260747",
-      "title": "Bitwave Begins Rollout of Agentic Suite to Power Autonomous Financial Operations",
-      "summary": "Bitwave has announced the first releases from its Bitwave Agentic product suite, which is focused on accounting tools, financial data and infrastructure for AI-native financial operations. These new open-source tools join the other accounting, payments, financial operations and a…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/back-office/cfo/2026/bitwave-begins-rollout-of-agentic-suite-to-power-autonomous-financial-operations/",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "bitwave begins",
-        "rollout",
-        "agentic suite"
-      ]
-    },
-    {
-      "id": "146507854",
-      "title": "Stripe Eyes $10 Billion Deal for AI Model Marketplace OpenRouter",
-      "summary": "Stripe is in talks to buy OpenRouter, an artificial intelligence (AI) startup that could sell for roughly $10 billion, according to The Wall Street Journal. The move would mark a significant step outside payments for a company that processes transactions for much of the internet.…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter/",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "stripe eyes",
-        "billion deal",
-        "ai model"
       ]
     }
   ]
