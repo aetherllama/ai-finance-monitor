@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-03T10:47:36Z",
+  "last_updated": "2026-08-03T20:35:25Z",
   "insights": {
     "risks": [
       "Trading risk: Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout — assess algorithmic exposure.",
-      "Operational: AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions. — evaluate model governance gaps."
+      "Operational: Plaid Gives Sierra’s AI Agents Live Access to Bank Accounts — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Boost CEO Says Transaction Data Is B2B Payments’ AI Superpower — potential infrastructure advantage.",
-      "Banking efficiency: AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions. — cost reduction opportunity."
+      "Banking efficiency: Plaid Gives Sierra’s AI Agents Live Access to Bank Accounts — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Automation",
@@ -30,13 +30,37 @@
     {
       "topic": "Customer Service AI",
       "count": 1
-    },
-    {
-      "topic": "Copilot / Assistants",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "682734193",
+      "title": "Plaid Gives Sierra’s AI Agents Live Access to Bank Accounts",
+      "summary": "A customer asks an artificial intelligence agent for help refinancing a loan. The agent walks through the options, then stalls the moment it needs real financial data. Sierra and Plaid built an integration to close that gap: Sierra’s AI agents can now request permission to connec…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/plaid-gives-sierras-ai-agents-live-access-to-bank-accounts/",
+      "date": "2026-08-03",
+      "category": "Banking",
+      "tags": [
+        "plaid gives",
+        "sierra",
+        "ai agents"
+      ]
+    },
+    {
+      "id": "30811607",
+      "title": "ADA acquires India’s Algonomy in push beyond customer data into AI-led action",
+      "summary": "ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company did not disclose the …",
+      "source": "e27",
+      "url": "https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/",
+      "date": "2026-08-03",
+      "category": "Banking",
+      "tags": [
+        "ada",
+        "india",
+        "algonomy"
+      ]
+    },
     {
       "id": "24137189",
       "title": "Boost CEO Says Transaction Data Is B2B Payments’ AI Superpower",
@@ -844,34 +868,6 @@
         "vine launches",
         "ai reporting",
         "dashboard"
-      ]
-    },
-    {
-      "id": "794644210",
-      "title": "US tech groups cut 140,000 jobs despite AI spending boom",
-      "summary": "Investment spree is reshaping Silicon Valley while wider US jobs market holds steady",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "us",
-        "ai",
-        "investment"
-      ]
-    },
-    {
-      "id": "205667054",
-      "title": "Billtrust launches AR Intelligence connection for Claude and Microsoft Copilot",
-      "summary": "Beginning today, finance teams can query their live invoice-to-cash data directly from inside Microsoft Copilot and Claude, using plain language.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110491/billtrust-launches-ar-intelligence-connection-for-claude-and-microsoft-copilot?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "billtrust",
-        "ar intelligence",
-        "claude"
       ]
     }
   ]
