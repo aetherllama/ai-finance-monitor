@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-02T20:12:09Z",
+  "last_updated": "2026-08-03T10:47:36Z",
   "insights": {
     "risks": [
       "Trading risk: Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout — assess algorithmic exposure.",
-      "Operational: OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit — evaluate model governance gaps."
+      "Operational: AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions. — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots — potential infrastructure advantage.",
-      "Banking efficiency: OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit — cost reduction opportunity."
+      "Payments: Boost CEO Says Transaction Data Is B2B Payments’ AI Superpower — potential infrastructure advantage.",
+      "Banking efficiency: AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions. — cost reduction opportunity."
     ]
   },
   "trending": [
     {
-      "topic": "Automation",
-      "count": 4
+      "topic": "AI Agents",
+      "count": 5
     },
     {
-      "topic": "AI Agents",
-      "count": 4
+      "topic": "Automation",
+      "count": 3
     },
     {
       "topic": "Generative AI",
@@ -37,6 +37,46 @@
     }
   ],
   "articles": [
+    {
+      "id": "24137189",
+      "title": "Boost CEO Says Transaction Data Is B2B Payments’ AI Superpower",
+      "summary": "Watch more: Digital Shift With Boost Payment Solutions’ Dean M Leavitt As PYMNTS CEO Karen Webster told a podcast audience for last year’s B2B event, nothing is boring about B2B payments anymore. That’s what makes the application of artificial intelligence across them so exciting…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/boost-ceo-says-transaction-data-is-b2b-payments-ai-superpower/",
+      "date": "2026-08-03",
+      "category": "Payments",
+      "tags": [
+        "boost ceo",
+        "says transaction",
+        "data is"
+      ]
+    },
+    {
+      "id": "605813632",
+      "title": "AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions.",
+      "summary": "AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/wealth-management/expert-opinion/can-ai-replace-wealth-advisers",
+      "date": "2026-08-03",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "singapore"
+      ]
+    },
+    {
+      "id": "794864841",
+      "title": "Singapore’s agentic finance guidance pushes banks to verify AI actions before they execute payments loans trades or regulatory reports.",
+      "summary": "Singapore’s agentic finance guidance pushes banks to verify AI actions before they execute payments loans trades or regulatory reports.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/commentary/banks-need-rethink-identity-governance-ai-agents",
+      "date": "2026-08-03",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai"
+      ]
+    },
     {
       "id": "350518344",
       "title": "OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit",
@@ -832,48 +872,6 @@
         "billtrust",
         "ar intelligence",
         "claude"
-      ]
-    },
-    {
-      "id": "112692506",
-      "title": "Beyond the Bot: Why Human Support Still Matters in an Automated Payments Industry",
-      "summary": "Modern payment gateways can process more than 10,000 transactions per minute, but automation cannot ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32360/beyond-the-bot-why-human-support-still-matters-in-an-automated-payments-industry?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-24",
-      "category": "Payments",
-      "tags": [
-        "beyond",
-        "bot",
-        "why human"
-      ]
-    },
-    {
-      "id": "182998850",
-      "title": "Stripe Doubles Down on AI With OpenRouter Deal",
-      "summary": "Stripe is in talks to buy OpenRouter, an artificial intelligence startup. The deal could value the company at roughly $10 billion, The Wall Street Journal reported. An agreement could be announced soon. Still, talks could fall through, or another buyer could step in. The exact pr…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-doubles-down-ai-with-openrouter-deal/",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "stripe doubles",
-        "down",
-        "ai with"
-      ]
-    },
-    {
-      "id": "359892687",
-      "title": "South Korea’s cash-rich winners of AI boom go on US buying spree",
-      "summary": "Companies make biggest US investment push in years to build up tech capabilities and avoid Donald Trump’s tariffs",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8ebab4c1-f36a-455e-a3d1-b36247296669?syn-25a6b1a6=1",
-      "date": "2026-07-24",
-      "category": "Banking",
-      "tags": [
-        "south korea",
-        "ai",
-        "us"
       ]
     }
   ]
