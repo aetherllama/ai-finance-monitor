@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-03T20:35:25Z",
+  "last_updated": "2026-08-04T09:40:39Z",
   "insights": {
     "risks": [
       "Trading risk: Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout — assess algorithmic exposure.",
-      "Operational: Plaid Gives Sierra’s AI Agents Live Access to Bank Accounts — evaluate model governance gaps."
+      "Operational: Inside Google’s $200bn Wall Street finance machine for Anthropic — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Boost CEO Says Transaction Data Is B2B Payments’ AI Superpower — potential infrastructure advantage.",
-      "Banking efficiency: Plaid Gives Sierra’s AI Agents Live Access to Bank Accounts — cost reduction opportunity."
+      "Payments: Who Is Paying the Customer's AI Agent? — potential infrastructure advantage.",
+      "Banking efficiency: Inside Google’s $200bn Wall Street finance machine for Anthropic — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 6
+      "count": 8
     },
     {
       "topic": "Automation",
@@ -24,15 +24,99 @@
       "count": 2
     },
     {
-      "topic": "KYC / AML",
+      "topic": "Risk Management",
       "count": 1
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "KYC / AML",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "392570960",
+      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
+      "summary": "Private credit, chip leases and data centre guarantees underpin a vast new model for AI spending",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "inside google",
+        "wall street",
+        "anthropic private"
+      ]
+    },
+    {
+      "id": "378657335",
+      "title": "Plaid and Sierra collaborate on AI agent interface",
+      "summary": "For decades, the entry point for financial services was a branch, then a website, then an app.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110559/plaid-and-sierra-collaborate-on-ai-agent-interface?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "plaid",
+        "sierra",
+        "ai"
+      ]
+    },
+    {
+      "id": "554963536",
+      "title": "Faster Hashing, Fewer Blind Spots: What BLAKE3 Changes for Financial Archives",
+      "summary": "Most financial institutions still verify their data using a hashing algorithm designed in 2001. SH",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32429/faster-hashing-fewer-blind-spots-what-blake3-changes-for-financial-archives?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "faster hashing",
+        "fewer blind",
+        "spots"
+      ]
+    },
+    {
+      "id": "910314145",
+      "title": "Bretton AI CEO Wants Banks to Kick the AI Tool Habit",
+      "summary": "Watch more: Need to Know With Bretton AI’s Will Lawrence Every artificial intelligence (AI) tool a bank adds to solve one risk problem gives it another vendor to vet, another platform to monitor and another set of decisions to explain to regulators. That’s the paradox at the cent…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/bretton-ai-ceo-wants-banks-to-kick-the-ai-tool-habit/",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "bretton ai",
+        "ceo wants",
+        "banks"
+      ]
+    },
+    {
+      "id": "254234608",
+      "title": "Who Is Paying the Customer's AI Agent?",
+      "summary": "A trusted-agent credential can prove who initiated a payment. It cannot prove whose interests shaped...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32439/who-is-paying-the-customers-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-03",
+      "category": "Payments",
+      "tags": [
+        "who is",
+        "paying",
+        "customer"
+      ]
+    },
+    {
+      "id": "230361384",
+      "title": "INETCO Adds Agentic AI Module to Cut Fraud Case Review Times",
+      "summary": "INETCO BullzAI Investigate uses on-premise agentic AI to triage payment fraud alerts and deliver explainable risk scores to analysts. The post INETCO Adds Agentic AI Module to Cut Fraud Case Review Times appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/inetco-adds-agentic-ai-module-to-cut-fraud-case-review-times/",
+      "date": "2026-08-03",
+      "category": "Payments",
+      "tags": [
+        "inetco adds",
+        "agentic ai",
+        "module"
+      ]
+    },
     {
       "id": "682734193",
       "title": "Plaid Gives Sierra’s AI Agents Live Access to Bank Accounts",
@@ -784,90 +868,6 @@
         "hsbc",
         "singapore ai",
         "singapore"
-      ]
-    },
-    {
-      "id": "631993595",
-      "title": "Embat expands into global banking",
-      "summary": "Embat, the AI-powered fintech specialising in treasury management, has launched a new banking product to harmonise cash management, international payments and collections, FX hedging, account reconciliation and more into a single workflow - creating a comprehensive one-stop solut…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110496/embat-expands-into-global-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-27",
-      "category": "Payments",
-      "tags": [
-        "embat",
-        "ai",
-        "fx"
-      ]
-    },
-    {
-      "id": "438064563",
-      "title": "The Age of AI Industrialisation: Building Next Generation Banks",
-      "summary": "The banking industry has entered a new phase of AI adoption. What began as isolated pilots and exper...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32376/the-age-of-ai-industrialisation-building-next-generation-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-27",
-      "category": "Banking",
-      "tags": [
-        "the age",
-        "ai industrialisation",
-        "building next"
-      ]
-    },
-    {
-      "id": "824120138",
-      "title": "House Republicans Urge Expanded Use of AI to Combat Financial Fraud",
-      "summary": "Artificial intelligence is rapidly transforming financial fraud, giving criminal organizations the ability to generate convincing scams at unprecedented scale. But according to a report issued last week by Republicans on the House Financial Services Committee, AI can also provide…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/house-republicans-urge-expanded-use-of-ai-to-combat-financial-fraud/",
-      "date": "2026-07-27",
-      "category": "Banking",
-      "tags": [
-        "house republicans",
-        "urge expanded",
-        "use"
-      ]
-    },
-    {
-      "id": "574232936",
-      "title": "Insurtech Corgi hits $4 billion valuation on latest raise",
-      "summary": "Corgi, an AI-powered full-stack insurance platform, has reportedly hit a $4 billion valuation after raising money from investors for the fourth time this year.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48145/insurtech-corgi-hits-4-billion-valuation-on-latest-raise?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-27",
-      "category": "Banking",
-      "tags": [
-        "insurtech corgi",
-        "corgi",
-        "ai"
-      ]
-    },
-    {
-      "id": "956512673",
-      "title": "Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance",
-      "summary": "Flock's Jay uses over a billion kilometres of driving data to give fleet managers and brokers real-time risk insight through its portal. The post Flock Launches Agentic AI Assistant Jay for UK Fleet Insurance appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/flock-launches-agentic-ai-assistant-jay-for-uk-fleet-insurance/",
-      "date": "2026-07-27",
-      "category": "Payments",
-      "tags": [
-        "flock launches",
-        "agentic ai",
-        "assistant jay"
-      ]
-    },
-    {
-      "id": "655539074",
-      "title": "Vine Launches AI Reporting Dashboard for Community Bank Lenders",
-      "summary": "The Austin-based lending platform said its new dashboard unifies loan portfolio and core banking data to support risk and profitability decisions. The post Vine Launches AI Reporting Dashboard for Community Bank Lenders appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/vine-launches-ai-reporting-dashboard-for-community-bank-lenders/",
-      "date": "2026-07-25",
-      "category": "Banking",
-      "tags": [
-        "vine launches",
-        "ai reporting",
-        "dashboard"
       ]
     }
   ]
