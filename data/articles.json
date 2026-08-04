@@ -1,30 +1,30 @@
 {
-  "last_updated": "2026-08-04T09:40:39Z",
+  "last_updated": "2026-08-04T20:37:50Z",
   "insights": {
     "risks": [
-      "Trading risk: Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout — assess algorithmic exposure.",
-      "Operational: Inside Google’s $200bn Wall Street finance machine for Anthropic — evaluate model governance gaps."
+      "Operational: Webull expands AI-powered investing ecosystem — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Who Is Paying the Customer's AI Agent? — potential infrastructure advantage.",
-      "Banking efficiency: Inside Google’s $200bn Wall Street finance machine for Anthropic — cost reduction opportunity."
+      "Banking efficiency: Webull expands AI-powered investing ecosystem — cost reduction opportunity.",
+      "InsurTech: Federato launches AI-native claims platform — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Automation",
       "count": 3
     },
     {
-      "topic": "Generative AI",
-      "count": 2
+      "topic": "Risk Management",
+      "count": 1
     },
     {
-      "topic": "Risk Management",
+      "topic": "Generative AI",
       "count": 1
     },
     {
@@ -33,6 +33,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "14857312",
+      "title": "Federato launches AI-native claims platform",
+      "summary": "Federato, the AI-native platform for the full policy lifecycle, today launched Federato Claims, an end-to-end claims management system built on the same foundation as underwriting, policy administration, and billing.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110568/federato-launches-ai-native-claims-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "InsurTech",
+      "tags": [
+        "federato",
+        "ai",
+        "federato claims"
+      ]
+    },
+    {
+      "id": "32815207",
+      "title": "Webull expands AI-powered investing ecosystem",
+      "summary": "Webull (NASDAQ: BULL), a leading online investment platform, today announced significant expansions to its AI-powered investing ecosystem, including native connectors for ChatGPT, Claude and Grok, the launch of Webull Command Line Interface (\"CLI\"), and an enhanced suite of Webul…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110566/webull-expands-ai-powered-investing-ecosystem?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "webull",
+        "ai",
+        "nasdaq"
+      ]
+    },
+    {
+      "id": "965975791",
+      "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
+      "summary": "Sumsub, a leading global identity verification platform, and Sumvin, Inc., a market-leading agentic commerce platform, today announced a partnership that enables AI agents to complete purchases and manage financial accounts on behalf of KYC-verified users.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enalbe-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "sumsub",
+        "sumvin",
+        "ai"
+      ]
+    },
+    {
+      "id": "811089154",
+      "title": "AI’s Real Test in Financial Services Is Decision Execution",
+      "summary": "Financial services firms are not short of artificial intelligence (AI) ambition. Across banking, ins...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32456/ais-real-test-in-financial-services-is-decision-execution?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "real test",
+        "financial services"
+      ]
+    },
+    {
+      "id": "25588683",
+      "title": "The Cheapest Supplier in the Bank Is One Person, and No Register Has Their Name",
+      "summary": "Most discussion of artificial intelligence in this industry concerns what institutions are buying f...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32453/the-cheapest-supplier-in-the-bank-is-one-person-and-no-register-has-their-name?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "the cheapest",
+        "supplier",
+        "bank is"
+      ]
+    },
     {
       "id": "392570960",
       "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
@@ -799,75 +869,6 @@
         "oportun deploys",
         "ai",
         "help consumers"
-      ]
-    },
-    {
-      "id": "171063352",
-      "title": "The Philippines uses AI as a burnout shield; Singapore uses it for deep work",
-      "summary": "On Monday mornings across Southeast Asia, artificial intelligence (AI) appears to clock in with everyone else. According to The Gemini Report Southeast Asia 2026 by Google, professional productivity prompts on Gemini rise by 30 per cent at the start of the working week, mirroring…",
-      "source": "e27",
-      "url": "https://e27.co/the-philippines-uses-ai-as-a-burnout-shield-singapore-uses-it-for-deep-work-20260728/",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "the philippines",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "50530196",
-      "title": "AI didn’t replace Southeast Asia’s marketing agencies, it repriced them",
-      "summary": "For years, there was a fairly predictable formula for serving small and medium-sized businesses (SMEs) in Singapore. A boutique marketing agency might charge between S$2,000 and S$3,000 a month to produce social media graphics, write captions, design email newsletters, publish bl…",
-      "source": "e27",
-      "url": "https://e27.co/ai-didnt-replace-southeast-asias-marketing-agencies-it-repriced-them-20260726/",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "southeast asia",
-        "smes"
-      ]
-    },
-    {
-      "id": "191983104",
-      "title": "The bank scaled its ASEAN franchise whilst integrating AI, enhanced security, and refreshed card propositions.",
-      "summary": "The bank scaled its ASEAN franchise whilst integrating AI, enhanced security, and refreshed card propositions.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/co-written-partner/event-news/uob-takes-home-four-wins-asian-banking-finance-retail-banking-awards-2026",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "asean",
-        "ai"
-      ]
-    },
-    {
-      "id": "943360141",
-      "title": "Nearly 4 in 10 (39%) of finance professionals from Southeast Asia named generative artificial intelligence (gen AI) as one of top three critical skills they need to have over the next five years.",
-      "summary": "Nearly 4 in 10 (39%) of finance professionals from Southeast Asia named generative artificial intelligence (gen AI) as one of top three critical skills they need to have over the next five years.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/information-technology/in-focus/sea-finance-professionals-want-gen-ai-skills-proficiency-lags",
-      "date": "2026-07-27",
-      "category": "Banking",
-      "tags": [
-        "nearly",
-        "southeast asia",
-        "ai"
-      ]
-    },
-    {
-      "id": "837214536",
-      "title": "HSBC to open Singapore AI centre of excellence",
-      "summary": "HSBC is set to open a global artificial intelligence centre of excellence in Singapore, hiring around 100 specialists to work under new chief AI officer David Rice.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48149/hsbc-to-open-singapore-ai-centre-of-excellence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-27",
-      "category": "Banking",
-      "tags": [
-        "hsbc",
-        "singapore ai",
-        "singapore"
       ]
     }
   ]
