@@ -1,24 +1,27 @@
 {
-  "last_updated": "2026-08-05T09:39:06Z",
+  "last_updated": "2026-08-05T20:35:45Z",
   "insights": {
     "risks": [
       "Trading risk: Musk’s SpaceX unnerves investors with lavish AI spending plans — assess algorithmic exposure.",
-      "Operational: ASEAN doesn’t need to win the AI race, it needs to run it together — evaluate model governance gaps."
+      "Operational: Jamie Dimon recruits bank and IT leaders to tackle AI risks — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Inside Southeast Asia’s Fintech Surge: Inclusion, AI and the Infrastructure Still Catching Up — potential infrastructure advantage.",
-      "Banking efficiency: ASEAN doesn’t need to win the AI race, it needs to run it together — cost reduction opportunity.",
-      "InsurTech: Federato launches AI-native claims platform — underwriting modernisation potential."
+      "Payments: Fitch Flags AI Market Correction as Top Credit Risk for 2H26 — potential infrastructure advantage.",
+      "Banking efficiency: Jamie Dimon recruits bank and IT leaders to tackle AI risks — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
       "count": 4
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
     },
     {
       "topic": "Risk Management",
@@ -27,13 +30,134 @@
     {
       "topic": "Generative AI",
       "count": 1
-    },
-    {
-      "topic": "KYC / AML",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "859234822",
+      "title": "Jamie Dimon recruits bank and IT leaders to tackle AI risks",
+      "summary": "JPMorgan Chase CEO Jamie Dimon has been working to recruit banking and IT CEOs to an industry group focused on addressing the risks posed by rapid adoption of AI in corporate America, according to Reuters.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48202/jamie-dimon-recruits-bank-and-it-leaders-to-tackle-ai-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-05",
+      "category": "Banking",
+      "tags": [
+        "jamie dimon",
+        "it",
+        "ai"
+      ]
+    },
+    {
+      "id": "739570981",
+      "title": "Fiserv and Stuut partner to bring agentic AI to enterprise receivables",
+      "summary": "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology, today announced a strategic partnership with Stuut Technologies to help eligible enterprise finance teams modernize manual, fragmented B2B receivables processes where available.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110583/fiserv-and-stuut-partner-to-bring-agentic-ai-to-enterprise-receivables?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-05",
+      "category": "Banking",
+      "tags": [
+        "fiserv",
+        "stuut",
+        "ai"
+      ]
+    },
+    {
+      "id": "811184829",
+      "title": "Explainable AI in banking depends explainable data",
+      "summary": "If a bank cannot show where a data point came from, when it was last verified, and what changed sinc...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32469/explainable-ai-in-banking-depends-explainable-data?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-05",
+      "category": "Banking",
+      "tags": [
+        "explainable ai",
+        "if"
+      ]
+    },
+    {
+      "id": "848455296",
+      "title": "How to drive success in agentic banking",
+      "summary": "There is considerable interest in AI in the financial services sector, particularly in autonomous AI...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32462/how-to-drive-success-in-agentic-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-05",
+      "category": "Banking",
+      "tags": [
+        "how",
+        "there",
+        "ai"
+      ]
+    },
+    {
+      "id": "480592117",
+      "title": "Fitch Flags AI Market Correction as Top Credit Risk for 2H26",
+      "summary": "Fitch Ratings warns that a prolonged AI equity correction could trigger broad credit contagion, compounding geopolitical and consumer headwinds. The post Fitch Flags AI Market Correction as Top Credit Risk for 2H26 appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fitch-flags-ai-market-correction-as-top-credit-risk-for-2h26/",
+      "date": "2026-08-05",
+      "category": "Payments",
+      "tags": [
+        "fitch flags",
+        "ai market",
+        "correction"
+      ]
+    },
+    {
+      "id": "969197874",
+      "title": "The Global FinTech Landscape: Why the UK’s Fundamentals Remain Strong",
+      "summary": "Despite softer global fintech funding, the UK remains Europe's leading fintech hub, with strong fundamentals, growing AI adoption and a resilient ecosystem supporting long-term innovation. The post The Global FinTech Landscape: Why the UK s Fundamentals Remain Strong appeared fir…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-global-fintech-landscape-why-the-uks-fundamentals-remain-strong/",
+      "date": "2026-08-05",
+      "category": "Payments",
+      "tags": [
+        "the global",
+        "fintech landscape",
+        "why"
+      ]
+    },
+    {
+      "id": "342513674",
+      "title": "The Fraud Pattern Your Rules Engine will Never Catch",
+      "summary": "AI fraud detection is only as strong as the data behind it, making quality, speed and explainability essential to stopping modern attacks. The post The Fraud Pattern Your Rules Engine will Never Catch appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-fraud-pattern-your-rules-engine-will-never-catch/",
+      "date": "2026-08-05",
+      "category": "Payments",
+      "tags": [
+        "the fraud",
+        "pattern your",
+        "rules engine"
+      ]
+    },
+    {
+      "id": "731663251",
+      "title": "Google’s Longtime AI Strategist Leaving to Launch Own Company",
+      "summary": "Longtime Google AI expert Jeff Dean is reportedly leaving to start his own company. As the Wall Street Journal (WSJ) reported Wednesday (Aug. 5), Dean is one of the tech giants earliest employees — joining the company in 1999 as its 30th hire — and has spent the last 15 years hel…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/google/2026/googles-longtime-ai-strategist-leaving-to-launch-own-company/",
+      "date": "2026-08-05",
+      "category": "Banking",
+      "tags": [
+        "google",
+        "longtime ai",
+        "strategist leaving"
+      ]
+    },
+    {
+      "id": "18387033",
+      "title": "Fiserv and Stuut Team to Bring AI Agents to Accounts Receivable",
+      "summary": "Payments/financial services technology company Fiserv has teamed with accounts receivable automation firm Stuut Technologies. With this collaboration, the companies will help eligible enterprise finance teams modernize manual and “fragmented” B2B receivables processes where avail…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/back-office/accounts-receivable/2026/fiserv-and-stuut-team-to-bring-ai-agents-to-accounts-receivable/",
+      "date": "2026-08-05",
+      "category": "Banking",
+      "tags": [
+        "fiserv",
+        "stuut team",
+        "bring ai"
+      ]
+    },
     {
       "id": "993985422",
       "title": "Musk’s SpaceX unnerves investors with lavish AI spending plans",
@@ -744,132 +868,6 @@
         "ransomware",
         "singapore",
         "proofpoint"
-      ]
-    },
-    {
-      "id": "176902061",
-      "title": "The one-person AI business is coming for the agency model",
-      "summary": "In June 2025, I started a business built on an uncomfortable question: how much of an agency does a client actually pay for, and how much of it is overhead wearing a lanyard? I run an education business in Singapore as my day job, so I see the demand side up close. SMEs want cont…",
-      "source": "e27",
-      "url": "https://e27.co/the-one-person-ai-business-is-coming-for-the-agency-model-20260727/",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "in june",
-        "singapore"
-      ]
-    },
-    {
-      "id": "616005578",
-      "title": "AI is Vietnam’s new capital magnet",
-      "summary": "Vietnam s AI startups just had their best year on record. Capital deployed into AI ventures grew roughly 13x between 2023 and 2025, closing the year at a new high, while the number of deals nearly doubled over the same stretch. In a private capital market that is still finding it…",
-      "source": "e27",
-      "url": "https://e27.co/ai-is-vietnams-new-capital-magnet-20260727/",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "vietnam",
-        "capital"
-      ]
-    },
-    {
-      "id": "631621224",
-      "title": "OCBC has unveiled its agentic artificial intelligence (AI) platform HELIOS to enhance the accuracy and completeness of wealthy customers’ onboarding.",
-      "summary": "OCBC has unveiled its agentic artificial intelligence (AI) platform HELIOS to enhance the accuracy and completeness of wealthy customers’ onboarding.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/ocbc-deploys-agentic-ai-platform-halve-wealth-client-onboarding-time",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "ocbc",
-        "ai",
-        "helios"
-      ]
-    },
-    {
-      "id": "20913566",
-      "title": "Hedge funds face demands to stump up collateral as AI stocks tumble",
-      "summary": "Scale of losses in recent weeks sparks growing risk aversion on Wall Street",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5c8a2816-8f28-4257-8707-b22ebaa6089c?syn-25a6b1a6=1",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "hedge",
-        "ai",
-        "scale"
-      ]
-    },
-    {
-      "id": "556202215",
-      "title": "PEX secures $160m to scale payments, credit and finance automation platform",
-      "summary": "Corporate card and spend management platform PEX has secured $160 million in debt and equity financing led by Bluff Point Associates.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48150/pex-secures-160m-to-scale-payments-credit-and-finance-automation-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "pex",
-        "corporate",
-        "bluff point"
-      ]
-    },
-    {
-      "id": "547866268",
-      "title": "Conquest integrates Shaping Wealth’s Lydia agent into advisor workflow",
-      "summary": "Conquest Planning Inc. (“Conquest”), the AI-powered technology platform modernizing financial advice delivery across the full wealth spectrum, and Shaping Wealth, the leading provider of behavioral science-based learning and engagement solutions for the wealth management industry…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110518/conquest-integrates-shaping-wealths-lydia-agent-into-advisor-workflow?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "conquest",
-        "shaping wealth",
-        "lydia"
-      ]
-    },
-    {
-      "id": "103253734",
-      "title": "GoCardless and anvil partner to launch automated payments for telcos and MSPs",
-      "summary": "GoCardless, the bank payment company, has announced a partnership with anvil, an all-in-one business management and billing platform for the telecom and IT sectors.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110514/gocardless-and-anvil-partner-to-launch-automated-payments-for-telcos-and-msps?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "gocardless",
-        "msps gocardless",
-        "it"
-      ]
-    },
-    {
-      "id": "697373300",
-      "title": "Tipalti and Flagright extend AI-powered AML compliance across global payables",
-      "summary": "Flagright, the AI operating system for financial crime compliance, today announced that Tipalti has partnered with Flagright as one of the tools supporting its compliance infrastructure.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110513/tipalti-and-flagright-extend-ai-powered-aml-compliance-across-global-payables?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "tipalti",
-        "flagright",
-        "ai"
-      ]
-    },
-    {
-      "id": "675158456",
-      "title": "Fenergo launches Fen-AI to bring governed AI to client lifecycle management",
-      "summary": "Fenergo, the leading provider of digital solutions for Know Your Customer (KYC), Anti-Money Laundering (AML) and client lifecycle management (CLM), today announced the launch of Fen-AI, its agentic AI orchestration platform for financial institutions.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110510/fenergo-launches-fen-ai-to-bring-governed-ai-to-client-lifecycle-management?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "fenergo",
-        "fen",
-        "ai"
       ]
     }
   ]
