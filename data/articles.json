@@ -1,23 +1,24 @@
 {
-  "last_updated": "2026-08-04T20:37:50Z",
+  "last_updated": "2026-08-05T09:39:06Z",
   "insights": {
     "risks": [
-      "Operational: Webull expands AI-powered investing ecosystem — evaluate model governance gaps."
+      "Trading risk: Musk’s SpaceX unnerves investors with lavish AI spending plans — assess algorithmic exposure.",
+      "Operational: ASEAN doesn’t need to win the AI race, it needs to run it together — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Who Is Paying the Customer's AI Agent? — potential infrastructure advantage.",
-      "Banking efficiency: Webull expands AI-powered investing ecosystem — cost reduction opportunity.",
+      "Payments: Inside Southeast Asia’s Fintech Surge: Inclusion, AI and the Infrastructure Still Catching Up — potential infrastructure advantage.",
+      "Banking efficiency: ASEAN doesn’t need to win the AI race, it needs to run it together — cost reduction opportunity.",
       "InsurTech: Federato launches AI-native claims platform — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 4
     },
     {
       "topic": "Risk Management",
@@ -33,6 +34,104 @@
     }
   ],
   "articles": [
+    {
+      "id": "993985422",
+      "title": "Musk’s SpaceX unnerves investors with lavish AI spending plans",
+      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1",
+      "date": "2026-08-05",
+      "category": "Trading",
+      "tags": [
+        "musk",
+        "spacex",
+        "ai"
+      ]
+    },
+    {
+      "id": "224688904",
+      "title": "Inside Southeast Asia’s Fintech Surge: Inclusion, AI and the Infrastructure Still Catching Up",
+      "summary": "Southeast Asia’s fintech boom is being driven by AI, digital payments and financial inclusion, despite ongoing infrastructure challenges. The post Inside Southeast Asia s Fintech Surge: Inclusion, AI and the Infrastructure Still Catching Up appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/inside-southeast-asias-fintech-surge-inclusion-ai-and-the-infrastructure-still-catching-up/",
+      "date": "2026-08-05",
+      "category": "Payments",
+      "tags": [
+        "inside southeast",
+        "asia",
+        "fintech surge"
+      ]
+    },
+    {
+      "id": "43051184",
+      "title": "Payment Choice Now Defines The New American Shopper",
+      "summary": "American shoppers aren’t waiting for retail to catch up. They’re already using mobile devices and AI to find products, compare choices and decide where to spend. Their shopping habits are outpacing many merchant systems. “The 2026 Global Digital Shopping Index: U.S. Playbook” exa…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/consumer-insights/2026/payment-choice-now-defines-the-new-american-shopper/",
+      "date": "2026-08-05",
+      "category": "Payments",
+      "tags": [
+        "payment choice",
+        "now defines",
+        "the new"
+      ]
+    },
+    {
+      "id": "23680056",
+      "title": "AP Automation Can’t Fix What It Can’t Connect",
+      "summary": "Accounts payable has no shortage of automation. However, the July edition of the Business Payments Tracker® Series, a PYMNTS Intelligence collaboration with WEX, revealed that functionality alone cannot modernize payment operations. Businesses can digitize invoices, route approva…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/back-office/accounts-payable/2026/ap-automation-cant-fix-what-it-cant-connect/",
+      "date": "2026-08-05",
+      "category": "Payments",
+      "tags": [
+        "ap automation",
+        "can",
+        "fix what"
+      ]
+    },
+    {
+      "id": "977148214",
+      "title": "ASEAN doesn’t need to win the AI race, it needs to run it together",
+      "summary": "The world s AI conversation is dominated by a handful of names: the US hyperscalers, the Chinese national champions, and a few European regulatory bodies trying to keep up. Southeast Asia barely gets a mention. When it does, the framing is usually about which ASEAN country attrac…",
+      "source": "e27",
+      "url": "https://e27.co/asean-doesnt-need-to-win-the-ai-race-it-needs-to-run-it-together-20260804/",
+      "date": "2026-08-05",
+      "category": "Banking",
+      "tags": [
+        "asean",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "55799115",
+      "title": "Why seniority is repricing in AI-augmented teams, and what gets valued instead",
+      "summary": "An investor with more than twenty years in the market asked me recently whether AI was going to replace software. He was not asking from a position of weakness. He has built a reputation, a portfolio, and a network that most people will not match in a lifetime. He just wanted to …",
+      "source": "e27",
+      "url": "https://e27.co/why-seniority-is-repricing-in-ai-augmented-teams-and-what-gets-valued-instead-20260727/",
+      "date": "2026-08-05",
+      "category": "Trading",
+      "tags": [
+        "why",
+        "ai",
+        "he"
+      ]
+    },
+    {
+      "id": "546717654",
+      "title": "Sumsub and Sumvin enable AI agents to transact using verified human identity",
+      "summary": "Sumsub, a leading global identity verification platform, and Sumvin, Inc., a market-leading agentic commerce platform, today announced a partnership that enables AI agents to complete purchases and manage financial accounts on behalf of KYC-verified users.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enable-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-04",
+      "category": "Banking",
+      "tags": [
+        "sumsub",
+        "sumvin",
+        "ai"
+      ]
+    },
     {
       "id": "14857312",
       "title": "Federato launches AI-native claims platform",
@@ -771,104 +870,6 @@
         "fenergo",
         "fen",
         "ai"
-      ]
-    },
-    {
-      "id": "31944681",
-      "title": "Current finance hiring practices are holding UK businesses back",
-      "summary": "Tech advancements and AI tools have undoubtedly streamlined work and made finance teams faster, but",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32399/current-finance-hiring-practices-are-holding-uk-businesses-back?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "current",
-        "uk",
-        "tech"
-      ]
-    },
-    {
-      "id": "742034021",
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas Heaven, senior AI editor Reading OpenAI’s accou…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "date": "2026-07-28",
-      "category": "Trading",
-      "tags": [
-        "the download",
-        "openai",
-        "ai"
-      ]
-    },
-    {
-      "id": "770589530",
-      "title": "How the Philippines and Singapore use AI differently at work",
-      "summary": "Across Southeast Asia, AI is reshaping how workers operate, but not in a uniform way. A new analysis reveals a striking cultural divergence: Filipino professionals are turning to AI primarily as a burnout shield, using it to offload repetitive, draining tasks and protect their me…",
-      "source": "e27",
-      "url": "https://e27.co/how-the-philippines-and-singapore-use-ai-differently-at-work-20260728/",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "how",
-        "philippines",
-        "singapore"
-      ]
-    },
-    {
-      "id": "910442719",
-      "title": "AI stock sell-off deepens as investors dump chipmakers",
-      "summary": "South Korea’s tech-heavy Kospi leads declines in Asia",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
-      "date": "2026-07-28",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "south korea",
-        "kospi"
-      ]
-    },
-    {
-      "id": "939800950",
-      "title": "From Data Overload to Data Insight: How AI and Modern Accounting Solutions are Transforming Expense Control",
-      "summary": "AI has made expense fraud easier, but it can also be the solution. By using AI-powered accounting controls to detect suspicious patterns, automate monitoring, and strengthen governance, finance teams can reduce fraud, cut manual workloads, and turn expense management into a strat…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/from-data-overload-to-data-insight-how-ai-and-modern-accounting-solutions-are-transforming-expense-control/",
-      "date": "2026-07-28",
-      "category": "Payments",
-      "tags": [
-        "from data",
-        "overload",
-        "data insight"
-      ]
-    },
-    {
-      "id": "295457392",
-      "title": "Fraud and Disputes Rank as a Top Cost for 42% of Issuers",
-      "summary": "Card issuers must distinguish a fraudulent transaction from a legitimate one in milliseconds. Now there’s a new complication: What happens when the legitimate customer is no longer the party directly making the purchase? That question is becoming more pressing as artificial intel…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/fraud-and-disputes-rank-as-a-top-cost-for-42-of-issuers/",
-      "date": "2026-07-28",
-      "category": "Payments",
-      "tags": [
-        "fraud",
-        "disputes rank",
-        "top cost"
-      ]
-    },
-    {
-      "id": "66048289",
-      "title": "Oportun Deploys AI to Help Consumers Save for Recurring Expenses",
-      "summary": "Oportun has expanded its savings app, Set Save, to include a new artificial intelligence-powered feature that identifies routine bills and automatically helps members save toward upcoming payments. The new Smart Bills feature uses AI to understand a member’s financial habits and …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/consumer-finance/2026/oportun-deploys-ai-to-help-consumers-save-for-recurring-expenses/",
-      "date": "2026-07-28",
-      "category": "Banking",
-      "tags": [
-        "oportun deploys",
-        "ai",
-        "help consumers"
       ]
     }
   ]
