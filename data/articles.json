@@ -1,23 +1,26 @@
 {
-  "last_updated": "2026-08-05T20:35:45Z",
+  "last_updated": "2026-08-06T09:42:36Z",
   "insights": {
     "risks": [
-      "Trading risk: Musk’s SpaceX unnerves investors with lavish AI spending plans — assess algorithmic exposure.",
-      "Operational: Jamie Dimon recruits bank and IT leaders to tackle AI risks — evaluate model governance gaps."
+      "Operational: ABN Amro signs frontier AI deal with Mistral AI — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Fitch Flags AI Market Correction as Top Credit Risk for 2H26 — potential infrastructure advantage.",
-      "Banking efficiency: Jamie Dimon recruits bank and IT leaders to tackle AI risks — cost reduction opportunity."
+      "Payments: Item-Level Data Gives AI Agents Smarter Buying Power — potential infrastructure advantage.",
+      "Banking efficiency: ABN Amro signs frontier AI deal with Mistral AI — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -33,6 +36,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "932470983",
+      "title": "ABN Amro signs frontier AI deal with Mistral AI",
+      "summary": "ABN Amro has signed a deal with French startup Mistral AI to explore and develop frontier artificial intelligence models for the Dutch banking group.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48203/abn-amro-signs-frontier-ai-deal-with-mistral-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "abn amro",
+        "ai",
+        "mistral ai"
+      ]
+    },
+    {
+      "id": "127976288",
+      "title": "Belize Bank selects Backbase to modernize digital banking",
+      "summary": "Belize Bank Limited (BBL) and Backbase announce a landmark six-year partnership to implement the AI-Native Banking OS. This collaboration marks the start of the most significant digital banking transformation in Belize's history, designed to bring a fully modernized, future-proof…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110591/belize-bank-selects-backbase-to-modernize-digital-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "belize bank",
+        "backbase",
+        "limited"
+      ]
+    },
+    {
+      "id": "844613644",
+      "title": "Tavant integrates Touchless AI mortgage automation with Dark Matter's Empower LOS",
+      "summary": "Tavant, a leading platform-powered AI transformation specialist, today announced the integration of its TOUCHLESS AI Mortgage Automation platform with the Empower loan origination solution (LOS) from Dark Matter Technologies (Dark Matter), an innovative leader in mortgage technol…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110588/tavant-integrates-touchless-ai-mortgage-automation-with-dark-matters-empower-los?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "tavant",
+        "touchless ai",
+        "dark matter"
+      ]
+    },
+    {
+      "id": "768716892",
+      "title": "Abound partners with D•One to offer fairer credit to more people using open banking",
+      "summary": "Abound, the open banking- and AI-powered lender, has partnered with the ClearScore Group's open banking services business, D•One, to help more people access fairer and more affordable credit.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110585/abound-partners-with-done-to-offer-fairer-credit-to-more-people-using-open-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "abound",
+        "one",
+        "ai"
+      ]
+    },
+    {
+      "id": "185185255",
+      "title": "Item-Level Data Gives AI Agents Smarter Buying Power",
+      "summary": "The agentic enterprise will be built through deliberate decisions about where to trust agents, FIS Head of Product Management, Payment Networks Mladen Vladic writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” As artificial intelligence evolves from copi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/opinion/2026/item-level-data-gives-ai-agents-smarter-buying-power/",
+      "date": "2026-08-06",
+      "category": "Payments",
+      "tags": [
+        "item",
+        "level data",
+        "gives ai"
+      ]
+    },
+    {
+      "id": "473855305",
+      "title": "Singapore firms embrace agentic AI, but audit trails remain thin",
+      "summary": "Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still cannot answer a basic ques…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/",
+      "date": "2026-08-06",
+      "category": "Payments",
+      "tags": [
+        "singapore",
+        "ai",
+        "but"
+      ]
+    },
+    {
+      "id": "776055183",
+      "title": "Razer and NUS launch Singapore AI lab to rethink how games respond to players",
+      "summary": "For years, artificial intelligence in games has mostly meant enemies that chase, dodge or shoot with varying degrees of believability. Razer and the National University of Singapore now want to push that idea into more demanding territory: AI systems that understand context, adap…",
+      "source": "e27",
+      "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "razer",
+        "nus",
+        "singapore ai"
+      ]
+    },
+    {
+      "id": "39952251",
+      "title": "The end of manual finance? AI agents are coming for startup payments",
+      "summary": "For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. The broad direction was…",
+      "source": "e27",
+      "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
+      "date": "2026-08-06",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "southeast asia",
+        "cash"
+      ]
+    },
     {
       "id": "859234822",
       "title": "Jamie Dimon recruits bank and IT leaders to tackle AI risks",
@@ -756,118 +871,6 @@
         "more",
         "singapore",
         "ai"
-      ]
-    },
-    {
-      "id": "239803167",
-      "title": "MoonPay opens PayBox for AI agent transactions",
-      "summary": "MoonPay, the global financial technology company powering the movement of value across fiat and digital assets, has launched PayBox, the first payment vault built for AI that lets a person's AI agent transact on the open internet without leaving the conversation.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110532/moonpay-opens-paybox-for-ai-agent-transactions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-29",
-      "category": "Payments",
-      "tags": [
-        "moonpay",
-        "paybox",
-        "ai"
-      ]
-    },
-    {
-      "id": "563478098",
-      "title": "ICE puts fixed income pricing data on leading AI platforms",
-      "summary": "Intercontinental Exchange, Inc. (NYSE: ICE), one of the world's leading providers of financial market technology and data powering global capital markets, today announced its fixed income data and methodologies are now available to be used on leading AI platforms by licensed user…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110528/ice-puts-fixed-income-pricing-data-on-leading-ai-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "ice",
-        "ai",
-        "intercontinental exchange"
-      ]
-    },
-    {
-      "id": "149811835",
-      "title": "Opetek launches AI reasoning platform for intstitutional trading desks",
-      "summary": "Opetek today announced the launch of ARIUS, its proprietary quantitative reasoning platform for institutional capital markets.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110522/opetek-launches-ai-reasoning-platform-for-intstitutional-trading-desks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-29",
-      "category": "Trading",
-      "tags": [
-        "opetek",
-        "ai",
-        "arius"
-      ]
-    },
-    {
-      "id": "529434772",
-      "title": "Celonis and Valence Launch AI Deductions Manager for CPG Finance Teams",
-      "summary": "The new app automates dispute resolution and evidence gathering, aiming to cut cycle times from weeks to days for consumer goods finance teams. The post Celonis and Valence Launch AI Deductions Manager for CPG Finance Teams appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/celonis-and-valence-launch-ai-deductions-manager-for-cpg-finance-teams/",
-      "date": "2026-07-29",
-      "category": "Payments",
-      "tags": [
-        "celonis",
-        "valence launch",
-        "ai deductions"
-      ]
-    },
-    {
-      "id": "651126676",
-      "title": "Bank of England probes Asian equity risk at prime brokers",
-      "summary": "Regulator to review exposure to AI sector at hedge funds and other clients of investment banks operating in UK",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3a99b024-c7bc-4f10-ad77-3cdfccbc39e8?syn-25a6b1a6=1",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "england",
-        "asian"
-      ]
-    },
-    {
-      "id": "377276107",
-      "title": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
-      "summary": "Singapore's central bank is establishing an AI-Driven Cyber and Technology Risk Taskforce in collaboration with the country's leadingg commercial banks and tech companies.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48163/singapores-central-bank-convenes-ai-driven-cyber-and-technology-risk-taskforce?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "driven cyber"
-      ]
-    },
-    {
-      "id": "59332932",
-      "title": "MAS, ABS launch ACT taskforce as AI raises cyber risks for banks",
-      "summary": "Singapore’s financial sector is moving to coordinate its defence against a new generation of cyber threats, as frontier artificial intelligence models begin to change how attacks are planned, scaled and executed. The Monetary Authority of Singapore (MAS) and the Association of Ba…",
-      "source": "e27",
-      "url": "https://e27.co/mas-abs-launch-act-taskforce-as-ai-raises-cyber-risks-for-banks-20260729/",
-      "date": "2026-07-29",
-      "category": "RegTech",
-      "tags": [
-        "mas",
-        "abs",
-        "act"
-      ]
-    },
-    {
-      "id": "150765801",
-      "title": "Ransomware in Singapore is becoming a human problem, not just a malware one",
-      "summary": "Ransomware used to be understood mainly as a technology crisis: malware enters a network, locks files, and leaves the victim weighing whether to restore from backups or pay up. A new Proofpoint study suggests that view is now too narrow, especially for digitally dense markets suc…",
-      "source": "e27",
-      "url": "https://e27.co/ransomware-in-singapore-is-becoming-a-human-problem-not-just-a-malware-one-20260729/",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "ransomware",
-        "singapore",
-        "proofpoint"
       ]
     }
   ]
