@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-08-06T09:42:36Z",
+  "last_updated": "2026-08-07T00:42:37Z",
   "insights": {
     "risks": [
-      "Operational: ABN Amro signs frontier AI deal with Mistral AI — evaluate model governance gaps."
+      "Trading risk: BestEx Research introduces AI-native interface for institutional trading analytics — assess algorithmic exposure.",
+      "Operational: Ex-Nubank CTO raises $85m for AI-native wealth advisory platform — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Item-Level Data Gives AI Agents Smarter Buying Power — potential infrastructure advantage.",
-      "Banking efficiency: ABN Amro signs frontier AI deal with Mistral AI — cost reduction opportunity."
+      "Banking efficiency: Ex-Nubank CTO raises $85m for AI-native wealth advisory platform — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -36,6 +37,61 @@
     }
   ],
   "articles": [
+    {
+      "id": "587311992",
+      "title": "Ex-Nubank CTO raises $85m for AI-native wealth advisory platform",
+      "summary": "A former Nubank CTO and the founder of artificial intelligence platform Hyperplane have raised $85 million for their new AI-native wealth advisory company.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48205/ex-nubank-cto-raises-85m-for-ai-native-wealth-advisory-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "ex",
+        "nubank cto",
+        "ai"
+      ]
+    },
+    {
+      "id": "902653254",
+      "title": "BestEx Research introduces AI-native interface for institutional trading analytics",
+      "summary": "BestEx Research Group LLC, an independent provider of execution algorithms, trading technology, and trade analytics for global equities and futures, today announced the launch of Pulse AI, the world's first AI-native interface for institutional trading analytics.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110597/bestex-research-introduces-ai-native-interface-for-institutional-trading-analytics?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Trading",
+      "tags": [
+        "bestex research",
+        "ai",
+        "group llc"
+      ]
+    },
+    {
+      "id": "421698620",
+      "title": "Banco Sabadell puts AI at the centre of business overhaul",
+      "summary": "Banco Sabadell has announced a new organisational structure aimed at accelerating the bank’s transformation, simplifying its organisation and strengthening its relationship banking model, the strategic cornerstone underpinning the bank’s future growth.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110595/banco-sabadell-puts-ai-at-the-centre-of-business-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "banco sabadell",
+        "ai"
+      ]
+    },
+    {
+      "id": "70885347",
+      "title": "Scotiabank equips employees with AI-powered knowledge agents through Scotia Intelligence",
+      "summary": "Scotiabank today announced the expansion of its enterprise AI resources with the introduction of new knowledge agents available through Scotia Intelligence, the Bank's unified approach to data and AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110594/scotiabank-equips-employees-with-ai-powered-knowledge-agents-through-scotia-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-06",
+      "category": "Banking",
+      "tags": [
+        "scotiabank",
+        "ai",
+        "scotia intelligence"
+      ]
+    },
     {
       "id": "932470983",
       "title": "ABN Amro signs frontier AI deal with Mistral AI",
@@ -815,62 +871,6 @@
         "lloyds",
         "ai",
         "lloyds banking"
-      ]
-    },
-    {
-      "id": "199479989",
-      "title": "AI, HR and financial services: Modernising banking systems from front to back",
-      "summary": "How should FIs embed AI into their core banking systems?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/619/ai-hr-and-financial-services-modernising-banking-systems-from-front-to-back?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-30",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "hr",
-        "modernising"
-      ]
-    },
-    {
-      "id": "460674956",
-      "title": "Say it out loud: AI is forcing companies to explain themselves",
-      "summary": "Tell someone, “I’m going to make pancakes,” and see how they interpret it in their head. In New York, they’ll picture a fluffy stack with maple syrup. In Amsterdam, a thin, buttery pannenkoek the size of the plate. In Singapore, perhaps min jiang kueh, dense with crushed peanuts.…",
-      "source": "e27",
-      "url": "https://e27.co/say-it-out-loud-ai-is-forcing-companies-to-explain-themselves-20260730/",
-      "date": "2026-07-30",
-      "category": "Banking",
-      "tags": [
-        "say",
-        "ai",
-        "tell"
-      ]
-    },
-    {
-      "id": "969989013",
-      "title": "Why AI literacy may become the new financial literacy",
-      "summary": "For decades, we ve taught financial literacy as one of life s most important skills. Save before you spend. Build an emergency fund. Invest early. Understand compound interest. Avoid unnecessary debt. Those lessons remain just as relevant today as they were a generation ago. But …",
-      "source": "e27",
-      "url": "https://e27.co/why-ai-literacy-may-become-the-new-financial-literacy-20260730/",
-      "date": "2026-07-30",
-      "category": "Banking",
-      "tags": [
-        "why ai",
-        "save",
-        "build"
-      ]
-    },
-    {
-      "id": "176411835",
-      "title": "More than 1 in 3 (35%) of Singapore now use artificial intelligence (AI) tools for financial purposes, according to a survey by Million Dollar Round Table (MDRT), an insurance and financial services trade association.",
-      "summary": "More than 1 in 3 (35%) of Singapore now use artificial intelligence (AI) tools for financial purposes, according to a survey by Million Dollar Round Table (MDRT), an insurance and financial services trade association.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/1-in-3-singaporeans-use-ai-finances-prefer-human-advisors-in-crises",
-      "date": "2026-07-29",
-      "category": "Banking",
-      "tags": [
-        "more",
-        "singapore",
-        "ai"
       ]
     }
   ]
