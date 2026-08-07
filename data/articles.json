@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-08-07T08:17:09Z",
+  "last_updated": "2026-08-07T19:53:23Z",
   "insights": {
     "risks": [
       "Trading risk: BestEx Research introduces AI-native interface for institutional trading analytics — assess algorithmic exposure.",
-      "Operational: Enova CEO Says Better Data, Not AI Hype, Will Decide Who Gets Credit — evaluate model governance gaps."
+      "Operational: How tech companies are helping credit unions meet AI-transformation goals in 5 key areas — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Splitit CEO Says Card-Linked Payments Can Save AI Sales — potential infrastructure advantage.",
-      "Banking efficiency: Enova CEO Says Better Data, Not AI Hype, Will Decide Who Gets Credit — cost reduction opportunity."
+      "Banking efficiency: How tech companies are helping credit unions meet AI-transformation goals in 5 key areas — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 17
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Generative AI",
-      "count": 2
+      "count": 1
     },
     {
       "topic": "Credit & Underwriting",
@@ -37,6 +37,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "743282033",
+      "title": "How tech companies are helping credit unions meet AI-transformation goals in 5 key areas",
+      "summary": "Analysts have long had high expectations for AI in finance. McKinsey, for example, predicted that ge...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32493/how-tech-companies-are-helping-credit-unions-meet-ai-transformation-goals-in-5-key-areas?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-07",
+      "category": "Banking",
+      "tags": [
+        "how",
+        "ai",
+        "analysts"
+      ]
+    },
+    {
+      "id": "767897408",
+      "title": "Airbnb Says AI Is Driving Faster Growth, Higher Bookings and Better Margins",
+      "summary": "Airbnb’s push to reinvent itself as an AI-first travel platform is beginning to show up in its financial results, executives said on a Q2 earnings call. The travel platform beat its own expectations on revenue, bookings and profitability while raising its full-year outlook, CEO B…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/airbnb-says-ai-is-driving-faster-growth-higher-bookings-and-better-margins/",
+      "date": "2026-08-07",
+      "category": "Banking",
+      "tags": [
+        "airbnb says",
+        "ai is",
+        "driving faster"
+      ]
+    },
+    {
+      "id": "40738877",
+      "title": "Acrab’s US$130M raise signals SEA’s deeper push into AI hardware",
+      "summary": "Acrab, a Singapore-headquartered technology company building agentic AI compute infrastructure, has raised US$130 million in a Series B round, as investor interest continues to shift from AI applications to the hardware and systems needed to run them. The round was led by existin…",
+      "source": "e27",
+      "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/",
+      "date": "2026-08-07",
+      "category": "Banking",
+      "tags": [
+        "acrab",
+        "us",
+        "sea"
+      ]
+    },
     {
       "id": "319203952",
       "title": "Enova CEO Says Better Data, Not AI Hype, Will Decide Who Gets Credit",
@@ -829,48 +871,6 @@
         "ai adoption",
         "gap widens",
         "only"
-      ]
-    },
-    {
-      "id": "304339904",
-      "title": "49% of Credit Unions See AI as an Acquisition Tool",
-      "summary": "Credit unions have a gift heading into the artificial intelligence era: Their business customers are telling them exactly what to build first. Research from PYMNTS Intelligence, with Velera, titled “The Practical AI Opportunity: Why SMBs Want Guidance Before Automation,” finds th…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/credit-unions/2026/49-percent-of-credit-unions-see-ai-as-an-acquisition-tool/",
-      "date": "2026-07-31",
-      "category": "Banking",
-      "tags": [
-        "credit unions",
-        "see ai",
-        "acquisition tool"
-      ]
-    },
-    {
-      "id": "517827936",
-      "title": "Why Southeast Asian enterprises need AI governance before scaling generative AI",
-      "summary": "Across Southeast Asia, organisations are moving rapidly from AI exploration into practical business applications. Banks are experimenting with AI assistants for customer service and internal productivity. Insurance companies are exploring AI-supported claims processing. Logistics…",
-      "source": "e27",
-      "url": "https://e27.co/why-southeast-asian-enterprises-need-ai-governance-before-scaling-generative-ai-20260730/",
-      "date": "2026-07-31",
-      "category": "Banking",
-      "tags": [
-        "why southeast",
-        "asian",
-        "ai"
-      ]
-    },
-    {
-      "id": "714807803",
-      "title": "How to use AI to become a better investor",
-      "summary": "Every few months, a new platform promises to hand retail traders the same edge that institutional desks have spent decades building. Plug in the AI, sit back, let it run. The pitch has become so familiar it barely registers anymore. I ve been trading for thirty years and made eve…",
-      "source": "e27",
-      "url": "https://e27.co/how-to-use-ai-to-become-a-better-investor-20260726/",
-      "date": "2026-07-31",
-      "category": "Trading",
-      "tags": [
-        "how",
-        "ai",
-        "every"
       ]
     }
   ]
