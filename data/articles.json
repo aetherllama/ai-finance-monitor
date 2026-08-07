@@ -1,23 +1,27 @@
 {
-  "last_updated": "2026-08-07T00:42:37Z",
+  "last_updated": "2026-08-07T08:17:09Z",
   "insights": {
     "risks": [
       "Trading risk: BestEx Research introduces AI-native interface for institutional trading analytics — assess algorithmic exposure.",
-      "Operational: Ex-Nubank CTO raises $85m for AI-native wealth advisory platform — evaluate model governance gaps."
+      "Operational: Enova CEO Says Better Data, Not AI Hype, Will Decide Who Gets Credit — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Item-Level Data Gives AI Agents Smarter Buying Power — potential infrastructure advantage.",
-      "Banking efficiency: Ex-Nubank CTO raises $85m for AI-native wealth advisory platform — cost reduction opportunity."
+      "Payments: Splitit CEO Says Card-Linked Payments Can Save AI Sales — potential infrastructure advantage.",
+      "Banking efficiency: Enova CEO Says Better Data, Not AI Hype, Will Decide Who Gets Credit — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 16
     },
     {
       "topic": "Automation",
       "count": 5
+    },
+    {
+      "topic": "Generative AI",
+      "count": 2
     },
     {
       "topic": "Credit & Underwriting",
@@ -30,13 +34,93 @@
     {
       "topic": "Risk Management",
       "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "319203952",
+      "title": "Enova CEO Says Better Data, Not AI Hype, Will Decide Who Gets Credit",
+      "summary": "Watch more: Need to Know With Enova’s Steve Cunningham Enova doesn’t want its customer relationships to end when the loan is repaid. That’s the larger ambition behind the lender’s pending acquisition of Grasshopper Bank, Enova CEO Steve Cunningham told PYMNTS CEO Karen Webster. W…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/consumer-finance/2026/enova-ceo-says-better-data-not-ai-hype-will-decide-who-gets-credit/",
+      "date": "2026-08-07",
+      "category": "Banking",
+      "tags": [
+        "enova ceo",
+        "says better",
+        "data"
+      ]
+    },
+    {
+      "id": "272166217",
+      "title": "Splitit CEO Says Card-Linked Payments Can Save AI Sales",
+      "summary": "Card-linked installments can help prevent payment failures in agentic AI commerce, Splitit CEO Nandan Sheth writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” Building an agentic enterprise means rethinking how you do business. As artificial intelligenc…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/opinion/2026/splitit-ceo-says-card-linked-payments-can-save-ai-sales/",
+      "date": "2026-08-07",
+      "category": "Payments",
+      "tags": [
+        "splitit ceo",
+        "says card",
+        "linked payments"
+      ]
+    },
+    {
+      "id": "569032999",
+      "title": "Financial Firms Put AI to Work Across 27 Tasks, Study Finds",
+      "summary": "Financial services firms are finding their strongest artificial intelligence results in the parts of the business customers rarely see. The May installment of “The Enterprise AI Benchmark Report” from PYMNTS Intelligence found that banks, insurers and other financial companies ha…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/financial-firms-put-ai-to-work-across-27-tasks-study-finds/",
+      "date": "2026-08-07",
+      "category": "Banking",
+      "tags": [
+        "financial firms",
+        "put ai",
+        "work across"
+      ]
+    },
+    {
+      "id": "23458467",
+      "title": "AI agents could help Southeast Asian firms untangle cross-border payment costs",
+      "summary": "For many Southeast Asian companies, selling across borders has become easier than getting paid across them. A merchant in Singapore can source from Vietnam, sell to customers in Indonesia, pay a logistics partner in Thailand, and settle invoices with a platform in the US. The com…",
+      "source": "e27",
+      "url": "https://e27.co/ai-agents-could-help-southeast-asian-firms-untangle-cross-border-payment-costs-20260807/",
+      "date": "2026-08-07",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "southeast asian",
+        "singapore"
+      ]
+    },
+    {
+      "id": "241573185",
+      "title": "Securing Agentic AI for Singapore enterprises: A reference architecture",
+      "summary": "The Generative AI revolution is here, but for many enterprises in Singapore and Southeast Asia, adoption has hit a hard wall. The barrier isn t a lack of use cases; it is Data Security and Hallucination Control. When dealing with highly sensitive domains (like Healthcare, Insuran…",
+      "source": "e27",
+      "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/",
+      "date": "2026-08-07",
+      "category": "Banking",
+      "tags": [
+        "securing agentic",
+        "ai",
+        "singapore"
+      ]
+    },
+    {
+      "id": "478478519",
+      "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
+      "summary": "Southeast Asia sits at an inflection point. The region commands 10 per cent of global GDP, controls critical supply chains, and possesses over 500 million people, a workforce larger than the European Union. Governments from Singapore to Japan have committed tens of billions to AI…",
+      "source": "e27",
+      "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
+      "date": "2026-08-07",
+      "category": "Banking",
+      "tags": [
+        "southeast asia",
+        "ai",
+        "building"
+      ]
+    },
     {
       "id": "587311992",
       "title": "Ex-Nubank CTO raises $85m for AI-native wealth advisory platform",
@@ -787,90 +871,6 @@
         "how",
         "ai",
         "every"
-      ]
-    },
-    {
-      "id": "720878161",
-      "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
-      "summary": "Deal comes after Leopold Aschenbrenner’s investment firm held overnight crunch talks with investors",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1",
-      "date": "2026-07-30",
-      "category": "Banking",
-      "tags": [
-        "citadel",
-        "situational awareness",
-        "ai"
-      ]
-    },
-    {
-      "id": "781026992",
-      "title": "Are investors really getting cold feet about the AI boom?",
-      "summary": "It is not clear whether there has been a serious change of heart about the trade underpinning the stock market",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/00d91e68-9508-42bd-b1e3-124bf7dd390b?syn-25a6b1a6=1",
-      "date": "2026-07-30",
-      "category": "Trading",
-      "tags": [
-        "are",
-        "ai",
-        "it"
-      ]
-    },
-    {
-      "id": "916063565",
-      "title": "On-Demand – AI, HR and financial services: Modernising banking systems from front to back",
-      "summary": "How should FIs embed AI into their core banking systems?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/619/on-demand--ai-hr-and-financial-services-modernising-banking-systems-from-front-to-back?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-30",
-      "category": "Banking",
-      "tags": [
-        "on",
-        "demand",
-        "ai"
-      ]
-    },
-    {
-      "id": "483359160",
-      "title": "‘My life’s screwed’: Korean investors stress out after AI bubble bursts",
-      "summary": "Millions suffer ‘unprecedented’ losses after Samsung and SK Hynix stock tumbles",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/23f388eb-e8ab-4fb1-b1ca-8e04eb4561a1?syn-25a6b1a6=1",
-      "date": "2026-07-30",
-      "category": "Trading",
-      "tags": [
-        "my",
-        "korean",
-        "ai"
-      ]
-    },
-    {
-      "id": "337655855",
-      "title": "Leopold Aschenbrenner’s Situational Awareness seeks to raise capital after AI rout",
-      "summary": "Hedge fund has held talks with existing investors and lenders in recent days",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/280336bf-dbed-405f-b38e-5af644a21549?syn-25a6b1a6=1",
-      "date": "2026-07-30",
-      "category": "Trading",
-      "tags": [
-        "leopold aschenbrenner",
-        "situational awareness",
-        "ai"
-      ]
-    },
-    {
-      "id": "814178485",
-      "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
-      "summary": "Lloyds Banking Group is targeting another £2 billion in savings over the next three years after turning in a 23% jump in half-year profits.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-30",
-      "category": "Banking",
-      "tags": [
-        "lloyds",
-        "ai",
-        "lloyds banking"
       ]
     }
   ]
