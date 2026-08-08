@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-07T19:53:23Z",
+  "last_updated": "2026-08-08T07:52:19Z",
   "insights": {
     "risks": [
-      "Trading risk: BestEx Research introduces AI-native interface for institutional trading analytics — assess algorithmic exposure.",
+      "Trading risk: Moonshot shake-up seeks to win Beijing nod for stock market debut — assess algorithmic exposure.",
       "Operational: How tech companies are helping credit unions meet AI-transformation goals in 5 key areas — evaluate model governance gaps."
     ],
     "opportunities": [
@@ -37,6 +37,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "453688895",
+      "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
+      "summary": "Chinese AI start-up targets Hong Kong listing to raise fresh funding for next phase of development",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9c0d4f0d-d2c6-4189-b4bb-200d17a4720f?syn-25a6b1a6=1",
+      "date": "2026-08-07",
+      "category": "Trading",
+      "tags": [
+        "moonshot",
+        "beijing",
+        "chinese ai"
+      ]
+    },
     {
       "id": "743282033",
       "title": "How tech companies are helping credit unions meet AI-transformation goals in 5 key areas",
@@ -857,20 +871,6 @@
         "how leopold",
         "aschenbrenner",
         "ai"
-      ]
-    },
-    {
-      "id": "390220177",
-      "title": "AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots",
-      "summary": "A new benchmarking report finds 70% of organisations call AI critical, yet just 11% are delivering transformational results at scale. The post AI Adoption Gap Widens as Only 11% of Firms Scale Beyond Pilots appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-adoption-gap-widens-as-only-11-of-firms-scale-beyond-pilots/",
-      "date": "2026-07-31",
-      "category": "Payments",
-      "tags": [
-        "ai adoption",
-        "gap widens",
-        "only"
       ]
     }
   ]
