@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-08T07:52:19Z",
+  "last_updated": "2026-08-08T19:33:48Z",
   "insights": {
     "risks": [
       "Trading risk: Moonshot shake-up seeks to win Beijing nod for stock market debut — assess algorithmic exposure.",
-      "Operational: How tech companies are helping credit unions meet AI-transformation goals in 5 key areas — evaluate model governance gaps."
+      "Operational: N3XT Launches MCP to Link AI Agents with Live Banking Data — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Splitit CEO Says Card-Linked Payments Can Save AI Sales — potential infrastructure advantage.",
-      "Banking efficiency: How tech companies are helping credit unions meet AI-transformation goals in 5 key areas — cost reduction opportunity."
+      "Banking efficiency: N3XT Launches MCP to Link AI Agents with Live Banking Data — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Automation",
@@ -37,6 +37,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "416663176",
+      "title": "N3XT Launches MCP to Link AI Agents with Live Banking Data",
+      "summary": "The blockchain-based B2B payments bank said its Model Context Protocol gives corporate AI environments governed read/write access to live banking data.",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/n3xt-launches-mcp-to-link-ai-agents-with-live-banking-data/",
+      "date": "2026-08-08",
+      "category": "Banking",
+      "tags": [
+        "launches mcp",
+        "link ai",
+        "agents"
+      ]
+    },
     {
       "id": "453688895",
       "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut",
@@ -857,20 +871,6 @@
         "chime cuts",
         "workforce",
         "ai pivot"
-      ]
-    },
-    {
-      "id": "536462195",
-      "title": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low",
-      "summary": "The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1",
-      "date": "2026-07-31",
-      "category": "Trading",
-      "tags": [
-        "how leopold",
-        "aschenbrenner",
-        "ai"
       ]
     }
   ]
