@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-08T19:33:48Z",
+  "last_updated": "2026-08-09T07:55:08Z",
   "insights": {
     "risks": [
       "Trading risk: Moonshot shake-up seeks to win Beijing nod for stock market debut — assess algorithmic exposure.",
-      "Operational: N3XT Launches MCP to Link AI Agents with Live Banking Data — evaluate model governance gaps."
+      "Operational: The bank behind China’s AI listings bonanza — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Splitit CEO Says Card-Linked Payments Can Save AI Sales — potential infrastructure advantage.",
-      "Banking efficiency: N3XT Launches MCP to Link AI Agents with Live Banking Data — cost reduction opportunity."
+      "Banking efficiency: The bank behind China’s AI listings bonanza — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -37,6 +37,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "820340850",
+      "title": "The bank behind China’s AI listings bonanza",
+      "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
+      "date": "2026-08-09",
+      "category": "Banking",
+      "tags": [
+        "china",
+        "ai",
+        "cicc"
+      ]
+    },
     {
       "id": "416663176",
       "title": "N3XT Launches MCP to Link AI Agents with Live Banking Data",
@@ -857,20 +871,6 @@
         "finance teams",
         "are done",
         "flying blind"
-      ]
-    },
-    {
-      "id": "326793952",
-      "title": "Chime Cuts 10% of Workforce in AI Pivot",
-      "summary": "Chime Financial plans to lay off about 150 people, or 10% of its workforce, Bloomberg reported Friday (July 31), citing a memo to employees from Chime CEO and Co-Founder Chris Britt. Reached by PYMNTS, Chime declined to comment on the report. In an excerpt from the memo obtained …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/chime-cuts-10percent-of-workforce-in-ai-pivot/",
-      "date": "2026-07-31",
-      "category": "Banking",
-      "tags": [
-        "chime cuts",
-        "workforce",
-        "ai pivot"
       ]
     }
   ]
