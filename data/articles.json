@@ -1,23 +1,27 @@
 {
-  "last_updated": "2026-08-10T08:42:05Z",
+  "last_updated": "2026-08-10T19:55:52Z",
   "insights": {
     "risks": [
       "Trading risk: Moonshot shake-up seeks to win Beijing nod for stock market debut — assess algorithmic exposure.",
-      "Operational: True Potential taps Origo to deliver automated valuation data across its adviser back-office — evaluate model governance gaps."
+      "Operational: Wall Street giants partner with Nvidia on $500bn AI financing deal — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Splitit CEO Says Card-Linked Payments Can Save AI Sales — potential infrastructure advantage.",
-      "Banking efficiency: True Potential taps Origo to deliver automated valuation data across its adviser back-office — cost reduction opportunity."
+      "Payments: RSM UK Welcomes AI Adoption Plan as Consumers Seek AI Financial Advice — potential infrastructure advantage.",
+      "Banking efficiency: Wall Street giants partner with Nvidia on $500bn AI financing deal — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 18
+      "count": 15
     },
     {
       "topic": "Automation",
       "count": 5
+    },
+    {
+      "topic": "Machine Learning",
+      "count": 1
     },
     {
       "topic": "Generative AI",
@@ -30,13 +34,79 @@
     {
       "topic": "Fraud Detection",
       "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "415578006",
+      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
+      "summary": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "nvidia",
+        "ai"
+      ]
+    },
+    {
+      "id": "987184034",
+      "title": "Edge integrates with Socure to catch AI-driven fraud faster",
+      "summary": "EDGE, the cashflow bureau helping lenders turn bank transaction data into explainable, machine learning-developed scores and attributes for lending and rental screening, today announced a partnership with Socure, the leading AI-native trust infrastructure powering identity intell…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110606/edge-integrates-with-socure-to-catch-ai-driven-fraud-faster?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "edge",
+        "socure",
+        "ai"
+      ]
+    },
+    {
+      "id": "684414988",
+      "title": "Accountable AI Governance in Financial Institutions: Building a Comprehensive Dashboard Framework",
+      "summary": "As artificial intelligence (AI) becomes deeply embedded in financial services, traditional success m...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32507/accountable-ai-governance-in-financial-institutions-building-a-comprehensive-dashboard-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "accountable ai",
+        "governance",
+        "financial institutions"
+      ]
+    },
+    {
+      "id": "963415981",
+      "title": "RSM UK Welcomes AI Adoption Plan as Consumers Seek AI Financial Advice",
+      "summary": "RSM UK says the government's Financial Services AI Adoption Plan is timely but warns that Consumer Duty and accountability frameworks face real strain. The post RSM UK Welcomes AI Adoption Plan as Consumers Seek AI Financial Advice appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/rsm-uk-welcomes-ai-adoption-plan-as-consumers-seek-ai-financial-advice/",
+      "date": "2026-08-10",
+      "category": "Payments",
+      "tags": [
+        "rsm uk",
+        "welcomes ai",
+        "adoption plan"
+      ]
+    },
+    {
+      "id": "252987011",
+      "title": "MoneyLion Vets Launch Wealth Management Platform Astraeus",
+      "summary": "Two veterans of mobile banking firm MoneyLion have launched Astraeus, an infrastructure platform for wealth management companies. The company announced its launch last week, saying it comes as wealth management companies are trying to capitalize on artificial intelligence (AI) af…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/startups/2026/moneylion-vets-launch-wealth-management-platform-astraeus/",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "moneylion vets",
+        "launch wealth",
+        "management platform"
+      ]
+    },
     {
       "id": "426421908",
       "title": "True Potential taps Origo to deliver automated valuation data across its adviser back-office",
@@ -803,76 +873,6 @@
         "bretton ai",
         "ceo wants",
         "banks"
-      ]
-    },
-    {
-      "id": "254234608",
-      "title": "Who Is Paying the Customer's AI Agent?",
-      "summary": "A trusted-agent credential can prove who initiated a payment. It cannot prove whose interests shaped...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32439/who-is-paying-the-customers-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-03",
-      "category": "Payments",
-      "tags": [
-        "who is",
-        "paying",
-        "customer"
-      ]
-    },
-    {
-      "id": "230361384",
-      "title": "INETCO Adds Agentic AI Module to Cut Fraud Case Review Times",
-      "summary": "INETCO BullzAI Investigate uses on-premise agentic AI to triage payment fraud alerts and deliver explainable risk scores to analysts. The post INETCO Adds Agentic AI Module to Cut Fraud Case Review Times appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/inetco-adds-agentic-ai-module-to-cut-fraud-case-review-times/",
-      "date": "2026-08-03",
-      "category": "Payments",
-      "tags": [
-        "inetco adds",
-        "agentic ai",
-        "module"
-      ]
-    },
-    {
-      "id": "682734193",
-      "title": "Plaid Gives Sierra’s AI Agents Live Access to Bank Accounts",
-      "summary": "A customer asks an artificial intelligence agent for help refinancing a loan. The agent walks through the options, then stalls the moment it needs real financial data. Sierra and Plaid built an integration to close that gap: Sierra’s AI agents can now request permission to connec…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/plaid-gives-sierras-ai-agents-live-access-to-bank-accounts/",
-      "date": "2026-08-03",
-      "category": "Banking",
-      "tags": [
-        "plaid gives",
-        "sierra",
-        "ai agents"
-      ]
-    },
-    {
-      "id": "30811607",
-      "title": "ADA acquires India’s Algonomy in push beyond customer data into AI-led action",
-      "summary": "ADA, the AI and data company headquartered in Singapore and Malaysia, has completed its acquisition of Algonomy, a Bengaluru (India)-based AI retail decision-making firm, in a deal that significantly widens its geographic reach and product depth. The company did not disclose the …",
-      "source": "e27",
-      "url": "https://e27.co/ada-acquires-indias-algonomy-in-push-beyond-customer-data-into-ai-led-action-20260803/",
-      "date": "2026-08-03",
-      "category": "Banking",
-      "tags": [
-        "ada",
-        "india",
-        "algonomy"
-      ]
-    },
-    {
-      "id": "24137189",
-      "title": "Boost CEO Says Transaction Data Is B2B Payments’ AI Superpower",
-      "summary": "Watch more: Digital Shift With Boost Payment Solutions’ Dean M Leavitt As PYMNTS CEO Karen Webster told a podcast audience for last year’s B2B event, nothing is boring about B2B payments anymore. That’s what makes the application of artificial intelligence across them so exciting…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/boost-ceo-says-transaction-data-is-b2b-payments-ai-superpower/",
-      "date": "2026-08-03",
-      "category": "Payments",
-      "tags": [
-        "boost ceo",
-        "says transaction",
-        "data is"
       ]
     }
   ]
