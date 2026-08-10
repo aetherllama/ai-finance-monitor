@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-09T19:36:59Z",
+  "last_updated": "2026-08-10T08:42:05Z",
   "insights": {
     "risks": [
       "Trading risk: Moonshot shake-up seeks to win Beijing nod for stock market debut — assess algorithmic exposure.",
-      "Operational: The bank behind China’s AI listings bonanza — evaluate model governance gaps."
+      "Operational: True Potential taps Origo to deliver automated valuation data across its adviser back-office — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Splitit CEO Says Card-Linked Payments Can Save AI Sales — potential infrastructure advantage.",
-      "Banking efficiency: The bank behind China’s AI listings bonanza — cost reduction opportunity."
+      "Banking efficiency: True Potential taps Origo to deliver automated valuation data across its adviser back-office — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Generative AI",
@@ -37,6 +37,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "426421908",
+      "title": "True Potential taps Origo to deliver automated valuation data across its adviser back-office",
+      "summary": "Leading UK wealth management firm, True Potential, today joins Origo’s Integration Hub, bringing automated, data-rich daily valuations from multiple providers directly into advisers' existing workflows.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110604/true-potential-taps-origo-to-deliver-automated-valuation-data-across-its-adviser-back-office?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "true potential",
+        "origo",
+        "leading uk"
+      ]
+    },
+    {
+      "id": "452552735",
+      "title": "The Top Five AI Trends Reshaping Banking in 2026",
+      "summary": "Artificial intelligence is rapidly moving beyond experimentation in banking. What began as isolated ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32503/the-top-five-ai-trends-reshaping-banking-in-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "the top",
+        "five ai",
+        "trends reshaping"
+      ]
+    },
+    {
+      "id": "565875444",
+      "title": "AI-Powered Fraud Investigation: From Alert Overload to Actionable Evidence",
+      "summary": "Artificial intelligence is reshaping how investigators identify schemes, connect evidence, and prior...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32501/ai-powered-fraud-investigation-from-alert-overload-to-actionable-evidence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "powered fraud",
+        "investigation"
+      ]
+    },
+    {
+      "id": "514305767",
+      "title": "AI Helped British Airways Reach Its Best On-Time Performance",
+      "summary": "British Airways spent years struggling with delays and cancellations at its Heathrow hub, and the airline now says artificial intelligence is why that has changed. CEO Sean Doyle called the technology “game-changing” for cutting flight delays, telling the Financial Times that 86%…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-helped-british-airways-reach-its-best-on-time-performance/",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "ai helped",
+        "british airways",
+        "reach its"
+      ]
+    },
+    {
+      "id": "277749730",
+      "title": "OpenAI Picks Up AI Presentation Creator NextSlide",
+      "summary": "OpenAI has acquired NextSlide, a startup that uses artificial intelligence to help workers develop presentations. The deal happened earlier this year but was announced Friday (Aug. 7) by Ahmed Beshry, NextSlide’s founder, on his LinkedIn page. NextSlide’s website also includes a …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-picks-up-ai-presentation-creator-nextslide/",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "openai picks",
+        "up ai",
+        "presentation creator"
+      ]
+    },
+    {
+      "id": "904738324",
+      "title": "Deep Dive: Engineering the Agentic Control Orchestration in Banking",
+      "summary": "Banks often fail to derive meaningful value from AI because they tend to layer sophisticated automa...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32470/deep-dive-engineering-the-agentic-control-orchestration-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-09",
+      "category": "Banking",
+      "tags": [
+        "deep dive",
+        "engineering",
+        "agentic control"
+      ]
+    },
     {
       "id": "820340850",
       "title": "The bank behind China’s AI listings bonanza",
@@ -789,88 +873,6 @@
         "boost ceo",
         "says transaction",
         "data is"
-      ]
-    },
-    {
-      "id": "605813632",
-      "title": "AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions.",
-      "summary": "AI is becoming a standard tool for wealthy investors in Singapore, but surveys suggest most still rely on human advisers when making key financial decisions.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/wealth-management/expert-opinion/can-ai-replace-wealth-advisers",
-      "date": "2026-08-03",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "794864841",
-      "title": "Singapore’s agentic finance guidance pushes banks to verify AI actions before they execute payments loans trades or regulatory reports.",
-      "summary": "Singapore’s agentic finance guidance pushes banks to verify AI actions before they execute payments loans trades or regulatory reports.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/commentary/banks-need-rethink-identity-governance-ai-agents",
-      "date": "2026-08-03",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "350518344",
-      "title": "OpenAI Reaches 1 Billion Active Users as AI Becomes Daily Habit",
-      "summary": "OpenAI’s models now reach more than 1 billion active users and more than 2 million businesses, OpenAI Chief Financial Officer Sarah Friar said in a Friday (July 31) blog post. OpenAI has found that these users deploy artificial intelligence (AI) more often and more deeply as they…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-reaches-1-billion-active-users-as-ai-becomes-daily-habit/",
-      "date": "2026-08-01",
-      "category": "Banking",
-      "tags": [
-        "openai reaches",
-        "billion active",
-        "users"
-      ]
-    },
-    {
-      "id": "340999648",
-      "title": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
-      "summary": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
-      "date": "2026-07-31",
-      "category": "Trading",
-      "tags": [
-        "citadel",
-        "situational awareness",
-        "ai"
-      ]
-    },
-    {
-      "id": "471990009",
-      "title": "Appli signs Connect Credit Union",
-      "summary": "Appli, the creator of the industry's first AI-powered smart financial calculator, announced today that Connect Credit Union has selected its calculator solution to give members a more interactive way to explore their loan options online.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110543/appli-signs-connect-credit-union?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-07-31",
-      "category": "Banking",
-      "tags": [
-        "appli",
-        "connect credit",
-        "union appli"
-      ]
-    },
-    {
-      "id": "932442610",
-      "title": "Finance Teams Are Done Flying Blind on AI Costs",
-      "summary": "The era of “tokenmaxxing,” pushing employees toward the biggest artificial intelligence (AI) models and the heaviest usage as if consumption itself were a sign of progress, is ending after two years of unchecked growth. That approach worked while AI spending was small enough to a…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/finance-teams-are-done-flying-blind-on-ai-costs/",
-      "date": "2026-07-31",
-      "category": "Banking",
-      "tags": [
-        "finance teams",
-        "are done",
-        "flying blind"
       ]
     }
   ]
