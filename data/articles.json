@@ -1,13 +1,12 @@
 {
-  "last_updated": "2026-08-10T19:55:52Z",
+  "last_updated": "2026-08-11T08:11:04Z",
   "insights": {
     "risks": [
-      "Trading risk: Moonshot shake-up seeks to win Beijing nod for stock market debut — assess algorithmic exposure.",
-      "Operational: Wall Street giants partner with Nvidia on $500bn AI financing deal — evaluate model governance gaps."
+      "Operational: Astraeus launches wealth management infrastructure platform — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: RSM UK Welcomes AI Adoption Plan as Consumers Seek AI Financial Advice — potential infrastructure advantage.",
-      "Banking efficiency: Wall Street giants partner with Nvidia on $500bn AI financing deal — cost reduction opportunity."
+      "Payments: How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth — potential infrastructure advantage.",
+      "Banking efficiency: Astraeus launches wealth management infrastructure platform — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -20,11 +19,15 @@
       "count": 5
     },
     {
-      "topic": "Machine Learning",
-      "count": 1
+      "topic": "Generative AI",
+      "count": 2
     },
     {
-      "topic": "Generative AI",
+      "topic": "Machine Learning",
+      "count": 2
+    },
+    {
+      "topic": "Payments AI",
       "count": 1
     },
     {
@@ -37,6 +40,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "781502543",
+      "title": "Astraeus launches wealth management infrastructure platform",
+      "summary": "Former staffers at mobile banking firm MoneyLion have raised over $10 million for an AI-native infrastructure platform for wealth management firms.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48223/astraeus-launches-wealth-management-infrastructure-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "astraeus",
+        "former",
+        "moneylion"
+      ]
+    },
+    {
+      "id": "360836922",
+      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth",
+      "summary": "Payments used to arrive at the end of a sale, take the money and leave. Now they have a much bigger job. They can help companies earn revenue, see cash, serve customers and make better decisions. PYMNTS developed “Summer School 2026: The Payment Stack Strikes Back” with insights …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/how-ai-shopping-agents-stablecoins-and-smarter-checkout-drive-business-growth/",
+      "date": "2026-08-11",
+      "category": "Payments",
+      "tags": [
+        "how ai",
+        "shopping agents",
+        "stablecoins"
+      ]
+    },
+    {
+      "id": "297856071",
+      "title": "Credit Unions Give AI the Legwork and Humans the Last Word",
+      "summary": "In launching AI, credit unions should start with workflows where risk can be managed and human oversight remains central, Velera EVP, Chief Product and Technology Officer Denise Stevens writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” Agentic artifici…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/opinion/2026/credit-unions-give-ai-the-legwork-and-humans-the-last-word/",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "credit unions",
+        "give ai",
+        "legwork"
+      ]
+    },
+    {
+      "id": "282202050",
+      "title": "The next AI payments boom may happen in the back office",
+      "summary": "For the past two years, the loudest conversation in technology has centred on consumer-facing generative AI: chatbots that write emails, image tools that make campaign visuals, copilots that summarise meetings. But a quieter and potentially larger shift is taking shape away from …",
+      "source": "e27",
+      "url": "https://e27.co/the-next-ai-payments-boom-may-happen-in-the-back-office-20260811/",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "but"
+      ]
+    },
+    {
+      "id": "546213397",
+      "title": "Why Explainable AI Matters for the Future of UK Financial Services",
+      "summary": "Across the UK, financial institutions are using machine learning models to make decisions that affec...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32510/why-explainable-ai-matters-for-the-future-of-uk-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-10",
+      "category": "Banking",
+      "tags": [
+        "why explainable",
+        "ai matters",
+        "future"
+      ]
+    },
     {
       "id": "415578006",
       "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
@@ -803,76 +875,6 @@
         "ai",
         "real test",
         "financial services"
-      ]
-    },
-    {
-      "id": "25588683",
-      "title": "The Cheapest Supplier in the Bank Is One Person, and No Register Has Their Name",
-      "summary": "Most discussion of artificial intelligence in this industry concerns what institutions are buying f...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32453/the-cheapest-supplier-in-the-bank-is-one-person-and-no-register-has-their-name?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "the cheapest",
-        "supplier",
-        "bank is"
-      ]
-    },
-    {
-      "id": "392570960",
-      "title": "Inside Google’s $200bn Wall Street finance machine for Anthropic",
-      "summary": "Private credit, chip leases and data centre guarantees underpin a vast new model for AI spending",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/549f2e23-5aa2-49c7-9ea6-a9784ab7087c?syn-25a6b1a6=1",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "inside google",
-        "wall street",
-        "anthropic private"
-      ]
-    },
-    {
-      "id": "378657335",
-      "title": "Plaid and Sierra collaborate on AI agent interface",
-      "summary": "For decades, the entry point for financial services was a branch, then a website, then an app.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110559/plaid-and-sierra-collaborate-on-ai-agent-interface?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "plaid",
-        "sierra",
-        "ai"
-      ]
-    },
-    {
-      "id": "554963536",
-      "title": "Faster Hashing, Fewer Blind Spots: What BLAKE3 Changes for Financial Archives",
-      "summary": "Most financial institutions still verify their data using a hashing algorithm designed in 2001. SH",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32429/faster-hashing-fewer-blind-spots-what-blake3-changes-for-financial-archives?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "faster hashing",
-        "fewer blind",
-        "spots"
-      ]
-    },
-    {
-      "id": "910314145",
-      "title": "Bretton AI CEO Wants Banks to Kick the AI Tool Habit",
-      "summary": "Watch more: Need to Know With Bretton AI’s Will Lawrence Every artificial intelligence (AI) tool a bank adds to solve one risk problem gives it another vendor to vet, another platform to monitor and another set of decisions to explain to regulators. That’s the paradox at the cent…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/bretton-ai-ceo-wants-banks-to-kick-the-ai-tool-habit/",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "bretton ai",
-        "ceo wants",
-        "banks"
       ]
     }
   ]
