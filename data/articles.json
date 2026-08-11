@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-08-11T08:11:04Z",
+  "last_updated": "2026-08-11T20:01:12Z",
   "insights": {
     "risks": [
-      "Operational: Astraeus launches wealth management infrastructure platform — evaluate model governance gaps."
+      "Trading risk: Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal — assess algorithmic exposure.",
+      "Operational: Banks facing AI concentration risk — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth — potential infrastructure advantage.",
-      "Banking efficiency: Astraeus launches wealth management infrastructure platform — cost reduction opportunity."
+      "Payments: Corpay launches AI-powered tool to support finance teams — potential infrastructure advantage.",
+      "Banking efficiency: Banks facing AI concentration risk — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Generative AI",
@@ -40,6 +41,160 @@
     }
   ],
   "articles": [
+    {
+      "id": "117481734",
+      "title": "Banks facing AI concentration risk",
+      "summary": "The banking sector is at risk of being beholden to a limited number of AI vendors according to rating agency Moody's.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48225/banks-facing-ai-concentration-risk?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "banks",
+        "ai",
+        "moody"
+      ]
+    },
+    {
+      "id": "115654034",
+      "title": "Insurtech funding hits four-year high",
+      "summary": "Funding for the insurtech sector surged to its highest level in four years in Q2, helped by a number of megadeals mainly focused on AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48224/insurtech-funding-hits-four-year-high?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "insurtech",
+        "funding",
+        "ai"
+      ]
+    },
+    {
+      "id": "399392940",
+      "title": "AI-native clearinghouse for insurance Axle raises $17.5m",
+      "summary": "Axle, the AI-native clearinghouse for insurance, today announced $17.5M in Series A funding led by Base10 Partners. The round included continued investment from Y Combinator and Gradient, with participation from Stage 2 Capital and industry angels including the founders of CoverG…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110621/ai-native-clearinghouse-for-insurance-axle-raises-175m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "axle",
+        "series"
+      ]
+    },
+    {
+      "id": "11817711",
+      "title": "Allvue Systems today launched Intelligent Loan Operations",
+      "summary": "Allvue Systems today launched Intelligent Loan Operations, uniting the full lifecycle of a loan transaction — from the moment a notice arrives from a loan agent to the moment its data is consolidated into the general ledger — on a single platform powered by agentic AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110608/allvue-systems-today-launched-intelligent-loan-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "allvue systems",
+        "intelligent loan",
+        "operations allvue"
+      ]
+    },
+    {
+      "id": "17476174",
+      "title": "Corpay launches AI-powered tool to support finance teams",
+      "summary": "Research commissioned by global S&P500 corporate payments company, Corpay, reveals UK finance teams continue to spend significant time on manual expense, invoice and supplier payment administration.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110614/corpay-launches-ai-powered-tool-to-support-finance-teams?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Payments",
+      "tags": [
+        "corpay",
+        "ai",
+        "research"
+      ]
+    },
+    {
+      "id": "661576904",
+      "title": "How the AI Financial Management Boom is Creating New Solutions to Common Challenges for Entrepreneur",
+      "summary": "Artificial intelligence is rapidly transforming the financial management landscape for owners of bus...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32521/how-the-ai-financial-management-boom-is-creating-new-solutions-to-common-challenges-for-entrepreneur?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "how",
+        "ai financial",
+        "management boom"
+      ]
+    },
+    {
+      "id": "759396491",
+      "title": "The Action Engine: How Agentic AI Helps Financial Institutions Automate Complex Workflows",
+      "summary": "Walk through any major financial institution today, and you will see a clear operational paradox. Di...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32518/the-action-engine-how-agentic-ai-helps-financial-institutions-automate-complex-workflows?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-11",
+      "category": "Banking",
+      "tags": [
+        "the action",
+        "engine",
+        "how agentic"
+      ]
+    },
+    {
+      "id": "70050368",
+      "title": "Skills Compact Signs 22 Firms to AI Workforce Readiness Plans",
+      "summary": "Chancellor Rachel Reeves launched the Financial Services Skills Commission's compact, committing signatories to rolling three-year workforce capability plans. The post Skills Compact Signs 22 Firms to AI Workforce Readiness Plans appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/skills-compact-signs-22-firms-to-ai-workforce-readiness-plans/",
+      "date": "2026-08-11",
+      "category": "Payments",
+      "tags": [
+        "skills compact",
+        "signs",
+        "firms"
+      ]
+    },
+    {
+      "id": "276671980",
+      "title": "AI May Well be a Big Accelerator, but Let’s not Forget the Destination",
+      "summary": "AI can accelerate financial services, but long-term success will depend on strengthening trust, governance and financial controls. The post AI May Well be a Big Accelerator, but Let s not Forget the Destination appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-may-well-be-a-big-accelerator-but-lets-not-forget-the-destination/",
+      "date": "2026-08-11",
+      "category": "Payments",
+      "tags": [
+        "ai may",
+        "well",
+        "big accelerator"
+      ]
+    },
+    {
+      "id": "118678842",
+      "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
+      "summary": "The bitcoin miner’s 20-year agreement highlights an industry-wide shift toward AI infrastructure revenue.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
+      "date": "2026-08-11",
+      "category": "Trading",
+      "tags": [
+        "riot platforms",
+        "anthropic",
+        "ai"
+      ]
+    },
+    {
+      "id": "735275039",
+      "title": "Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery",
+      "summary": "Vietnam’s startup ecosystem has spent the past few years proving it can produce consumer apps, fintech platforms and edutech companies at regional scale. N2TP is attempting something less common, and arguably harder: building AI infrastructure for scientific research, where outpu…",
+      "source": "e27",
+      "url": "https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/",
+      "date": "2026-08-11",
+      "category": "Payments",
+      "tags": [
+        "touchstone",
+        "vietnam",
+        "ai"
+      ]
+    },
     {
       "id": "781502543",
       "title": "Astraeus launches wealth management infrastructure platform",
@@ -721,160 +876,6 @@
         "fiserv",
         "stuut team",
         "bring ai"
-      ]
-    },
-    {
-      "id": "993985422",
-      "title": "Musk’s SpaceX unnerves investors with lavish AI spending plans",
-      "summary": "Shares slide in pre-market trading even as group says its quarterly revenues nearly doubled",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/41f7963b-dd50-4f27-a085-771ddec4a8ca?syn-25a6b1a6=1",
-      "date": "2026-08-05",
-      "category": "Trading",
-      "tags": [
-        "musk",
-        "spacex",
-        "ai"
-      ]
-    },
-    {
-      "id": "224688904",
-      "title": "Inside Southeast Asia’s Fintech Surge: Inclusion, AI and the Infrastructure Still Catching Up",
-      "summary": "Southeast Asia’s fintech boom is being driven by AI, digital payments and financial inclusion, despite ongoing infrastructure challenges. The post Inside Southeast Asia s Fintech Surge: Inclusion, AI and the Infrastructure Still Catching Up appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/inside-southeast-asias-fintech-surge-inclusion-ai-and-the-infrastructure-still-catching-up/",
-      "date": "2026-08-05",
-      "category": "Payments",
-      "tags": [
-        "inside southeast",
-        "asia",
-        "fintech surge"
-      ]
-    },
-    {
-      "id": "43051184",
-      "title": "Payment Choice Now Defines The New American Shopper",
-      "summary": "American shoppers aren’t waiting for retail to catch up. They’re already using mobile devices and AI to find products, compare choices and decide where to spend. Their shopping habits are outpacing many merchant systems. “The 2026 Global Digital Shopping Index: U.S. Playbook” exa…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/consumer-insights/2026/payment-choice-now-defines-the-new-american-shopper/",
-      "date": "2026-08-05",
-      "category": "Payments",
-      "tags": [
-        "payment choice",
-        "now defines",
-        "the new"
-      ]
-    },
-    {
-      "id": "23680056",
-      "title": "AP Automation Can’t Fix What It Can’t Connect",
-      "summary": "Accounts payable has no shortage of automation. However, the July edition of the Business Payments Tracker® Series, a PYMNTS Intelligence collaboration with WEX, revealed that functionality alone cannot modernize payment operations. Businesses can digitize invoices, route approva…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/back-office/accounts-payable/2026/ap-automation-cant-fix-what-it-cant-connect/",
-      "date": "2026-08-05",
-      "category": "Payments",
-      "tags": [
-        "ap automation",
-        "can",
-        "fix what"
-      ]
-    },
-    {
-      "id": "977148214",
-      "title": "ASEAN doesn’t need to win the AI race, it needs to run it together",
-      "summary": "The world s AI conversation is dominated by a handful of names: the US hyperscalers, the Chinese national champions, and a few European regulatory bodies trying to keep up. Southeast Asia barely gets a mention. When it does, the framing is usually about which ASEAN country attrac…",
-      "source": "e27",
-      "url": "https://e27.co/asean-doesnt-need-to-win-the-ai-race-it-needs-to-run-it-together-20260804/",
-      "date": "2026-08-05",
-      "category": "Banking",
-      "tags": [
-        "asean",
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "id": "55799115",
-      "title": "Why seniority is repricing in AI-augmented teams, and what gets valued instead",
-      "summary": "An investor with more than twenty years in the market asked me recently whether AI was going to replace software. He was not asking from a position of weakness. He has built a reputation, a portfolio, and a network that most people will not match in a lifetime. He just wanted to …",
-      "source": "e27",
-      "url": "https://e27.co/why-seniority-is-repricing-in-ai-augmented-teams-and-what-gets-valued-instead-20260727/",
-      "date": "2026-08-05",
-      "category": "Trading",
-      "tags": [
-        "why",
-        "ai",
-        "he"
-      ]
-    },
-    {
-      "id": "546717654",
-      "title": "Sumsub and Sumvin enable AI agents to transact using verified human identity",
-      "summary": "Sumsub, a leading global identity verification platform, and Sumvin, Inc., a market-leading agentic commerce platform, today announced a partnership that enables AI agents to complete purchases and manage financial accounts on behalf of KYC-verified users.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enable-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "sumsub",
-        "sumvin",
-        "ai"
-      ]
-    },
-    {
-      "id": "14857312",
-      "title": "Federato launches AI-native claims platform",
-      "summary": "Federato, the AI-native platform for the full policy lifecycle, today launched Federato Claims, an end-to-end claims management system built on the same foundation as underwriting, policy administration, and billing.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110568/federato-launches-ai-native-claims-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "InsurTech",
-      "tags": [
-        "federato",
-        "ai",
-        "federato claims"
-      ]
-    },
-    {
-      "id": "32815207",
-      "title": "Webull expands AI-powered investing ecosystem",
-      "summary": "Webull (NASDAQ: BULL), a leading online investment platform, today announced significant expansions to its AI-powered investing ecosystem, including native connectors for ChatGPT, Claude and Grok, the launch of Webull Command Line Interface (\"CLI\"), and an enhanced suite of Webul…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110566/webull-expands-ai-powered-investing-ecosystem?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "webull",
-        "ai",
-        "nasdaq"
-      ]
-    },
-    {
-      "id": "965975791",
-      "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
-      "summary": "Sumsub, a leading global identity verification platform, and Sumvin, Inc., a market-leading agentic commerce platform, today announced a partnership that enables AI agents to complete purchases and manage financial accounts on behalf of KYC-verified users.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enalbe-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "sumsub",
-        "sumvin",
-        "ai"
-      ]
-    },
-    {
-      "id": "811089154",
-      "title": "AI’s Real Test in Financial Services Is Decision Execution",
-      "summary": "Financial services firms are not short of artificial intelligence (AI) ambition. Across banking, ins...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32456/ais-real-test-in-financial-services-is-decision-execution?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-04",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "real test",
-        "financial services"
       ]
     }
   ]
