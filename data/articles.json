@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-08-11T20:01:12Z",
+  "last_updated": "2026-08-12T08:21:13Z",
   "insights": {
     "risks": [
+      "Regulatory: From chatbots to payment agents: AI’s next role in SEA commerce — review compliance obligations.",
       "Trading risk: Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal — assess algorithmic exposure.",
-      "Operational: Banks facing AI concentration risk — evaluate model governance gaps."
+      "Operational: Amex Ventures invests in autonomous finance startup Fazeshift — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Corpay launches AI-powered tool to support finance teams — potential infrastructure advantage.",
-      "Banking efficiency: Banks facing AI concentration risk — cost reduction opportunity."
+      "Payments: 70% of Brazilians Expect to Shop With AI Agents by 2028 — potential infrastructure advantage.",
+      "Banking efficiency: Amex Ventures invests in autonomous finance startup Fazeshift — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -34,13 +35,51 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "271651785",
+      "title": "Amex Ventures invests in autonomous finance startup Fazeshift",
+      "summary": "American Express's corporate venture arm has invested in Fazeshift, an AI-native platform deploying autonomous agents to execute end-to-end accounts receivable workflows.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48230/amex-ventures-invests-in-autonomous-finance-startup-fazeshift?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "amex ventures",
+        "fazeshift american",
+        "express"
+      ]
+    },
+    {
+      "id": "659553943",
+      "title": "70% of Brazilians Expect to Shop With AI Agents by 2028",
+      "summary": "Brazilian shoppers don’t leave their digital habits at the store entrance. They bring their phones into the aisle, compare prices on the spot and check whether a merchant accepts the payment method they want to use. Increasingly, they also bring AI along for the trip. “The 2026 G…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/consumer-insights/2026/70percent-of-brazilians-expect-to-shop-with-ai-agents-by-2028/",
+      "date": "2026-08-12",
+      "category": "Payments",
+      "tags": [
+        "brazilians expect",
+        "shop with",
+        "ai agents"
+      ]
+    },
+    {
+      "id": "557899641",
+      "title": "From chatbots to payment agents: AI’s next role in SEA commerce",
+      "summary": "For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations. But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always been more practical:…",
+      "source": "e27",
+      "url": "https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/",
+      "date": "2026-08-12",
+      "category": "RegTech",
+      "tags": [
+        "from",
+        "ai",
+        "sea"
+      ]
+    },
     {
       "id": "117481734",
       "title": "Banks facing AI concentration risk",
@@ -834,48 +873,6 @@
         "the global",
         "fintech landscape",
         "why"
-      ]
-    },
-    {
-      "id": "342513674",
-      "title": "The Fraud Pattern Your Rules Engine will Never Catch",
-      "summary": "AI fraud detection is only as strong as the data behind it, making quality, speed and explainability essential to stopping modern attacks. The post The Fraud Pattern Your Rules Engine will Never Catch appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-fraud-pattern-your-rules-engine-will-never-catch/",
-      "date": "2026-08-05",
-      "category": "Payments",
-      "tags": [
-        "the fraud",
-        "pattern your",
-        "rules engine"
-      ]
-    },
-    {
-      "id": "731663251",
-      "title": "Google’s Longtime AI Strategist Leaving to Launch Own Company",
-      "summary": "Longtime Google AI expert Jeff Dean is reportedly leaving to start his own company. As the Wall Street Journal (WSJ) reported Wednesday (Aug. 5), Dean is one of the tech giants earliest employees — joining the company in 1999 as its 30th hire — and has spent the last 15 years hel…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/google/2026/googles-longtime-ai-strategist-leaving-to-launch-own-company/",
-      "date": "2026-08-05",
-      "category": "Banking",
-      "tags": [
-        "google",
-        "longtime ai",
-        "strategist leaving"
-      ]
-    },
-    {
-      "id": "18387033",
-      "title": "Fiserv and Stuut Team to Bring AI Agents to Accounts Receivable",
-      "summary": "Payments/financial services technology company Fiserv has teamed with accounts receivable automation firm Stuut Technologies. With this collaboration, the companies will help eligible enterprise finance teams modernize manual and “fragmented” B2B receivables processes where avail…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/back-office/accounts-receivable/2026/fiserv-and-stuut-team-to-bring-ai-agents-to-accounts-receivable/",
-      "date": "2026-08-05",
-      "category": "Banking",
-      "tags": [
-        "fiserv",
-        "stuut team",
-        "bring ai"
       ]
     }
   ]
