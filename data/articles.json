@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-08-12T08:21:13Z",
+  "last_updated": "2026-08-12T20:01:54Z",
   "insights": {
     "risks": [
       "Regulatory: From chatbots to payment agents: AI’s next role in SEA commerce — review compliance obligations.",
-      "Trading risk: Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal — assess algorithmic exposure.",
-      "Operational: Amex Ventures invests in autonomous finance startup Fazeshift — evaluate model governance gaps."
+      "Trading risk: AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals’ Yianni Gamvros — assess algorithmic exposure.",
+      "Operational: HSBC invests in AI modelling firm — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: 70% of Brazilians Expect to Shop With AI Agents by 2028 — potential infrastructure advantage.",
-      "Banking efficiency: Amex Ventures invests in autonomous finance startup Fazeshift — cost reduction opportunity."
+      "Banking efficiency: HSBC invests in AI modelling firm — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 13
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Generative AI",
@@ -27,6 +27,10 @@
     {
       "topic": "Machine Learning",
       "count": 2
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
     },
     {
       "topic": "Payments AI",
@@ -38,6 +42,104 @@
     }
   ],
   "articles": [
+    {
+      "id": "115400216",
+      "title": "HSBC invests in AI modelling firm",
+      "summary": "HSBC Asset Management (HSBC AM), the high street bank's investment management arm, has provided funding for London-based AI startup Model ML.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48237/hsbc-invests-in-ai-modelling-firm?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "hsbc",
+        "ai",
+        "hsbc asset"
+      ]
+    },
+    {
+      "id": "584929938",
+      "title": "M&T Bank appoints head of AI engineering",
+      "summary": "US-based M&T Bank has named Kalyana Bedhu as its new head of AI engineering",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "46008434",
+      "title": "RBI governor tells Indian banks to control AI",
+      "summary": "India's banking sector must be proactive in its adoption of AI and ensure that it determines how the technology reshapes the industry rather than let the technology dictate the inevitable changes.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "rbi",
+        "indian",
+        "ai india"
+      ]
+    },
+    {
+      "id": "625810774",
+      "title": "FE fundinfo gives Nexus for Financial Advisers an AI assistant",
+      "summary": "FE fundinfo today confirmed it is accelerating investment in Nexus for Financial Advisers, a unified, AI-powered workflow platform built on the breadth of FE fundinfo's data, designed to support the entire advice journey by bringing together the disconnected systems most advice f…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "fe",
+        "nexus",
+        "financial advisers"
+      ]
+    },
+    {
+      "id": "455393168",
+      "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance",
+      "summary": "Napier AI, the London-based financial crime compliance technology company, has partnered with Delta Capita, a global provider of managed services, technology and consulting, to help financial institutions create more connected and efficient Know Your Customer (KYC) and anti-money…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110626/napier-ai-and-delta-capita-partner-to-deliver-end-to-end-kyc-and-aml-compliance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "napier ai",
+        "delta capita",
+        "kyc"
+      ]
+    },
+    {
+      "id": "597603308",
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (R…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "scaling ai",
+        "business",
+        "ai"
+      ]
+    },
+    {
+      "id": "356574760",
+      "title": "AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals’ Yianni Gamvros",
+      "summary": "Why AI still falls short on the trading desk: Quantum Signals CEO Yianni Gamvros explains why market data, not chatbots, is the real challenge. The post AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals Yianni Gamvros appeared f…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-is-everywhere-in-finance-but-the-trading-desk-is-where-it-still-falls-short-says-quantum-signals-yianni-gamvros/",
+      "date": "2026-08-12",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "everywhere",
+        "finance"
+      ]
+    },
     {
       "id": "271651785",
       "title": "Amex Ventures invests in autonomous finance startup Fazeshift",
@@ -776,103 +878,6 @@
         "razer",
         "nus",
         "singapore ai"
-      ]
-    },
-    {
-      "id": "39952251",
-      "title": "The end of manual finance? AI agents are coming for startup payments",
-      "summary": "For years, the promise of fintech in Southeast Asia was to take paperwork out of finance. Cash became wallet balances. Invoices moved from filing cabinets into enterprise resource planning systems. Payment approvals shifted from email chains to dashboards. The broad direction was…",
-      "source": "e27",
-      "url": "https://e27.co/the-end-of-manual-finance-ai-agents-are-coming-for-startup-payments-20260805/",
-      "date": "2026-08-06",
-      "category": "Payments",
-      "tags": [
-        "ai",
-        "southeast asia",
-        "cash"
-      ]
-    },
-    {
-      "id": "859234822",
-      "title": "Jamie Dimon recruits bank and IT leaders to tackle AI risks",
-      "summary": "JPMorgan Chase CEO Jamie Dimon has been working to recruit banking and IT CEOs to an industry group focused on addressing the risks posed by rapid adoption of AI in corporate America, according to Reuters.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48202/jamie-dimon-recruits-bank-and-it-leaders-to-tackle-ai-risks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-05",
-      "category": "Banking",
-      "tags": [
-        "jamie dimon",
-        "it",
-        "ai"
-      ]
-    },
-    {
-      "id": "739570981",
-      "title": "Fiserv and Stuut partner to bring agentic AI to enterprise receivables",
-      "summary": "Fiserv, Inc. (NASDAQ: FISV), a leading global provider of payments and financial services technology, today announced a strategic partnership with Stuut Technologies to help eligible enterprise finance teams modernize manual, fragmented B2B receivables processes where available.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110583/fiserv-and-stuut-partner-to-bring-agentic-ai-to-enterprise-receivables?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-05",
-      "category": "Banking",
-      "tags": [
-        "fiserv",
-        "stuut",
-        "ai"
-      ]
-    },
-    {
-      "id": "811184829",
-      "title": "Explainable AI in banking depends explainable data",
-      "summary": "If a bank cannot show where a data point came from, when it was last verified, and what changed sinc...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32469/explainable-ai-in-banking-depends-explainable-data?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-05",
-      "category": "Banking",
-      "tags": [
-        "explainable ai",
-        "if"
-      ]
-    },
-    {
-      "id": "848455296",
-      "title": "How to drive success in agentic banking",
-      "summary": "There is considerable interest in AI in the financial services sector, particularly in autonomous AI...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32462/how-to-drive-success-in-agentic-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-05",
-      "category": "Banking",
-      "tags": [
-        "how",
-        "there",
-        "ai"
-      ]
-    },
-    {
-      "id": "480592117",
-      "title": "Fitch Flags AI Market Correction as Top Credit Risk for 2H26",
-      "summary": "Fitch Ratings warns that a prolonged AI equity correction could trigger broad credit contagion, compounding geopolitical and consumer headwinds. The post Fitch Flags AI Market Correction as Top Credit Risk for 2H26 appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/fitch-flags-ai-market-correction-as-top-credit-risk-for-2h26/",
-      "date": "2026-08-05",
-      "category": "Payments",
-      "tags": [
-        "fitch flags",
-        "ai market",
-        "correction"
-      ]
-    },
-    {
-      "id": "969197874",
-      "title": "The Global FinTech Landscape: Why the UK’s Fundamentals Remain Strong",
-      "summary": "Despite softer global fintech funding, the UK remains Europe's leading fintech hub, with strong fundamentals, growing AI adoption and a resilient ecosystem supporting long-term innovation. The post The Global FinTech Landscape: Why the UK s Fundamentals Remain Strong appeared fir…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-global-fintech-landscape-why-the-uks-fundamentals-remain-strong/",
-      "date": "2026-08-05",
-      "category": "Payments",
-      "tags": [
-        "the global",
-        "fintech landscape",
-        "why"
       ]
     }
   ]
