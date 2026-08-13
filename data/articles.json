@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-08-12T20:01:54Z",
+  "last_updated": "2026-08-13T08:24:27Z",
   "insights": {
     "risks": [
       "Regulatory: From chatbots to payment agents: AI’s next role in SEA commerce — review compliance obligations.",
       "Trading risk: AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals’ Yianni Gamvros — assess algorithmic exposure.",
-      "Operational: HSBC invests in AI modelling firm — evaluate model governance gaps."
+      "Operational: From KYC to KYA: how AI agents are reshaping payment risk — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: 70% of Brazilians Expect to Shop With AI Agents by 2028 — potential infrastructure advantage.",
-      "Banking efficiency: HSBC invests in AI modelling firm — cost reduction opportunity."
+      "Banking efficiency: From KYC to KYA: how AI agents are reshaping payment risk — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -42,6 +42,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "607639743",
+      "title": "From KYC to KYA: how AI agents are reshaping payment risk",
+      "summary": "The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negoti…",
+      "source": "e27",
+      "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
+      "date": "2026-08-13",
+      "category": "Banking",
+      "tags": [
+        "from kyc",
+        "kya",
+        "ai"
+      ]
+    },
+    {
+      "id": "750505816",
+      "title": "Wall Street giants bet Nvidia’s AI chips will defy the laws of finance",
+      "summary": "Private capital firms are wagering that the crucial hardware will hold its value for years to come",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "nvidia",
+        "ai"
+      ]
+    },
+    {
+      "id": "822147315",
+      "title": "Will We Still Need Origination Forms in the AI Era?",
+      "summary": "A small business owner in Ohio applies for a working capital loan during her lunch break and never o...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32533/will-we-still-need-origination-forms-in-the-ai-era?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-12",
+      "category": "Banking",
+      "tags": [
+        "will we",
+        "still need",
+        "origination forms"
+      ]
+    },
     {
       "id": "115400216",
       "title": "HSBC invests in AI modelling firm",
@@ -836,48 +878,6 @@
         "abound",
         "one",
         "ai"
-      ]
-    },
-    {
-      "id": "185185255",
-      "title": "Item-Level Data Gives AI Agents Smarter Buying Power",
-      "summary": "The agentic enterprise will be built through deliberate decisions about where to trust agents, FIS Head of Product Management, Payment Networks Mladen Vladic writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” As artificial intelligence evolves from copi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/opinion/2026/item-level-data-gives-ai-agents-smarter-buying-power/",
-      "date": "2026-08-06",
-      "category": "Payments",
-      "tags": [
-        "item",
-        "level data",
-        "gives ai"
-      ]
-    },
-    {
-      "id": "473855305",
-      "title": "Singapore firms embrace agentic AI, but audit trails remain thin",
-      "summary": "Singapore companies are moving quickly from experimenting with artificial intelligence to letting it perform multi-step tasks with limited human intervention. But a new study by Sumsub and the Singapore Fintech Association suggests many businesses still cannot answer a basic ques…",
-      "source": "e27",
-      "url": "https://e27.co/singapore-firms-embrace-agentic-ai-but-audit-trails-remain-thin-20260806/",
-      "date": "2026-08-06",
-      "category": "Payments",
-      "tags": [
-        "singapore",
-        "ai",
-        "but"
-      ]
-    },
-    {
-      "id": "776055183",
-      "title": "Razer and NUS launch Singapore AI lab to rethink how games respond to players",
-      "summary": "For years, artificial intelligence in games has mostly meant enemies that chase, dodge or shoot with varying degrees of believability. Razer and the National University of Singapore now want to push that idea into more demanding territory: AI systems that understand context, adap…",
-      "source": "e27",
-      "url": "https://e27.co/razer-and-nus-launch-singapore-ai-lab-to-rethink-how-games-respond-to-players-20260806/",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "razer",
-        "nus",
-        "singapore ai"
       ]
     }
   ]
