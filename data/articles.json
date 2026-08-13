@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-08-13T08:24:27Z",
+  "last_updated": "2026-08-13T19:57:07Z",
   "insights": {
     "risks": [
-      "Regulatory: From chatbots to payment agents: AI’s next role in SEA commerce — review compliance obligations.",
       "Trading risk: AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals’ Yianni Gamvros — assess algorithmic exposure.",
-      "Operational: From KYC to KYA: how AI agents are reshaping payment risk — evaluate model governance gaps."
+      "Operational: AI has opened up big holes in cyber security — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: 70% of Brazilians Expect to Shop With AI Agents by 2028 — potential infrastructure advantage.",
-      "Banking efficiency: From KYC to KYA: how AI agents are reshaping payment risk — cost reduction opportunity."
+      "Payments: AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq’s Maximilian Groth — potential infrastructure advantage.",
+      "Banking efficiency: AI has opened up big holes in cyber security — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -35,13 +34,50 @@
     {
       "topic": "Payments AI",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "672574201",
+      "title": "AI has opened up big holes in cyber security",
+      "summary": "It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently needed",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
+      "date": "2026-08-13",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "it"
+      ]
+    },
+    {
+      "id": "720366510",
+      "title": "AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq’s Maximilian Groth",
+      "summary": "Decentriq CEO Maximilian Groth says AI success in finance depends less on the technology and more on governance, accountability and clear decision ownership. The post AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq s Maximilian Groth appeared fir…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-readiness-is-an-organisational-problem-not-a-technology-one-argues-decentriqs-maximilian-groth/",
+      "date": "2026-08-13",
+      "category": "Payments",
+      "tags": [
+        "ai readiness",
+        "organisational problem",
+        "technology one"
+      ]
+    },
+    {
+      "id": "527308426",
+      "title": "Why Singapore’s AI finance race is now about data, not models",
+      "summary": "For many finance chiefs, the first wave of AI was about testing tools: automating reports, speeding up reconciliation, or asking software to spot anomalies in spreadsheets. In Singapore, that phase is quickly giving way to a more difficult question: how to make AI work across the…",
+      "source": "e27",
+      "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/",
+      "date": "2026-08-13",
+      "category": "Banking",
+      "tags": [
+        "why singapore",
+        "ai",
+        "in singapore"
+      ]
+    },
     {
       "id": "607639743",
       "title": "From KYC to KYA: how AI agents are reshaping payment risk",
@@ -836,48 +872,6 @@
         "abn amro",
         "ai",
         "mistral ai"
-      ]
-    },
-    {
-      "id": "127976288",
-      "title": "Belize Bank selects Backbase to modernize digital banking",
-      "summary": "Belize Bank Limited (BBL) and Backbase announce a landmark six-year partnership to implement the AI-Native Banking OS. This collaboration marks the start of the most significant digital banking transformation in Belize's history, designed to bring a fully modernized, future-proof…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110591/belize-bank-selects-backbase-to-modernize-digital-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "belize bank",
-        "backbase",
-        "limited"
-      ]
-    },
-    {
-      "id": "844613644",
-      "title": "Tavant integrates Touchless AI mortgage automation with Dark Matter's Empower LOS",
-      "summary": "Tavant, a leading platform-powered AI transformation specialist, today announced the integration of its TOUCHLESS AI Mortgage Automation platform with the Empower loan origination solution (LOS) from Dark Matter Technologies (Dark Matter), an innovative leader in mortgage technol…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110588/tavant-integrates-touchless-ai-mortgage-automation-with-dark-matters-empower-los?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "tavant",
-        "touchless ai",
-        "dark matter"
-      ]
-    },
-    {
-      "id": "768716892",
-      "title": "Abound partners with D•One to offer fairer credit to more people using open banking",
-      "summary": "Abound, the open banking- and AI-powered lender, has partnered with the ClearScore Group's open banking services business, D•One, to help more people access fairer and more affordable credit.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110585/abound-partners-with-done-to-offer-fairer-credit-to-more-people-using-open-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "abound",
-        "one",
-        "ai"
       ]
     }
   ]
