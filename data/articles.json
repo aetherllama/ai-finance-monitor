@@ -1,26 +1,30 @@
 {
-  "last_updated": "2026-08-13T19:57:07Z",
+  "last_updated": "2026-08-14T08:19:25Z",
   "insights": {
     "risks": [
-      "Trading risk: AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals’ Yianni Gamvros — assess algorithmic exposure.",
-      "Operational: AI has opened up big holes in cyber security — evaluate model governance gaps."
+      "Trading risk: SoFi Teaches Its AI Coach to Read the Financial Room — assess algorithmic exposure.",
+      "Operational: Nearly 4 in 10 CFOs See Gen AI Paying Off Within Two Years — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq’s Maximilian Groth — potential infrastructure advantage.",
-      "Banking efficiency: AI has opened up big holes in cyber security — cost reduction opportunity."
+      "Banking efficiency: Nearly 4 in 10 CFOs See Gen AI Paying Off Within Two Years — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
-    },
-    {
-      "topic": "Automation",
-      "count": 3
+      "count": 14
     },
     {
       "topic": "Generative AI",
+      "count": 4
+    },
+    {
+      "topic": "Automation",
+      "count": 4
+    },
+    {
+      "topic": "Payments AI",
       "count": 2
     },
     {
@@ -30,13 +34,107 @@
     {
       "topic": "Customer Service AI",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "265697056",
+      "title": "SoFi Teaches Its AI Coach to Read the Financial Room",
+      "summary": "Watch more: Digital Shift With SoFi’s Brian Walsh Digital transformation in financial services has traditionally hung its hat on the promise of democratization and accessibility. Software could reach consumers who lacked enough assets to attract a traditional adviser, delivering …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sofi-teaches-its-ai-coach-to-read-the-financial-room/",
+      "date": "2026-08-14",
+      "category": "Trading",
+      "tags": [
+        "sofi teaches",
+        "its ai",
+        "coach"
+      ]
+    },
+    {
+      "id": "773504293",
+      "title": "Nearly 4 in 10 CFOs See Gen AI Paying Off Within Two Years",
+      "summary": "CFOs have stopped treating generative artificial intelligence returns as one date circled on the calendar. By December, 39.1% expected very positive returns within one to two years, even as 26.1% expected the payoff to take six years or longer. That split is the clearest sign tha…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nearly-4-in-10-cfos-see-gen-ai-paying-off-within-two-years/",
+      "date": "2026-08-14",
+      "category": "Banking",
+      "tags": [
+        "nearly",
+        "cfos see",
+        "gen ai"
+      ]
+    },
+    {
+      "id": "408875",
+      "title": "Before AI Runs the Bank, It Can Replace the Card",
+      "summary": "Success with agentic AI will depend on how well banks redesign their operational foundations, Thales Head of AI-Driven Operations Platform Amélie Tournant Fourel writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” As artificial intelligence shifts from c…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/opinion/2026/before-ai-runs-the-bank-it-can-replace-the-card/",
+      "date": "2026-08-14",
+      "category": "Banking",
+      "tags": [
+        "before ai",
+        "runs",
+        "bank"
+      ]
+    },
+    {
+      "id": "141701874",
+      "title": "Ecosystem Roundup: Why “Know Your Agent” will matter as much as KYC in payments",
+      "summary": "As AI agents start searching for suppliers, negotiating terms, and initiating payments on a company s behalf, the old assumption that a human approves every transaction is breaking down. A new report from Sunrate and Mastercard, Beyond Automation: Defining Agentic Global Payments…",
+      "source": "e27",
+      "url": "https://e27.co/ecosystem-roundup-why-know-your-agent-will-matter-as-much-as-kyc-in-payments-20260814/",
+      "date": "2026-08-14",
+      "category": "Banking",
+      "tags": [
+        "ecosystem roundup",
+        "why",
+        "know your"
+      ]
+    },
+    {
+      "id": "733798877",
+      "title": "Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure",
+      "summary": "In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. The real ROI lies in t…",
+      "source": "e27",
+      "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
+      "date": "2026-08-14",
+      "category": "Banking",
+      "tags": [
+        "moving",
+        "ai",
+        "mcp"
+      ]
+    },
+    {
+      "id": "643424121",
+      "title": "New Zealand’s Sterling lands funding to run finance on autopilot",
+      "summary": "Sterling, the New Zealand AI startup building an autopilot for finance teams, has raised $3.8 million (NZD) in a round led by trans-Tasman venture capital firm Blackbird.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110645/new-zealands-sterling-lands-funding-to-run-finance-on-autopilot?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-13",
+      "category": "Banking",
+      "tags": [
+        "new zealand",
+        "sterling",
+        "ai"
+      ]
+    },
+    {
+      "id": "444139658",
+      "title": "The GenAI Productivity Mirage: Redefining Software Metrics for Financial Services",
+      "summary": "As Generative AI accelerates code production across the financial services sector, traditional softw...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32540/the-genai-productivity-mirage-redefining-software-metrics-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-13",
+      "category": "Banking",
+      "tags": [
+        "the genai",
+        "productivity mirage",
+        "redefining software"
+      ]
+    },
     {
       "id": "672574201",
       "title": "AI has opened up big holes in cyber security",
@@ -775,103 +873,6 @@
         "ai",
         "southeast asian",
         "singapore"
-      ]
-    },
-    {
-      "id": "241573185",
-      "title": "Securing Agentic AI for Singapore enterprises: A reference architecture",
-      "summary": "The Generative AI revolution is here, but for many enterprises in Singapore and Southeast Asia, adoption has hit a hard wall. The barrier isn t a lack of use cases; it is Data Security and Hallucination Control. When dealing with highly sensitive domains (like Healthcare, Insuran…",
-      "source": "e27",
-      "url": "https://e27.co/securing-agentic-ai-for-singapore-enterprises-a-reference-architecture-20260806/",
-      "date": "2026-08-07",
-      "category": "Banking",
-      "tags": [
-        "securing agentic",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "478478519",
-      "title": "Southeast Asia’s AI talent and infrastructure: Building the foundation for regional tech leadership",
-      "summary": "Southeast Asia sits at an inflection point. The region commands 10 per cent of global GDP, controls critical supply chains, and possesses over 500 million people, a workforce larger than the European Union. Governments from Singapore to Japan have committed tens of billions to AI…",
-      "source": "e27",
-      "url": "https://e27.co/southeast-asias-ai-talent-and-infrastructure-building-the-foundation-for-regional-tech-leadership-20260806/",
-      "date": "2026-08-07",
-      "category": "Banking",
-      "tags": [
-        "southeast asia",
-        "ai",
-        "building"
-      ]
-    },
-    {
-      "id": "587311992",
-      "title": "Ex-Nubank CTO raises $85m for AI-native wealth advisory platform",
-      "summary": "A former Nubank CTO and the founder of artificial intelligence platform Hyperplane have raised $85 million for their new AI-native wealth advisory company.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48205/ex-nubank-cto-raises-85m-for-ai-native-wealth-advisory-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "ex",
-        "nubank cto",
-        "ai"
-      ]
-    },
-    {
-      "id": "902653254",
-      "title": "BestEx Research introduces AI-native interface for institutional trading analytics",
-      "summary": "BestEx Research Group LLC, an independent provider of execution algorithms, trading technology, and trade analytics for global equities and futures, today announced the launch of Pulse AI, the world's first AI-native interface for institutional trading analytics.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110597/bestex-research-introduces-ai-native-interface-for-institutional-trading-analytics?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Trading",
-      "tags": [
-        "bestex research",
-        "ai",
-        "group llc"
-      ]
-    },
-    {
-      "id": "421698620",
-      "title": "Banco Sabadell puts AI at the centre of business overhaul",
-      "summary": "Banco Sabadell has announced a new organisational structure aimed at accelerating the bank’s transformation, simplifying its organisation and strengthening its relationship banking model, the strategic cornerstone underpinning the bank’s future growth.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110595/banco-sabadell-puts-ai-at-the-centre-of-business-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "banco sabadell",
-        "ai"
-      ]
-    },
-    {
-      "id": "70885347",
-      "title": "Scotiabank equips employees with AI-powered knowledge agents through Scotia Intelligence",
-      "summary": "Scotiabank today announced the expansion of its enterprise AI resources with the introduction of new knowledge agents available through Scotia Intelligence, the Bank's unified approach to data and AI.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110594/scotiabank-equips-employees-with-ai-powered-knowledge-agents-through-scotia-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "scotiabank",
-        "ai",
-        "scotia intelligence"
-      ]
-    },
-    {
-      "id": "932470983",
-      "title": "ABN Amro signs frontier AI deal with Mistral AI",
-      "summary": "ABN Amro has signed a deal with French startup Mistral AI to explore and develop frontier artificial intelligence models for the Dutch banking group.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48203/abn-amro-signs-frontier-ai-deal-with-mistral-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-06",
-      "category": "Banking",
-      "tags": [
-        "abn amro",
-        "ai",
-        "mistral ai"
       ]
     }
   ]
