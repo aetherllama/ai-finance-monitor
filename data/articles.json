@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-14T08:19:25Z",
+  "last_updated": "2026-08-14T19:49:55Z",
   "insights": {
     "risks": [
       "Trading risk: SoFi Teaches Its AI Coach to Read the Financial Room — assess algorithmic exposure.",
-      "Operational: Nearly 4 in 10 CFOs See Gen AI Paying Off Within Two Years — evaluate model governance gaps."
+      "Operational: Nvidia partners with Wall Street mobilise funds for AI infrastructure, Goldman Sachs leads financing — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq’s Maximilian Groth — potential infrastructure advantage.",
-      "Banking efficiency: Nearly 4 in 10 CFOs See Gen AI Paying Off Within Two Years — cost reduction opportunity."
+      "Banking efficiency: Nvidia partners with Wall Street mobilise funds for AI infrastructure, Goldman Sachs leads financing — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 13
     },
     {
       "topic": "Generative AI",
@@ -32,11 +32,43 @@
       "count": 2
     },
     {
+      "topic": "Risk Management",
+      "count": 1
+    },
+    {
       "topic": "Customer Service AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "480698829",
+      "title": "Nvidia partners with Wall Street mobilise funds for AI infrastructure, Goldman Sachs leads financing",
+      "summary": "Goldman Sachs is in talks with investors on financing Nvidia’s deal with leading asset managers to build AI infrastructure.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48249/nvidia-partners-with-wall-street-mobilise-funds-for-ai-infrastructure-goldman-sachs-leads-financing?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-14",
+      "category": "Banking",
+      "tags": [
+        "nvidia",
+        "wall street",
+        "ai"
+      ]
+    },
+    {
+      "id": "963460252",
+      "title": "Insurance Regulators Get Schooled on AI Governance",
+      "summary": "Insurance regulators are moving artificial intelligence governance from the policy manual into the examination file. On Thursday (Aug. 13) at its Summer National Meeting, the National Association of Insurance Commissioners provided an update on its AI Risk Evaluation Supplement, …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/insurance/2026/insurance-regulators-get-schooled-ai-governance/",
+      "date": "2026-08-14",
+      "category": "Banking",
+      "tags": [
+        "insurance regulators",
+        "get schooled",
+        "ai governance"
+      ]
+    },
     {
       "id": "265697056",
       "title": "SoFi Teaches Its AI Coach to Read the Financial Room",
@@ -845,34 +877,6 @@
         "splitit ceo",
         "says card",
         "linked payments"
-      ]
-    },
-    {
-      "id": "569032999",
-      "title": "Financial Firms Put AI to Work Across 27 Tasks, Study Finds",
-      "summary": "Financial services firms are finding their strongest artificial intelligence results in the parts of the business customers rarely see. The May installment of “The Enterprise AI Benchmark Report” from PYMNTS Intelligence found that banks, insurers and other financial companies ha…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/financial-firms-put-ai-to-work-across-27-tasks-study-finds/",
-      "date": "2026-08-07",
-      "category": "Banking",
-      "tags": [
-        "financial firms",
-        "put ai",
-        "work across"
-      ]
-    },
-    {
-      "id": "23458467",
-      "title": "AI agents could help Southeast Asian firms untangle cross-border payment costs",
-      "summary": "For many Southeast Asian companies, selling across borders has become easier than getting paid across them. A merchant in Singapore can source from Vietnam, sell to customers in Indonesia, pay a logistics partner in Thailand, and settle invoices with a platform in the US. The com…",
-      "source": "e27",
-      "url": "https://e27.co/ai-agents-could-help-southeast-asian-firms-untangle-cross-border-payment-costs-20260807/",
-      "date": "2026-08-07",
-      "category": "Payments",
-      "tags": [
-        "ai",
-        "southeast asian",
-        "singapore"
       ]
     }
   ]
