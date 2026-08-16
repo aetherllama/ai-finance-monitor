@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-15T19:24:30Z",
+  "last_updated": "2026-08-16T07:34:34Z",
   "insights": {
     "risks": [
       "Trading risk: SoFi Teaches Its AI Coach to Read the Financial Room — assess algorithmic exposure.",
-      "Operational: Goldman Sachs Mobilizes Investors for Nvidia’s $500 Billion AI Infrastructure Push — evaluate model governance gaps."
+      "Operational: Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq’s Maximilian Groth — potential infrastructure advantage.",
-      "Banking efficiency: Goldman Sachs Mobilizes Investors for Nvidia’s $500 Billion AI Infrastructure Push — cost reduction opportunity."
+      "Banking efficiency: Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -41,6 +41,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "133129317",
+      "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
+      "summary": "Close relations with both US and China mean the latest AI models are easily accessible in the city-state",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
+      "date": "2026-08-16",
+      "category": "Banking",
+      "tags": [
+        "singapore inc",
+        "ai",
+        "hong kong"
+      ]
+    },
     {
       "id": "536931545",
       "title": "Goldman Sachs Mobilizes Investors for Nvidia’s $500 Billion AI Infrastructure Push",
@@ -863,20 +877,6 @@
         "acrab",
         "us",
         "sea"
-      ]
-    },
-    {
-      "id": "319203952",
-      "title": "Enova CEO Says Better Data, Not AI Hype, Will Decide Who Gets Credit",
-      "summary": "Watch more: Need to Know With Enova’s Steve Cunningham Enova doesn’t want its customer relationships to end when the loan is repaid. That’s the larger ambition behind the lender’s pending acquisition of Grasshopper Bank, Enova CEO Steve Cunningham told PYMNTS CEO Karen Webster. W…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/consumer-finance/2026/enova-ceo-says-better-data-not-ai-hype-will-decide-who-gets-credit/",
-      "date": "2026-08-07",
-      "category": "Banking",
-      "tags": [
-        "enova ceo",
-        "says better",
-        "data"
       ]
     }
   ]
