@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-08-16T19:23:38Z",
+  "last_updated": "2026-08-17T07:55:07Z",
   "insights": {
     "risks": [
       "Trading risk: SoFi Teaches Its AI Coach to Read the Financial Room — assess algorithmic exposure.",
-      "Operational: Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong — evaluate model governance gaps."
+      "Operational: AI demand lifts Malaysia’s chip sector, but not every player wins — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq’s Maximilian Groth — potential infrastructure advantage.",
-      "Banking efficiency: Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong — cost reduction opportunity."
+      "Payments: Why Predictive Finance Is the Future of Wealth Management — potential infrastructure advantage.",
+      "Banking efficiency: AI demand lifts Malaysia’s chip sector, but not every player wins — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Generative AI",
@@ -32,6 +32,10 @@
       "count": 2
     },
     {
+      "topic": "Predictive Analytics",
+      "count": 1
+    },
+    {
       "topic": "Risk Management",
       "count": 1
     },
@@ -41,6 +45,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "773646103",
+      "title": "Why Predictive Finance Is the Future of Wealth Management",
+      "summary": "Vault22 co-founder and CEO Benito Mable argues the next era of wealth management will be won by AI that helps people make better everyday decisions. The post Why Predictive Finance Is the Future of Wealth Management appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/why-predictive-finance-is-the-future-of-wealth-management/",
+      "date": "2026-08-17",
+      "category": "Payments",
+      "tags": [
+        "why predictive",
+        "finance is",
+        "future"
+      ]
+    },
+    {
+      "id": "820388720",
+      "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
+      "summary": "Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the re…",
+      "source": "e27",
+      "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
+      "date": "2026-08-17",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "malaysia",
+        "southeast asia"
+      ]
+    },
     {
       "id": "133129317",
       "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
@@ -849,34 +881,6 @@
         "how",
         "ai",
         "analysts"
-      ]
-    },
-    {
-      "id": "767897408",
-      "title": "Airbnb Says AI Is Driving Faster Growth, Higher Bookings and Better Margins",
-      "summary": "Airbnb’s push to reinvent itself as an AI-first travel platform is beginning to show up in its financial results, executives said on a Q2 earnings call. The travel platform beat its own expectations on revenue, bookings and profitability while raising its full-year outlook, CEO B…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/airbnb-says-ai-is-driving-faster-growth-higher-bookings-and-better-margins/",
-      "date": "2026-08-07",
-      "category": "Banking",
-      "tags": [
-        "airbnb says",
-        "ai is",
-        "driving faster"
-      ]
-    },
-    {
-      "id": "40738877",
-      "title": "Acrab’s US$130M raise signals SEA’s deeper push into AI hardware",
-      "summary": "Acrab, a Singapore-headquartered technology company building agentic AI compute infrastructure, has raised US$130 million in a Series B round, as investor interest continues to shift from AI applications to the hardware and systems needed to run them. The round was led by existin…",
-      "source": "e27",
-      "url": "https://e27.co/acrabs-us130m-raise-signals-seas-deeper-push-into-ai-hardware-20260807/",
-      "date": "2026-08-07",
-      "category": "Banking",
-      "tags": [
-        "acrab",
-        "us",
-        "sea"
       ]
     }
   ]
