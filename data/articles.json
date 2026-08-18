@@ -1,32 +1,31 @@
 {
-  "last_updated": "2026-08-18T07:41:30Z",
+  "last_updated": "2026-08-18T19:30:45Z",
   "insights": {
     "risks": [
       "Regulatory: Datavault AI Plans $94.5 Million CyberCatch Buy to Shield Organizations Against AI Attacks — review compliance obligations.",
-      "Trading risk: SoFi Teaches Its AI Coach to Read the Financial Room — assess algorithmic exposure.",
-      "Operational: Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge — evaluate model governance gaps."
+      "Operational: Personetics partners Plaid to bring open finance intel to FIs — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Why Predictive Finance Is the Future of Wealth Management — potential infrastructure advantage.",
-      "Banking efficiency: Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge — cost reduction opportunity."
+      "Payments: India's Razorpay launches AI payments foundation model with AWS — potential infrastructure advantage.",
+      "Banking efficiency: Personetics partners Plaid to bring open finance intel to FIs — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
+    },
+    {
+      "topic": "Automation",
+      "count": 6
     },
     {
       "topic": "Generative AI",
       "count": 4
     },
     {
-      "topic": "Automation",
-      "count": 4
-    },
-    {
       "topic": "Payments AI",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Machine Learning",
@@ -46,6 +45,104 @@
     }
   ],
   "articles": [
+    {
+      "id": "90101349",
+      "title": "Personetics partners Plaid to bring open finance intel to FIs",
+      "summary": "Personetics, the AI Cognitive Banking Platform, today announced a partnership with Plaid, the data network powering the digital financial ecosystem.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110672/personetics-partners-plaid-to-bring-open-finance-intel-to-fis?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-18",
+      "category": "Banking",
+      "tags": [
+        "personetics",
+        "plaid",
+        "fis personetics"
+      ]
+    },
+    {
+      "id": "652733411",
+      "title": "India's Razorpay launches AI payments foundation model with AWS",
+      "summary": "India’s digital payments story has been one of growth and innovation - yet a quieter gap remains: a payment that doesn't go through, an OTP that arrives late, a subscription that silently lapses, a card compromised by fraud.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110671/indias-razorpay-launches-ai-payments-foundation-model-with-aws?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-18",
+      "category": "Payments",
+      "tags": [
+        "india",
+        "razorpay",
+        "ai"
+      ]
+    },
+    {
+      "id": "396837272",
+      "title": "Financial data startup Quatr raises $18 million",
+      "summary": "Quartr, the world's leading first-party data layer for institutional finance and AI, today announced it has closed a $18 million funding round, led by existing investor Altos Ventures with participation from new investor SEB (publ.)",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110666/financial-data-startup-quatr-raises-18-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-18",
+      "category": "Banking",
+      "tags": [
+        "financial",
+        "quatr",
+        "quartr"
+      ]
+    },
+    {
+      "id": "117460543",
+      "title": "Confluence adds AI-enabled automation to its product suite",
+      "summary": "Confluence Technologies, Inc. (“Confluence”), a global leader in regulatory, analytics, and investor communications solutions for the investment management industry, today announced the launch of Confluence POINT, AI-enabled automation that optimizes workflows across its solution…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110665/confluence-adds-ai-enabled-automation-to-its-product-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-18",
+      "category": "Banking",
+      "tags": [
+        "confluence",
+        "ai",
+        "confluence technologies"
+      ]
+    },
+    {
+      "id": "536623038",
+      "title": "Misconception or Magic: What to Know About the Modern Wealth Management World",
+      "summary": "At the Communify Intelligence Experience, Rupert Baron, co-founder, TechnoWealth, returns to Finextra TV to unpack how the definition of wealth keeps moving and what that means for the industry. Baron argues the FCA's softening of the rules is nudging wealth management toward gre…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3581/misconception-or-magic-what-to-know-about-the-modern-wealth-management-world?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-18",
+      "category": "Banking",
+      "tags": [
+        "misconception",
+        "magic",
+        "what"
+      ]
+    },
+    {
+      "id": "579063225",
+      "title": "Industrialized: Why Financial Firms Need Trustworthy AI Assistants Before Automation Scales Further",
+      "summary": "The global market for AI in banking is projected to surge to $45.6 billion by the end of 2026. As ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32568/industrialized-why-financial-firms-need-trustworthy-ai-assistants-before-automation-scales-further?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-18",
+      "category": "Banking",
+      "tags": [
+        "industrialized",
+        "why financial",
+        "firms need"
+      ]
+    },
+    {
+      "id": "472218792",
+      "title": "Money20/20 Middle East Returns to Riyadh as Global Fintech Elite Converge on the Kingdom",
+      "summary": "Money20/20 Middle East 2026 returns to Riyadh from 14–16 September, bringing global fintech leaders together to explore AI, payments, digital assets and the future of finance. The post Money20/20 Middle East Returns to Riyadh as Global Fintech Elite Converge on the Kingdom appear…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/money20-20-middle-east-returns-to-riyadh-as-global-fintech-elite-converge-on-the-kingdom/",
+      "date": "2026-08-18",
+      "category": "Payments",
+      "tags": [
+        "middle east",
+        "returns",
+        "riyadh"
+      ]
+    },
     {
       "id": "659186316",
       "title": "Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge",
@@ -784,104 +881,6 @@
         "true potential",
         "origo",
         "leading uk"
-      ]
-    },
-    {
-      "id": "452552735",
-      "title": "The Top Five AI Trends Reshaping Banking in 2026",
-      "summary": "Artificial intelligence is rapidly moving beyond experimentation in banking. What began as isolated ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32503/the-top-five-ai-trends-reshaping-banking-in-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "the top",
-        "five ai",
-        "trends reshaping"
-      ]
-    },
-    {
-      "id": "565875444",
-      "title": "AI-Powered Fraud Investigation: From Alert Overload to Actionable Evidence",
-      "summary": "Artificial intelligence is reshaping how investigators identify schemes, connect evidence, and prior...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32501/ai-powered-fraud-investigation-from-alert-overload-to-actionable-evidence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "powered fraud",
-        "investigation"
-      ]
-    },
-    {
-      "id": "514305767",
-      "title": "AI Helped British Airways Reach Its Best On-Time Performance",
-      "summary": "British Airways spent years struggling with delays and cancellations at its Heathrow hub, and the airline now says artificial intelligence is why that has changed. CEO Sean Doyle called the technology “game-changing” for cutting flight delays, telling the Financial Times that 86%…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-helped-british-airways-reach-its-best-on-time-performance/",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "ai helped",
-        "british airways",
-        "reach its"
-      ]
-    },
-    {
-      "id": "277749730",
-      "title": "OpenAI Picks Up AI Presentation Creator NextSlide",
-      "summary": "OpenAI has acquired NextSlide, a startup that uses artificial intelligence to help workers develop presentations. The deal happened earlier this year but was announced Friday (Aug. 7) by Ahmed Beshry, NextSlide’s founder, on his LinkedIn page. NextSlide’s website also includes a …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-picks-up-ai-presentation-creator-nextslide/",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "openai picks",
-        "up ai",
-        "presentation creator"
-      ]
-    },
-    {
-      "id": "904738324",
-      "title": "Deep Dive: Engineering the Agentic Control Orchestration in Banking",
-      "summary": "Banks often fail to derive meaningful value from AI because they tend to layer sophisticated automa...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32470/deep-dive-engineering-the-agentic-control-orchestration-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-09",
-      "category": "Banking",
-      "tags": [
-        "deep dive",
-        "engineering",
-        "agentic control"
-      ]
-    },
-    {
-      "id": "820340850",
-      "title": "The bank behind China’s AI listings bonanza",
-      "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
-      "date": "2026-08-09",
-      "category": "Banking",
-      "tags": [
-        "china",
-        "ai",
-        "cicc"
-      ]
-    },
-    {
-      "id": "416663176",
-      "title": "N3XT Launches MCP to Link AI Agents with Live Banking Data",
-      "summary": "The blockchain-based B2B payments bank said its Model Context Protocol gives corporate AI environments governed read/write access to live banking data.",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/n3xt-launches-mcp-to-link-ai-agents-with-live-banking-data/",
-      "date": "2026-08-08",
-      "category": "Banking",
-      "tags": [
-        "launches mcp",
-        "link ai",
-        "agents"
       ]
     }
   ]
