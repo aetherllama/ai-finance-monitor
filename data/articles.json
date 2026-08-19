@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-19T07:42:15Z",
+  "last_updated": "2026-08-19T19:29:42Z",
   "insights": {
     "risks": [
-      "Regulatory: Datavault AI Plans $94.5 Million CyberCatch Buy to Shield Organizations Against AI Attacks — review compliance obligations.",
-      "Operational: Southeast Asia is counting what it automated, it is not counting what came back — evaluate model governance gaps."
+      "Operational: SAP Concur unveils AI assistant for travel and expense sector — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: India's Razorpay launches AI payments foundation model with AWS — potential infrastructure advantage.",
-      "Banking efficiency: Southeast Asia is counting what it automated, it is not counting what came back — cost reduction opportunity."
+      "Payments: The $1.5Trillion Benchmark: Custom Fintech Software Development Key Module Security and Cost Factors — potential infrastructure advantage.",
+      "Banking efficiency: SAP Concur unveils AI assistant for travel and expense sector — cost reduction opportunity.",
+      "InsurTech: A year after losing $1.46 billion, Bybit says AI helped it save $700 million — underwriting modernisation potential."
     ]
   },
   "trending": [
@@ -21,14 +21,14 @@
     },
     {
       "topic": "Generative AI",
-      "count": 4
-    },
-    {
-      "topic": "Payments AI",
       "count": 3
     },
     {
-      "topic": "Machine Learning",
+      "topic": "Customer Service AI",
+      "count": 2
+    },
+    {
+      "topic": "Payments AI",
       "count": 2
     },
     {
@@ -38,13 +38,79 @@
     {
       "topic": "Risk Management",
       "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "739808612",
+      "title": "SAP Concur unveils AI assistant for travel and expense sector",
+      "summary": "At the Global Business Travel Association (GBTA) Convention 2026, SAP Concur launched its latest expansion of AI-powered capabilities across the travel and expense (T&E) ecosystem, designed to help travel managers, finance teams, delegates, and travellers achieve more with less e…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110679/sap-concur-unveils-ai-assistant-for-travel-and-expense-sector?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-19",
+      "category": "Banking",
+      "tags": [
+        "sap concur",
+        "ai",
+        "global business"
+      ]
+    },
+    {
+      "id": "461718929",
+      "title": "The $1.5Trillion Benchmark: Custom Fintech Software Development Key Module Security and Cost Factors",
+      "summary": "By the end of 2026, the global market for artificial intelligence in banking is expected to reach",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32584/the-15trillion-benchmark-custom-fintech-software-development-key-module-security-and-cost-factors?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-19",
+      "category": "Payments",
+      "tags": [
+        "benchmark",
+        "custom fintech",
+        "software development"
+      ]
+    },
+    {
+      "id": "984112439",
+      "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
+      "summary": "The exchange that lost $1.46 billion to North Korean hackers is the first large centralized firm to put numbers on a claim bitcoin developers have been making all month.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
+      "date": "2026-08-19",
+      "category": "InsurTech",
+      "tags": [
+        "bybit",
+        "ai",
+        "north korean"
+      ]
+    },
+    {
+      "id": "187364907",
+      "title": "The Finance Stack’s Great Unbundling Has CFOs Asking What They Need to Own",
+      "summary": "The bigger the company, the more sprawling its back office tends to be. Enterprise resource planning (ERP) systems are supplemented by treasury management software, accounts-payable and receivables platforms, fraud tools, bank-connectivity layers, payment orchestration, foreign-e…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/b2b-payments/2026/the-finance-stacks-great-unbundling-has-cfos-asking-what-they-need-to-own/",
+      "date": "2026-08-19",
+      "category": "Banking",
+      "tags": [
+        "the finance",
+        "stack",
+        "great unbundling"
+      ]
+    },
+    {
+      "id": "71650769",
+      "title": "Datavault Pushes Into Banking Realm With BankWyse Acquisition",
+      "summary": "Data monetization and real-world asset tokenization company Datavault AI is set to acquire Wyoming financial institution BankWyse. “This acquisition adds the final piece to Datavault AI’s data monetization ecosystem,” the company said in a news release Wednesday (Aug. 19). “BankW…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/datavault-pushes-into-banking-realm-with-bankwyse-acquisition/",
+      "date": "2026-08-19",
+      "category": "Banking",
+      "tags": [
+        "datavault pushes",
+        "into banking",
+        "realm with"
+      ]
+    },
     {
       "id": "323245998",
       "title": "Southeast Asia is counting what it automated, it is not counting what came back",
@@ -812,75 +878,6 @@
         "credit unions",
         "give ai",
         "legwork"
-      ]
-    },
-    {
-      "id": "282202050",
-      "title": "The next AI payments boom may happen in the back office",
-      "summary": "For the past two years, the loudest conversation in technology has centred on consumer-facing generative AI: chatbots that write emails, image tools that make campaign visuals, copilots that summarise meetings. But a quieter and potentially larger shift is taking shape away from …",
-      "source": "e27",
-      "url": "https://e27.co/the-next-ai-payments-boom-may-happen-in-the-back-office-20260811/",
-      "date": "2026-08-11",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "but"
-      ]
-    },
-    {
-      "id": "546213397",
-      "title": "Why Explainable AI Matters for the Future of UK Financial Services",
-      "summary": "Across the UK, financial institutions are using machine learning models to make decisions that affec...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32510/why-explainable-ai-matters-for-the-future-of-uk-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "why explainable",
-        "ai matters",
-        "future"
-      ]
-    },
-    {
-      "id": "415578006",
-      "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
-      "summary": "Apollo, Blackstone and Goldman Sachs are among groups working with chipmaker to raise capital for data centre boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/98a8fd17-15b6-4f67-9cb4-825722b11348?syn-25a6b1a6=1",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "nvidia",
-        "ai"
-      ]
-    },
-    {
-      "id": "987184034",
-      "title": "Edge integrates with Socure to catch AI-driven fraud faster",
-      "summary": "EDGE, the cashflow bureau helping lenders turn bank transaction data into explainable, machine learning-developed scores and attributes for lending and rental screening, today announced a partnership with Socure, the leading AI-native trust infrastructure powering identity intell…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110606/edge-integrates-with-socure-to-catch-ai-driven-fraud-faster?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "edge",
-        "socure",
-        "ai"
-      ]
-    },
-    {
-      "id": "684414988",
-      "title": "Accountable AI Governance in Financial Institutions: Building a Comprehensive Dashboard Framework",
-      "summary": "As artificial intelligence (AI) becomes deeply embedded in financial services, traditional success m...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32507/accountable-ai-governance-in-financial-institutions-building-a-comprehensive-dashboard-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "accountable ai",
-        "governance",
-        "financial institutions"
       ]
     }
   ]
