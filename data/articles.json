@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-18T19:30:45Z",
+  "last_updated": "2026-08-19T07:42:15Z",
   "insights": {
     "risks": [
       "Regulatory: Datavault AI Plans $94.5 Million CyberCatch Buy to Shield Organizations Against AI Attacks — review compliance obligations.",
-      "Operational: Personetics partners Plaid to bring open finance intel to FIs — evaluate model governance gaps."
+      "Operational: Southeast Asia is counting what it automated, it is not counting what came back — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: India's Razorpay launches AI payments foundation model with AWS — potential infrastructure advantage.",
-      "Banking efficiency: Personetics partners Plaid to bring open finance intel to FIs — cost reduction opportunity."
+      "Banking efficiency: Southeast Asia is counting what it automated, it is not counting what came back — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -45,6 +45,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "323245998",
+      "title": "Southeast Asia is counting what it automated, it is not counting what came back",
+      "summary": "Southeast Asia is not behind on AI. On the published numbers it is ahead of the world, which is what makes the real problem hard to see. In February 2026, McKinsey surveyed more than 2,000 respondents with the Singapore Economic Development Board and Tech in Asia. The report foun…",
+      "source": "e27",
+      "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/",
+      "date": "2026-08-19",
+      "category": "Banking",
+      "tags": [
+        "southeast asia",
+        "ai",
+        "on"
+      ]
+    },
+    {
+      "id": "617215768",
+      "title": "AI won’t replace leaders, but it will expose weak leadership",
+      "summary": "The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it s the greatest productivity revolution in modern business. I believe both camps are asking the wrong question. After spending th…",
+      "source": "e27",
+      "url": "https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/",
+      "date": "2026-08-19",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "one",
+        "another"
+      ]
+    },
+    {
+      "id": "919638515",
+      "title": "FBI Plans $88M AI Infrastructure Investment",
+      "summary": "The FBI plans to spend as much as $88 million on artificial infrastructure to expand its AI capacity, Fedscoop reported Tuesday (Aug. 18), citing procurement documents. The bureau is looking to procure servers, equipment and other hardware, and it is accepting proposals until nex…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fbi-plans-88m-ai-infrastructure-investment/",
+      "date": "2026-08-18",
+      "category": "Banking",
+      "tags": [
+        "fbi plans",
+        "ai infrastructure",
+        "investment the"
+      ]
+    },
     {
       "id": "90101349",
       "title": "Personetics partners Plaid to bring open finance intel to FIs",
@@ -839,48 +881,6 @@
         "accountable ai",
         "governance",
         "financial institutions"
-      ]
-    },
-    {
-      "id": "963415981",
-      "title": "RSM UK Welcomes AI Adoption Plan as Consumers Seek AI Financial Advice",
-      "summary": "RSM UK says the government's Financial Services AI Adoption Plan is timely but warns that Consumer Duty and accountability frameworks face real strain. The post RSM UK Welcomes AI Adoption Plan as Consumers Seek AI Financial Advice appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/rsm-uk-welcomes-ai-adoption-plan-as-consumers-seek-ai-financial-advice/",
-      "date": "2026-08-10",
-      "category": "Payments",
-      "tags": [
-        "rsm uk",
-        "welcomes ai",
-        "adoption plan"
-      ]
-    },
-    {
-      "id": "252987011",
-      "title": "MoneyLion Vets Launch Wealth Management Platform Astraeus",
-      "summary": "Two veterans of mobile banking firm MoneyLion have launched Astraeus, an infrastructure platform for wealth management companies. The company announced its launch last week, saying it comes as wealth management companies are trying to capitalize on artificial intelligence (AI) af…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/startups/2026/moneylion-vets-launch-wealth-management-platform-astraeus/",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "moneylion vets",
-        "launch wealth",
-        "management platform"
-      ]
-    },
-    {
-      "id": "426421908",
-      "title": "True Potential taps Origo to deliver automated valuation data across its adviser back-office",
-      "summary": "Leading UK wealth management firm, True Potential, today joins Origo’s Integration Hub, bringing automated, data-rich daily valuations from multiple providers directly into advisers' existing workflows.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110604/true-potential-taps-origo-to-deliver-automated-valuation-data-across-its-adviser-back-office?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-10",
-      "category": "Banking",
-      "tags": [
-        "true potential",
-        "origo",
-        "leading uk"
       ]
     }
   ]
