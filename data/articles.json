@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-08-20T07:44:43Z",
+  "last_updated": "2026-08-20T19:34:46Z",
   "insights": {
     "risks": [
       "Trading risk: CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts — assess algorithmic exposure.",
-      "Operational: Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services. — evaluate model governance gaps."
+      "Operational: Experian lets Brits check credit score within ChatGPT — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: The $1.5Trillion Benchmark: Custom Fintech Software Development Key Module Security and Cost Factors — potential infrastructure advantage.",
-      "Banking efficiency: Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services. — cost reduction opportunity.",
+      "Banking efficiency: Experian lets Brits check credit score within ChatGPT — cost reduction opportunity.",
       "InsurTech: A year after losing $1.46 billion, Bybit says AI helped it save $700 million — underwriting modernisation potential."
     ]
   },
@@ -42,6 +42,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "625300733",
+      "title": "Experian lets Brits check credit score within ChatGPT",
+      "summary": "Experian has upgraded its ChatGPT app to let Brits see their credit score within the AI platform.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48277/experian-lets-brits-check-credit-score-within-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-20",
+      "category": "Banking",
+      "tags": [
+        "experian",
+        "brits",
+        "chatgpt experian"
+      ]
+    },
+    {
+      "id": "943076328",
+      "title": "OpenAI and Anthropic Fuel California’s Record-Setting Investment Surge",
+      "summary": "California is reportedly seeing an historic wave of investment due to Silicon Valley’s artificial intelligence (AI) boom. Companies there have taken in around $366 billion in venture capital this year, with just two artificial intelligence (AI) firms—OpenAI and Anthropic—accounti…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/openai-and-anthropic-fuel-californias-record-setting-investment-surge/",
+      "date": "2026-08-20",
+      "category": "Banking",
+      "tags": [
+        "openai",
+        "anthropic fuel",
+        "california"
+      ]
+    },
     {
       "id": "438350811",
       "title": "Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services.",
@@ -851,34 +879,6 @@
         "ai may",
         "well",
         "big accelerator"
-      ]
-    },
-    {
-      "id": "118678842",
-      "title": "Riot Platforms surges 20% in pre-market trading on $9.1 billion Anthropic deal",
-      "summary": "The bitcoin miner’s 20-year agreement highlights an industry-wide shift toward AI infrastructure revenue.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/08/11/riot-platforms-surges-20-in-pre-market-trading-on-usd9-1-billion-anthropic-deal",
-      "date": "2026-08-11",
-      "category": "Trading",
-      "tags": [
-        "riot platforms",
-        "anthropic",
-        "ai"
-      ]
-    },
-    {
-      "id": "735275039",
-      "title": "Touchstone backs Vietnam’s N2TP to build AI infrastructure for scientific discovery",
-      "summary": "Vietnam’s startup ecosystem has spent the past few years proving it can produce consumer apps, fintech platforms and edutech companies at regional scale. N2TP is attempting something less common, and arguably harder: building AI infrastructure for scientific research, where outpu…",
-      "source": "e27",
-      "url": "https://e27.co/touchstone-backs-vietnams-n2tp-to-build-ai-infrastructure-for-scientific-discovery-20260811/",
-      "date": "2026-08-11",
-      "category": "Payments",
-      "tags": [
-        "touchstone",
-        "vietnam",
-        "ai"
       ]
     }
   ]
