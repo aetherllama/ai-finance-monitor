@@ -1,23 +1,24 @@
 {
-  "last_updated": "2026-08-19T19:29:42Z",
+  "last_updated": "2026-08-20T07:44:43Z",
   "insights": {
     "risks": [
-      "Operational: SAP Concur unveils AI assistant for travel and expense sector — evaluate model governance gaps."
+      "Trading risk: CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts — assess algorithmic exposure.",
+      "Operational: Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services. — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: The $1.5Trillion Benchmark: Custom Fintech Software Development Key Module Security and Cost Factors — potential infrastructure advantage.",
-      "Banking efficiency: SAP Concur unveils AI assistant for travel and expense sector — cost reduction opportunity.",
+      "Banking efficiency: Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services. — cost reduction opportunity.",
       "InsurTech: A year after losing $1.46 billion, Bybit says AI helped it save $700 million — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Generative AI",
@@ -41,6 +42,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "438350811",
+      "title": "Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services.",
+      "summary": "Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/bochk-and-ant-international-partner-cross-border-payments-and-treasury-ai",
+      "date": "2026-08-20",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "china",
+        "hong kong"
+      ]
+    },
+    {
+      "id": "370969382",
+      "title": "CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts",
+      "summary": "The Commodity Futures Trading Commission (CFTC) is seeking comment on the listing of compute derivatives contracts as it prepares to establish the “gold standard” for trading this commodity that powers the artificial intelligence economy, the regulator said in a Wednesday (Aug. 1…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/legal/2026/cftc-prepares-to-draft-rules-for-trading-compute-derivatives-contracts/",
+      "date": "2026-08-19",
+      "category": "Trading",
+      "tags": [
+        "cftc prepares",
+        "draft rules",
+        "trading compute"
+      ]
+    },
+    {
+      "id": "898886230",
+      "title": "Shanghai Commercial Bank is bringing robotics to its Hong Kong branch, using an automated system to retrieve more than 1,600 safe deposit boxes as it targets faster, more private service for wealth clients.",
+      "summary": "Shanghai Commercial Bank is bringing robotics to its Hong Kong branch, using an automated system to retrieve more than 1,600 safe deposit boxes as it targets faster, more private service for wealth clients.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/exclusive/robot-takes-over-safe-deposit-access-shanghai-commercial-bank",
+      "date": "2026-08-19",
+      "category": "Banking",
+      "tags": [
+        "shanghai commercial",
+        "bank",
+        "hong kong"
+      ]
+    },
     {
       "id": "739808612",
       "title": "SAP Concur unveils AI assistant for travel and expense sector",
@@ -836,48 +879,6 @@
         "touchstone",
         "vietnam",
         "ai"
-      ]
-    },
-    {
-      "id": "781502543",
-      "title": "Astraeus launches wealth management infrastructure platform",
-      "summary": "Former staffers at mobile banking firm MoneyLion have raised over $10 million for an AI-native infrastructure platform for wealth management firms.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48223/astraeus-launches-wealth-management-infrastructure-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-11",
-      "category": "Banking",
-      "tags": [
-        "astraeus",
-        "former",
-        "moneylion"
-      ]
-    },
-    {
-      "id": "360836922",
-      "title": "How AI Shopping Agents, Stablecoins and Smarter Checkout Drive Business Growth",
-      "summary": "Payments used to arrive at the end of a sale, take the money and leave. Now they have a much bigger job. They can help companies earn revenue, see cash, serve customers and make better decisions. PYMNTS developed “Summer School 2026: The Payment Stack Strikes Back” with insights …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/how-ai-shopping-agents-stablecoins-and-smarter-checkout-drive-business-growth/",
-      "date": "2026-08-11",
-      "category": "Payments",
-      "tags": [
-        "how ai",
-        "shopping agents",
-        "stablecoins"
-      ]
-    },
-    {
-      "id": "297856071",
-      "title": "Credit Unions Give AI the Legwork and Humans the Last Word",
-      "summary": "In launching AI, credit unions should start with workflows where risk can be managed and human oversight remains central, Velera EVP, Chief Product and Technology Officer Denise Stevens writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” Agentic artifici…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/opinion/2026/credit-unions-give-ai-the-legwork-and-humans-the-last-word/",
-      "date": "2026-08-11",
-      "category": "Banking",
-      "tags": [
-        "credit unions",
-        "give ai",
-        "legwork"
       ]
     }
   ]
