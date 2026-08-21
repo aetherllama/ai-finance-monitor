@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-20T19:34:46Z",
+  "last_updated": "2026-08-21T07:47:47Z",
   "insights": {
     "risks": [
       "Trading risk: CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts — assess algorithmic exposure.",
-      "Operational: Experian lets Brits check credit score within ChatGPT — evaluate model governance gaps."
+      "Operational: Global banks sign for Ant International AI forecasting model — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: The $1.5Trillion Benchmark: Custom Fintech Software Development Key Module Security and Cost Factors — potential infrastructure advantage.",
-      "Banking efficiency: Experian lets Brits check credit score within ChatGPT — cost reduction opportunity.",
+      "Banking efficiency: Global banks sign for Ant International AI forecasting model — cost reduction opportunity.",
       "InsurTech: A year after losing $1.46 billion, Bybit says AI helped it save $700 million — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
-      "topic": "AI Agents",
-      "count": 8
+      "topic": "Automation",
+      "count": 7
     },
     {
-      "topic": "Automation",
+      "topic": "AI Agents",
       "count": 7
     },
     {
@@ -42,6 +42,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "900660775",
+      "title": "Global banks sign for Ant International AI forecasting model",
+      "summary": "A host of banking giants, including Barclays and Deutsche Bank, are already using a new Ant International AI model to improve their cashflow forecasting and FX liquidity management capabilities.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48280/global-banks-sign-for-ant-international-ai-forecasting-model?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-21",
+      "category": "Banking",
+      "tags": [
+        "global",
+        "ant international",
+        "ai"
+      ]
+    },
+    {
+      "id": "594753010",
+      "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
+      "summary": "For years, Southeast Asia’s startup economy has rewarded speed. Founders were expected to launch quickly, localise faster than global rivals, and chase market share across a region where digital adoption often outpaced regulation. That instinct still matters. But as artificial in…",
+      "source": "e27",
+      "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/",
+      "date": "2026-08-21",
+      "category": "Banking",
+      "tags": [
+        "why malaysia",
+        "ai nation",
+        "southeast asia"
+      ]
+    },
+    {
+      "id": "307577561",
+      "title": "Jack Henry signs Prevail Bank",
+      "summary": "Jack Henry (Nasdaq: JKHY) announced today that Prevail Bank has selected Jack Henry to help grow its business through modern technology, an open ecosystem, and continuous AI innovation.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110700/jack-henry-signs-prevail-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-20",
+      "category": "Banking",
+      "tags": [
+        "jack henry",
+        "prevail bank",
+        "nasdaq"
+      ]
+    },
     {
       "id": "625300733",
       "title": "Experian lets Brits check credit score within ChatGPT",
@@ -837,48 +879,6 @@
         "how",
         "ai financial",
         "management boom"
-      ]
-    },
-    {
-      "id": "759396491",
-      "title": "The Action Engine: How Agentic AI Helps Financial Institutions Automate Complex Workflows",
-      "summary": "Walk through any major financial institution today, and you will see a clear operational paradox. Di...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32518/the-action-engine-how-agentic-ai-helps-financial-institutions-automate-complex-workflows?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-11",
-      "category": "Banking",
-      "tags": [
-        "the action",
-        "engine",
-        "how agentic"
-      ]
-    },
-    {
-      "id": "70050368",
-      "title": "Skills Compact Signs 22 Firms to AI Workforce Readiness Plans",
-      "summary": "Chancellor Rachel Reeves launched the Financial Services Skills Commission's compact, committing signatories to rolling three-year workforce capability plans. The post Skills Compact Signs 22 Firms to AI Workforce Readiness Plans appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/skills-compact-signs-22-firms-to-ai-workforce-readiness-plans/",
-      "date": "2026-08-11",
-      "category": "Payments",
-      "tags": [
-        "skills compact",
-        "signs",
-        "firms"
-      ]
-    },
-    {
-      "id": "276671980",
-      "title": "AI May Well be a Big Accelerator, but Let’s not Forget the Destination",
-      "summary": "AI can accelerate financial services, but long-term success will depend on strengthening trust, governance and financial controls. The post AI May Well be a Big Accelerator, but Let s not Forget the Destination appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-may-well-be-a-big-accelerator-but-lets-not-forget-the-destination/",
-      "date": "2026-08-11",
-      "category": "Payments",
-      "tags": [
-        "ai may",
-        "well",
-        "big accelerator"
       ]
     }
   ]
