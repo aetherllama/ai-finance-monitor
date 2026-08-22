@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-22T07:35:17Z",
+  "last_updated": "2026-08-22T19:25:54Z",
   "insights": {
     "risks": [
       "Trading risk: CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts — assess algorithmic exposure.",
       "Operational: Singapore’s DBS deploys specialist AI agents for 1,500 employees — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: One AI Agent, 2,395 Payments. Still No Final Say — potential infrastructure advantage.",
+      "Payments: Nuggets Launches Authority Control Plane for Autonomous AI Agents — potential infrastructure advantage.",
       "Banking efficiency: Singapore’s DBS deploys specialist AI agents for 1,500 employees — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 8
     },
     {
       "topic": "Generative AI",
@@ -41,6 +41,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "469290145",
+      "title": "Nuggets Launches Authority Control Plane for Autonomous AI Agents",
+      "summary": "The London identity firm has launched a runtime enforcement layer that governs what AI agents are authorised to do at the moment of execution. The post Nuggets Launches Authority Control Plane for Autonomous AI Agents appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/nuggets-launches-authority-control-plane-for-autonomous-ai-agents/",
+      "date": "2026-08-22",
+      "category": "Payments",
+      "tags": [
+        "nuggets launches",
+        "authority control",
+        "plane"
+      ]
+    },
     {
       "id": "708931823",
       "title": "One AI Agent, 2,395 Payments. Still No Final Say",
@@ -864,20 +878,6 @@
         "brazilians expect",
         "shop with",
         "ai agents"
-      ]
-    },
-    {
-      "id": "557899641",
-      "title": "From chatbots to payment agents: AI’s next role in SEA commerce",
-      "summary": "For years, artificial intelligence in business has been discussed in sweeping terms: faster decisions, fewer manual tasks, smarter operations. But in payments, where errors can be expensive and compliance failures can be severe, the harder question has always been more practical:…",
-      "source": "e27",
-      "url": "https://e27.co/from-chatbots-to-payment-agents-ais-next-role-in-sea-commerce-20260812/",
-      "date": "2026-08-12",
-      "category": "RegTech",
-      "tags": [
-        "from",
-        "ai",
-        "sea"
       ]
     }
   ]
