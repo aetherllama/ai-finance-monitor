@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-08-23T07:36:58Z",
+  "last_updated": "2026-08-23T19:25:03Z",
   "insights": {
     "risks": [
-      "Trading risk: CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts — assess algorithmic exposure.",
+      "Trading risk: London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027 — assess algorithmic exposure.",
       "Operational: Singapore’s DBS deploys specialist AI agents for 1,500 employees — evaluate model governance gaps."
     ],
     "opportunities": [
@@ -41,6 +41,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "699048221",
+      "title": "London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027",
+      "summary": "LSE will open a near-continuous trading venue for ETPs in H1 2027, targeting algorithmic and agentic trading across global time zones. The post London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027 appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/london-stock-exchange-to-launch-24-5-venue-lse-24-in-2027/",
+      "date": "2026-08-23",
+      "category": "Trading",
+      "tags": [
+        "london stock",
+        "exchange",
+        "launch"
+      ]
+    },
     {
       "id": "469290145",
       "title": "Nuggets Launches Authority Control Plane for Autonomous AI Agents",
@@ -864,20 +878,6 @@
         "amex ventures",
         "fazeshift american",
         "express"
-      ]
-    },
-    {
-      "id": "659553943",
-      "title": "70% of Brazilians Expect to Shop With AI Agents by 2028",
-      "summary": "Brazilian shoppers don’t leave their digital habits at the store entrance. They bring their phones into the aisle, compare prices on the spot and check whether a merchant accepts the payment method they want to use. Increasingly, they also bring AI along for the trip. “The 2026 G…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/consumer-insights/2026/70percent-of-brazilians-expect-to-shop-with-ai-agents-by-2028/",
-      "date": "2026-08-12",
-      "category": "Payments",
-      "tags": [
-        "brazilians expect",
-        "shop with",
-        "ai agents"
       ]
     }
   ]
