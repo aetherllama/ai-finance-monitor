@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-08-24T07:59:22Z",
+  "last_updated": "2026-08-24T19:33:07Z",
   "insights": {
     "risks": [
+      "Regulatory: Reggy launches European regulatory compliance platform — review compliance obligations.",
       "Trading risk: Private Equity Groups Begin Placing AI Experts in Portfolio Companies — assess algorithmic exposure.",
-      "Operational: US widens AI-driven investment gap with Europe — evaluate model governance gaps."
+      "Operational: ADIB appoints first chief AI officer — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Accelerate DeepTech Innovation — potential infrastructure advantage.",
-      "Banking efficiency: US widens AI-driven investment gap with Europe — cost reduction opportunity."
+      "Banking efficiency: ADIB appoints first chief AI officer — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -24,15 +25,15 @@
       "count": 4
     },
     {
+      "topic": "Customer Service AI",
+      "count": 2
+    },
+    {
       "topic": "Payments AI",
       "count": 2
     },
     {
       "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
       "count": 1
     },
     {
@@ -45,6 +46,88 @@
     }
   ],
   "articles": [
+    {
+      "id": "88002290",
+      "title": "ADIB appoints first chief AI officer",
+      "summary": "Abu Dhabi Islamic Bank(ADIB) has named Pedro Uria-Recio as its inaugural chief AI officer.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "adib",
+        "ai",
+        "abu dhabi"
+      ]
+    },
+    {
+      "id": "982964681",
+      "title": "MDT and OnTrac partners to help credit unions build AI readiness",
+      "summary": "Member Driven Technologies (MDT), a CUSO that helps credit unions navigate complex financial technology ecosystems, today announced a partnership with OnTrac AI, an AI development and consulting firm, to extend MDT’s Transformational Consulting capabilities with deeper AI readine…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110712/mdt-and-ontrac-partners-to-help-credit-unions-build-ai-readiness?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "mdt",
+        "ontrac",
+        "ai"
+      ]
+    },
+    {
+      "id": "779440172",
+      "title": "Starling launches AI assistant for business",
+      "summary": "Starling Bank has today launched an agentic AI-powered ‘Starling Assistant’ to all business customers.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110710/starling-launches-ai-assistant-for-business?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "starling",
+        "ai",
+        "starling bank"
+      ]
+    },
+    {
+      "id": "500290571",
+      "title": "Reggy launches European regulatory compliance platform",
+      "summary": "Reggy, a Norwegian compliance software company that has been signing enterprise customers since 2024, publicly launched today, betting that a wave of new European rules, including the EU AI Act, will drive demand for a single platform to manage all the regulations a company faces…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110709/reggy-launches-european-regulatory-compliance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-24",
+      "category": "RegTech",
+      "tags": [
+        "reggy",
+        "european",
+        "norwegian"
+      ]
+    },
+    {
+      "id": "588550121",
+      "title": "The role of artificial intelligence in pricing an unsecured forbrukslån",
+      "summary": "A forbrukslån is a Norwegian unsecured personal loan — no collateral, no home or car backing it up, ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32619/the-role-of-artificial-intelligence-in-pricing-an-unsecured-forbruksln?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "norwegian"
+      ]
+    },
+    {
+      "id": "631849522",
+      "title": "US-EU Business Investment Gap Expands Thanks to AI",
+      "summary": "U.S. business investment is reportedly on pace to increase three times faster than in Europe. That’s according to a report Monday (Aug. 24) by the Financial Times (FT), citing a forecast from Oxford Economics showing an artificial intelligence (AI)-fueled gap widening between the…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-eu-business-investment-gap-expands-thanks-to-ai/",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "us",
+        "eu business",
+        "investment gap"
+      ]
+    },
     {
       "id": "38701442",
       "title": "US widens AI-driven investment gap with Europe",
@@ -798,90 +881,6 @@
         "why singapore",
         "ai",
         "in singapore"
-      ]
-    },
-    {
-      "id": "607639743",
-      "title": "From KYC to KYA: how AI agents are reshaping payment risk",
-      "summary": "The next phase of digital payments may not be defined by faster checkouts or cheaper transfers, but by a more uncomfortable question: who or what is being trusted to move money? As businesses begin experimenting with AI agents that can search for suppliers, compare prices, negoti…",
-      "source": "e27",
-      "url": "https://e27.co/from-kyc-to-kya-how-ai-agents-are-reshaping-payment-risk-20260813/",
-      "date": "2026-08-13",
-      "category": "Banking",
-      "tags": [
-        "from kyc",
-        "kya",
-        "ai"
-      ]
-    },
-    {
-      "id": "750505816",
-      "title": "Wall Street giants bet Nvidia’s AI chips will defy the laws of finance",
-      "summary": "Private capital firms are wagering that the crucial hardware will hold its value for years to come",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3b522281-0119-47c9-a95a-f2c8d04e6212?syn-25a6b1a6=1",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "nvidia",
-        "ai"
-      ]
-    },
-    {
-      "id": "822147315",
-      "title": "Will We Still Need Origination Forms in the AI Era?",
-      "summary": "A small business owner in Ohio applies for a working capital loan during her lunch break and never o...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32533/will-we-still-need-origination-forms-in-the-ai-era?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "will we",
-        "still need",
-        "origination forms"
-      ]
-    },
-    {
-      "id": "115400216",
-      "title": "HSBC invests in AI modelling firm",
-      "summary": "HSBC Asset Management (HSBC AM), the high street bank's investment management arm, has provided funding for London-based AI startup Model ML.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48237/hsbc-invests-in-ai-modelling-firm?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "hsbc",
-        "ai",
-        "hsbc asset"
-      ]
-    },
-    {
-      "id": "584929938",
-      "title": "M&T Bank appoints head of AI engineering",
-      "summary": "US-based M&T Bank has named Kalyana Bedhu as its new head of AI engineering",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "id": "46008434",
-      "title": "RBI governor tells Indian banks to control AI",
-      "summary": "India's banking sector must be proactive in its adoption of AI and ensure that it determines how the technology reshapes the industry rather than let the technology dictate the inevitable changes.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "rbi",
-        "indian",
-        "ai india"
       ]
     }
   ]
