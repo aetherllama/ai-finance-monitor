@@ -1,35 +1,39 @@
 {
-  "last_updated": "2026-08-23T19:25:03Z",
+  "last_updated": "2026-08-24T07:59:22Z",
   "insights": {
     "risks": [
-      "Trading risk: London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027 — assess algorithmic exposure.",
-      "Operational: Singapore’s DBS deploys specialist AI agents for 1,500 employees — evaluate model governance gaps."
+      "Trading risk: Private Equity Groups Begin Placing AI Experts in Portfolio Companies — assess algorithmic exposure.",
+      "Operational: US widens AI-driven investment gap with Europe — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Nuggets Launches Authority Control Plane for Autonomous AI Agents — potential infrastructure advantage.",
-      "Banking efficiency: Singapore’s DBS deploys specialist AI agents for 1,500 employees — cost reduction opportunity."
+      "Payments: Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Accelerate DeepTech Innovation — potential infrastructure advantage.",
+      "Banking efficiency: US widens AI-driven investment gap with Europe — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Generative AI",
       "count": 4
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Payments AI",
       "count": 2
     },
     {
-      "topic": "Payments AI",
-      "count": 2
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
     },
     {
       "topic": "Predictive Analytics",
@@ -41,6 +45,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "38701442",
+      "title": "US widens AI-driven investment gap with Europe",
+      "summary": "The bloc struggles to keep up with US spending on high-tech equipment and facilities",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "us",
+        "ai",
+        "europe the"
+      ]
+    },
+    {
+      "id": "155049726",
+      "title": "Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Accelerate DeepTech Innovation",
+      "summary": "Taranis Capital, The Fintech Times and Co-Labs Global have joined forces to accelerate FinTech, AI, RegTech and BioTech growth through capital, media reach and collaboration. The post Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Acc…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/taranis-capital-the-fintech-times-and-co-labs-global-form-strategic-alliance-to-de-risk-and-accelerate-deeptech-innovation/",
+      "date": "2026-08-24",
+      "category": "Payments",
+      "tags": [
+        "taranis capital",
+        "the fintech",
+        "times"
+      ]
+    },
+    {
+      "id": "976025815",
+      "title": "Private Equity Groups Begin Placing AI Experts in Portfolio Companies",
+      "summary": "Private equity firms have reportedly begun placing artificial intelligence experts within their portfolio companies to grow those businesses. That’s according to a report Friday (Aug. 21) from The Wall Street Journal (WSJ), which cites the example of Wall Street firms like Blacks…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/private-equity-groups-begin-placing-ai-experts-in-portfolio-companies/",
+      "date": "2026-08-24",
+      "category": "Trading",
+      "tags": [
+        "private equity",
+        "groups begin",
+        "placing ai"
+      ]
+    },
+    {
+      "id": "395917582",
+      "title": "Singapore’s biggest startup opportunity isn’t AI; it’s building ASEAN’s operating system",
+      "summary": "Complacency is our greatest threat. That was Defense Minister Chan Chun Sing s warning during Singapore s National Day Rally season. Around the same time, Acting Manpower Minister Jeffrey Siow argued that younger Singaporeans will change jobs more often than previous generations …",
+      "source": "e27",
+      "url": "https://e27.co/singapores-biggest-startup-opportunity-isnt-ai-its-building-aseans-operating-system-20260821/",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "asean"
+      ]
+    },
+    {
+      "id": "552677267",
+      "title": "Bank fraud in Australia is becoming harder to detect as criminals use artificial intelligence (AI) to forge identities and documents, whilst weaknesses in lending controls and legal protections leave banks and customers exposed, analysts said.",
+      "summary": "Bank fraud in Australia is becoming harder to detect as criminals use artificial intelligence (AI) to forge identities and documents, whilst weaknesses in lending controls and legal protections leave banks and customers exposed, analysts said.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/exclusive/ai-raises-bank-fraud-risks-australia-faces-control-gaps",
+      "date": "2026-08-23",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "australia",
+        "ai"
+      ]
+    },
     {
       "id": "699048221",
       "title": "London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027",
@@ -808,76 +882,6 @@
         "rbi",
         "indian",
         "ai india"
-      ]
-    },
-    {
-      "id": "625810774",
-      "title": "FE fundinfo gives Nexus for Financial Advisers an AI assistant",
-      "summary": "FE fundinfo today confirmed it is accelerating investment in Nexus for Financial Advisers, a unified, AI-powered workflow platform built on the breadth of FE fundinfo's data, designed to support the entire advice journey by bringing together the disconnected systems most advice f…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "fe",
-        "nexus",
-        "financial advisers"
-      ]
-    },
-    {
-      "id": "455393168",
-      "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance",
-      "summary": "Napier AI, the London-based financial crime compliance technology company, has partnered with Delta Capita, a global provider of managed services, technology and consulting, to help financial institutions create more connected and efficient Know Your Customer (KYC) and anti-money…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110626/napier-ai-and-delta-capita-partner-to-deliver-end-to-end-kyc-and-aml-compliance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "napier ai",
-        "delta capita",
-        "kyc"
-      ]
-    },
-    {
-      "id": "597603308",
-      "title": "Scaling AI agents with trustworthy data",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (R…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "scaling ai",
-        "business",
-        "ai"
-      ]
-    },
-    {
-      "id": "356574760",
-      "title": "AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals’ Yianni Gamvros",
-      "summary": "Why AI still falls short on the trading desk: Quantum Signals CEO Yianni Gamvros explains why market data, not chatbots, is the real challenge. The post AI is Everywhere in Finance, but the Trading Desk is Where it Still Falls Short, Says Quantum Signals Yianni Gamvros appeared f…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-is-everywhere-in-finance-but-the-trading-desk-is-where-it-still-falls-short-says-quantum-signals-yianni-gamvros/",
-      "date": "2026-08-12",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "everywhere",
-        "finance"
-      ]
-    },
-    {
-      "id": "271651785",
-      "title": "Amex Ventures invests in autonomous finance startup Fazeshift",
-      "summary": "American Express's corporate venture arm has invested in Fazeshift, an AI-native platform deploying autonomous agents to execute end-to-end accounts receivable workflows.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48230/amex-ventures-invests-in-autonomous-finance-startup-fazeshift?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-12",
-      "category": "Banking",
-      "tags": [
-        "amex ventures",
-        "fazeshift american",
-        "express"
       ]
     }
   ]
