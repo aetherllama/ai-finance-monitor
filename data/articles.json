@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-24T19:33:07Z",
+  "last_updated": "2026-08-25T07:48:39Z",
   "insights": {
     "risks": [
       "Regulatory: Reggy launches European regulatory compliance platform — review compliance obligations.",
       "Trading risk: Private Equity Groups Begin Placing AI Experts in Portfolio Companies — assess algorithmic exposure.",
-      "Operational: ADIB appoints first chief AI officer — evaluate model governance gaps."
+      "Operational: JPMorgan eases approach on lending against shares to court AI’s new wealth — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Accelerate DeepTech Innovation — potential infrastructure advantage.",
-      "Banking efficiency: ADIB appoints first chief AI officer — cost reduction opportunity."
+      "Payments: AI-native financial services startup Neno raises €6.6 million — potential infrastructure advantage.",
+      "Banking efficiency: JPMorgan eases approach on lending against shares to court AI’s new wealth — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Generative AI",
@@ -46,6 +46,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "595341331",
+      "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
+      "summary": "US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
+      "date": "2026-08-25",
+      "category": "Banking",
+      "tags": [
+        "jpmorgan",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "913664673",
+      "title": "AI-native financial services startup Neno raises €6.6 million",
+      "summary": "Dutch fintech Neno has raised €6.6 million in seed funding to bring its AI-native accounting and tax offering for SMEs to the wider European market.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48292/ai-native-financial-services-startup-neno-raises-66-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-25",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "neno",
+        "dutch"
+      ]
+    },
+    {
+      "id": "349379887",
+      "title": "Australian Businesses Favor AI for Back-Office Tasks Over Software Building",
+      "summary": "Anthropic’s customers in Australia, who have been among the leading adopters of the company’s Claude artificial intelligence (AI) model, tend to use the tool for back-office tasks, the company’s country head said Monday (Aug. 24), Bloomberg reported. Speaking at a National Austra…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/australian-businesses-favor-ai-for-back-office-tasks-over-software-building/",
+      "date": "2026-08-24",
+      "category": "Banking",
+      "tags": [
+        "australian businesses",
+        "favor ai",
+        "back"
+      ]
+    },
     {
       "id": "88002290",
       "title": "ADIB appoints first chief AI officer",
@@ -840,47 +882,6 @@
         "the genai",
         "productivity mirage",
         "redefining software"
-      ]
-    },
-    {
-      "id": "672574201",
-      "title": "AI has opened up big holes in cyber security",
-      "summary": "It is too late to prevent the technology from being used as a damaging weapon, so great investment in defences is urgently needed",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c78f18d3-fd4f-47ee-b34b-e5bdaa2fb9c6?syn-25a6b1a6=1",
-      "date": "2026-08-13",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "it"
-      ]
-    },
-    {
-      "id": "720366510",
-      "title": "AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq’s Maximilian Groth",
-      "summary": "Decentriq CEO Maximilian Groth says AI success in finance depends less on the technology and more on governance, accountability and clear decision ownership. The post AI Readiness is an Organisational Problem, not a Technology One, Argues Decentriq s Maximilian Groth appeared fir…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-readiness-is-an-organisational-problem-not-a-technology-one-argues-decentriqs-maximilian-groth/",
-      "date": "2026-08-13",
-      "category": "Payments",
-      "tags": [
-        "ai readiness",
-        "organisational problem",
-        "technology one"
-      ]
-    },
-    {
-      "id": "527308426",
-      "title": "Why Singapore’s AI finance race is now about data, not models",
-      "summary": "For many finance chiefs, the first wave of AI was about testing tools: automating reports, speeding up reconciliation, or asking software to spot anomalies in spreadsheets. In Singapore, that phase is quickly giving way to a more difficult question: how to make AI work across the…",
-      "source": "e27",
-      "url": "https://e27.co/why-singapores-ai-finance-race-is-now-about-data-not-models-20260813/",
-      "date": "2026-08-13",
-      "category": "Banking",
-      "tags": [
-        "why singapore",
-        "ai",
-        "in singapore"
       ]
     }
   ]
