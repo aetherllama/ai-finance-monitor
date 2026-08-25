@@ -1,39 +1,43 @@
 {
-  "last_updated": "2026-08-25T07:48:39Z",
+  "last_updated": "2026-08-25T19:35:04Z",
   "insights": {
     "risks": [
       "Regulatory: Reggy launches European regulatory compliance platform — review compliance obligations.",
-      "Trading risk: Private Equity Groups Begin Placing AI Experts in Portfolio Companies — assess algorithmic exposure.",
-      "Operational: JPMorgan eases approach on lending against shares to court AI’s new wealth — evaluate model governance gaps."
+      "Trading risk: Itoflow raises $2.5m for investment research AI agents — assess algorithmic exposure.",
+      "Operational: Scalable Capital opens platform to AI agents like Claude and ChatGPT — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI-native financial services startup Neno raises €6.6 million — potential infrastructure advantage.",
-      "Banking efficiency: JPMorgan eases approach on lending against shares to court AI’s new wealth — cost reduction opportunity."
+      "Banking efficiency: Scalable Capital opens platform to AI agents like Claude and ChatGPT — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
-      "topic": "Generative AI",
-      "count": 4
+      "topic": "Portfolio Management",
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
       "count": 2
     },
     {
-      "topic": "Payments AI",
-      "count": 2
+      "topic": "Regulatory AI",
+      "count": 1
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Generative AI",
+      "count": 1
+    },
+    {
+      "topic": "Payments AI",
       "count": 1
     },
     {
@@ -46,6 +50,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "37306982",
+      "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT",
+      "summary": "Munich-based bank Scalable Capital has opened its platform to AI assistants, giving customers the option to let the likes of ChatGPT, Claude and Grok carry out trades on their behalf.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48298/scalable-capital-opens-platform-to-ai-agents-like-claude-and-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-25",
+      "category": "Banking",
+      "tags": [
+        "scalable capital",
+        "ai",
+        "claude"
+      ]
+    },
+    {
+      "id": "611685141",
+      "title": "Itoflow raises $2.5m for investment research AI agents",
+      "summary": "Startup Itoflow has raised $2.5 million in pre-seed funding for its AI platform helping professional investment teams scale research and portfolio management.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48297/itoflow-raises-25m-for-investment-research-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-25",
+      "category": "Trading",
+      "tags": [
+        "itoflow",
+        "ai",
+        "startup itoflow"
+      ]
+    },
+    {
+      "id": "10525619",
+      "title": "Revolut launches dedicated AI research lab built on its own foundation model",
+      "summary": "Revolut has launched a dedicated AI research division built around its foundation model, Pragma, with the aim of developing a single, unified system capable of understanding the true nuance of financial behaviour in real time.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48296/revolut-launches-dedicated-ai-research-lab-built-on-its-own-foundation-model?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-25",
+      "category": "Banking",
+      "tags": [
+        "revolut",
+        "ai",
+        "pragma"
+      ]
+    },
+    {
+      "id": "754351472",
+      "title": "More than three in four 18 to 24-year-olds have used AI for personal finance - Lloyds",
+      "summary": "According to new analysis from Lloyds Banking Group, more than three in four (76%) 18 to 24-year-olds have used AI for personal finance – making them the UK's most enthusiastic adopters of AI for money management.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110717/more-than-three-in-four-18-to-24-year-olds-have-used-ai-for-personal-finance---lloyds?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-25",
+      "category": "Banking",
+      "tags": [
+        "more",
+        "ai",
+        "lloyds according"
+      ]
+    },
+    {
+      "id": "997445910",
+      "title": "AI-driven portfolio management platform Standard Metrics raises $20 million",
+      "summary": "SAN FRANCISCO, Aug. 24, 2026 /PRNewswire/ -- Standard Metrics, the AI-driven portfolio management platform for venture capital and private equity, today announced it has raised $20M in Series B funding led by 8VC with participation from Salesforce Ventures, Spark Capital, January…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110716/ai-driven-portfolio-management-platform-standard-metrics-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-25",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "standard metrics",
+        "san francisco"
+      ]
+    },
+    {
+      "id": "378297834",
+      "title": "From Pull to Push: The Shift to Embedded, AI-Driven Banking",
+      "summary": "Banking is undergoing a quiet but profound transformation. While most people still interact with th",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32630/from-pull-to-push-the-shift-to-embedded-ai-driven-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-25",
+      "category": "Banking",
+      "tags": [
+        "from pull",
+        "push",
+        "the shift"
+      ]
+    },
     {
       "id": "595341331",
       "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
@@ -798,90 +886,6 @@
         "sofi teaches",
         "its ai",
         "coach"
-      ]
-    },
-    {
-      "id": "773504293",
-      "title": "Nearly 4 in 10 CFOs See Gen AI Paying Off Within Two Years",
-      "summary": "CFOs have stopped treating generative artificial intelligence returns as one date circled on the calendar. By December, 39.1% expected very positive returns within one to two years, even as 26.1% expected the payoff to take six years or longer. That split is the clearest sign tha…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nearly-4-in-10-cfos-see-gen-ai-paying-off-within-two-years/",
-      "date": "2026-08-14",
-      "category": "Banking",
-      "tags": [
-        "nearly",
-        "cfos see",
-        "gen ai"
-      ]
-    },
-    {
-      "id": "408875",
-      "title": "Before AI Runs the Bank, It Can Replace the Card",
-      "summary": "Success with agentic AI will depend on how well banks redesign their operational foundations, Thales Head of AI-Driven Operations Platform Amélie Tournant Fourel writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” As artificial intelligence shifts from c…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/opinion/2026/before-ai-runs-the-bank-it-can-replace-the-card/",
-      "date": "2026-08-14",
-      "category": "Banking",
-      "tags": [
-        "before ai",
-        "runs",
-        "bank"
-      ]
-    },
-    {
-      "id": "141701874",
-      "title": "Ecosystem Roundup: Why “Know Your Agent” will matter as much as KYC in payments",
-      "summary": "As AI agents start searching for suppliers, negotiating terms, and initiating payments on a company s behalf, the old assumption that a human approves every transaction is breaking down. A new report from Sunrate and Mastercard, Beyond Automation: Defining Agentic Global Payments…",
-      "source": "e27",
-      "url": "https://e27.co/ecosystem-roundup-why-know-your-agent-will-matter-as-much-as-kyc-in-payments-20260814/",
-      "date": "2026-08-14",
-      "category": "Banking",
-      "tags": [
-        "ecosystem roundup",
-        "why",
-        "know your"
-      ]
-    },
-    {
-      "id": "733798877",
-      "title": "Moving past the chatbox: The hidden risks of agentic AI and MCP in enterprise infrastructure",
-      "summary": "In Singapore, Hong Kong, and across the APAC region, the corporate adoption of Generative AI has completed its initial trial phase. Over the past year, enterprise technology leaders have realised that simple internal chatbots offer limited structural value. The real ROI lies in t…",
-      "source": "e27",
-      "url": "https://e27.co/moving-past-the-chatbox-the-hidden-risks-of-agentic-ai-and-mcp-in-enterprise-infrastructure-20260812/",
-      "date": "2026-08-14",
-      "category": "Banking",
-      "tags": [
-        "moving",
-        "ai",
-        "mcp"
-      ]
-    },
-    {
-      "id": "643424121",
-      "title": "New Zealand’s Sterling lands funding to run finance on autopilot",
-      "summary": "Sterling, the New Zealand AI startup building an autopilot for finance teams, has raised $3.8 million (NZD) in a round led by trans-Tasman venture capital firm Blackbird.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110645/new-zealands-sterling-lands-funding-to-run-finance-on-autopilot?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-13",
-      "category": "Banking",
-      "tags": [
-        "new zealand",
-        "sterling",
-        "ai"
-      ]
-    },
-    {
-      "id": "444139658",
-      "title": "The GenAI Productivity Mirage: Redefining Software Metrics for Financial Services",
-      "summary": "As Generative AI accelerates code production across the financial services sector, traditional softw...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32540/the-genai-productivity-mirage-redefining-software-metrics-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-13",
-      "category": "Banking",
-      "tags": [
-        "the genai",
-        "productivity mirage",
-        "redefining software"
       ]
     }
   ]
