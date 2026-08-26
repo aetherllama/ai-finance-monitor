@@ -1,31 +1,39 @@
 {
-  "last_updated": "2026-08-26T07:50:41Z",
+  "last_updated": "2026-08-26T21:43:01Z",
   "insights": {
     "risks": [
       "Trading risk: Taste is the last moat: I’m trading my wearables for wine — assess algorithmic exposure.",
-      "Operational: ‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance — evaluate model governance gaps."
+      "Operational: Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI-native financial services startup Neno raises €6.6 million — potential infrastructure advantage.",
-      "Banking efficiency: ‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance — cost reduction opportunity."
+      "Payments: South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements — potential infrastructure advantage.",
+      "Banking efficiency: Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 4
     },
     {
       "topic": "Customer Service AI",
       "count": 3
     },
     {
+      "topic": "Payments AI",
+      "count": 2
+    },
+    {
       "topic": "Portfolio Management",
       "count": 2
+    },
+    {
+      "topic": "Stablecoin AI",
+      "count": 1
     },
     {
       "topic": "Regulatory AI",
@@ -34,17 +42,79 @@
     {
       "topic": "Generative AI",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
-      "topic": "Predictive Analytics",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "459708259",
+      "title": "Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo",
+      "summary": "Ken Villum Klausen, Peter Andreasen and Joachim Strøjer Hansen, who co-founded and helped build Nordic digital bank Lunar as CEO, CFO and CPO respectively, have raised €8.2 million in pre-seed funding to launch Repodo, a new authorised audit firm built around AI from the ground u…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48303/ex-lunar-founders-raise-82m-to-launch-ai-native-audit-firm-repodo?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "ex",
+        "lunar",
+        "ai"
+      ]
+    },
+    {
+      "id": "694426762",
+      "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills",
+      "summary": "Chris Chruchman, a Goldman Sachs partner leading one of the bank's flagship AI projects, has warned that the technology could degrade bankers' reasoning skills if relied on too heavily by employees.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48302/goldman-sachs-partner-warns-that-ai-could-erode-bankers-reasoning-skills?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "goldman sachs",
+        "ai",
+        "chris chruchman"
+      ]
+    },
+    {
+      "id": "842233757",
+      "title": "AI readiness, not cost, now decides KYC build vs. buy",
+      "summary": "Picture a compliance team in a regulatory review. The examiner is not asking about system architectu...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32642/ai-readiness-not-cost-now-decides-kyc-build-vs-buy?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "kyc",
+        "picture"
+      ]
+    },
+    {
+      "id": "153383981",
+      "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
+      "summary": "Shinhan Financial Group will use Visa’s platform to test stablecoin issuance, remittance, and redemption while building new AI-powered payment models.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
+      "date": "2026-08-26",
+      "category": "Payments",
+      "tags": [
+        "south korea",
+        "visa",
+        "shinhan financial"
+      ]
+    },
+    {
+      "id": "844590279",
+      "title": "This AI Agent Ends Subscriptions Without a Phone Call",
+      "summary": "Most personal finance apps have worked the same way for years: a dashboard showing what a consumer spent. The actual decision, whether to cancel a subscription or call to negotiate a bill, is left up to the person. Rocket Money launched an artificial intelligence (AI) agent calle…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/this-ai-agent-ends-subscriptions-without-a-phone-call/",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "this ai",
+        "agent ends",
+        "subscriptions without"
+      ]
+    },
     {
       "id": "72511989",
       "title": "‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance",
@@ -811,76 +881,6 @@
         "misconception",
         "magic",
         "what"
-      ]
-    },
-    {
-      "id": "579063225",
-      "title": "Industrialized: Why Financial Firms Need Trustworthy AI Assistants Before Automation Scales Further",
-      "summary": "The global market for AI in banking is projected to surge to $45.6 billion by the end of 2026. As ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32568/industrialized-why-financial-firms-need-trustworthy-ai-assistants-before-automation-scales-further?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-18",
-      "category": "Banking",
-      "tags": [
-        "industrialized",
-        "why financial",
-        "firms need"
-      ]
-    },
-    {
-      "id": "472218792",
-      "title": "Money20/20 Middle East Returns to Riyadh as Global Fintech Elite Converge on the Kingdom",
-      "summary": "Money20/20 Middle East 2026 returns to Riyadh from 14–16 September, bringing global fintech leaders together to explore AI, payments, digital assets and the future of finance. The post Money20/20 Middle East Returns to Riyadh as Global Fintech Elite Converge on the Kingdom appear…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/money20-20-middle-east-returns-to-riyadh-as-global-fintech-elite-converge-on-the-kingdom/",
-      "date": "2026-08-18",
-      "category": "Payments",
-      "tags": [
-        "middle east",
-        "returns",
-        "riyadh"
-      ]
-    },
-    {
-      "id": "659186316",
-      "title": "Deepgram expands into Singapore to tackle APAC’s multilingual Voice AI challenge",
-      "summary": "For years, voice technology in Asia was held back by the very thing that makes the region such a compelling market: its linguistic complexity. A customer may begin a call in English, switch to Mandarin, insert Malay or Tamil phrases, speak through background noise, and expect the…",
-      "source": "e27",
-      "url": "https://e27.co/deepgram-expands-into-singapore-to-tackle-apacs-multilingual-voice-ai-challenge-20260818/",
-      "date": "2026-08-18",
-      "category": "Banking",
-      "tags": [
-        "deepgram",
-        "singapore",
-        "apac"
-      ]
-    },
-    {
-      "id": "901887018",
-      "title": "Datavault AI Plans $94.5 Million CyberCatch Buy to Shield Organizations Against AI Attacks",
-      "summary": "Datavault AI plans to add artificial intelligence-driven, quantum-resistant cyber risk mitigation to its Data Vault Artificial Intelligence Platform (AIP) by acquiring cybersecurity company CyberCatch for $94.5 million, according to a Friday (Aug. 14) press release. The proposed …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/datavault-ai-plans-94-million-dollar-cybercatch-buy-shield-organizations-against-ai-attacks/",
-      "date": "2026-08-17",
-      "category": "RegTech",
-      "tags": [
-        "datavault ai",
-        "plans",
-        "million cybercatch"
-      ]
-    },
-    {
-      "id": "773646103",
-      "title": "Why Predictive Finance Is the Future of Wealth Management",
-      "summary": "Vault22 co-founder and CEO Benito Mable argues the next era of wealth management will be won by AI that helps people make better everyday decisions. The post Why Predictive Finance Is the Future of Wealth Management appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/why-predictive-finance-is-the-future-of-wealth-management/",
-      "date": "2026-08-17",
-      "category": "Payments",
-      "tags": [
-        "why predictive",
-        "finance is",
-        "future"
       ]
     }
   ]
