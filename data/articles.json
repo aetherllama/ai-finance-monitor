@@ -1,31 +1,30 @@
 {
-  "last_updated": "2026-08-25T19:35:04Z",
+  "last_updated": "2026-08-26T07:50:41Z",
   "insights": {
     "risks": [
-      "Regulatory: Reggy launches European regulatory compliance platform — review compliance obligations.",
-      "Trading risk: Itoflow raises $2.5m for investment research AI agents — assess algorithmic exposure.",
-      "Operational: Scalable Capital opens platform to AI agents like Claude and ChatGPT — evaluate model governance gaps."
+      "Trading risk: Taste is the last moat: I’m trading my wearables for wine — assess algorithmic exposure.",
+      "Operational: ‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI-native financial services startup Neno raises €6.6 million — potential infrastructure advantage.",
-      "Banking efficiency: Scalable Capital opens platform to AI agents like Claude and ChatGPT — cost reduction opportunity."
+      "Banking efficiency: ‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 7
+      "count": 9
     },
     {
       "topic": "Automation",
       "count": 5
     },
     {
-      "topic": "Portfolio Management",
-      "count": 2
+      "topic": "Customer Service AI",
+      "count": 3
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Portfolio Management",
       "count": 2
     },
     {
@@ -43,13 +42,93 @@
     {
       "topic": "Predictive Analytics",
       "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "72511989",
+      "title": "‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance",
+      "summary": "Elon Musk’s company faces formidable challenges in launching millions of satellites into orbit to power AI",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "it",
+        "spacex",
+        "elon musk"
+      ]
+    },
+    {
+      "id": "274466653",
+      "title": "Google Cloud launches AI platform for financial professionals",
+      "summary": "Google Cloud has unveiled a purpose-built agentic AI offering engineered for financial professionals, with Deutsche Bank signed up as an early adopter.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48299/google-cloud-launches-ai-platform-for-financial-professionals?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "google cloud",
+        "ai",
+        "deutsche bank"
+      ]
+    },
+    {
+      "id": "35246925",
+      "title": "Flanks joins with Perplexity to power AI-driven wealth management with data aggregation",
+      "summary": "Flanks, the WealthTech leader redefining the industry by giving wealth institutions direct access to a unified, institution-grade, compliant wealth data layer, today announced its partnership with Perplexity, an AI platform built on the foundation of accurate AI, which has a cura…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110715/flanks-joins-with-perplexity-to-power-ai-driven-wealth-management-with-data-aggregation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "flanks",
+        "perplexity",
+        "ai"
+      ]
+    },
+    {
+      "id": "166559493",
+      "title": "Banks Double Down on nCino AI Agents After Using Initial Credits",
+      "summary": "Early adopters of nCino’s agentic solutions and other artificial intelligence initiatives for financial institutions have used up their first bundles of credits and have come back for more, nCino CEO Sean Desmond said Tuesday (Aug. 25) during an earnings call. “I mentioned during…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/banks-double-down-on-ncino-ai-agents-after-using-initial-credits/",
+      "date": "2026-08-26",
+      "category": "Banking",
+      "tags": [
+        "banks double",
+        "down",
+        "ai agents"
+      ]
+    },
+    {
+      "id": "164980356",
+      "title": "Taste is the last moat: I’m trading my wearables for wine",
+      "summary": "I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is tast…",
+      "source": "e27",
+      "url": "https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/",
+      "date": "2026-08-26",
+      "category": "Trading",
+      "tags": [
+        "taste",
+        "then",
+        "ai"
+      ]
+    },
+    {
+      "id": "531004735",
+      "title": "3M Uses AI to Tame Its 60,000-Product Portfolio",
+      "summary": "3M sells more than 60,000 products, spanning adhesives, abrasives, films, automotive materials, electronics and safety gear, so many that finding the right product has become its own obstacle to a sale. The company launched Ask 3M, an AI assistant that gives industrial customers …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/3m-uses-ai-to-tame-its-60000-product-portfolio/",
+      "date": "2026-08-25",
+      "category": "Trading",
+      "tags": [
+        "uses ai",
+        "tame its",
+        "product portfolio"
+      ]
+    },
     {
       "id": "37306982",
       "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT",
@@ -802,90 +881,6 @@
         "why predictive",
         "finance is",
         "future"
-      ]
-    },
-    {
-      "id": "820388720",
-      "title": "AI demand lifts Malaysia’s chip sector, but not every player wins",
-      "summary": "Malaysia is emerging as one of Southeast Asia’s clearest winners from the artificial intelligence infrastructure boom, but the benefits are not spreading evenly across its semiconductor industry, according to HSBC Global Investment Research. In a report released last week, the re…",
-      "source": "e27",
-      "url": "https://e27.co/ai-demand-lifts-malaysias-chip-sector-but-not-every-player-wins-20260817/",
-      "date": "2026-08-17",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "malaysia",
-        "southeast asia"
-      ]
-    },
-    {
-      "id": "133129317",
-      "title": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
-      "summary": "Close relations with both US and China mean the latest AI models are easily accessible in the city-state",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
-      "date": "2026-08-16",
-      "category": "Banking",
-      "tags": [
-        "singapore inc",
-        "ai",
-        "hong kong"
-      ]
-    },
-    {
-      "id": "536931545",
-      "title": "Goldman Sachs Mobilizes Investors for Nvidia’s $500 Billion AI Infrastructure Push",
-      "summary": "Goldman Sachs is talking with potential investors about participating in Nvidia’s $500 billion artificial intelligence financing initiative that was announced Monday (Aug. 10), Reuters reported Friday (Aug. 13). Goldman Sachs has talked with banks, asset managers, insurers and pr…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/goldman-sachs-mobilizes-investors-for-nvidias-500-billion-ai-infrastructure-push/",
-      "date": "2026-08-14",
-      "category": "Banking",
-      "tags": [
-        "goldman sachs",
-        "mobilizes investors",
-        "nvidia"
-      ]
-    },
-    {
-      "id": "480698829",
-      "title": "Nvidia partners with Wall Street mobilise funds for AI infrastructure, Goldman Sachs leads financing",
-      "summary": "Goldman Sachs is in talks with investors on financing Nvidia’s deal with leading asset managers to build AI infrastructure.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48249/nvidia-partners-with-wall-street-mobilise-funds-for-ai-infrastructure-goldman-sachs-leads-financing?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-14",
-      "category": "Banking",
-      "tags": [
-        "nvidia",
-        "wall street",
-        "ai"
-      ]
-    },
-    {
-      "id": "963460252",
-      "title": "Insurance Regulators Get Schooled on AI Governance",
-      "summary": "Insurance regulators are moving artificial intelligence governance from the policy manual into the examination file. On Thursday (Aug. 13) at its Summer National Meeting, the National Association of Insurance Commissioners provided an update on its AI Risk Evaluation Supplement, …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/insurance/2026/insurance-regulators-get-schooled-ai-governance/",
-      "date": "2026-08-14",
-      "category": "Banking",
-      "tags": [
-        "insurance regulators",
-        "get schooled",
-        "ai governance"
-      ]
-    },
-    {
-      "id": "265697056",
-      "title": "SoFi Teaches Its AI Coach to Read the Financial Room",
-      "summary": "Watch more: Digital Shift With SoFi’s Brian Walsh Digital transformation in financial services has traditionally hung its hat on the promise of democratization and accessibility. Software could reach consumers who lacked enough assets to attract a traditional adviser, delivering …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/sofi-teaches-its-ai-coach-to-read-the-financial-room/",
-      "date": "2026-08-14",
-      "category": "Trading",
-      "tags": [
-        "sofi teaches",
-        "its ai",
-        "coach"
       ]
     }
   ]
