@@ -1,35 +1,40 @@
 {
-  "last_updated": "2026-08-26T21:43:01Z",
+  "last_updated": "2026-08-27T18:10:04Z",
   "insights": {
     "risks": [
-      "Trading risk: Taste is the last moat: I’m trading my wearables for wine — assess algorithmic exposure.",
-      "Operational: Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo — evaluate model governance gaps."
+      "Regulatory: Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity — review compliance obligations.",
+      "Trading risk: Visa expands open-source AI cyber defence system — assess algorithmic exposure.",
+      "Operational: Young British investors trust AI more than TV or celebs — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements — potential infrastructure advantage.",
-      "Banking efficiency: Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo — cost reduction opportunity."
+      "Payments: Aussie fintechs Lucie Money taps Fiskil to embed open banking data into its conversational AI agent — potential infrastructure advantage.",
+      "Banking efficiency: Young British investors trust AI more than TV or celebs — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Customer Service AI",
       "count": 3
     },
     {
-      "topic": "Payments AI",
+      "topic": "Portfolio Management",
       "count": 2
     },
     {
-      "topic": "Portfolio Management",
-      "count": 2
+      "topic": "Credit & Underwriting",
+      "count": 1
+    },
+    {
+      "topic": "Payments AI",
+      "count": 1
     },
     {
       "topic": "Stablecoin AI",
@@ -45,6 +50,146 @@
     }
   ],
   "articles": [
+    {
+      "id": "567423416",
+      "title": "Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity",
+      "summary": "Socure, the identity and risk intelligence infrastructure platform, has raised funding from investors including Goldman Sachs Alternatives and Wells Fargo at a $5.2 billion valuation. The firm has also acquired Fravity, an agentic platform that automates fraud, risk, and complian…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48311/socure-hits-52bn-valuation-on-investment-buys-ai-fraud-platform-fravity?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-27",
+      "category": "RegTech",
+      "tags": [
+        "socure",
+        "ai",
+        "fravity socure"
+      ]
+    },
+    {
+      "id": "382452553",
+      "title": "Young British investors trust AI more than TV or celebs",
+      "summary": "Younger Brits trust AI tools more than TV and radio, the press, or social media influencers when it comes to investment advice, according to Financial Conduct Authority research.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48309/young-british-investors-trust-ai-more-than-tv-or-celebs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-27",
+      "category": "Banking",
+      "tags": [
+        "young british",
+        "ai",
+        "tv"
+      ]
+    },
+    {
+      "id": "79587311",
+      "title": "Visa expands open-source AI cyber defence system",
+      "summary": "Visa (NYSE: V) today announced enhancements to its cybersecurity portfolio to help organizations identify and fix vulnerabilities more effectively.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110747/visa-expands-open-source-ai-cyber-defence-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-27",
+      "category": "Trading",
+      "tags": [
+        "visa",
+        "ai",
+        "nyse"
+      ]
+    },
+    {
+      "id": "189576104",
+      "title": "Brookwood Investment Group taps Amplify for intelligence platform",
+      "summary": "Amplify Technology, LLC (\"Amplify\"), the AI-native RIA growth platform built on data lake architecture, today announced that Brookwood Investment Group (\"Brookwood\"), a Phoenix-based registered investment advisor, has partnered with Amplify to create the Brookwood Intelligence Pl…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110745/brookwood-investment-group-taps-amplify-for-intelligence-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-27",
+      "category": "Trading",
+      "tags": [
+        "brookwood investment",
+        "group",
+        "amplify"
+      ]
+    },
+    {
+      "id": "278108390",
+      "title": "Asic and Apra warn frontier AI awareness must turn to action",
+      "summary": "The Australian Securities and Investments Commission (ASIC) and the Australian Prudential Regulation Authority (APRA) are urging financial market entities to move from gaining awareness of risks linked to frontier AI to taking decisive action.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110742/asic-and-apra-warn-frontier-ai-awareness-must-turn-to-action?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-27",
+      "category": "Banking",
+      "tags": [
+        "asic",
+        "apra",
+        "ai"
+      ]
+    },
+    {
+      "id": "504375965",
+      "title": "Aussie fintechs Lucie Money taps Fiskil to embed open banking data into its conversational AI agent",
+      "summary": "Lucie Money, the Sydney fintech building a conversational money agent, has gone live under Australia’s Consumer Data Right (CDR) by leveraging Fiskil’s infrastructure to securely access open banking data.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110739/aussie-fintechs-lucie-money-taps-fiskil-to-embed-open-banking-data-into-its-conversational-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-27",
+      "category": "Payments",
+      "tags": [
+        "aussie",
+        "lucie money",
+        "fiskil"
+      ]
+    },
+    {
+      "id": "476984821",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching i…",
+      "source": "VentureBeat AI",
+      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "date": "2026-08-27",
+      "category": "Trading",
+      "tags": [
+        "enterprise ai",
+        "it",
+        "presented"
+      ]
+    },
+    {
+      "id": "931575442",
+      "title": "Hong Kong Tests ‘Know Your Agent’ Controls in Payment Workflows",
+      "summary": "Financial institutions have spent decades learning how to identify customers. Hong Kong is starting to test how they might identify the artificial intelligence (AI) agents acting for them. Hong Kong’s four principal financial regulators on Thursday (Aug. 27) announced the first g…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/banking/2026/hong-kong-tests-know-your-agent-controls-in-payment-workflows/",
+      "date": "2026-08-27",
+      "category": "Payments",
+      "tags": [
+        "hong kong",
+        "tests",
+        "know your"
+      ]
+    },
+    {
+      "id": "925412801",
+      "title": "FinTechs Bet on AI and Lending to Drive Modernization",
+      "summary": "Earnings season is showing that bank modernization demand is landing in faster payments, cloud and digital banking, and artificial intelligence tools aimed at credit, fraud and other defined operating workflows. The pattern is visible in results and management commentary from Jac…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/fintechs-bet-ai-lending-drive-modernization/",
+      "date": "2026-08-27",
+      "category": "Banking",
+      "tags": [
+        "fintechs bet",
+        "ai",
+        "lending"
+      ]
+    },
+    {
+      "id": "508181619",
+      "title": "Rippling expands Singapore office as AI boom pushes companies to hire globally",
+      "summary": "Singapore’s artificial intelligence boom is beginning to show up in an unexpected place: the back office. Rippling, the US$16.8-billion workforce management platform, is expanding its Singapore operations and moving into a new office at OCBC Centre East, as it nearly triples its …",
+      "source": "e27",
+      "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/",
+      "date": "2026-08-27",
+      "category": "Banking",
+      "tags": [
+        "rippling",
+        "singapore",
+        "ai"
+      ]
+    },
     {
       "id": "459708259",
       "title": "Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo",
@@ -741,146 +886,6 @@
         "bybit",
         "ai",
         "north korean"
-      ]
-    },
-    {
-      "id": "187364907",
-      "title": "The Finance Stack’s Great Unbundling Has CFOs Asking What They Need to Own",
-      "summary": "The bigger the company, the more sprawling its back office tends to be. Enterprise resource planning (ERP) systems are supplemented by treasury management software, accounts-payable and receivables platforms, fraud tools, bank-connectivity layers, payment orchestration, foreign-e…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/b2b-payments/2026/the-finance-stacks-great-unbundling-has-cfos-asking-what-they-need-to-own/",
-      "date": "2026-08-19",
-      "category": "Banking",
-      "tags": [
-        "the finance",
-        "stack",
-        "great unbundling"
-      ]
-    },
-    {
-      "id": "71650769",
-      "title": "Datavault Pushes Into Banking Realm With BankWyse Acquisition",
-      "summary": "Data monetization and real-world asset tokenization company Datavault AI is set to acquire Wyoming financial institution BankWyse. “This acquisition adds the final piece to Datavault AI’s data monetization ecosystem,” the company said in a news release Wednesday (Aug. 19). “BankW…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/datavault-pushes-into-banking-realm-with-bankwyse-acquisition/",
-      "date": "2026-08-19",
-      "category": "Banking",
-      "tags": [
-        "datavault pushes",
-        "into banking",
-        "realm with"
-      ]
-    },
-    {
-      "id": "323245998",
-      "title": "Southeast Asia is counting what it automated, it is not counting what came back",
-      "summary": "Southeast Asia is not behind on AI. On the published numbers it is ahead of the world, which is what makes the real problem hard to see. In February 2026, McKinsey surveyed more than 2,000 respondents with the Singapore Economic Development Board and Tech in Asia. The report foun…",
-      "source": "e27",
-      "url": "https://e27.co/southeast-asia-is-counting-what-it-automated-it-is-not-counting-what-came-back-20260818/",
-      "date": "2026-08-19",
-      "category": "Banking",
-      "tags": [
-        "southeast asia",
-        "ai",
-        "on"
-      ]
-    },
-    {
-      "id": "617215768",
-      "title": "AI won’t replace leaders, but it will expose weak leadership",
-      "summary": "The conversation around artificial intelligence has become strangely polarised. One camp believes AI will replace millions of jobs. Another believes it s the greatest productivity revolution in modern business. I believe both camps are asking the wrong question. After spending th…",
-      "source": "e27",
-      "url": "https://e27.co/ai-wont-replace-leaders-but-it-will-expose-weak-leadership-20260815/",
-      "date": "2026-08-19",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "one",
-        "another"
-      ]
-    },
-    {
-      "id": "919638515",
-      "title": "FBI Plans $88M AI Infrastructure Investment",
-      "summary": "The FBI plans to spend as much as $88 million on artificial infrastructure to expand its AI capacity, Fedscoop reported Tuesday (Aug. 18), citing procurement documents. The bureau is looking to procure servers, equipment and other hardware, and it is accepting proposals until nex…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fbi-plans-88m-ai-infrastructure-investment/",
-      "date": "2026-08-18",
-      "category": "Banking",
-      "tags": [
-        "fbi plans",
-        "ai infrastructure",
-        "investment the"
-      ]
-    },
-    {
-      "id": "90101349",
-      "title": "Personetics partners Plaid to bring open finance intel to FIs",
-      "summary": "Personetics, the AI Cognitive Banking Platform, today announced a partnership with Plaid, the data network powering the digital financial ecosystem.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110672/personetics-partners-plaid-to-bring-open-finance-intel-to-fis?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-18",
-      "category": "Banking",
-      "tags": [
-        "personetics",
-        "plaid",
-        "fis personetics"
-      ]
-    },
-    {
-      "id": "652733411",
-      "title": "India's Razorpay launches AI payments foundation model with AWS",
-      "summary": "India’s digital payments story has been one of growth and innovation - yet a quieter gap remains: a payment that doesn't go through, an OTP that arrives late, a subscription that silently lapses, a card compromised by fraud.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110671/indias-razorpay-launches-ai-payments-foundation-model-with-aws?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-18",
-      "category": "Payments",
-      "tags": [
-        "india",
-        "razorpay",
-        "ai"
-      ]
-    },
-    {
-      "id": "396837272",
-      "title": "Financial data startup Quatr raises $18 million",
-      "summary": "Quartr, the world's leading first-party data layer for institutional finance and AI, today announced it has closed a $18 million funding round, led by existing investor Altos Ventures with participation from new investor SEB (publ.)",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110666/financial-data-startup-quatr-raises-18-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-18",
-      "category": "Banking",
-      "tags": [
-        "financial",
-        "quatr",
-        "quartr"
-      ]
-    },
-    {
-      "id": "117460543",
-      "title": "Confluence adds AI-enabled automation to its product suite",
-      "summary": "Confluence Technologies, Inc. (“Confluence”), a global leader in regulatory, analytics, and investor communications solutions for the investment management industry, today announced the launch of Confluence POINT, AI-enabled automation that optimizes workflows across its solution…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110665/confluence-adds-ai-enabled-automation-to-its-product-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-18",
-      "category": "Banking",
-      "tags": [
-        "confluence",
-        "ai",
-        "confluence technologies"
-      ]
-    },
-    {
-      "id": "536623038",
-      "title": "Misconception or Magic: What to Know About the Modern Wealth Management World",
-      "summary": "At the Communify Intelligence Experience, Rupert Baron, co-founder, TechnoWealth, returns to Finextra TV to unpack how the definition of wealth keeps moving and what that means for the industry. Baron argues the FCA's softening of the rules is nudging wealth management toward gre…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3581/misconception-or-magic-what-to-know-about-the-modern-wealth-management-world?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-18",
-      "category": "Banking",
-      "tags": [
-        "misconception",
-        "magic",
-        "what"
       ]
     }
   ]
