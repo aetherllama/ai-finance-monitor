@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-28T03:31:21Z",
+  "last_updated": "2026-08-28T19:20:17Z",
   "insights": {
     "risks": [
       "Regulatory: Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity — review compliance obligations.",
       "Trading risk: Experian launches credit cards app on ChatGPT — assess algorithmic exposure.",
-      "Operational: Why every warehouse in Singapore will run on AI safety monitoring within five years — evaluate model governance gaps."
+      "Operational: AI in Banking Is a Workforce Problem, Not a Technology One — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The case for hybrid microfinance: Combining AI with social accountability — potential infrastructure advantage.",
-      "Banking efficiency: Why every warehouse in Singapore will run on AI safety monitoring within five years — cost reduction opportunity."
+      "Payments: Banks Turn to AI to Stop Overstocking ATMs — potential infrastructure advantage.",
+      "Banking efficiency: AI in Banking Is a Workforce Problem, Not a Technology One — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,8 +17,12 @@
       "count": 12
     },
     {
+      "topic": "Stablecoin AI",
+      "count": 2
+    },
+    {
       "topic": "Automation",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
@@ -37,10 +41,6 @@
       "count": 1
     },
     {
-      "topic": "Stablecoin AI",
-      "count": 1
-    },
-    {
       "topic": "Regulatory AI",
       "count": 1
     },
@@ -50,6 +50,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "598159449",
+      "title": "AI in Banking Is a Workforce Problem, Not a Technology One",
+      "summary": "Dr Rita Fontinha of Henley Business School on what a Chief AI Officer really signals, and why bank AI capability is not built by training courses. The post AI in Banking Is a Workforce Problem, Not a Technology One appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-in-banking-is-a-workforce-problem-not-a-technology-one/",
+      "date": "2026-08-28",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "banking is",
+        "workforce problem"
+      ]
+    },
+    {
+      "id": "972042186",
+      "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
+      "summary": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
+      "date": "2026-08-28",
+      "category": "Banking",
+      "tags": [
+        "bullish",
+        "usd",
+        "ai"
+      ]
+    },
+    {
+      "id": "245258553",
+      "title": "Banks Turn to AI to Stop Overstocking ATMs",
+      "summary": "Cash has not disappeared the way many predicted. Cash accounts for 14% of consumer payments in the United States, more than 80% of consumers used it in the past 30 days, and 90% expect to keep using it, the Federal Reserve said Aug. 4 in its 2026 Diary of Consumer Payment Choice.…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-use-ai-stop-overstocking-atms/",
+      "date": "2026-08-28",
+      "category": "Payments",
+      "tags": [
+        "banks turn",
+        "ai",
+        "stop overstocking"
+      ]
+    },
+    {
+      "id": "320341939",
+      "title": "USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout",
+      "summary": "USD.AI has secured a $100 million stablecoin-based debt facility from digital asset platform Bullish to power its GPU financing ecosystem, USD.AI said in a Friday (Aug. 28) press release. Together with the debt facility, Bullish and USD.AI are expanding their joint research initi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/usd-ai-secures-100-million-credit-facility-from-bullish-to-power-ai-buildout/",
+      "date": "2026-08-28",
+      "category": "Payments",
+      "tags": [
+        "usd",
+        "ai secures",
+        "million credit"
+      ]
+    },
+    {
+      "id": "201153833",
+      "title": "ChatGPT Now Helps You Pick a Credit Card",
+      "summary": "The place people start looking for a credit card, an insurance quote or a loan is changing, and it’s no longer a bank’s own website. Experian, Synchrony and Klarna are all betting that discovery is shifting into artificial intelligence (AI) conversations they don’t control. Rathe…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-now-helps-you-pick-a-credit-card/",
+      "date": "2026-08-28",
+      "category": "Banking",
+      "tags": [
+        "chatgpt now",
+        "helps you",
+        "pick"
+      ]
+    },
     {
       "id": "77507502",
       "title": "The case for hybrid microfinance: Combining AI with social accountability",
@@ -816,76 +886,6 @@
         "jack henry",
         "prevail bank",
         "nasdaq"
-      ]
-    },
-    {
-      "id": "625300733",
-      "title": "Experian lets Brits check credit score within ChatGPT",
-      "summary": "Experian has upgraded its ChatGPT app to let Brits see their credit score within the AI platform.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48277/experian-lets-brits-check-credit-score-within-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-20",
-      "category": "Banking",
-      "tags": [
-        "experian",
-        "brits",
-        "chatgpt experian"
-      ]
-    },
-    {
-      "id": "943076328",
-      "title": "OpenAI and Anthropic Fuel California’s Record-Setting Investment Surge",
-      "summary": "California is reportedly seeing an historic wave of investment due to Silicon Valley’s artificial intelligence (AI) boom. Companies there have taken in around $366 billion in venture capital this year, with just two artificial intelligence (AI) firms—OpenAI and Anthropic—accounti…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/openai-and-anthropic-fuel-californias-record-setting-investment-surge/",
-      "date": "2026-08-20",
-      "category": "Banking",
-      "tags": [
-        "openai",
-        "anthropic fuel",
-        "california"
-      ]
-    },
-    {
-      "id": "438350811",
-      "title": "Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services.",
-      "summary": "Bank of China (Hong Kong) (BOCHK) and Ant International have teamed up to explore artificial intelligence (AI) use in financial services.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/bochk-and-ant-international-partner-cross-border-payments-and-treasury-ai",
-      "date": "2026-08-20",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "china",
-        "hong kong"
-      ]
-    },
-    {
-      "id": "370969382",
-      "title": "CFTC Prepares to Draft Rules for Trading Compute Derivatives Contracts",
-      "summary": "The Commodity Futures Trading Commission (CFTC) is seeking comment on the listing of compute derivatives contracts as it prepares to establish the “gold standard” for trading this commodity that powers the artificial intelligence economy, the regulator said in a Wednesday (Aug. 1…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/legal/2026/cftc-prepares-to-draft-rules-for-trading-compute-derivatives-contracts/",
-      "date": "2026-08-19",
-      "category": "Trading",
-      "tags": [
-        "cftc prepares",
-        "draft rules",
-        "trading compute"
-      ]
-    },
-    {
-      "id": "898886230",
-      "title": "Shanghai Commercial Bank is bringing robotics to its Hong Kong branch, using an automated system to retrieve more than 1,600 safe deposit boxes as it targets faster, more private service for wealth clients.",
-      "summary": "Shanghai Commercial Bank is bringing robotics to its Hong Kong branch, using an automated system to retrieve more than 1,600 safe deposit boxes as it targets faster, more private service for wealth clients.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/exclusive/robot-takes-over-safe-deposit-access-shanghai-commercial-bank",
-      "date": "2026-08-19",
-      "category": "Banking",
-      "tags": [
-        "shanghai commercial",
-        "bank",
-        "hong kong"
       ]
     }
   ]
