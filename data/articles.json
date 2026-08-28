@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-27T18:10:04Z",
+  "last_updated": "2026-08-28T03:31:21Z",
   "insights": {
     "risks": [
       "Regulatory: Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity — review compliance obligations.",
-      "Trading risk: Visa expands open-source AI cyber defence system — assess algorithmic exposure.",
-      "Operational: Young British investors trust AI more than TV or celebs — evaluate model governance gaps."
+      "Trading risk: Experian launches credit cards app on ChatGPT — assess algorithmic exposure.",
+      "Operational: Why every warehouse in Singapore will run on AI safety monitoring within five years — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Aussie fintechs Lucie Money taps Fiskil to embed open banking data into its conversational AI agent — potential infrastructure advantage.",
-      "Banking efficiency: Young British investors trust AI more than TV or celebs — cost reduction opportunity."
+      "Payments: The case for hybrid microfinance: Combining AI with social accountability — potential infrastructure advantage.",
+      "Banking efficiency: Why every warehouse in Singapore will run on AI safety monitoring within five years — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -22,7 +22,7 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Portfolio Management",
@@ -50,6 +50,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "77507502",
+      "title": "The case for hybrid microfinance: Combining AI with social accountability",
+      "summary": "Earlier this year I reviewed an AI-driven microfinance product being launched in Indonesia by a regional fintech. The model was elegant. It took transaction data from a payments app, layered in mobile usage patterns and a few social signals, and produced a credit score for each i…",
+      "source": "e27",
+      "url": "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/",
+      "date": "2026-08-28",
+      "category": "Payments",
+      "tags": [
+        "combining ai",
+        "earlier",
+        "ai"
+      ]
+    },
+    {
+      "id": "804444361",
+      "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
+      "summary": "Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four of those deaths involv…",
+      "source": "e27",
+      "url": "https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/",
+      "date": "2026-08-28",
+      "category": "Banking",
+      "tags": [
+        "why",
+        "singapore",
+        "ai"
+      ]
+    },
+    {
+      "id": "944669095",
+      "title": "Experian launches credit cards app on ChatGPT",
+      "summary": "Experian today announced the launch of the Experian Credit Cards app on ChatGPT, expanding its growing portfolio of AI-powered financial experiences and giving consumers a new way to discover and compare credit card options through a simple conversation.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110748/experian-launches-credit-cards-app-on-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-27",
+      "category": "Trading",
+      "tags": [
+        "experian",
+        "chatgpt experian",
+        "experian credit"
+      ]
+    },
     {
       "id": "567423416",
       "title": "Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity",
@@ -844,48 +886,6 @@
         "shanghai commercial",
         "bank",
         "hong kong"
-      ]
-    },
-    {
-      "id": "739808612",
-      "title": "SAP Concur unveils AI assistant for travel and expense sector",
-      "summary": "At the Global Business Travel Association (GBTA) Convention 2026, SAP Concur launched its latest expansion of AI-powered capabilities across the travel and expense (T&E) ecosystem, designed to help travel managers, finance teams, delegates, and travellers achieve more with less e…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110679/sap-concur-unveils-ai-assistant-for-travel-and-expense-sector?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-19",
-      "category": "Banking",
-      "tags": [
-        "sap concur",
-        "ai",
-        "global business"
-      ]
-    },
-    {
-      "id": "461718929",
-      "title": "The $1.5Trillion Benchmark: Custom Fintech Software Development Key Module Security and Cost Factors",
-      "summary": "By the end of 2026, the global market for artificial intelligence in banking is expected to reach",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32584/the-15trillion-benchmark-custom-fintech-software-development-key-module-security-and-cost-factors?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-19",
-      "category": "Payments",
-      "tags": [
-        "benchmark",
-        "custom fintech",
-        "software development"
-      ]
-    },
-    {
-      "id": "984112439",
-      "title": "A year after losing $1.46 billion, Bybit says AI helped it save $700 million",
-      "summary": "The exchange that lost $1.46 billion to North Korean hackers is the first large centralized firm to put numbers on a claim bitcoin developers have been making all month.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/tech/2026/08/19/a-year-after-losing-usd1-46-billion-bybit-says-ai-helped-it-save-usd700-million",
-      "date": "2026-08-19",
-      "category": "InsurTech",
-      "tags": [
-        "bybit",
-        "ai",
-        "north korean"
       ]
     }
   ]
