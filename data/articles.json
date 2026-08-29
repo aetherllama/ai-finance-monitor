@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-08-28T19:20:17Z",
+  "last_updated": "2026-08-29T13:04:39Z",
   "insights": {
     "risks": [
       "Regulatory: Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity — review compliance obligations.",
       "Trading risk: Experian launches credit cards app on ChatGPT — assess algorithmic exposure.",
-      "Operational: AI in Banking Is a Workforce Problem, Not a Technology One — evaluate model governance gaps."
+      "Operational: Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Banks Turn to AI to Stop Overstocking ATMs — potential infrastructure advantage.",
-      "Banking efficiency: AI in Banking Is a Workforce Problem, Not a Technology One — cost reduction opportunity."
+      "Banking efficiency: Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -50,6 +50,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "831660541",
+      "title": "Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI",
+      "summary": "While spending on artificial intelligence infrastructure is expected to drive a 14.2% increase in global IT spending this year, not all enterprises are raising their spending that much, the Wall Street Journal reported Friday (Aug. 28), citing a forecast by Gartner. Enterprises’ …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/enterprises-tap-the-brakes-on-tech-budgets-while-demanding-ai-roi/",
+      "date": "2026-08-28",
+      "category": "Banking",
+      "tags": [
+        "enterprises tap",
+        "brakes",
+        "tech budgets"
+      ]
+    },
     {
       "id": "598159449",
       "title": "AI in Banking Is a Workforce Problem, Not a Technology One",
@@ -872,20 +886,6 @@
         "why malaysia",
         "ai nation",
         "southeast asia"
-      ]
-    },
-    {
-      "id": "307577561",
-      "title": "Jack Henry signs Prevail Bank",
-      "summary": "Jack Henry (Nasdaq: JKHY) announced today that Prevail Bank has selected Jack Henry to help grow its business through modern technology, an open ecosystem, and continuous AI innovation.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110700/jack-henry-signs-prevail-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-20",
-      "category": "Banking",
-      "tags": [
-        "jack henry",
-        "prevail bank",
-        "nasdaq"
       ]
     }
   ]
