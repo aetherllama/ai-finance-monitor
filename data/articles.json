@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-08-30T21:52:14Z",
+  "last_updated": "2026-08-31T14:57:29Z",
   "insights": {
     "risks": [
       "Regulatory: Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity — review compliance obligations.",
       "Trading risk: Experian launches credit cards app on ChatGPT — assess algorithmic exposure.",
-      "Operational: Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI — evaluate model governance gaps."
+      "Operational: The dawn of physical AI — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Banks Turn to AI to Stop Overstocking ATMs — potential infrastructure advantage.",
-      "Banking efficiency: Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI — cost reduction opportunity."
+      "Payments: Why Finance Leaders Need to Tackle Shadow AI at its Source — potential infrastructure advantage.",
+      "Banking efficiency: The dawn of physical AI — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 2
+      "count": 13
     },
     {
       "topic": "Automation",
+      "count": 3
+    },
+    {
+      "topic": "Stablecoin AI",
       "count": 2
     },
     {
@@ -43,13 +43,79 @@
     {
       "topic": "Regulatory AI",
       "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "200686001",
+      "title": "The dawn of physical AI",
+      "summary": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
+      "date": "2026-08-31",
+      "category": "Banking",
+      "tags": [
+        "ai wall",
+        "street",
+        "silicon valley"
+      ]
+    },
+    {
+      "id": "823497934",
+      "title": "BofE governor warns that frontier AI models pose risk to global financial stability",
+      "summary": "Bank of England governor Andrew Bailey has warned that frontier AI models pose cyber security risks that could affect global financial stability.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48324/bofe-governor-warns-that-frontier-ai-models-pose-risk-to-global-financial-stability?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-31",
+      "category": "Banking",
+      "tags": [
+        "bofe",
+        "ai",
+        "bank"
+      ]
+    },
+    {
+      "id": "581237785",
+      "title": "Why Finance Leaders Need to Tackle Shadow AI at its Source",
+      "summary": "Brandon Till, Head of Business Solutions at Soldo, on why gaps in AI governance are fuelling shadow AI, and how finance leaders can close them. The post Why Finance Leaders Need to Tackle Shadow AI at its Source appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/why-finance-leaders-need-to-tackle-shadow-ai-at-its-source/",
+      "date": "2026-08-31",
+      "category": "Payments",
+      "tags": [
+        "why finance",
+        "leaders need",
+        "tackle shadow"
+      ]
+    },
+    {
+      "id": "487482870",
+      "title": "AI Agents Help Treasurers Move Faster",
+      "summary": "Corporate treasury sits at the intersection of every financial decision and every risk a company carries. The tools have improved over the years. The decisions have stayed human. Agentic artificial intelligence is beginning to change that. AI agents are now performing core treasu…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-help-treasurers-move-faster/",
+      "date": "2026-08-31",
+      "category": "Payments",
+      "tags": [
+        "ai agents",
+        "help treasurers",
+        "move faster"
+      ]
+    },
+    {
+      "id": "685242419",
+      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "summary": "Japan s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufactu…",
+      "source": "e27",
+      "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
+      "date": "2026-08-31",
+      "category": "Banking",
+      "tags": [
+        "why japan",
+        "ai",
+        "japan"
+      ]
+    },
     {
       "id": "831660541",
       "title": "Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI",
@@ -816,76 +882,6 @@
         "ai erp",
         "rillet",
         "series"
-      ]
-    },
-    {
-      "id": "364579391",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to Earth…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "date": "2026-08-21",
-      "category": "Banking",
-      "tags": [
-        "the download",
-        "ai",
-        "this"
-      ]
-    },
-    {
-      "id": "943514282",
-      "title": "When AI designs a drug, who gets the credit?",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using A…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "date": "2026-08-21",
-      "category": "Banking",
-      "tags": [
-        "when ai",
-        "when",
-        "insilico medicine"
-      ]
-    },
-    {
-      "id": "711687364",
-      "title": "When AI Becomes the FinCrime Analyst’s Co-Pilot, Who Owns the Decision?",
-      "summary": "AI is reshaping fintech financial crime operations, from screening and investigations to alert handling and due diligence, but firms must keep human accountability at the centre of risk decisions. The post When AI Becomes the FinCrime Analyst s Co-Pilot, Who Owns the Decision? ap…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/when-ai-becomes-the-fincrime-analysts-co-pilot-who-owns-the-decision/",
-      "date": "2026-08-21",
-      "category": "Payments",
-      "tags": [
-        "when ai",
-        "becomes",
-        "fincrime analyst"
-      ]
-    },
-    {
-      "id": "900660775",
-      "title": "Global banks sign for Ant International AI forecasting model",
-      "summary": "A host of banking giants, including Barclays and Deutsche Bank, are already using a new Ant International AI model to improve their cashflow forecasting and FX liquidity management capabilities.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48280/global-banks-sign-for-ant-international-ai-forecasting-model?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-21",
-      "category": "Banking",
-      "tags": [
-        "global",
-        "ant international",
-        "ai"
-      ]
-    },
-    {
-      "id": "594753010",
-      "title": "Why Malaysia’s AI Nation 2030 plan matters for B2B startups",
-      "summary": "For years, Southeast Asia’s startup economy has rewarded speed. Founders were expected to launch quickly, localise faster than global rivals, and chase market share across a region where digital adoption often outpaced regulation. That instinct still matters. But as artificial in…",
-      "source": "e27",
-      "url": "https://e27.co/why-malaysias-ai-nation-2030-plan-matters-for-b2b-startups-20260821/",
-      "date": "2026-08-21",
-      "category": "Banking",
-      "tags": [
-        "why malaysia",
-        "ai nation",
-        "southeast asia"
       ]
     }
   ]
