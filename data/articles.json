@@ -1,20 +1,18 @@
 {
-  "last_updated": "2026-08-31T14:57:29Z",
+  "last_updated": "2026-08-31T23:09:20Z",
   "insights": {
     "risks": [
-      "Regulatory: Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity — review compliance obligations.",
-      "Trading risk: Experian launches credit cards app on ChatGPT — assess algorithmic exposure.",
-      "Operational: The dawn of physical AI — evaluate model governance gaps."
+      "Operational: 7 Best Practices for Delivering Superior Customer Experience in AI-Driven AML and Fraud Prevention — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Why Finance Leaders Need to Tackle Shadow AI at its Source — potential infrastructure advantage.",
-      "Banking efficiency: The dawn of physical AI — cost reduction opportunity."
+      "Payments: Domain Authority Barely Predicts AI Visibility. I Measured 51 Fintechs. — potential infrastructure advantage.",
+      "Banking efficiency: 7 Best Practices for Delivering Superior Customer Experience in AI-Driven AML and Fraud Prevention — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -33,6 +31,14 @@
       "count": 2
     },
     {
+      "topic": "Fraud Detection",
+      "count": 1
+    },
+    {
+      "topic": "KYC / AML",
+      "count": 1
+    },
+    {
       "topic": "Credit & Underwriting",
       "count": 1
     },
@@ -46,6 +52,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "263926434",
+      "title": "7 Best Practices for Delivering Superior Customer Experience in AI-Driven AML and Fraud Prevention",
+      "summary": "In financial services, the customer journey is no longer just about convenience or personalization. ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32676/7-best-practices-for-delivering-superior-customer-experience-in-ai-driven-aml-and-fraud-prevention?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-31",
+      "category": "Banking",
+      "tags": [
+        "best practices",
+        "delivering superior",
+        "customer experience"
+      ]
+    },
+    {
+      "id": "587712800",
+      "title": "Domain Authority Barely Predicts AI Visibility. I Measured 51 Fintechs.",
+      "summary": "Most fintech marketing teams have spent years building domain authority. The logic is familiar: ear",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32674/domain-authority-barely-predicts-ai-visibility-i-measured-51-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-08-31",
+      "category": "Payments",
+      "tags": [
+        "domain authority",
+        "barely predicts",
+        "ai visibility"
+      ]
+    },
+    {
+      "id": "424953887",
+      "title": "Rails, Rules & Reality: The Next Phase of Fintech",
+      "summary": "FedNow is moving toward cross-border payments, while stricter bank charter rules and AI-driven efficiency are reshaping fintech. Growth now depends on speed, compliance, profitability and smarter operations. The post Rails, Rules Reality: The Next Phase of Fintech appeared first …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/rails-rules-reality-the-next-phase-of-fintech/",
+      "date": "2026-08-31",
+      "category": "Banking",
+      "tags": [
+        "rails",
+        "rules",
+        "reality"
+      ]
+    },
     {
       "id": "200686001",
       "title": "The dawn of physical AI",
@@ -840,48 +888,6 @@
         "nuggets launches",
         "authority control",
         "plane"
-      ]
-    },
-    {
-      "id": "708931823",
-      "title": "One AI Agent, 2,395 Payments. Still No Final Say",
-      "summary": "Preparing a batch of payments used to mean a person checking each invoice, confirming it matched what was approved, and grouping everything by hand. Coupa just showed how much of that work software can now do on its own. The company’s Payment Batch Creation Agent ran 14 payment b…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/one-ai-agent-2395-payments-still-no-final-say/",
-      "date": "2026-08-21",
-      "category": "Payments",
-      "tags": [
-        "one ai",
-        "agent",
-        "payments"
-      ]
-    },
-    {
-      "id": "282202738",
-      "title": "Singapore’s DBS deploys specialist AI agents for 1,500 employees",
-      "summary": "DBS will roll out agentic AI services for roughly 1,500 bankers globally to support with corporate credit assessments.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48281/singapores-dbs-deploys-specialist-ai-agents-for-1500-employees?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-21",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "dbs",
-        "ai"
-      ]
-    },
-    {
-      "id": "489250235",
-      "title": "AI ERP platform Rillet raises $100m Series C at $1bn valuation",
-      "summary": "Rillet, the AI-native ERP (enterprise resource planning) platform for modern finance teams, today announced a $100 million Series C led by ICONIQ at a $1 billion valuation, with participation from Sequoia, Andreessen Horowitz, Sequoia Global Equities, Bain Capital Ventures, Oak H…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110702/ai-erp-platform-rillet-raises-100m-series-c-at-1bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-21",
-      "category": "Banking",
-      "tags": [
-        "ai erp",
-        "rillet",
-        "series"
       ]
     }
   ]
