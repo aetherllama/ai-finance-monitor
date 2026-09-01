@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-08-31T23:09:20Z",
+  "last_updated": "2026-09-01T12:28:23Z",
   "insights": {
     "risks": [
-      "Operational: 7 Best Practices for Delivering Superior Customer Experience in AI-Driven AML and Fraud Prevention — evaluate model governance gaps."
+      "Operational: AI in Financial Services: Activity is Not an Outcome — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Domain Authority Barely Predicts AI Visibility. I Measured 51 Fintechs. — potential infrastructure advantage.",
-      "Banking efficiency: 7 Best Practices for Delivering Superior Customer Experience in AI-Driven AML and Fraud Prevention — cost reduction opportunity."
+      "Payments: Rentify’s Earn AI: An Operating Layer for Dubai’s Landlords — potential infrastructure advantage.",
+      "Banking efficiency: AI in Financial Services: Activity is Not an Outcome — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Stablecoin AI",
@@ -52,6 +52,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "14851038",
+      "title": "AI in Financial Services: Activity is Not an Outcome",
+      "summary": "Counting licences and completed courses tells a bank nothing about whether its AI works. Kallidus chief executive Harry Chapman-Walker on the activity trap. The post AI in Financial Services: Activity is Not an Outcome appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-in-financial-services-activity-is-not-an-outcome/",
+      "date": "2026-09-01",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "financial services",
+        "activity"
+      ]
+    },
+    {
+      "id": "392880097",
+      "title": "Rentify’s Earn AI: An Operating Layer for Dubai’s Landlords",
+      "summary": "Rentify co-founders Rashed Hareb and Rajneel Kumar on Earn AI, the operating layer builtto show Dubai landlords what every unit is actually earning. The post Rentify s Earn AI: An Operating Layer for Dubai s Landlords appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/rentifys-earn-ai-an-operating-layer-for-dubais-landlords/",
+      "date": "2026-09-01",
+      "category": "Payments",
+      "tags": [
+        "rentify",
+        "earn ai",
+        "an operating"
+      ]
+    },
+    {
+      "id": "415148642",
+      "title": "AI Software’s Real Bottleneck is Payments Infrastructure",
+      "summary": "Kevin Kidd, founder and CEO of Cresora Commerce, argues that payments infrastructure, not code, now sets the pace of innovation in AI-driven software. The post AI Software s Real Bottleneck is Payments Infrastructure appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-softwares-real-bottleneck-is-payments-infrastructure/",
+      "date": "2026-09-01",
+      "category": "Payments",
+      "tags": [
+        "ai software",
+        "real bottleneck",
+        "payments infrastructure"
+      ]
+    },
     {
       "id": "263926434",
       "title": "7 Best Practices for Delivering Superior Customer Experience in AI-Driven AML and Fraud Prevention",
@@ -846,48 +888,6 @@
         "singapore",
         "ai",
         "asean"
-      ]
-    },
-    {
-      "id": "552677267",
-      "title": "Bank fraud in Australia is becoming harder to detect as criminals use artificial intelligence (AI) to forge identities and documents, whilst weaknesses in lending controls and legal protections leave banks and customers exposed, analysts said.",
-      "summary": "Bank fraud in Australia is becoming harder to detect as criminals use artificial intelligence (AI) to forge identities and documents, whilst weaknesses in lending controls and legal protections leave banks and customers exposed, analysts said.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/exclusive/ai-raises-bank-fraud-risks-australia-faces-control-gaps",
-      "date": "2026-08-23",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "australia",
-        "ai"
-      ]
-    },
-    {
-      "id": "699048221",
-      "title": "London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027",
-      "summary": "LSE will open a near-continuous trading venue for ETPs in H1 2027, targeting algorithmic and agentic trading across global time zones. The post London Stock Exchange to Launch 24/5 Venue LSE 24 in 2027 appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/london-stock-exchange-to-launch-24-5-venue-lse-24-in-2027/",
-      "date": "2026-08-23",
-      "category": "Trading",
-      "tags": [
-        "london stock",
-        "exchange",
-        "launch"
-      ]
-    },
-    {
-      "id": "469290145",
-      "title": "Nuggets Launches Authority Control Plane for Autonomous AI Agents",
-      "summary": "The London identity firm has launched a runtime enforcement layer that governs what AI agents are authorised to do at the moment of execution. The post Nuggets Launches Authority Control Plane for Autonomous AI Agents appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/nuggets-launches-authority-control-plane-for-autonomous-ai-agents/",
-      "date": "2026-08-22",
-      "category": "Payments",
-      "tags": [
-        "nuggets launches",
-        "authority control",
-        "plane"
       ]
     }
   ]
