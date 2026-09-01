@@ -1,21 +1,25 @@
 {
-  "last_updated": "2026-09-01T12:28:23Z",
+  "last_updated": "2026-09-01T21:39:25Z",
   "insights": {
     "risks": [
-      "Operational: AI in Financial Services: Activity is Not an Outcome — evaluate model governance gaps."
+      "Operational: Digital Onboarding launches AI-native business intelligence agent for banks — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Rentify’s Earn AI: An Operating Layer for Dubai’s Landlords — potential infrastructure advantage.",
-      "Banking efficiency: AI in Financial Services: Activity is Not an Outcome — cost reduction opportunity."
+      "Payments: Jackson Hole and G20 Map a Future of 24/7 Payments and AI — potential infrastructure advantage.",
+      "Banking efficiency: Digital Onboarding launches AI-native business intelligence agent for banks — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Automation",
+      "count": 3
+    },
+    {
+      "topic": "Payments AI",
       "count": 2
     },
     {
@@ -41,17 +45,79 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "774128539",
+      "title": "Digital Onboarding launches AI-native business intelligence agent for banks",
+      "summary": "Digital Onboarding, the lifecycle engagement platform trusted by 170+ banks and credit unions, today announced the completion of its evolution into an AI-native platform, and the launch of DOBI, Digital Onboarding Business Intelligence, the AI agent built on that foundation.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110773/digital-onboarding-launches-ai-native-business-intelligence-agent-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-01",
+      "category": "Banking",
+      "tags": [
+        "digital onboarding",
+        "ai",
+        "dobi"
+      ]
+    },
+    {
+      "id": "743452941",
+      "title": "Vertice AI launches growth engine for financial institutions",
+      "summary": "Vertice AI, the leading provider of AI-powered growth solutions for community financial institutions, today announced the launch of Vertice OPTIMIZE, a first-of-its-kind solution that links a financial institution’s growth goals directly to marketing execution.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110772/vertice-ai-launches-growth-engine-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-01",
+      "category": "Banking",
+      "tags": [
+        "vertice ai",
+        "ai",
+        "vertice optimize"
+      ]
+    },
+    {
+      "id": "15317409",
+      "title": "Lenvi launches verification software to protect against double pledging fraud",
+      "summary": "Lending technology provider Lenvi has launched new automated loan verification integration software, known as ALVIN, to tackle double pledging and track money in real-time following a series of high-profile fraud cases in securitised markets in the UK and US.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110768/lenvi-launches-verification-software-to-protect-against-double-pledging-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-01",
+      "category": "Banking",
+      "tags": [
+        "lenvi",
+        "lending",
+        "alvin"
+      ]
+    },
+    {
+      "id": "135938364",
+      "title": "SBS Chief: bank AI Pilots Stall on Data, not on the model",
+      "summary": "Eric Bierry, chief executive of SBS, on why bank AI pilots succeed where rollouts fail, and what has to change before the full rollout in 2027. The post SBS Chief: bank AI Pilots Stall on Data, not on the model appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/sbs-chief-bank-ai-pilots-stall-on-data-not-on-the-model/",
+      "date": "2026-09-01",
+      "category": "Banking",
+      "tags": [
+        "sbs chief",
+        "ai pilots",
+        "stall"
+      ]
+    },
+    {
+      "id": "907090798",
+      "title": "Jackson Hole and G20 Map a Future of 24/7 Payments and AI",
+      "summary": "A financial market that trades around the clock can’t wait until the next banking day to settle. A business selling digital services overseas has a different problem: the product can cross the border more easily than the payment. Both issues surfaced last week at the Jackson Hole…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/payments-innovation/2026/jackson-hole-and-g20-map-a-future-of-24-7-payments-and-ai/",
+      "date": "2026-09-01",
+      "category": "Payments",
+      "tags": [
+        "jackson hole",
+        "map",
+        "future"
+      ]
+    },
     {
       "id": "14851038",
       "title": "AI in Financial Services: Activity is Not an Outcome",
@@ -818,76 +884,6 @@
       "category": "Banking",
       "tags": [
         "norwegian"
-      ]
-    },
-    {
-      "id": "631849522",
-      "title": "US-EU Business Investment Gap Expands Thanks to AI",
-      "summary": "U.S. business investment is reportedly on pace to increase three times faster than in Europe. That’s according to a report Monday (Aug. 24) by the Financial Times (FT), citing a forecast from Oxford Economics showing an artificial intelligence (AI)-fueled gap widening between the…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-eu-business-investment-gap-expands-thanks-to-ai/",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "us",
-        "eu business",
-        "investment gap"
-      ]
-    },
-    {
-      "id": "38701442",
-      "title": "US widens AI-driven investment gap with Europe",
-      "summary": "The bloc struggles to keep up with US spending on high-tech equipment and facilities",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/77b94c4a-4b4b-4983-9138-7db6926150f4?syn-25a6b1a6=1",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "us",
-        "ai",
-        "europe the"
-      ]
-    },
-    {
-      "id": "155049726",
-      "title": "Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Accelerate DeepTech Innovation",
-      "summary": "Taranis Capital, The Fintech Times and Co-Labs Global have joined forces to accelerate FinTech, AI, RegTech and BioTech growth through capital, media reach and collaboration. The post Taranis Capital, The Fintech Times and Co-Labs Global Form Strategic Alliance to De-Risk and Acc…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/taranis-capital-the-fintech-times-and-co-labs-global-form-strategic-alliance-to-de-risk-and-accelerate-deeptech-innovation/",
-      "date": "2026-08-24",
-      "category": "Payments",
-      "tags": [
-        "taranis capital",
-        "the fintech",
-        "times"
-      ]
-    },
-    {
-      "id": "976025815",
-      "title": "Private Equity Groups Begin Placing AI Experts in Portfolio Companies",
-      "summary": "Private equity firms have reportedly begun placing artificial intelligence experts within their portfolio companies to grow those businesses. That’s according to a report Friday (Aug. 21) from The Wall Street Journal (WSJ), which cites the example of Wall Street firms like Blacks…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/private-equity-groups-begin-placing-ai-experts-in-portfolio-companies/",
-      "date": "2026-08-24",
-      "category": "Trading",
-      "tags": [
-        "private equity",
-        "groups begin",
-        "placing ai"
-      ]
-    },
-    {
-      "id": "395917582",
-      "title": "Singapore’s biggest startup opportunity isn’t AI; it’s building ASEAN’s operating system",
-      "summary": "Complacency is our greatest threat. That was Defense Minister Chan Chun Sing s warning during Singapore s National Day Rally season. Around the same time, Acting Manpower Minister Jeffrey Siow argued that younger Singaporeans will change jobs more often than previous generations …",
-      "source": "e27",
-      "url": "https://e27.co/singapores-biggest-startup-opportunity-isnt-ai-its-building-aseans-operating-system-20260821/",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "asean"
       ]
     }
   ]
