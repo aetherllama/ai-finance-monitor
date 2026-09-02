@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-02T12:00:59Z",
+  "last_updated": "2026-09-02T21:38:49Z",
   "insights": {
     "risks": [
       "Regulatory: Sumsub releases fraud prevention starter kit — review compliance obligations.",
-      "Operational: Incore Bank’s AI Hits 99% Accuracy on KYC Checks — evaluate model governance gaps."
+      "Operational: Airwallex unveils AI bookkeeping platform — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Why Modern Issuing Platforms Will Determine Which AI Strategies Succeed — potential infrastructure advantage.",
-      "Banking efficiency: Incore Bank’s AI Hits 99% Accuracy on KYC Checks — cost reduction opportunity."
+      "Payments: Why the Future of AI in Banking Depends on Trust, not Trials — potential infrastructure advantage.",
+      "Banking efficiency: Airwallex unveils AI bookkeeping platform — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -36,6 +36,10 @@
       "count": 2
     },
     {
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
       "topic": "KYC / AML",
       "count": 1
     },
@@ -49,6 +53,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "252310206",
+      "title": "Airwallex unveils AI bookkeeping platform",
+      "summary": "Finance is infrastructure. It should just run. Transactions categorized as they happen. Books shaped around how the business actually earns and spends. Cash, burn, and runway visible the moment you want them.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110787/airwallex-unveils-ai-bookkeeping-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-02",
+      "category": "Banking",
+      "tags": [
+        "airwallex",
+        "ai",
+        "finance"
+      ]
+    },
+    {
+      "id": "553567284",
+      "title": "Nasdaq acquires AI due diligence platform Dasseti",
+      "summary": "Nasdaq (Nasdaq: NDAQ) today announced that it has completed its acquisition of Dasseti, an AI-powered due diligence and monitoring platform for investment consultants, institutional investors, and asset managers.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110785/nasdaq-acquires-ai-due-diligence-platform-dasseti?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-02",
+      "category": "Banking",
+      "tags": [
+        "nasdaq",
+        "ai",
+        "dasseti nasdaq"
+      ]
+    },
+    {
+      "id": "533489721",
+      "title": "Why the Future of AI in Banking Depends on Trust, not Trials",
+      "summary": "Ben Saunders, Co-Founder of WeBuild-AI, argues that scaling AI in banking is an operating model challenge built on trust, not a technology problem. The post Why the Future of AI in Banking Depends on Trust, not Trials appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/why-the-future-of-ai-in-banking-depends-on-trust-not-trials/",
+      "date": "2026-09-02",
+      "category": "Payments",
+      "tags": [
+        "why",
+        "future",
+        "ai"
+      ]
+    },
+    {
+      "id": "266422192",
+      "title": "Why UK Fintechs Should Stop Fearing AI Regulation",
+      "summary": "Deepali Limaye Davalbhakta, Managing Director at Brillio, argues that building AI governance in from day one gives UK fintechs a trust advantage. The post Why UK Fintechs Should Stop Fearing AI Regulation appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/why-uk-fintechs-should-stop-fearing-ai-regulation/",
+      "date": "2026-09-02",
+      "category": "Payments",
+      "tags": [
+        "why uk",
+        "fintechs should",
+        "stop fearing"
+      ]
+    },
+    {
+      "id": "868619032",
+      "title": "Round Treasury: Where AI Actually Earns its Place in Finance",
+      "summary": "Round co-founder and CEO Pac O'Shea on where AI genuinely earns its place in finance teams, and why the next step is software that acts, not dashboards. The post Round Treasury: Where AI Actually Earns its Place in Finance appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/round-treasury-where-ai-actually-earns-its-place-in-finance/",
+      "date": "2026-09-02",
+      "category": "Payments",
+      "tags": [
+        "round treasury",
+        "where ai",
+        "actually earns"
+      ]
+    },
     {
       "id": "255804137",
       "title": "Sumsub releases fraud prevention starter kit",
@@ -817,76 +891,6 @@
         "from pull",
         "push",
         "the shift"
-      ]
-    },
-    {
-      "id": "595341331",
-      "title": "JPMorgan eases approach on lending against shares to court AI’s new wealth",
-      "summary": "US bank shortened time horizon for SpaceX workers and investors to borrow against stock holdings and may do same for Anthropic",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d18b330f-1cc2-4f83-9720-5ab5b13981e4?syn-25a6b1a6=1",
-      "date": "2026-08-25",
-      "category": "Banking",
-      "tags": [
-        "jpmorgan",
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "id": "913664673",
-      "title": "AI-native financial services startup Neno raises €6.6 million",
-      "summary": "Dutch fintech Neno has raised €6.6 million in seed funding to bring its AI-native accounting and tax offering for SMEs to the wider European market.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48292/ai-native-financial-services-startup-neno-raises-66-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-25",
-      "category": "Payments",
-      "tags": [
-        "ai",
-        "neno",
-        "dutch"
-      ]
-    },
-    {
-      "id": "349379887",
-      "title": "Australian Businesses Favor AI for Back-Office Tasks Over Software Building",
-      "summary": "Anthropic’s customers in Australia, who have been among the leading adopters of the company’s Claude artificial intelligence (AI) model, tend to use the tool for back-office tasks, the company’s country head said Monday (Aug. 24), Bloomberg reported. Speaking at a National Austra…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/australian-businesses-favor-ai-for-back-office-tasks-over-software-building/",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "australian businesses",
-        "favor ai",
-        "back"
-      ]
-    },
-    {
-      "id": "88002290",
-      "title": "ADIB appoints first chief AI officer",
-      "summary": "Abu Dhabi Islamic Bank(ADIB) has named Pedro Uria-Recio as its inaugural chief AI officer.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "adib",
-        "ai",
-        "abu dhabi"
-      ]
-    },
-    {
-      "id": "982964681",
-      "title": "MDT and OnTrac partners to help credit unions build AI readiness",
-      "summary": "Member Driven Technologies (MDT), a CUSO that helps credit unions navigate complex financial technology ecosystems, today announced a partnership with OnTrac AI, an AI development and consulting firm, to extend MDT’s Transformational Consulting capabilities with deeper AI readine…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110712/mdt-and-ontrac-partners-to-help-credit-unions-build-ai-readiness?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "mdt",
-        "ontrac",
-        "ai"
       ]
     }
   ]
