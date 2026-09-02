@@ -1,12 +1,13 @@
 {
-  "last_updated": "2026-09-01T21:39:25Z",
+  "last_updated": "2026-09-02T12:00:59Z",
   "insights": {
     "risks": [
-      "Operational: Digital Onboarding launches AI-native business intelligence agent for banks — evaluate model governance gaps."
+      "Regulatory: Sumsub releases fraud prevention starter kit — review compliance obligations.",
+      "Operational: Incore Bank’s AI Hits 99% Accuracy on KYC Checks — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Jackson Hole and G20 Map a Future of 24/7 Payments and AI — potential infrastructure advantage.",
-      "Banking efficiency: Digital Onboarding launches AI-native business intelligence agent for banks — cost reduction opportunity."
+      "Payments: Why Modern Issuing Platforms Will Determine Which AI Strategies Succeed — potential infrastructure advantage.",
+      "Banking efficiency: Incore Bank’s AI Hits 99% Accuracy on KYC Checks — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,7 +17,11 @@
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 4
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 2
     },
     {
       "topic": "Payments AI",
@@ -27,16 +32,8 @@
       "count": 2
     },
     {
-      "topic": "Customer Service AI",
-      "count": 2
-    },
-    {
       "topic": "Portfolio Management",
       "count": 2
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 1
     },
     {
       "topic": "KYC / AML",
@@ -45,9 +42,55 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "255804137",
+      "title": "Sumsub releases fraud prevention starter kit",
+      "summary": "Sumsub, the AI-powered trust infrastructure for compliance operations at scale, today announced the launch of Fraud Prevention Starter Kit, ready-made fraud risk decisioning for companies growing faster than their fraud controls.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110781/sumsub-releases-fraud-prevention-starter-kit?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-02",
+      "category": "RegTech",
+      "tags": [
+        "sumsub",
+        "ai",
+        "fraud prevention"
+      ]
+    },
+    {
+      "id": "325803313",
+      "title": "Why Modern Issuing Platforms Will Determine Which AI Strategies Succeed",
+      "summary": "Artificial intelligence (AI) is moving from experimentation to practical deployment across financial services. As agentic models exceed merely generating recommendations, issuers are discovering that AI itself is no longer the limiting factor for autonomous action. AI readiness v…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/tracker_posts/why-modern-issuing-platforms-will-determine-which-ai-strategies-succeed/",
+      "date": "2026-09-02",
+      "category": "Payments",
+      "tags": [
+        "why modern",
+        "issuing platforms",
+        "will determine"
+      ]
+    },
+    {
+      "id": "731090517",
+      "title": "Incore Bank’s AI Hits 99% Accuracy on KYC Checks",
+      "summary": "Know-your-customer (KYC) checks are expensive partly because a bank isn’t simply verifying an identity. Compliance teams have to collect information from documents, reconcile it across systems, investigate potential risk factors and build an auditable record explaining how they r…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/incore-banks-ai-hits-99-accuracy-on-kyc-checks/",
+      "date": "2026-09-01",
+      "category": "Banking",
+      "tags": [
+        "incore bank",
+        "ai hits",
+        "accuracy"
+      ]
+    },
     {
       "id": "774128539",
       "title": "Digital Onboarding launches AI-native business intelligence agent for banks",
@@ -844,46 +887,6 @@
         "mdt",
         "ontrac",
         "ai"
-      ]
-    },
-    {
-      "id": "779440172",
-      "title": "Starling launches AI assistant for business",
-      "summary": "Starling Bank has today launched an agentic AI-powered ‘Starling Assistant’ to all business customers.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110710/starling-launches-ai-assistant-for-business?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "starling",
-        "ai",
-        "starling bank"
-      ]
-    },
-    {
-      "id": "500290571",
-      "title": "Reggy launches European regulatory compliance platform",
-      "summary": "Reggy, a Norwegian compliance software company that has been signing enterprise customers since 2024, publicly launched today, betting that a wave of new European rules, including the EU AI Act, will drive demand for a single platform to manage all the regulations a company faces…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110709/reggy-launches-european-regulatory-compliance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-24",
-      "category": "RegTech",
-      "tags": [
-        "reggy",
-        "european",
-        "norwegian"
-      ]
-    },
-    {
-      "id": "588550121",
-      "title": "The role of artificial intelligence in pricing an unsecured forbrukslån",
-      "summary": "A forbrukslån is a Norwegian unsecured personal loan — no collateral, no home or car backing it up, ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32619/the-role-of-artificial-intelligence-in-pricing-an-unsecured-forbruksln?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-24",
-      "category": "Banking",
-      "tags": [
-        "norwegian"
       ]
     }
   ]
