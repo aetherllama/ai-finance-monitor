@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-09-02T21:38:49Z",
+  "last_updated": "2026-09-03T12:00:34Z",
   "insights": {
     "risks": [
       "Regulatory: Sumsub releases fraud prevention starter kit — review compliance obligations.",
-      "Operational: Airwallex unveils AI bookkeeping platform — evaluate model governance gaps."
+      "Operational: Incore Bank trials AI for customer onboarding with automated risk assessment — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Why the Future of AI in Banking Depends on Trust, not Trials — potential infrastructure advantage.",
-      "Banking efficiency: Airwallex unveils AI bookkeeping platform — cost reduction opportunity."
+      "Payments: Expense Fraud Detection Needs Explainable AI, Not Black Boxes — potential infrastructure advantage.",
+      "Banking efficiency: Incore Bank trials AI for customer onboarding with automated risk assessment — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Fraud Detection",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Payments AI",
@@ -32,8 +32,12 @@
       "count": 2
     },
     {
-      "topic": "Portfolio Management",
-      "count": 2
+      "topic": "Risk Management",
+      "count": 1
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
     },
     {
       "topic": "Regulatory AI",
@@ -46,13 +50,121 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "364076392",
+      "title": "Incore Bank trials AI for customer onboarding with automated risk assessment",
+      "summary": "Switzerland's Incore Bank has run a proof of concept trial with Kyndryl and Google Cloud on the use of AI agents to accelerate customer onboarding while maintaining strong risk oversight controls.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48344/incore-bank-trials-ai-for-customer-onboarding-with-automated-risk-assessment?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-03",
+      "category": "Banking",
+      "tags": [
+        "incore bank",
+        "ai",
+        "switzerland"
+      ]
+    },
+    {
+      "id": "842116143",
+      "title": "BBVA brings AI into the ePricer experience",
+      "summary": "BBVA Corporate & Investment Banking is bringing artificial intelligence directly into ePricer, its digital structured products platform, with a new release designed to make idea generation, pricing and lifecycle management more connected.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110800/bbva-brings-ai-into-the-epricer-experience?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-03",
+      "category": "Banking",
+      "tags": [
+        "bbva",
+        "ai",
+        "bbva corporate"
+      ]
+    },
+    {
+      "id": "79587566",
+      "title": "Countdown to Sibos: Who controls value in an AI-driven economy?",
+      "summary": "As tokenisation, programmable finance and AI continue to evolve, how should treasury prepare for the next generation of digital finance?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/633/countdown-to-sibos-who-controls-value-in-an-ai-driven-economy?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-03",
+      "category": "Banking",
+      "tags": [
+        "countdown",
+        "sibos",
+        "who"
+      ]
+    },
+    {
+      "id": "608874664",
+      "title": "Expense Fraud Detection Needs Explainable AI, Not Black Boxes",
+      "summary": "Richard Jones, VP of product at ExpenseIn, argues that black box AI cannot police expense fraud and finance teams need explainable pattern recognition. The post Expense Fraud Detection Needs Explainable AI, Not Black Boxes appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/expense-fraud-detection-needs-explainable-ai-not-black-boxes/",
+      "date": "2026-09-03",
+      "category": "Payments",
+      "tags": [
+        "expense fraud",
+        "detection needs",
+        "explainable ai"
+      ]
+    },
+    {
+      "id": "298006562",
+      "title": "Finom on the Jump From AI that Answers to AI that Pays",
+      "summary": "Alex Gromadzki, head of product at Finom, on building AI into an SME business account, and what has to be true before it is allowed to move money. The post Finom on the Jump From AI that Answers to AI that Pays appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/finom-on-the-jump-from-ai-that-answers-to-ai-that-pays/",
+      "date": "2026-09-03",
+      "category": "Payments",
+      "tags": [
+        "finom",
+        "jump from",
+        "ai"
+      ]
+    },
+    {
+      "id": "165385811",
+      "title": "Most Banks Wait Six Years for AI Payback. Discovery Didn’t.",
+      "summary": "Banks have a lot of data on their customers, but most of it sits unused. The customer gets flooded the same generic offer everyone else gets, and the bank misses a warning sign of fraud its own systems could have caught earlier, simply because nothing connects the dots fast enoug…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/most-banks-wait-six-years-for-ai-payback-discovery-didnt/",
+      "date": "2026-09-03",
+      "category": "Banking",
+      "tags": [
+        "most banks",
+        "wait six",
+        "years"
+      ]
+    },
+    {
+      "id": "953439050",
+      "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+      "summary": "Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabili…",
+      "source": "e27",
+      "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
+      "date": "2026-09-03",
+      "category": "Payments",
+      "tags": [
+        "fintech",
+        "defi",
+        "ai"
+      ]
+    },
+    {
+      "id": "275600187",
+      "title": "Leading voices from the banking and insurance industries will meet at The Hyatt Regency to discuss wealth management, insurance investment, and the AI economy.",
+      "summary": "Leading voices from the banking and insurance industries will meet at The Hyatt Regency to discuss wealth management, insurance investment, and the AI economy.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/event-news/hang-seng-bank-bochk-manulife-and-more-convene-abf-ia-summit-hong-kong-5-november",
+      "date": "2026-09-03",
+      "category": "Banking",
+      "tags": [
+        "leading",
+        "the hyatt",
+        "regency"
+      ]
+    },
     {
       "id": "252310206",
       "title": "Airwallex unveils AI bookkeeping platform",
@@ -779,118 +891,6 @@
         "banks double",
         "down",
         "ai agents"
-      ]
-    },
-    {
-      "id": "164980356",
-      "title": "Taste is the last moat: I’m trading my wearables for wine",
-      "summary": "I spent three years optimising my sleep score. Then one bottle of wine showed me the last moat AI cannot cross Wine and other unconducive hobbies are quietly compounding across Southeast Asia while the longevity industrial complex burns out. The difference is not data. It is tast…",
-      "source": "e27",
-      "url": "https://e27.co/taste-is-the-last-moat-im-trading-my-wearables-for-wine-20260824/",
-      "date": "2026-08-26",
-      "category": "Trading",
-      "tags": [
-        "taste",
-        "then",
-        "ai"
-      ]
-    },
-    {
-      "id": "531004735",
-      "title": "3M Uses AI to Tame Its 60,000-Product Portfolio",
-      "summary": "3M sells more than 60,000 products, spanning adhesives, abrasives, films, automotive materials, electronics and safety gear, so many that finding the right product has become its own obstacle to a sale. The company launched Ask 3M, an AI assistant that gives industrial customers …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/3m-uses-ai-to-tame-its-60000-product-portfolio/",
-      "date": "2026-08-25",
-      "category": "Trading",
-      "tags": [
-        "uses ai",
-        "tame its",
-        "product portfolio"
-      ]
-    },
-    {
-      "id": "37306982",
-      "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT",
-      "summary": "Munich-based bank Scalable Capital has opened its platform to AI assistants, giving customers the option to let the likes of ChatGPT, Claude and Grok carry out trades on their behalf.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48298/scalable-capital-opens-platform-to-ai-agents-like-claude-and-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-25",
-      "category": "Banking",
-      "tags": [
-        "scalable capital",
-        "ai",
-        "claude"
-      ]
-    },
-    {
-      "id": "611685141",
-      "title": "Itoflow raises $2.5m for investment research AI agents",
-      "summary": "Startup Itoflow has raised $2.5 million in pre-seed funding for its AI platform helping professional investment teams scale research and portfolio management.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48297/itoflow-raises-25m-for-investment-research-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-25",
-      "category": "Trading",
-      "tags": [
-        "itoflow",
-        "ai",
-        "startup itoflow"
-      ]
-    },
-    {
-      "id": "10525619",
-      "title": "Revolut launches dedicated AI research lab built on its own foundation model",
-      "summary": "Revolut has launched a dedicated AI research division built around its foundation model, Pragma, with the aim of developing a single, unified system capable of understanding the true nuance of financial behaviour in real time.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48296/revolut-launches-dedicated-ai-research-lab-built-on-its-own-foundation-model?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-25",
-      "category": "Banking",
-      "tags": [
-        "revolut",
-        "ai",
-        "pragma"
-      ]
-    },
-    {
-      "id": "754351472",
-      "title": "More than three in four 18 to 24-year-olds have used AI for personal finance - Lloyds",
-      "summary": "According to new analysis from Lloyds Banking Group, more than three in four (76%) 18 to 24-year-olds have used AI for personal finance – making them the UK's most enthusiastic adopters of AI for money management.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110717/more-than-three-in-four-18-to-24-year-olds-have-used-ai-for-personal-finance---lloyds?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-25",
-      "category": "Banking",
-      "tags": [
-        "more",
-        "ai",
-        "lloyds according"
-      ]
-    },
-    {
-      "id": "997445910",
-      "title": "AI-driven portfolio management platform Standard Metrics raises $20 million",
-      "summary": "SAN FRANCISCO, Aug. 24, 2026 /PRNewswire/ -- Standard Metrics, the AI-driven portfolio management platform for venture capital and private equity, today announced it has raised $20M in Series B funding led by 8VC with participation from Salesforce Ventures, Spark Capital, January…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110716/ai-driven-portfolio-management-platform-standard-metrics-raises-20-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-25",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "standard metrics",
-        "san francisco"
-      ]
-    },
-    {
-      "id": "378297834",
-      "title": "From Pull to Push: The Shift to Embedded, AI-Driven Banking",
-      "summary": "Banking is undergoing a quiet but profound transformation. While most people still interact with th",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32630/from-pull-to-push-the-shift-to-embedded-ai-driven-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-25",
-      "category": "Banking",
-      "tags": [
-        "from pull",
-        "push",
-        "the shift"
       ]
     }
   ]
