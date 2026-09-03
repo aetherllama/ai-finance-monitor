@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-09-03T12:00:34Z",
+  "last_updated": "2026-09-03T21:35:59Z",
   "insights": {
     "risks": [
-      "Regulatory: Sumsub releases fraud prevention starter kit — review compliance obligations.",
-      "Operational: Incore Bank trials AI for customer onboarding with automated risk assessment — evaluate model governance gaps."
+      "Operational: Finzly debuts AI assurance layer — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Expense Fraud Detection Needs Explainable AI, Not Black Boxes — potential infrastructure advantage.",
-      "Banking efficiency: Incore Bank trials AI for customer onboarding with automated risk assessment — cost reduction opportunity."
+      "Payments: Shufti’s Shahid Hanif on Onboarding Friction and AI Fraud — potential infrastructure advantage.",
+      "Banking efficiency: Finzly debuts AI assurance layer — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Automation",
@@ -53,6 +52,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "192975170",
+      "title": "Finzly debuts AI assurance layer",
+      "summary": "Finzly, the banking transformation company, today announced the launch of Assure, an AI-powered security and assurance layer as part of its Agentic Galaxy suite of AI capabilities, powering the infrastructure for BankOS, its modern operating system for banks.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110810/finzly-debuts-ai-assurance-layer?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-03",
+      "category": "Banking",
+      "tags": [
+        "finzly",
+        "ai",
+        "assure"
+      ]
+    },
+    {
+      "id": "127086945",
+      "title": "On-Demand – Countdown to Sibos: Who controls value in an AI-driven economy?",
+      "summary": "As tokenisation, programmable finance and AI continue to evolve, how should treasury prepare for the next generation of digital finance?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/633/on-demand--countdown-to-sibos-who-controls-value-in-an-ai-driven-economy?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-03",
+      "category": "Banking",
+      "tags": [
+        "on",
+        "demand",
+        "countdown"
+      ]
+    },
+    {
+      "id": "110215877",
+      "title": "Shufti’s Shahid Hanif on Onboarding Friction and AI Fraud",
+      "summary": "Shufti chief executive Shahid Hanif on why nearly half of users abandon onboarding and how AI-generated identities beat legacy document checks. The post Shufti s Shahid Hanif on Onboarding Friction and AI Fraud appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/shuftis-shahid-hanif-on-onboarding-friction-and-ai-fraud/",
+      "date": "2026-09-03",
+      "category": "Payments",
+      "tags": [
+        "shufti",
+        "shahid hanif",
+        "onboarding friction"
+      ]
+    },
     {
       "id": "364076392",
       "title": "Incore Bank trials AI for customer onboarding with automated risk assessment",
@@ -849,48 +890,6 @@
         "it",
         "spacex",
         "elon musk"
-      ]
-    },
-    {
-      "id": "274466653",
-      "title": "Google Cloud launches AI platform for financial professionals",
-      "summary": "Google Cloud has unveiled a purpose-built agentic AI offering engineered for financial professionals, with Deutsche Bank signed up as an early adopter.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48299/google-cloud-launches-ai-platform-for-financial-professionals?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "google cloud",
-        "ai",
-        "deutsche bank"
-      ]
-    },
-    {
-      "id": "35246925",
-      "title": "Flanks joins with Perplexity to power AI-driven wealth management with data aggregation",
-      "summary": "Flanks, the WealthTech leader redefining the industry by giving wealth institutions direct access to a unified, institution-grade, compliant wealth data layer, today announced its partnership with Perplexity, an AI platform built on the foundation of accurate AI, which has a cura…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110715/flanks-joins-with-perplexity-to-power-ai-driven-wealth-management-with-data-aggregation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "flanks",
-        "perplexity",
-        "ai"
-      ]
-    },
-    {
-      "id": "166559493",
-      "title": "Banks Double Down on nCino AI Agents After Using Initial Credits",
-      "summary": "Early adopters of nCino’s agentic solutions and other artificial intelligence initiatives for financial institutions have used up their first bundles of credits and have come back for more, nCino CEO Sean Desmond said Tuesday (Aug. 25) during an earnings call. “I mentioned during…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/banks-double-down-on-ncino-ai-agents-after-using-initial-credits/",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "banks double",
-        "down",
-        "ai agents"
       ]
     }
   ]
