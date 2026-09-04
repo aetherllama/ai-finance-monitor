@@ -1,34 +1,26 @@
 {
-  "last_updated": "2026-09-03T21:35:59Z",
+  "last_updated": "2026-09-04T12:02:24Z",
   "insights": {
     "risks": [
-      "Operational: Finzly debuts AI assurance layer — evaluate model governance gaps."
+      "Operational: Freedom Credit Union taps Salus to help attract Gen Z and millennial members — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Shufti’s Shahid Hanif on Onboarding Friction and AI Fraud — potential infrastructure advantage.",
-      "Banking efficiency: Finzly debuts AI assurance layer — cost reduction opportunity."
+      "Payments: nCino Expands Buyback as AI Demand Supports Growth — potential infrastructure advantage.",
+      "Banking efficiency: Freedom Credit Union taps Salus to help attract Gen Z and millennial members — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
       "count": 3
-    },
-    {
-      "topic": "Payments AI",
-      "count": 2
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 2
     },
     {
       "topic": "Risk Management",
@@ -43,7 +35,15 @@
       "count": 1
     },
     {
+      "topic": "Payments AI",
+      "count": 1
+    },
+    {
       "topic": "KYC / AML",
+      "count": 1
+    },
+    {
+      "topic": "Stablecoin AI",
       "count": 1
     },
     {
@@ -52,6 +52,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "488489174",
+      "title": "Freedom Credit Union taps Salus to help attract Gen Z and millennial members",
+      "summary": "Freedom Credit Union, a $764 million Massachusetts-based institution serving the greater Springfield area, has partnered with Salus to launch automated microloans. The initiative reflects Freedom’s strategic push to expand its offerings while attracting and retaining Gen Z and mi…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110814/freedom-credit-union-taps-salus-to-help-attract-gen-z-and-millennial-members?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-04",
+      "category": "Banking",
+      "tags": [
+        "freedom credit",
+        "union",
+        "salus"
+      ]
+    },
+    {
+      "id": "328695876",
+      "title": "WealthAi launches WealthAi for Advisors as advice firms enter next phase of AI adoption",
+      "summary": "WealthAi, the AI operating system for wealth management, has today launched WealthAi for Advisors, expanding its platform to independent financial advisers and smaller advice firms.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110812/wealthai-launches-wealthai-for-advisors-as-advice-firms-enter-next-phase-of-ai-adoption?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-04",
+      "category": "Banking",
+      "tags": [
+        "wealthai",
+        "advisors",
+        "ai"
+      ]
+    },
+    {
+      "id": "907030793",
+      "title": "The AI dashboard gold rush: Beyond the pretty charts",
+      "summary": "Claude dashboards have become a kind of AI flex on Instagram recently, especially among founders, marketers, finance people and operators. The biggest reason is that dashboards suddenly became very easy to make and very easy to share. Claude Code can now turn data or work from a …",
+      "source": "e27",
+      "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/",
+      "date": "2026-09-04",
+      "category": "Banking",
+      "tags": [
+        "the ai",
+        "beyond",
+        "claude"
+      ]
+    },
+    {
+      "id": "458336878",
+      "title": "nCino Expands Buyback as AI Demand Supports Growth",
+      "summary": "nCino reported higher revenue and profitability for its fiscal second quarter while authorizing another $100 million for share repurchases, as the banking software provider pointed to growing customer commitments to its artificial intelligence capabilities. According to FinTech G…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/ncino-expands-buyback-as-ai-demand-supports-growth/",
+      "date": "2026-09-03",
+      "category": "Payments",
+      "tags": [
+        "expands buyback",
+        "ai demand",
+        "supports growth"
+      ]
+    },
     {
       "id": "192975170",
       "title": "Finzly debuts AI assurance layer",
@@ -834,62 +890,6 @@
         "goldman sachs",
         "ai",
         "chris chruchman"
-      ]
-    },
-    {
-      "id": "842233757",
-      "title": "AI readiness, not cost, now decides KYC build vs. buy",
-      "summary": "Picture a compliance team in a regulatory review. The examiner is not asking about system architectu...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32642/ai-readiness-not-cost-now-decides-kyc-build-vs-buy?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "kyc",
-        "picture"
-      ]
-    },
-    {
-      "id": "153383981",
-      "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
-      "summary": "Shinhan Financial Group will use Visa’s platform to test stablecoin issuance, remittance, and redemption while building new AI-powered payment models.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
-      "date": "2026-08-26",
-      "category": "Payments",
-      "tags": [
-        "south korea",
-        "visa",
-        "shinhan financial"
-      ]
-    },
-    {
-      "id": "844590279",
-      "title": "This AI Agent Ends Subscriptions Without a Phone Call",
-      "summary": "Most personal finance apps have worked the same way for years: a dashboard showing what a consumer spent. The actual decision, whether to cancel a subscription or call to negotiate a bill, is left up to the person. Rocket Money launched an artificial intelligence (AI) agent calle…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/this-ai-agent-ends-subscriptions-without-a-phone-call/",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "this ai",
-        "agent ends",
-        "subscriptions without"
-      ]
-    },
-    {
-      "id": "72511989",
-      "title": "‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance",
-      "summary": "Elon Musk’s company faces formidable challenges in launching millions of satellites into orbit to power AI",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3?syn-25a6b1a6=1",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "it",
-        "spacex",
-        "elon musk"
       ]
     }
   ]
