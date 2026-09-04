@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-04T12:02:24Z",
+  "last_updated": "2026-09-04T21:18:25Z",
   "insights": {
     "risks": [
-      "Operational: Freedom Credit Union taps Salus to help attract Gen Z and millennial members — evaluate model governance gaps."
+      "Operational: Ant International Secures Payment Institution License to Expand Capabilities in Brazil — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: nCino Expands Buyback as AI Demand Supports Growth — potential infrastructure advantage.",
-      "Banking efficiency: Freedom Credit Union taps Salus to help attract Gen Z and millennial members — cost reduction opportunity."
+      "Payments: The $1.5tn Wealth Shift: Capgemini on the Personalisation Gap — potential infrastructure advantage.",
+      "Banking efficiency: Ant International Secures Payment Institution License to Expand Capabilities in Brazil — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 7
+      "count": 8
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Fraud Detection",
@@ -45,13 +45,65 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "188342841",
+      "title": "The $1.5tn Wealth Shift: Capgemini on the Personalisation Gap",
+      "summary": "Capgemini's Jeannette Martin on why $1.5tn left traditional wealth managers, the 17 percent of clients who feel understood, and where AI is closing the gap. The post The $1.5tn Wealth Shift: Capgemini on the Personalisation Gap appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-1-5tn-wealth-shift-capgemini-on-the-personalisation-gap/",
+      "date": "2026-09-04",
+      "category": "Payments",
+      "tags": [
+        "wealth shift",
+        "capgemini",
+        "personalisation gap"
+      ]
+    },
+    {
+      "id": "691649606",
+      "title": "Autonomy in Financial Services: Engineering Trust and Control",
+      "summary": "Srinivasan Seshadri of HCLTech argues autonomy in financial services is not automation, and that trust must be engineered into every AI-driven action. The post Autonomy in Financial Services: Engineering Trust and Control appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/autonomy-in-financial-services-engineering-trust-and-control/",
+      "date": "2026-09-04",
+      "category": "Payments",
+      "tags": [
+        "autonomy",
+        "financial services",
+        "engineering trust"
+      ]
+    },
+    {
+      "id": "966605976",
+      "title": "Control AI Agents, Do Not Just Stop Them, Says LaunchDarkly CTO",
+      "summary": "LaunchDarkly CTO Cameron Etezadi on why runtime control, not a kill switch, should be the first line of defence for AI agents in financial services. The post Control AI Agents, Do Not Just Stop Them, Says LaunchDarkly CTO appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/control-ai-agents-do-not-just-stop-them-says-launchdarkly-cto/",
+      "date": "2026-09-04",
+      "category": "Payments",
+      "tags": [
+        "control ai",
+        "agents",
+        "do not"
+      ]
+    },
+    {
+      "id": "386637336",
+      "title": "Ant International Secures Payment Institution License to Expand Capabilities in Brazil",
+      "summary": "Ant International, a global provider of digital payment, digitization and financial artificial intelligence (FinAI) solutions, has received a Payment Institution (PI) license from the Central Bank of Brazil, the company said in a Thursday (Sept. 3) press release. The PI license w…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/legal/2026/ant-international-secures-payment-institution-license-to-expand-capabilities-in-brazil/",
+      "date": "2026-09-04",
+      "category": "Banking",
+      "tags": [
+        "ant international",
+        "secures payment",
+        "institution license"
+      ]
+    },
     {
       "id": "488489174",
       "title": "Freedom Credit Union taps Salus to help attract Gen Z and millennial members",
@@ -834,62 +886,6 @@
         "hong kong",
         "tests",
         "know your"
-      ]
-    },
-    {
-      "id": "925412801",
-      "title": "FinTechs Bet on AI and Lending to Drive Modernization",
-      "summary": "Earnings season is showing that bank modernization demand is landing in faster payments, cloud and digital banking, and artificial intelligence tools aimed at credit, fraud and other defined operating workflows. The pattern is visible in results and management commentary from Jac…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/fintechs-bet-ai-lending-drive-modernization/",
-      "date": "2026-08-27",
-      "category": "Banking",
-      "tags": [
-        "fintechs bet",
-        "ai",
-        "lending"
-      ]
-    },
-    {
-      "id": "508181619",
-      "title": "Rippling expands Singapore office as AI boom pushes companies to hire globally",
-      "summary": "Singapore’s artificial intelligence boom is beginning to show up in an unexpected place: the back office. Rippling, the US$16.8-billion workforce management platform, is expanding its Singapore operations and moving into a new office at OCBC Centre East, as it nearly triples its …",
-      "source": "e27",
-      "url": "https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/",
-      "date": "2026-08-27",
-      "category": "Banking",
-      "tags": [
-        "rippling",
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "459708259",
-      "title": "Ex-Lunar founders raise €8.2m to launch AI-native audit firm Repodo",
-      "summary": "Ken Villum Klausen, Peter Andreasen and Joachim Strøjer Hansen, who co-founded and helped build Nordic digital bank Lunar as CEO, CFO and CPO respectively, have raised €8.2 million in pre-seed funding to launch Repodo, a new authorised audit firm built around AI from the ground u…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48303/ex-lunar-founders-raise-82m-to-launch-ai-native-audit-firm-repodo?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "ex",
-        "lunar",
-        "ai"
-      ]
-    },
-    {
-      "id": "694426762",
-      "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills",
-      "summary": "Chris Chruchman, a Goldman Sachs partner leading one of the bank's flagship AI projects, has warned that the technology could degrade bankers' reasoning skills if relied on too heavily by employees.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48302/goldman-sachs-partner-warns-that-ai-could-erode-bankers-reasoning-skills?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-26",
-      "category": "Banking",
-      "tags": [
-        "goldman sachs",
-        "ai",
-        "chris chruchman"
       ]
     }
   ]
