@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-05T11:11:46Z",
+  "last_updated": "2026-09-05T21:01:45Z",
   "insights": {
     "risks": [
       "Operational: Ant International Secures Payment Institution License to Expand Capabilities in Brazil — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The $1.5tn Wealth Shift: Capgemini on the Personalisation Gap — potential infrastructure advantage.",
+      "Payments: How AI is Driving a New Wave of Motor Fraud — potential infrastructure advantage.",
       "Banking efficiency: Ant International Secures Payment Institution License to Expand Capabilities in Brazil — cost reduction opportunity."
     ]
   },
@@ -16,7 +16,7 @@
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
@@ -48,6 +48,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "699434661",
+      "title": "How AI is Driving a New Wave of Motor Fraud",
+      "summary": "Dave Rossi, managing director at National Hunter, on how AI is industrialising motor fraud and why intelligence sharing is now the industry's best defence. The post How AI is Driving a New Wave of Motor Fraud appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/how-ai-is-driving-a-new-wave-of-motor-fraud/",
+      "date": "2026-09-05",
+      "category": "Payments",
+      "tags": [
+        "how ai",
+        "driving",
+        "new wave"
+      ]
+    },
+    {
+      "id": "664328949",
+      "title": "DORA, NIS2 and the AI Act are One Job, Says UiPath’s Field CISO",
+      "summary": "UiPath Field CISO Marco Eggerling on treating DORA, NIS2 and the EU AI Act as one control set, and why board AI literacy is the next supervisory test. The post DORA, NIS2 and the AI Act are One Job, Says UiPath s Field CISO appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/dora-nis2-and-the-ai-act-are-one-job-says-uipaths-field-ciso/",
+      "date": "2026-09-05",
+      "category": "Payments",
+      "tags": [
+        "dora",
+        "ai act",
+        "one job"
+      ]
+    },
     {
       "id": "188342841",
       "title": "The $1.5tn Wealth Shift: Capgemini on the Personalisation Gap",
@@ -858,34 +886,6 @@
         "aussie",
         "lucie money",
         "fiskil"
-      ]
-    },
-    {
-      "id": "476984821",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because enterprises don t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching i…",
-      "source": "VentureBeat AI",
-      "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "date": "2026-08-27",
-      "category": "Trading",
-      "tags": [
-        "enterprise ai",
-        "it",
-        "presented"
-      ]
-    },
-    {
-      "id": "931575442",
-      "title": "Hong Kong Tests ‘Know Your Agent’ Controls in Payment Workflows",
-      "summary": "Financial institutions have spent decades learning how to identify customers. Hong Kong is starting to test how they might identify the artificial intelligence (AI) agents acting for them. Hong Kong’s four principal financial regulators on Thursday (Aug. 27) announced the first g…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/hong-kong-tests-know-your-agent-controls-in-payment-workflows/",
-      "date": "2026-08-27",
-      "category": "Payments",
-      "tags": [
-        "hong kong",
-        "tests",
-        "know your"
       ]
     }
   ]
