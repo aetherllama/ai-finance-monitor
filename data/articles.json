@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-09-06T11:34:49Z",
+  "last_updated": "2026-09-06T21:09:21Z",
   "insights": {
     "risks": [
       "Operational: UBS demands new junior bankers show AI proficiency — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Pay.UK’s David Crawford: AI fraud Is The Fastest-Moving Shift — potential infrastructure advantage.",
+      "Payments: Resilience, Not Reach, is Banking’s New Hard Limit — potential infrastructure advantage.",
       "Banking efficiency: UBS demands new junior bankers show AI proficiency — cost reduction opportunity."
     ]
   },
@@ -16,7 +16,7 @@
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Fraud Detection",
@@ -48,6 +48,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "457719843",
+      "title": "Resilience, Not Reach, is Banking’s New Hard Limit",
+      "summary": "Universal banks are trying to move faster without first becoming simpler, and AI will not fix that. Elixirr partner Tej Patel on complexity as risk. The post Resilience, Not Reach, is Banking s New Hard Limit appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/resilience-not-reach-is-bankings-new-hard-limit/",
+      "date": "2026-09-06",
+      "category": "Payments",
+      "tags": [
+        "resilience",
+        "not reach",
+        "banking"
+      ]
+    },
+    {
+      "id": "982227071",
+      "title": "Brokers Face Fundamental Challenges the Algorithm Can’t Resolve",
+      "summary": "Alessandro De Leonardis, CIO of Armundia Group, argues automation in insurance brokerage stops where human judgement must explain, arbitrate and govern. The post Brokers Face Fundamental Challenges the Algorithm Can t Resolve appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/brokers-face-fundamental-challenges-the-algorithm-cant-resolve/",
+      "date": "2026-09-06",
+      "category": "Payments",
+      "tags": [
+        "brokers face",
+        "fundamental challenges",
+        "algorithm can"
+      ]
+    },
     {
       "id": "948133382",
       "title": "UBS demands new junior bankers show AI proficiency",
@@ -858,34 +886,6 @@
         "young british",
         "ai",
         "tv"
-      ]
-    },
-    {
-      "id": "79587311",
-      "title": "Visa expands open-source AI cyber defence system",
-      "summary": "Visa (NYSE: V) today announced enhancements to its cybersecurity portfolio to help organizations identify and fix vulnerabilities more effectively.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110747/visa-expands-open-source-ai-cyber-defence-system?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-27",
-      "category": "Trading",
-      "tags": [
-        "visa",
-        "ai",
-        "nyse"
-      ]
-    },
-    {
-      "id": "189576104",
-      "title": "Brookwood Investment Group taps Amplify for intelligence platform",
-      "summary": "Amplify Technology, LLC (\"Amplify\"), the AI-native RIA growth platform built on data lake architecture, today announced that Brookwood Investment Group (\"Brookwood\"), a Phoenix-based registered investment advisor, has partnered with Amplify to create the Brookwood Intelligence Pl…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110745/brookwood-investment-group-taps-amplify-for-intelligence-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-27",
-      "category": "Trading",
-      "tags": [
-        "brookwood investment",
-        "group",
-        "amplify"
       ]
     }
   ]
