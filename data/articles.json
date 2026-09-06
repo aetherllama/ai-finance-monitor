@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-05T21:01:45Z",
+  "last_updated": "2026-09-06T11:34:49Z",
   "insights": {
     "risks": [
-      "Operational: Ant International Secures Payment Institution License to Expand Capabilities in Brazil — evaluate model governance gaps."
+      "Operational: UBS demands new junior bankers show AI proficiency — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: How AI is Driving a New Wave of Motor Fraud — potential infrastructure advantage.",
-      "Banking efficiency: Ant International Secures Payment Institution License to Expand Capabilities in Brazil — cost reduction opportunity."
+      "Payments: Pay.UK’s David Crawford: AI fraud Is The Fastest-Moving Shift — potential infrastructure advantage.",
+      "Banking efficiency: UBS demands new junior bankers show AI proficiency — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -48,6 +48,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "948133382",
+      "title": "UBS demands new junior bankers show AI proficiency",
+      "summary": "Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
+      "date": "2026-09-06",
+      "category": "Banking",
+      "tags": [
+        "ubs",
+        "ai",
+        "graduates"
+      ]
+    },
+    {
+      "id": "831442906",
+      "title": "Pay.UK’s David Crawford: AI fraud Is The Fastest-Moving Shift",
+      "summary": "Pay.UK's chief strategy and transformation officer David Crawford on the Mills Review, agentic commerce, and why fraud is the AI shift moving fastest. The post Pay.UK s David Crawford: AI fraud Is The Fastest-Moving Shift appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/pay-uks-david-crawford-ai-fraud-is-the-fastest-moving-shift/",
+      "date": "2026-09-06",
+      "category": "Payments",
+      "tags": [
+        "pay",
+        "uk",
+        "david crawford"
+      ]
+    },
     {
       "id": "699434661",
       "title": "How AI is Driving a New Wave of Motor Fraud",
@@ -858,34 +886,6 @@
         "brookwood investment",
         "group",
         "amplify"
-      ]
-    },
-    {
-      "id": "278108390",
-      "title": "Asic and Apra warn frontier AI awareness must turn to action",
-      "summary": "The Australian Securities and Investments Commission (ASIC) and the Australian Prudential Regulation Authority (APRA) are urging financial market entities to move from gaining awareness of risks linked to frontier AI to taking decisive action.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110742/asic-and-apra-warn-frontier-ai-awareness-must-turn-to-action?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-27",
-      "category": "Banking",
-      "tags": [
-        "asic",
-        "apra",
-        "ai"
-      ]
-    },
-    {
-      "id": "504375965",
-      "title": "Aussie fintechs Lucie Money taps Fiskil to embed open banking data into its conversational AI agent",
-      "summary": "Lucie Money, the Sydney fintech building a conversational money agent, has gone live under Australia’s Consumer Data Right (CDR) by leveraging Fiskil’s infrastructure to securely access open banking data.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110739/aussie-fintechs-lucie-money-taps-fiskil-to-embed-open-banking-data-into-its-conversational-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-27",
-      "category": "Payments",
-      "tags": [
-        "aussie",
-        "lucie money",
-        "fiskil"
       ]
     }
   ]
