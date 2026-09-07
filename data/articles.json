@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-07T13:23:41Z",
+  "last_updated": "2026-09-07T21:56:11Z",
   "insights": {
     "risks": [
-      "Operational: UBS calls for AI literacy from new recruits — evaluate model governance gaps."
+      "Operational: Law Schools Outlaw AI Amid Fears of Stunted Academic Growth — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Concryt deploys agentic AI to monitor live payment operations — potential infrastructure advantage.",
-      "Banking efficiency: UBS calls for AI literacy from new recruits — cost reduction opportunity."
+      "Banking efficiency: Law Schools Outlaw AI Amid Fears of Stunted Academic Growth — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -44,6 +44,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "448808663",
+      "title": "Law Schools Outlaw AI Amid Fears of Stunted Academic Growth",
+      "summary": "Law schools in the United States have begun banning artificial intelligence in the classroom, according to a Financial Times column Monday (Sept. 7) by Patti Waldmeir. The University of Chicago Law School is among the institutions imposing these restrictions. For the new academic…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/law-schools-outlaw-ai-amid-fears-stunted-academic-growth/",
+      "date": "2026-09-07",
+      "category": "Banking",
+      "tags": [
+        "law schools",
+        "outlaw ai",
+        "amid fears"
+      ]
+    },
     {
       "id": "614045222",
       "title": "UBS calls for AI literacy from new recruits",
@@ -866,20 +880,6 @@
         "why japan",
         "ai",
         "japan"
-      ]
-    },
-    {
-      "id": "831660541",
-      "title": "Enterprises Tap the Brakes on Tech Budgets While Demanding AI ROI",
-      "summary": "While spending on artificial intelligence infrastructure is expected to drive a 14.2% increase in global IT spending this year, not all enterprises are raising their spending that much, the Wall Street Journal reported Friday (Aug. 28), citing a forecast by Gartner. Enterprises’ …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/enterprises-tap-the-brakes-on-tech-budgets-while-demanding-ai-roi/",
-      "date": "2026-08-28",
-      "category": "Banking",
-      "tags": [
-        "enterprises tap",
-        "brakes",
-        "tech budgets"
       ]
     }
   ]
