@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-06T21:09:21Z",
+  "last_updated": "2026-09-07T13:23:41Z",
   "insights": {
     "risks": [
-      "Operational: UBS demands new junior bankers show AI proficiency — evaluate model governance gaps."
+      "Operational: UBS calls for AI literacy from new recruits — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Resilience, Not Reach, is Banking’s New Hard Limit — potential infrastructure advantage.",
-      "Banking efficiency: UBS demands new junior bankers show AI proficiency — cost reduction opportunity."
+      "Payments: Concryt deploys agentic AI to monitor live payment operations — potential infrastructure advantage.",
+      "Banking efficiency: UBS calls for AI literacy from new recruits — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -23,12 +23,12 @@
       "count": 3
     },
     {
-      "topic": "Risk Management",
-      "count": 1
+      "topic": "Customer Service AI",
+      "count": 2
     },
     {
-      "topic": "Customer Service AI",
-      "count": 1
+      "topic": "Risk Management",
+      "count": 2
     },
     {
       "topic": "Regulatory AI",
@@ -41,13 +41,147 @@
     {
       "topic": "KYC / AML",
       "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "614045222",
+      "title": "UBS calls for AI literacy from new recruits",
+      "summary": "Swiss bank UBS has become one of the first financial institutions to demand AI proficiency from potential employees",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48353/ubs-calls-for-ai-literacy-from-new-recruits?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-07",
+      "category": "Banking",
+      "tags": [
+        "ubs",
+        "ai",
+        "swiss"
+      ]
+    },
+    {
+      "id": "7201255",
+      "title": "Concryt deploys agentic AI to monitor live payment operations",
+      "summary": "Global payments technology company CONCRYT has deployed agentic AI across its live payment operations, moving the technology beyond a chatbot interface and into the day-to-day monitoring of its gateway.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-07",
+      "category": "Payments",
+      "tags": [
+        "concryt",
+        "ai",
+        "global"
+      ]
+    },
+    {
+      "id": "44121875",
+      "title": "When Banking APIs Start Making Decisions, Who Signs Off on Them?",
+      "summary": "There's a story going around the fintech press right now about AI \"transforming\" banking ...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32757/when-banking-apis-start-making-decisions-who-signs-off-on-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-07",
+      "category": "Payments",
+      "tags": [
+        "when banking",
+        "apis start",
+        "making decisions"
+      ]
+    },
+    {
+      "id": "639766053",
+      "title": "The $206 Billion Problem Hiding in Verified Bank Accounts: Inside VerityX’s Money Mule Whitepaper",
+      "summary": "A new VerityX whitepaper argues that rules-based AML systems are failing to stop money mule networks, calling for connected, AI-driven risk intelligence and real-time detection. The post The $206 Billion Problem Hiding in Verified Bank Accounts: Inside VerityX s Money Mule Whitep…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-206-billion-problem-hiding-in-verified-bank-accounts-inside-verityxs-money-mule-whitepaper/",
+      "date": "2026-09-07",
+      "category": "Banking",
+      "tags": [
+        "billion problem",
+        "hiding",
+        "verified bank"
+      ]
+    },
+    {
+      "id": "899756070",
+      "title": "How Banks can Adopt AI Without Losing Customer Trust",
+      "summary": "Avaya's Cameron Thomson on why banks should automate where confidence is high, keephumans where the stakes rise, and modernise piece by piece. The post How Banks can Adopt AI Without Losing Customer Trust appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/how-banks-can-adopt-ai-without-losing-customer-trust/",
+      "date": "2026-09-07",
+      "category": "Payments",
+      "tags": [
+        "how banks",
+        "adopt ai",
+        "without losing"
+      ]
+    },
+    {
+      "id": "215488275",
+      "title": "Insurance Claims Lose the Paper Chase as AI Gets to Work",
+      "summary": "Insurance claims have always been document-heavy, time-sensitive, and prone to fraud. A single corporate loss event can produce thousands of pages of notices, reports, and correspondence that a claims handler must evaluate quickly. The volume keeps growing. Artificial intelligenc…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/insurance/2026/insurance-claims-lose-the-paper-chase-as-ai-gets-to-work/",
+      "date": "2026-09-07",
+      "category": "Banking",
+      "tags": [
+        "insurance claims",
+        "lose",
+        "paper chase"
+      ]
+    },
+    {
+      "id": "25382061",
+      "title": "SCB 10X Identifies Six Key Takeaways for Organizations Navigating the AI Transformation, Drawing Insights from AI-VOLUTION The Series 2026",
+      "summary": "Bangkok, September 2, 2026 SCB 10X, the disruptive technology investment arm of SCBX Group, continues its AI knowledge-sharing initiative through “AI-VOLUTION The Series 2026”, a year-long online content series featuring in-depth conversations with global technology experts, foun…",
+      "source": "e27",
+      "url": "https://e27.co/scb-10x-identifies-six-key-takeaways-for-organizations-navigating-the-ai-transformation-drawing-insights-from-ai-volution-the-series-2026-20260907/",
+      "date": "2026-09-07",
+      "category": "Banking",
+      "tags": [
+        "scb",
+        "identifies six",
+        "key takeaways"
+      ]
+    },
+    {
+      "id": "235388758",
+      "title": "Banks face growing risks from AI-enabled fraud as criminals use the technology to create fake identities, forged documents, and deepfake videos.",
+      "summary": "Banks face growing risks from AI-enabled fraud as criminals use the technology to create fake identities, forged documents, and deepfake videos.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/expert-opinion/how-can-banks-defend-against-ai-driven-fraud",
+      "date": "2026-09-07",
+      "category": "Banking",
+      "tags": [
+        "banks",
+        "ai"
+      ]
+    },
+    {
+      "id": "31852900",
+      "title": "ByteDance Lands $29.6 Billion Loan to Fuel AI Advances",
+      "summary": "China’s ByteDance has reportedly secured a $29.6 billion loan from nearly 30 banks. That’s according to a report Friday (Sept. 4) from Reuters, which says the TikTok owner’s plans for artificial intelligence have attracted strong interest from lenders. The loan is the second-bigg…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bytedance-lands-29-6-billion-loan-to-fuel-ai-advances/",
+      "date": "2026-09-06",
+      "category": "Banking",
+      "tags": [
+        "bytedance lands",
+        "billion loan",
+        "fuel ai"
+      ]
+    },
+    {
+      "id": "772804094",
+      "title": "Singapore is leading the shift to integrated digital wallets, yet consumers remain hesitant to let AI take control of payments.",
+      "summary": "Singapore is leading the shift to integrated digital wallets, yet consumers remain hesitant to let AI take control of payments.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/in-focus/singaporeans-lead-in-digital-wallet-adoption-ai-commerce-trust-lags",
+      "date": "2026-09-06",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai"
+      ]
+    },
     {
       "id": "457719843",
       "title": "Resilience, Not Reach, is Banking’s New Hard Limit",
@@ -746,146 +880,6 @@
         "enterprises tap",
         "brakes",
         "tech budgets"
-      ]
-    },
-    {
-      "id": "598159449",
-      "title": "AI in Banking Is a Workforce Problem, Not a Technology One",
-      "summary": "Dr Rita Fontinha of Henley Business School on what a Chief AI Officer really signals, and why bank AI capability is not built by training courses. The post AI in Banking Is a Workforce Problem, Not a Technology One appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-in-banking-is-a-workforce-problem-not-a-technology-one/",
-      "date": "2026-08-28",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "banking is",
-        "workforce problem"
-      ]
-    },
-    {
-      "id": "972042186",
-      "title": "Bullish backs USD.AI with $100 million in financing to drive GPU-backed loans",
-      "summary": "Cryptocurrency platform Bullish is extending a $100 million debt facility to USD.AI to finance GPU-backed loans for artificial intelligence infrastructure.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/08/28/bullish-backs-usd-ai-with-usd100-million-gpu-stablecoin-financing",
-      "date": "2026-08-28",
-      "category": "Banking",
-      "tags": [
-        "bullish",
-        "usd",
-        "ai"
-      ]
-    },
-    {
-      "id": "245258553",
-      "title": "Banks Turn to AI to Stop Overstocking ATMs",
-      "summary": "Cash has not disappeared the way many predicted. Cash accounts for 14% of consumer payments in the United States, more than 80% of consumers used it in the past 30 days, and 90% expect to keep using it, the Federal Reserve said Aug. 4 in its 2026 Diary of Consumer Payment Choice.…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-use-ai-stop-overstocking-atms/",
-      "date": "2026-08-28",
-      "category": "Payments",
-      "tags": [
-        "banks turn",
-        "ai",
-        "stop overstocking"
-      ]
-    },
-    {
-      "id": "320341939",
-      "title": "USD.AI Secures $100 Million Credit Facility From Bullish to Power AI Buildout",
-      "summary": "USD.AI has secured a $100 million stablecoin-based debt facility from digital asset platform Bullish to power its GPU financing ecosystem, USD.AI said in a Friday (Aug. 28) press release. Together with the debt facility, Bullish and USD.AI are expanding their joint research initi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/usd-ai-secures-100-million-credit-facility-from-bullish-to-power-ai-buildout/",
-      "date": "2026-08-28",
-      "category": "Payments",
-      "tags": [
-        "usd",
-        "ai secures",
-        "million credit"
-      ]
-    },
-    {
-      "id": "201153833",
-      "title": "ChatGPT Now Helps You Pick a Credit Card",
-      "summary": "The place people start looking for a credit card, an insurance quote or a loan is changing, and it’s no longer a bank’s own website. Experian, Synchrony and Klarna are all betting that discovery is shifting into artificial intelligence (AI) conversations they don’t control. Rathe…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/chatgpt-now-helps-you-pick-a-credit-card/",
-      "date": "2026-08-28",
-      "category": "Banking",
-      "tags": [
-        "chatgpt now",
-        "helps you",
-        "pick"
-      ]
-    },
-    {
-      "id": "77507502",
-      "title": "The case for hybrid microfinance: Combining AI with social accountability",
-      "summary": "Earlier this year I reviewed an AI-driven microfinance product being launched in Indonesia by a regional fintech. The model was elegant. It took transaction data from a payments app, layered in mobile usage patterns and a few social signals, and produced a credit score for each i…",
-      "source": "e27",
-      "url": "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/",
-      "date": "2026-08-28",
-      "category": "Payments",
-      "tags": [
-        "combining ai",
-        "earlier",
-        "ai"
-      ]
-    },
-    {
-      "id": "804444361",
-      "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
-      "summary": "Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four of those deaths involv…",
-      "source": "e27",
-      "url": "https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/",
-      "date": "2026-08-28",
-      "category": "Banking",
-      "tags": [
-        "why",
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "944669095",
-      "title": "Experian launches credit cards app on ChatGPT",
-      "summary": "Experian today announced the launch of the Experian Credit Cards app on ChatGPT, expanding its growing portfolio of AI-powered financial experiences and giving consumers a new way to discover and compare credit card options through a simple conversation.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110748/experian-launches-credit-cards-app-on-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-27",
-      "category": "Trading",
-      "tags": [
-        "experian",
-        "chatgpt experian",
-        "experian credit"
-      ]
-    },
-    {
-      "id": "567423416",
-      "title": "Socure hits $5.2bn valuation on investment; buys AI fraud platform Fravity",
-      "summary": "Socure, the identity and risk intelligence infrastructure platform, has raised funding from investors including Goldman Sachs Alternatives and Wells Fargo at a $5.2 billion valuation. The firm has also acquired Fravity, an agentic platform that automates fraud, risk, and complian…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48311/socure-hits-52bn-valuation-on-investment-buys-ai-fraud-platform-fravity?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-27",
-      "category": "RegTech",
-      "tags": [
-        "socure",
-        "ai",
-        "fravity socure"
-      ]
-    },
-    {
-      "id": "382452553",
-      "title": "Young British investors trust AI more than TV or celebs",
-      "summary": "Younger Brits trust AI tools more than TV and radio, the press, or social media influencers when it comes to investment advice, according to Financial Conduct Authority research.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48309/young-british-investors-trust-ai-more-than-tv-or-celebs?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-27",
-      "category": "Banking",
-      "tags": [
-        "young british",
-        "ai",
-        "tv"
       ]
     }
   ]
