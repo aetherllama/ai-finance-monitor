@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-07T21:56:11Z",
+  "last_updated": "2026-09-08T12:02:46Z",
   "insights": {
     "risks": [
-      "Operational: Law Schools Outlaw AI Amid Fears of Stunted Academic Growth — evaluate model governance gaps."
+      "Operational: Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Concryt deploys agentic AI to monitor live payment operations — potential infrastructure advantage.",
-      "Banking efficiency: Law Schools Outlaw AI Amid Fears of Stunted Academic Growth — cost reduction opportunity."
+      "Payments: French fintech startup Outline raises $3 million for financial planning AI — potential infrastructure advantage.",
+      "Banking efficiency: Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -20,7 +20,7 @@
     },
     {
       "topic": "Fraud Detection",
-      "count": 3
+      "count": 4
     },
     {
       "topic": "Customer Service AI",
@@ -44,6 +44,104 @@
     }
   ],
   "articles": [
+    {
+      "id": "184406832",
+      "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+      "summary": "Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/aa304856-cade-4ad8-a2bf-2dd34fa75b1b?syn-25a6b1a6=1",
+      "date": "2026-09-08",
+      "category": "Banking",
+      "tags": [
+        "anthropic",
+        "openai",
+        "ipo investment"
+      ]
+    },
+    {
+      "id": "169808665",
+      "title": "French fintech startup Outline raises $3 million for financial planning AI",
+      "summary": "French fintech startup Outline has raised $3 million to reinvent financial planning with AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48358/french-fintech-startup-outline-raises-3-million-for-financial-planning-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-08",
+      "category": "Payments",
+      "tags": [
+        "french",
+        "outline",
+        "ai french"
+      ]
+    },
+    {
+      "id": "537699405",
+      "title": "FinScan adopts AI-powered adverse media screening from Quantifind",
+      "summary": "FinScan, an Innovative Systems solution and leading provider of advanced AML and sanctions compliance solutions, today announced a strategic partnership with Quantifind, a leading provider of AI-powered financial crime and national security risk intelligence for KYC, sanctions, p…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110823/finscan-adopts-ai-powered-adverse-media-screening-from-quantifind?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-08",
+      "category": "Banking",
+      "tags": [
+        "finscan",
+        "ai",
+        "quantifind finscan"
+      ]
+    },
+    {
+      "id": "766392509",
+      "title": "Crif ships AI anti-fraud tool to tackle tampering during customer onboarding",
+      "summary": "CRIF – the global leader in credit and insurance information, analytics and solutions – has today launched its AI-powered fraud detection services in the UK, helping financial providers tackle tampering during customer onboarding.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110824/crif-ships-ai-anti-fraud-tool-to-tackle-tampering-during-customer-onboarding?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-08",
+      "category": "Banking",
+      "tags": [
+        "crif",
+        "ai",
+        "crif"
+      ]
+    },
+    {
+      "id": "927708925",
+      "title": "UAE-based fintech Sav raises $3.5 million",
+      "summary": "Phoenix Venture Partners Limited (PVP), an Abu Dhabi-based venture capital fund manager, today announced that it has led a US$3.5 million Pre-Series A financing round in Sav, an autonomous consumer fintech platform leveraging artificial intelligence and open finance infrastructur…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110830/uae-based-fintech-sav-raises-35-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-08",
+      "category": "Payments",
+      "tags": [
+        "uae",
+        "sav",
+        "phoenix venture"
+      ]
+    },
+    {
+      "id": "959274500",
+      "title": "Google Cloud Debuts Gemini Enterprise for Financial Services to Power Agentic Workflows",
+      "summary": "Google Cloud has launched Gemini Enterprise for Financial Services, bringing governed agentic AI to banking and capital markets with auditable workflows, enterprise data access and specialised financial capabilities. The post Google Cloud Debuts Gemini Enterprise for Financial Se…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/google-cloud-debuts-gemini-enterprise-for-financial-services-to-power-agentic-workflows/",
+      "date": "2026-09-08",
+      "category": "Payments",
+      "tags": [
+        "google cloud",
+        "debuts gemini",
+        "enterprise"
+      ]
+    },
+    {
+      "id": "710340821",
+      "title": "AI, quantum computing and the future of cyber threats",
+      "summary": "I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small businesses, and thinking…",
+      "source": "e27",
+      "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
+      "date": "2026-09-08",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "singapore press",
+        "club"
+      ]
+    },
     {
       "id": "448808663",
       "title": "Law Schools Outlaw AI Amid Fears of Stunted Academic Growth",
@@ -782,104 +880,6 @@
         "best practices",
         "delivering superior",
         "customer experience"
-      ]
-    },
-    {
-      "id": "587712800",
-      "title": "Domain Authority Barely Predicts AI Visibility. I Measured 51 Fintechs.",
-      "summary": "Most fintech marketing teams have spent years building domain authority. The logic is familiar: ear",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32674/domain-authority-barely-predicts-ai-visibility-i-measured-51-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-31",
-      "category": "Payments",
-      "tags": [
-        "domain authority",
-        "barely predicts",
-        "ai visibility"
-      ]
-    },
-    {
-      "id": "424953887",
-      "title": "Rails, Rules & Reality: The Next Phase of Fintech",
-      "summary": "FedNow is moving toward cross-border payments, while stricter bank charter rules and AI-driven efficiency are reshaping fintech. Growth now depends on speed, compliance, profitability and smarter operations. The post Rails, Rules Reality: The Next Phase of Fintech appeared first …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/rails-rules-reality-the-next-phase-of-fintech/",
-      "date": "2026-08-31",
-      "category": "Banking",
-      "tags": [
-        "rails",
-        "rules",
-        "reality"
-      ]
-    },
-    {
-      "id": "200686001",
-      "title": "The dawn of physical AI",
-      "summary": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
-      "date": "2026-08-31",
-      "category": "Banking",
-      "tags": [
-        "ai wall",
-        "street",
-        "silicon valley"
-      ]
-    },
-    {
-      "id": "823497934",
-      "title": "BofE governor warns that frontier AI models pose risk to global financial stability",
-      "summary": "Bank of England governor Andrew Bailey has warned that frontier AI models pose cyber security risks that could affect global financial stability.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48324/bofe-governor-warns-that-frontier-ai-models-pose-risk-to-global-financial-stability?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-08-31",
-      "category": "Banking",
-      "tags": [
-        "bofe",
-        "ai",
-        "bank"
-      ]
-    },
-    {
-      "id": "581237785",
-      "title": "Why Finance Leaders Need to Tackle Shadow AI at its Source",
-      "summary": "Brandon Till, Head of Business Solutions at Soldo, on why gaps in AI governance are fuelling shadow AI, and how finance leaders can close them. The post Why Finance Leaders Need to Tackle Shadow AI at its Source appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/why-finance-leaders-need-to-tackle-shadow-ai-at-its-source/",
-      "date": "2026-08-31",
-      "category": "Payments",
-      "tags": [
-        "why finance",
-        "leaders need",
-        "tackle shadow"
-      ]
-    },
-    {
-      "id": "487482870",
-      "title": "AI Agents Help Treasurers Move Faster",
-      "summary": "Corporate treasury sits at the intersection of every financial decision and every risk a company carries. The tools have improved over the years. The decisions have stayed human. Agentic artificial intelligence is beginning to change that. AI agents are now performing core treasu…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-help-treasurers-move-faster/",
-      "date": "2026-08-31",
-      "category": "Payments",
-      "tags": [
-        "ai agents",
-        "help treasurers",
-        "move faster"
-      ]
-    },
-    {
-      "id": "685242419",
-      "title": "Why Japan’s booming AI market is harder to crack than it looks",
-      "summary": "Japan s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufactu…",
-      "source": "e27",
-      "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
-      "date": "2026-08-31",
-      "category": "Banking",
-      "tags": [
-        "why japan",
-        "ai",
-        "japan"
       ]
     }
   ]
