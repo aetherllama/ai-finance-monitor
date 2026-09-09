@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-08T21:42:43Z",
+  "last_updated": "2026-09-09T12:14:00Z",
   "insights": {
     "risks": [
       "Trading risk: Coca-Cola’s AI Just Solved Retailers’ Inventory Headache — assess algorithmic exposure.",
-      "Operational: ITSS and Feedzai join forces in fight agant fraud — evaluate model governance gaps."
+      "Operational: The Garbage Gap: Why Smarter AI Models Need Cleaner Inputs — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: French fintech startup Outline raises $3 million for financial planning AI — potential infrastructure advantage.",
-      "Banking efficiency: ITSS and Feedzai join forces in fight agant fraud — cost reduction opportunity.",
+      "Payments: Ixopay rolls out agentic payment suite — potential infrastructure advantage.",
+      "Banking efficiency: The Garbage Gap: Why Smarter AI Models Need Cleaner Inputs — cost reduction opportunity.",
       "InsurTech: Guidewire on Putting AI Agents Inside Core Insurance Workflows — underwriting modernisation potential."
     ]
   },
@@ -18,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Fraud Detection",
@@ -33,11 +33,84 @@
       "count": 2
     },
     {
+      "topic": "Payments AI",
+      "count": 1
+    },
+    {
       "topic": "Regulatory AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "350533700",
+      "title": "Ixopay rolls out agentic payment suite",
+      "summary": "IXOPAY, a leader in payment infrastructure enabling fluid commerce, today announced the launch of the IXOPAY Agentic Suite, a flexible set of tools designed to help merchants prepare for both new agentic buying experiences and the growing role of AI in payment operations.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110850/ixopay-rolls-out-agentic-payment-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-09",
+      "category": "Payments",
+      "tags": [
+        "ixopay",
+        "ixopay",
+        "ixopay agentic"
+      ]
+    },
+    {
+      "id": "19889668",
+      "title": "The Garbage Gap: Why Smarter AI Models Need Cleaner Inputs",
+      "summary": "At an event in Europe this summer, banking’s elite had one obsession: engineering the perfect \"...",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32776/the-garbage-gap-why-smarter-ai-models-need-cleaner-inputs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-09",
+      "category": "Banking",
+      "tags": [
+        "the garbage",
+        "gap",
+        "why smarter"
+      ]
+    },
+    {
+      "id": "381186553",
+      "title": "Card Issuers Speed Upgrades as Fraud Threats Grow",
+      "summary": "Card platform upgrade calendars are getting shorter. The next major deadline may arrive before issuers finish planning for the last one. Card issuers face pressure from several directions. Fraud keeps changing, customers expect faster digital services and AI is creating new ways …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/digital-payments/2026/card-issuers-speed-upgrades-as-fraud-threats-grow/",
+      "date": "2026-09-09",
+      "category": "Banking",
+      "tags": [
+        "card issuers",
+        "speed upgrades",
+        "fraud threats"
+      ]
+    },
+    {
+      "id": "375866665",
+      "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
+      "summary": "For years, the semiconductor race was largely about making transistors smaller. That contest is far from over, but the AI boom has shifted part of the battleground elsewhere: how multiple chips are assembled, connected and kept reliable inside a single package. That is the proble…",
+      "source": "e27",
+      "url": "https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/",
+      "date": "2026-09-09",
+      "category": "Banking",
+      "tags": [
+        "synopsys",
+        "star",
+        "ai"
+      ]
+    },
+    {
+      "id": "3205889",
+      "title": "Financial institutions are prioritising productivity and risk before using AI to pursue customer growth and faster product development.",
+      "summary": "Financial institutions are prioritising productivity and risk before using AI to pursue customer growth and faster product development.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/videos/bank-cfos-weigh-broader-returns-ai-investment",
+      "date": "2026-09-09",
+      "category": "Banking",
+      "tags": [
+        "financial",
+        "ai"
+      ]
+    },
     {
       "id": "185755638",
       "title": "ITSS and Feedzai join forces in fight agant fraud",
@@ -804,76 +877,6 @@
         "why modern",
         "issuing platforms",
         "will determine"
-      ]
-    },
-    {
-      "id": "731090517",
-      "title": "Incore Bank’s AI Hits 99% Accuracy on KYC Checks",
-      "summary": "Know-your-customer (KYC) checks are expensive partly because a bank isn’t simply verifying an identity. Compliance teams have to collect information from documents, reconcile it across systems, investigate potential risk factors and build an auditable record explaining how they r…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/incore-banks-ai-hits-99-accuracy-on-kyc-checks/",
-      "date": "2026-09-01",
-      "category": "Banking",
-      "tags": [
-        "incore bank",
-        "ai hits",
-        "accuracy"
-      ]
-    },
-    {
-      "id": "774128539",
-      "title": "Digital Onboarding launches AI-native business intelligence agent for banks",
-      "summary": "Digital Onboarding, the lifecycle engagement platform trusted by 170+ banks and credit unions, today announced the completion of its evolution into an AI-native platform, and the launch of DOBI, Digital Onboarding Business Intelligence, the AI agent built on that foundation.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110773/digital-onboarding-launches-ai-native-business-intelligence-agent-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-01",
-      "category": "Banking",
-      "tags": [
-        "digital onboarding",
-        "ai",
-        "dobi"
-      ]
-    },
-    {
-      "id": "743452941",
-      "title": "Vertice AI launches growth engine for financial institutions",
-      "summary": "Vertice AI, the leading provider of AI-powered growth solutions for community financial institutions, today announced the launch of Vertice OPTIMIZE, a first-of-its-kind solution that links a financial institution’s growth goals directly to marketing execution.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110772/vertice-ai-launches-growth-engine-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-01",
-      "category": "Banking",
-      "tags": [
-        "vertice ai",
-        "ai",
-        "vertice optimize"
-      ]
-    },
-    {
-      "id": "15317409",
-      "title": "Lenvi launches verification software to protect against double pledging fraud",
-      "summary": "Lending technology provider Lenvi has launched new automated loan verification integration software, known as ALVIN, to tackle double pledging and track money in real-time following a series of high-profile fraud cases in securitised markets in the UK and US.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110768/lenvi-launches-verification-software-to-protect-against-double-pledging-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-01",
-      "category": "Banking",
-      "tags": [
-        "lenvi",
-        "lending",
-        "alvin"
-      ]
-    },
-    {
-      "id": "135938364",
-      "title": "SBS Chief: bank AI Pilots Stall on Data, not on the model",
-      "summary": "Eric Bierry, chief executive of SBS, on why bank AI pilots succeed where rollouts fail, and what has to change before the full rollout in 2027. The post SBS Chief: bank AI Pilots Stall on Data, not on the model appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/sbs-chief-bank-ai-pilots-stall-on-data-not-on-the-model/",
-      "date": "2026-09-01",
-      "category": "Banking",
-      "tags": [
-        "sbs chief",
-        "ai pilots",
-        "stall"
       ]
     }
   ]
