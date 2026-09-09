@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-09T12:14:00Z",
+  "last_updated": "2026-09-09T21:33:19Z",
   "insights": {
     "risks": [
       "Trading risk: Coca-Cola’s AI Just Solved Retailers’ Inventory Headache — assess algorithmic exposure.",
-      "Operational: The Garbage Gap: Why Smarter AI Models Need Cleaner Inputs — evaluate model governance gaps."
+      "Operational: Pirum appoints Ray Wong as director of product - AI and data — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Ixopay rolls out agentic payment suite — potential infrastructure advantage.",
-      "Banking efficiency: The Garbage Gap: Why Smarter AI Models Need Cleaner Inputs — cost reduction opportunity.",
+      "Payments: AI Can Help Banking – But Customers Still Want a Person — potential infrastructure advantage.",
+      "Banking efficiency: Pirum appoints Ray Wong as director of product - AI and data — cost reduction opportunity.",
       "InsurTech: Guidewire on Putting AI Agents Inside Core Insurance Workflows — underwriting modernisation potential."
     ]
   },
@@ -18,11 +18,11 @@
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 8
     },
     {
       "topic": "Fraud Detection",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Customer Service AI",
@@ -42,6 +42,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "609392985",
+      "title": "Pirum appoints Ray Wong as director of product - AI and data",
+      "summary": "Pirum, the global leader in securities finance automation and connectivity across the full trade lifecycle, has appointed Ray Wong as Director of Product - AI & Data to further accelerate the firm's ongoing development and roll-out of agentic AI products.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110853/pirum-appoints-ray-wong-as-director-of-product---ai-and-data?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-09",
+      "category": "Banking",
+      "tags": [
+        "pirum",
+        "ray wong",
+        "ai"
+      ]
+    },
+    {
+      "id": "575807990",
+      "title": "Daloopa ships AI Excel agent for financial modeling",
+      "summary": "Daloopa, the platform powering public equity professionals with trusted financial data and AI automation across the investment research cycle, today announced the general availability of Scout, its AI Excel agent for financial modeling.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110858/daloopa-ships-ai-excel-agent-for-financial-modeling?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-09",
+      "category": "Banking",
+      "tags": [
+        "daloopa",
+        "ai excel",
+        "ai"
+      ]
+    },
+    {
+      "id": "243891004",
+      "title": "AI Can Help Banking – But Customers Still Want a Person",
+      "summary": "COLIBRIX ONE blends AI and human support to simplify merchant onboarding, payments, and business banking for online and subscription businesses worldwide. The post AI Can Help Banking But Customers Still Want a Person appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-can-help-banking-but-customers-still-want-a-person/",
+      "date": "2026-09-09",
+      "category": "Payments",
+      "tags": [
+        "ai can",
+        "help banking",
+        "but customers"
+      ]
+    },
     {
       "id": "350533700",
       "title": "Ixopay rolls out agentic payment suite",
@@ -835,48 +877,6 @@
         "why uk",
         "fintechs should",
         "stop fearing"
-      ]
-    },
-    {
-      "id": "868619032",
-      "title": "Round Treasury: Where AI Actually Earns its Place in Finance",
-      "summary": "Round co-founder and CEO Pac O'Shea on where AI genuinely earns its place in finance teams, and why the next step is software that acts, not dashboards. The post Round Treasury: Where AI Actually Earns its Place in Finance appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/round-treasury-where-ai-actually-earns-its-place-in-finance/",
-      "date": "2026-09-02",
-      "category": "Payments",
-      "tags": [
-        "round treasury",
-        "where ai",
-        "actually earns"
-      ]
-    },
-    {
-      "id": "255804137",
-      "title": "Sumsub releases fraud prevention starter kit",
-      "summary": "Sumsub, the AI-powered trust infrastructure for compliance operations at scale, today announced the launch of Fraud Prevention Starter Kit, ready-made fraud risk decisioning for companies growing faster than their fraud controls.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110781/sumsub-releases-fraud-prevention-starter-kit?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-02",
-      "category": "RegTech",
-      "tags": [
-        "sumsub",
-        "ai",
-        "fraud prevention"
-      ]
-    },
-    {
-      "id": "325803313",
-      "title": "Why Modern Issuing Platforms Will Determine Which AI Strategies Succeed",
-      "summary": "Artificial intelligence (AI) is moving from experimentation to practical deployment across financial services. As agentic models exceed merely generating recommendations, issuers are discovering that AI itself is no longer the limiting factor for autonomous action. AI readiness v…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/tracker_posts/why-modern-issuing-platforms-will-determine-which-ai-strategies-succeed/",
-      "date": "2026-09-02",
-      "category": "Payments",
-      "tags": [
-        "why modern",
-        "issuing platforms",
-        "will determine"
       ]
     }
   ]
