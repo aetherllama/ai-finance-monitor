@@ -1,24 +1,23 @@
 {
-  "last_updated": "2026-09-09T21:33:19Z",
+  "last_updated": "2026-09-10T12:07:50Z",
   "insights": {
     "risks": [
-      "Trading risk: Coca-Cola’s AI Just Solved Retailers’ Inventory Headache — assess algorithmic exposure.",
-      "Operational: Pirum appoints Ray Wong as director of product - AI and data — evaluate model governance gaps."
+      "Trading risk: Sterling Trading Tech delivers AI driven web and mobile trading capability — assess algorithmic exposure.",
+      "Operational: Daloopa launches Scount, an AI Excel agent for financial modeling — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI Can Help Banking – But Customers Still Want a Person — potential infrastructure advantage.",
-      "Banking efficiency: Pirum appoints Ray Wong as director of product - AI and data — cost reduction opportunity.",
-      "InsurTech: Guidewire on Putting AI Agents Inside Core Insurance Workflows — underwriting modernisation potential."
+      "Payments: Mexican fintech Kapital raises $100 million in new financing — potential infrastructure advantage.",
+      "Banking efficiency: Daloopa launches Scount, an AI Excel agent for financial modeling — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Fraud Detection",
@@ -35,13 +34,121 @@
     {
       "topic": "Payments AI",
       "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "689482988",
+      "title": "Mexican fintech Kapital raises $100 million in new financing",
+      "summary": "Mexico City-based AI-powered platform for small and medium-sized businesses (SMBs) Kapital has raised $100 million in a Series D funding round.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48380/mexican-fintech-kapital-raises-100-million-in-new-financing?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-10",
+      "category": "Payments",
+      "tags": [
+        "mexican",
+        "kapital",
+        "mexico city"
+      ]
+    },
+    {
+      "id": "737868422",
+      "title": "Daloopa launches Scount, an AI Excel agent for financial modeling",
+      "summary": "Daloopa, the platform powering public equity professionals with trusted financial data and AI automation across the investment research cycle, today announced the general availability of Scout, its AI Excel agent for financial modeling.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110864/daloopa-launches-scount-an-ai-excel-agent-for-financial-modeling?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-10",
+      "category": "Banking",
+      "tags": [
+        "daloopa",
+        "scount",
+        "ai excel"
+      ]
+    },
+    {
+      "id": "272389018",
+      "title": "Sterling Trading Tech delivers AI driven web and mobile trading capability",
+      "summary": "Designed to support traders in today’s increasingly global and extended-hours trading environment, Sterling Trading Tech (Sterling), a leading provider of advanced trading platforms, order management systems (OMS360), and risk management solutions, today announced the launch of S…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110866/sterling-trading-tech-delivers-ai-driven-web-and-mobile-trading-capability?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-10",
+      "category": "Trading",
+      "tags": [
+        "sterling trading",
+        "tech",
+        "ai"
+      ]
+    },
+    {
+      "id": "609176769",
+      "title": "Frist Derivative invests £15.5 million to build AI centre of excellence in Ireland",
+      "summary": "First Minister Michelle O’Neill, Deputy First Minister Emma Little-Pengelly and Economy Minister Dr Caoimhe Archibald have today announced a £15.3 million investment by First Derivative in research, development and job creation at a new AI and Fintech Centre of Excellence.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110870/frist-derivative-invests-155-million-to-build-ai-centre-of-excellence-in-ireland?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-10",
+      "category": "Payments",
+      "tags": [
+        "frist derivative",
+        "ai",
+        "ireland first"
+      ]
+    },
+    {
+      "id": "261326719",
+      "title": "Savvy Wealth raises $100 million",
+      "summary": "Savvy Wealth (\"Savvy\"), an AI-native registered investment advisor (RIA) for independent financial advisors, today announced the successful close of its $100 million Series C funding round led by Halo Fund, the growth-stage venture firm co-founded by Qualtrics founder and Utah Ja…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110872/savvy-wealth-raises-100-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-10",
+      "category": "Banking",
+      "tags": [
+        "savvy wealth",
+        "savvy",
+        "ai"
+      ]
+    },
+    {
+      "id": "206246652",
+      "title": "The AI Playbook for Wealth Management Leaders",
+      "summary": "Author: Kuldeep Shrimali",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32796/the-ai-playbook-for-wealth-management-leaders?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-10",
+      "category": "Banking",
+      "tags": [
+        "the ai",
+        "playbook",
+        "wealth management"
+      ]
+    },
+    {
+      "id": "208904671",
+      "title": "43% of Consumers See Digital Wallets in Their AI Shopping Future",
+      "summary": "A full shopping cart looks promising until the shopper can’t find a way to pay. The merchant has done the hard work of winning their interest, only to lose the sale at checkout. Digital wallet payment preferences can play a major role in whether shoppers complete a purchase or ab…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/consumer-insights/2026/43-percent-of-consumers-see-digital-wallets-in-their-ai-shopping-future/",
+      "date": "2026-09-10",
+      "category": "Payments",
+      "tags": [
+        "consumers see",
+        "digital wallets",
+        "their ai"
+      ]
+    },
+    {
+      "id": "718719767",
+      "title": "I built a 21-role AI workforce. The hardest part was management",
+      "summary": "The conversation around AI agents has moved quickly from demos to organisational design. Microsoft s 2025 Work Trend Index for Singapore reported that 56 per cent of Singapore leaders were already using agents to fully automate workstreams or business processes, while 46 per cent…",
+      "source": "e27",
+      "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
+      "date": "2026-09-10",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "microsoft",
+        "work trend"
+      ]
+    },
     {
       "id": "609392985",
       "title": "Pirum appoints Ray Wong as director of product - AI and data",
@@ -765,118 +872,6 @@
         "expense fraud",
         "detection needs",
         "explainable ai"
-      ]
-    },
-    {
-      "id": "298006562",
-      "title": "Finom on the Jump From AI that Answers to AI that Pays",
-      "summary": "Alex Gromadzki, head of product at Finom, on building AI into an SME business account, and what has to be true before it is allowed to move money. The post Finom on the Jump From AI that Answers to AI that Pays appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/finom-on-the-jump-from-ai-that-answers-to-ai-that-pays/",
-      "date": "2026-09-03",
-      "category": "Payments",
-      "tags": [
-        "finom",
-        "jump from",
-        "ai"
-      ]
-    },
-    {
-      "id": "165385811",
-      "title": "Most Banks Wait Six Years for AI Payback. Discovery Didn’t.",
-      "summary": "Banks have a lot of data on their customers, but most of it sits unused. The customer gets flooded the same generic offer everyone else gets, and the bank misses a warning sign of fraud its own systems could have caught earlier, simply because nothing connects the dots fast enoug…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/most-banks-wait-six-years-for-ai-payback-discovery-didnt/",
-      "date": "2026-09-03",
-      "category": "Banking",
-      "tags": [
-        "most banks",
-        "wait six",
-        "years"
-      ]
-    },
-    {
-      "id": "953439050",
-      "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
-      "summary": "Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabili…",
-      "source": "e27",
-      "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
-      "date": "2026-09-03",
-      "category": "Payments",
-      "tags": [
-        "fintech",
-        "defi",
-        "ai"
-      ]
-    },
-    {
-      "id": "275600187",
-      "title": "Leading voices from the banking and insurance industries will meet at The Hyatt Regency to discuss wealth management, insurance investment, and the AI economy.",
-      "summary": "Leading voices from the banking and insurance industries will meet at The Hyatt Regency to discuss wealth management, insurance investment, and the AI economy.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/event-news/hang-seng-bank-bochk-manulife-and-more-convene-abf-ia-summit-hong-kong-5-november",
-      "date": "2026-09-03",
-      "category": "Banking",
-      "tags": [
-        "leading",
-        "the hyatt",
-        "regency"
-      ]
-    },
-    {
-      "id": "252310206",
-      "title": "Airwallex unveils AI bookkeeping platform",
-      "summary": "Finance is infrastructure. It should just run. Transactions categorized as they happen. Books shaped around how the business actually earns and spends. Cash, burn, and runway visible the moment you want them.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110787/airwallex-unveils-ai-bookkeeping-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-02",
-      "category": "Banking",
-      "tags": [
-        "airwallex",
-        "ai",
-        "finance"
-      ]
-    },
-    {
-      "id": "553567284",
-      "title": "Nasdaq acquires AI due diligence platform Dasseti",
-      "summary": "Nasdaq (Nasdaq: NDAQ) today announced that it has completed its acquisition of Dasseti, an AI-powered due diligence and monitoring platform for investment consultants, institutional investors, and asset managers.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110785/nasdaq-acquires-ai-due-diligence-platform-dasseti?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-02",
-      "category": "Banking",
-      "tags": [
-        "nasdaq",
-        "ai",
-        "dasseti nasdaq"
-      ]
-    },
-    {
-      "id": "533489721",
-      "title": "Why the Future of AI in Banking Depends on Trust, not Trials",
-      "summary": "Ben Saunders, Co-Founder of WeBuild-AI, argues that scaling AI in banking is an operating model challenge built on trust, not a technology problem. The post Why the Future of AI in Banking Depends on Trust, not Trials appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/why-the-future-of-ai-in-banking-depends-on-trust-not-trials/",
-      "date": "2026-09-02",
-      "category": "Payments",
-      "tags": [
-        "why",
-        "future",
-        "ai"
-      ]
-    },
-    {
-      "id": "266422192",
-      "title": "Why UK Fintechs Should Stop Fearing AI Regulation",
-      "summary": "Deepali Limaye Davalbhakta, Managing Director at Brillio, argues that building AI governance in from day one gives UK fintechs a trust advantage. The post Why UK Fintechs Should Stop Fearing AI Regulation appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/why-uk-fintechs-should-stop-fearing-ai-regulation/",
-      "date": "2026-09-02",
-      "category": "Payments",
-      "tags": [
-        "why uk",
-        "fintechs should",
-        "stop fearing"
       ]
     }
   ]
