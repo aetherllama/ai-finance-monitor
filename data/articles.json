@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-09-10T12:07:50Z",
+  "last_updated": "2026-09-10T21:29:05Z",
   "insights": {
     "risks": [
       "Trading risk: Sterling Trading Tech delivers AI driven web and mobile trading capability — assess algorithmic exposure.",
-      "Operational: Daloopa launches Scount, an AI Excel agent for financial modeling — evaluate model governance gaps."
+      "Operational: Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Mexican fintech Kapital raises $100 million in new financing — potential infrastructure advantage.",
-      "Banking efficiency: Daloopa launches Scount, an AI Excel agent for financial modeling — cost reduction opportunity."
+      "Banking efficiency: Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud — cost reduction opportunity.",
+      "InsurTech: Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -21,7 +22,7 @@
     },
     {
       "topic": "Fraud Detection",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
@@ -37,6 +38,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "299227805",
+      "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud",
+      "summary": "Arva AI, backed by Y Combinator and Google's AI Fund, announced the launch of its Research Lab, a research division building the proprietary models and infrastructure that let banks automate highest-risk decisions, already used by global financial institutions including a top-10 …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110876/arva-ai-opens-research-lab-to-banish-human-in-the-loop-for-financial-crime-and-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-10",
+      "category": "Banking",
+      "tags": [
+        "arva ai",
+        "research lab",
+        "combinator"
+      ]
+    },
+    {
+      "id": "71159939",
+      "title": "A Failure of Trust: The Next Financial Crisis Starts in the Pipes",
+      "summary": "Banks have fortified their balance sheets while the rails that move money decay from within. ThetaRay chief executive Brad Levy on AML failure and agentic AI. The post A Failure of Trust: The Next Financial Crisis Starts in the Pipes appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/a-failure-of-trust-the-next-financial-crisis-starts-in-the-pipes/",
+      "date": "2026-09-10",
+      "category": "Banking",
+      "tags": [
+        "failure",
+        "trust",
+        "the next"
+      ]
+    },
+    {
+      "id": "131650098",
+      "title": "Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces",
+      "summary": "Experian has added an artificial intelligence-enabled decisioning engine called Experian Activate to its consumer comparison shopping platform for credit cards, personal loans and car insurance, Experian Marketplace, the company said in a Thursday (Sept. 10) press release. Experi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/experian-deploys-real-time-ai-decisioning-across-lending-marketplaces/",
+      "date": "2026-09-10",
+      "category": "InsurTech",
+      "tags": [
+        "experian deploys",
+        "real",
+        "time ai"
+      ]
+    },
     {
       "id": "689482988",
       "title": "Mexican fintech Kapital raises $100 million in new financing",
@@ -830,48 +873,6 @@
         "incore bank",
         "ai",
         "switzerland"
-      ]
-    },
-    {
-      "id": "842116143",
-      "title": "BBVA brings AI into the ePricer experience",
-      "summary": "BBVA Corporate & Investment Banking is bringing artificial intelligence directly into ePricer, its digital structured products platform, with a new release designed to make idea generation, pricing and lifecycle management more connected.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110800/bbva-brings-ai-into-the-epricer-experience?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-03",
-      "category": "Banking",
-      "tags": [
-        "bbva",
-        "ai",
-        "bbva corporate"
-      ]
-    },
-    {
-      "id": "79587566",
-      "title": "Countdown to Sibos: Who controls value in an AI-driven economy?",
-      "summary": "As tokenisation, programmable finance and AI continue to evolve, how should treasury prepare for the next generation of digital finance?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/633/countdown-to-sibos-who-controls-value-in-an-ai-driven-economy?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-03",
-      "category": "Banking",
-      "tags": [
-        "countdown",
-        "sibos",
-        "who"
-      ]
-    },
-    {
-      "id": "608874664",
-      "title": "Expense Fraud Detection Needs Explainable AI, Not Black Boxes",
-      "summary": "Richard Jones, VP of product at ExpenseIn, argues that black box AI cannot police expense fraud and finance teams need explainable pattern recognition. The post Expense Fraud Detection Needs Explainable AI, Not Black Boxes appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/expense-fraud-detection-needs-explainable-ai-not-black-boxes/",
-      "date": "2026-09-03",
-      "category": "Payments",
-      "tags": [
-        "expense fraud",
-        "detection needs",
-        "explainable ai"
       ]
     }
   ]
