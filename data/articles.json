@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-09-11T12:06:27Z",
+  "last_updated": "2026-09-11T21:36:23Z",
   "insights": {
     "risks": [
-      "Trading risk: Sterling Trading Tech delivers AI driven web and mobile trading capability — assess algorithmic exposure.",
-      "Operational: Ripple puts AI agents inside its $1 billion corporate treasury bet — evaluate model governance gaps."
+      "Trading risk: JPMorgan cut off Situational Awareness lending after AI losses — assess algorithmic exposure.",
+      "Operational: OpenAI launches ChatGPT for Financial Service — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: 72% of US consumers have used an AI assistant – Visa Trust Index — potential infrastructure advantage.",
-      "Banking efficiency: Ripple puts AI agents inside its $1 billion corporate treasury bet — cost reduction opportunity.",
+      "Banking efficiency: OpenAI launches ChatGPT for Financial Service — cost reduction opportunity.",
       "InsurTech: Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Customer Service AI",
@@ -38,6 +38,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "324367904",
+      "title": "JPMorgan cut off Situational Awareness lending after AI losses",
+      "summary": "Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during sell-off",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
+      "date": "2026-09-11",
+      "category": "Trading",
+      "tags": [
+        "jpmorgan",
+        "situational awareness",
+        "ai"
+      ]
+    },
+    {
+      "id": "206443085",
+      "title": "OpenAI launches ChatGPT for Financial Service",
+      "summary": "Open AI has launched a dedicated version of ChatGPT for financial services designed to help firms develop research, models, and customised client materials.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48391/openai-launches-chatgpt-for-financial-service?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-11",
+      "category": "Banking",
+      "tags": [
+        "openai",
+        "chatgpt",
+        "financial service"
+      ]
+    },
+    {
+      "id": "251972669",
+      "title": "Rivian’s AI Agents Cut 15 Days From Every Close",
+      "summary": "Electric vehicle manufacturer Rivian automated one of the more tedious jobs in corporate finance: tracking how much to set aside for custom manufacturing tools it has ordered but not yet received a bill for. Rivian built an artificial intelligence system on Amazon Bedrock and eli…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/rivian-ai-agents-cut-15-days-from-every-close/",
+      "date": "2026-09-11",
+      "category": "Banking",
+      "tags": [
+        "rivian",
+        "ai agents",
+        "cut"
+      ]
+    },
     {
       "id": "692445164",
       "title": "72% of US consumers have used an AI assistant – Visa Trust Index",
@@ -830,48 +872,6 @@
         "freedom credit",
         "union",
         "salus"
-      ]
-    },
-    {
-      "id": "328695876",
-      "title": "WealthAi launches WealthAi for Advisors as advice firms enter next phase of AI adoption",
-      "summary": "WealthAi, the AI operating system for wealth management, has today launched WealthAi for Advisors, expanding its platform to independent financial advisers and smaller advice firms.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110812/wealthai-launches-wealthai-for-advisors-as-advice-firms-enter-next-phase-of-ai-adoption?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-04",
-      "category": "Banking",
-      "tags": [
-        "wealthai",
-        "advisors",
-        "ai"
-      ]
-    },
-    {
-      "id": "907030793",
-      "title": "The AI dashboard gold rush: Beyond the pretty charts",
-      "summary": "Claude dashboards have become a kind of AI flex on Instagram recently, especially among founders, marketers, finance people and operators. The biggest reason is that dashboards suddenly became very easy to make and very easy to share. Claude Code can now turn data or work from a …",
-      "source": "e27",
-      "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/",
-      "date": "2026-09-04",
-      "category": "Banking",
-      "tags": [
-        "the ai",
-        "beyond",
-        "claude"
-      ]
-    },
-    {
-      "id": "458336878",
-      "title": "nCino Expands Buyback as AI Demand Supports Growth",
-      "summary": "nCino reported higher revenue and profitability for its fiscal second quarter while authorizing another $100 million for share repurchases, as the banking software provider pointed to growing customer commitments to its artificial intelligence capabilities. According to FinTech G…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/ncino-expands-buyback-as-ai-demand-supports-growth/",
-      "date": "2026-09-03",
-      "category": "Payments",
-      "tags": [
-        "expands buyback",
-        "ai demand",
-        "supports growth"
       ]
     }
   ]
