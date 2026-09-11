@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-10T21:29:05Z",
+  "last_updated": "2026-09-11T12:06:27Z",
   "insights": {
     "risks": [
       "Trading risk: Sterling Trading Tech delivers AI driven web and mobile trading capability — assess algorithmic exposure.",
-      "Operational: Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud — evaluate model governance gaps."
+      "Operational: Ripple puts AI agents inside its $1 billion corporate treasury bet — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Mexican fintech Kapital raises $100 million in new financing — potential infrastructure advantage.",
-      "Banking efficiency: Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud — cost reduction opportunity.",
+      "Payments: 72% of US consumers have used an AI assistant – Visa Trust Index — potential infrastructure advantage.",
+      "Banking efficiency: Ripple puts AI agents inside its $1 billion corporate treasury bet — cost reduction opportunity.",
       "InsurTech: Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces — underwriting modernisation potential."
     ]
   },
@@ -18,26 +18,81 @@
     },
     {
       "topic": "Automation",
-      "count": 9
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 2
+      "count": 8
     },
     {
       "topic": "Customer Service AI",
       "count": 2
     },
     {
-      "topic": "Risk Management",
+      "topic": "Payments AI",
       "count": 2
     },
     {
-      "topic": "Payments AI",
+      "topic": "Fraud Detection",
+      "count": 2
+    },
+    {
+      "topic": "Risk Management",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "692445164",
+      "title": "72% of US consumers have used an AI assistant – Visa Trust Index",
+      "summary": "New research from Visa Trust Index revealed that consumers are increasingly using AI in their payment journey.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-11",
+      "category": "Payments",
+      "tags": [
+        "us",
+        "ai",
+        "visa trust"
+      ]
+    },
+    {
+      "id": "232246452",
+      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
+      "summary": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
+      "date": "2026-09-11",
+      "category": "Banking",
+      "tags": [
+        "ripple",
+        "ai"
+      ]
+    },
+    {
+      "id": "160041356",
+      "title": "Trust Bank is rolling out Trust AI Ask, which answers questions that customers have about their finances in a conversational format.",
+      "summary": "Trust Bank is rolling out Trust AI Ask, which answers questions that customers have about their finances in a conversational format.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/news/trust-bank-launches-ai-ask-conversational-finance-queries",
+      "date": "2026-09-11",
+      "category": "Banking",
+      "tags": [
+        "trust bank",
+        "trust ai",
+        "ask"
+      ]
+    },
+    {
+      "id": "167720890",
+      "title": "AI Agents Need Permissioned Funding Sources. Not Company Bank Accounts.",
+      "summary": "The trillion-dollar question hovering around agentic commerce is why agents would hold money at all. After all, if a multinational eventually operates, say, 10,000 artificial intelligence agents buying software, booking travel, procuring inventory, managing advertising and negoti…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-need-permissioned-funding-sources-not-company-bank-accounts/",
+      "date": "2026-09-10",
+      "category": "Banking",
+      "tags": [
+        "ai agents",
+        "need permissioned",
+        "funding sources"
+      ]
+    },
     {
       "id": "299227805",
       "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud",
@@ -817,62 +872,6 @@
         "expands buyback",
         "ai demand",
         "supports growth"
-      ]
-    },
-    {
-      "id": "192975170",
-      "title": "Finzly debuts AI assurance layer",
-      "summary": "Finzly, the banking transformation company, today announced the launch of Assure, an AI-powered security and assurance layer as part of its Agentic Galaxy suite of AI capabilities, powering the infrastructure for BankOS, its modern operating system for banks.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110810/finzly-debuts-ai-assurance-layer?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-03",
-      "category": "Banking",
-      "tags": [
-        "finzly",
-        "ai",
-        "assure"
-      ]
-    },
-    {
-      "id": "127086945",
-      "title": "On-Demand – Countdown to Sibos: Who controls value in an AI-driven economy?",
-      "summary": "As tokenisation, programmable finance and AI continue to evolve, how should treasury prepare for the next generation of digital finance?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/633/on-demand--countdown-to-sibos-who-controls-value-in-an-ai-driven-economy?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-03",
-      "category": "Banking",
-      "tags": [
-        "on",
-        "demand",
-        "countdown"
-      ]
-    },
-    {
-      "id": "110215877",
-      "title": "Shufti’s Shahid Hanif on Onboarding Friction and AI Fraud",
-      "summary": "Shufti chief executive Shahid Hanif on why nearly half of users abandon onboarding and how AI-generated identities beat legacy document checks. The post Shufti s Shahid Hanif on Onboarding Friction and AI Fraud appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/shuftis-shahid-hanif-on-onboarding-friction-and-ai-fraud/",
-      "date": "2026-09-03",
-      "category": "Payments",
-      "tags": [
-        "shufti",
-        "shahid hanif",
-        "onboarding friction"
-      ]
-    },
-    {
-      "id": "364076392",
-      "title": "Incore Bank trials AI for customer onboarding with automated risk assessment",
-      "summary": "Switzerland's Incore Bank has run a proof of concept trial with Kyndryl and Google Cloud on the use of AI agents to accelerate customer onboarding while maintaining strong risk oversight controls.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48344/incore-bank-trials-ai-for-customer-onboarding-with-automated-risk-assessment?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-03",
-      "category": "Banking",
-      "tags": [
-        "incore bank",
-        "ai",
-        "switzerland"
       ]
     }
   ]
