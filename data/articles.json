@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-12T11:32:20Z",
+  "last_updated": "2026-09-12T21:19:06Z",
   "insights": {
     "risks": [
       "Trading risk: Larry Ellison to sell up to $7.5bn worth of Oracle stock — assess algorithmic exposure.",
       "Operational: OpenAI launches ChatGPT for Financial Service — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: 72% of US consumers have used an AI assistant – Visa Trust Index — potential infrastructure advantage.",
+      "Payments: S&P Global: US Consumers Wary of Stablecoins and Agentic AI — potential infrastructure advantage.",
       "Banking efficiency: OpenAI launches ChatGPT for Financial Service — cost reduction opportunity.",
       "InsurTech: Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces — underwriting modernisation potential."
     ]
@@ -14,7 +14,7 @@
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Automation",
@@ -33,11 +33,29 @@
       "count": 2
     },
     {
+      "topic": "Stablecoin AI",
+      "count": 1
+    },
+    {
       "topic": "Risk Management",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "129903494",
+      "title": "S&P Global: US Consumers Wary of Stablecoins and Agentic AI",
+      "summary": "S P Global's Q2 2026 consumer survey finds stablecoin awareness at just 16% and 47% of respondents unwilling to let AI make purchases. The post S P Global: US Consumers Wary of Stablecoins and Agentic AI appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/sp-global-us-consumers-wary-of-stablecoins-and-agentic-ai/",
+      "date": "2026-09-12",
+      "category": "Payments",
+      "tags": [
+        "global",
+        "us consumers",
+        "wary"
+      ]
+    },
     {
       "id": "182846627",
       "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
@@ -858,20 +876,6 @@
         "control ai",
         "agents",
         "do not"
-      ]
-    },
-    {
-      "id": "386637336",
-      "title": "Ant International Secures Payment Institution License to Expand Capabilities in Brazil",
-      "summary": "Ant International, a global provider of digital payment, digitization and financial artificial intelligence (FinAI) solutions, has received a Payment Institution (PI) license from the Central Bank of Brazil, the company said in a Thursday (Sept. 3) press release. The PI license w…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/legal/2026/ant-international-secures-payment-institution-license-to-expand-capabilities-in-brazil/",
-      "date": "2026-09-04",
-      "category": "Banking",
-      "tags": [
-        "ant international",
-        "secures payment",
-        "institution license"
       ]
     }
   ]
