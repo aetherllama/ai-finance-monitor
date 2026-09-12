@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-11T21:36:23Z",
+  "last_updated": "2026-09-12T11:32:20Z",
   "insights": {
     "risks": [
-      "Trading risk: JPMorgan cut off Situational Awareness lending after AI losses — assess algorithmic exposure.",
+      "Trading risk: Larry Ellison to sell up to $7.5bn worth of Oracle stock — assess algorithmic exposure.",
       "Operational: OpenAI launches ChatGPT for Financial Service — evaluate model governance gaps."
     ],
     "opportunities": [
@@ -18,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Customer Service AI",
@@ -38,6 +38,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "182846627",
+      "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
+      "summary": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
+      "date": "2026-09-12",
+      "category": "Trading",
+      "tags": [
+        "larry ellison",
+        "oracle",
+        "founder"
+      ]
+    },
     {
       "id": "324367904",
       "title": "JPMorgan cut off Situational Awareness lending after AI losses",
@@ -858,20 +872,6 @@
         "ant international",
         "secures payment",
         "institution license"
-      ]
-    },
-    {
-      "id": "488489174",
-      "title": "Freedom Credit Union taps Salus to help attract Gen Z and millennial members",
-      "summary": "Freedom Credit Union, a $764 million Massachusetts-based institution serving the greater Springfield area, has partnered with Salus to launch automated microloans. The initiative reflects Freedom’s strategic push to expand its offerings while attracting and retaining Gen Z and mi…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110814/freedom-credit-union-taps-salus-to-help-attract-gen-z-and-millennial-members?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-04",
-      "category": "Banking",
-      "tags": [
-        "freedom credit",
-        "union",
-        "salus"
       ]
     }
   ]
