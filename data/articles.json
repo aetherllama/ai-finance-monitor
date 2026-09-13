@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-09-12T21:19:06Z",
+  "last_updated": "2026-09-13T12:38:09Z",
   "insights": {
     "risks": [
-      "Trading risk: Larry Ellison to sell up to $7.5bn worth of Oracle stock — assess algorithmic exposure.",
+      "Trading risk: The anti-AI portfolio: fountain pens, Warhammer and film cameras — assess algorithmic exposure.",
       "Operational: OpenAI launches ChatGPT for Financial Service — evaluate model governance gaps."
     ],
     "opportunities": [
@@ -14,7 +14,7 @@
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -42,6 +42,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "742168625",
+      "title": "The anti-AI portfolio: fountain pens, Warhammer and film cameras",
+      "summary": "Journaling, sudoku, puzzle books and other non-digital pursuits are staging a comeback",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1",
+      "date": "2026-09-13",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "warhammer",
+        "journaling"
+      ]
+    },
     {
       "id": "129903494",
       "title": "S&P Global: US Consumers Wary of Stablecoins and Agentic AI",
@@ -862,20 +876,6 @@
         "autonomy",
         "financial services",
         "engineering trust"
-      ]
-    },
-    {
-      "id": "966605976",
-      "title": "Control AI Agents, Do Not Just Stop Them, Says LaunchDarkly CTO",
-      "summary": "LaunchDarkly CTO Cameron Etezadi on why runtime control, not a kill switch, should be the first line of defence for AI agents in financial services. The post Control AI Agents, Do Not Just Stop Them, Says LaunchDarkly CTO appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/control-ai-agents-do-not-just-stop-them-says-launchdarkly-cto/",
-      "date": "2026-09-04",
-      "category": "Payments",
-      "tags": [
-        "control ai",
-        "agents",
-        "do not"
       ]
     }
   ]
