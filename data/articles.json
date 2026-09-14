@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-09-13T21:18:26Z",
+  "last_updated": "2026-09-14T13:46:44Z",
   "insights": {
     "risks": [
-      "Trading risk: The anti-AI portfolio: fountain pens, Warhammer and film cameras — assess algorithmic exposure.",
-      "Operational: OpenAI launches ChatGPT for Financial Service — evaluate model governance gaps."
+      "Regulatory: Data quality is the top AI compliance concern for financial institutions, scoring 275 in a survey of banks and asset managers across Singapore, Malaysia and Australia. Generative AI remains the most considered technology, cited by 77% of respondents. — review compliance obligations.",
+      "Trading risk: US tech stocks fall after big AI groups call for slowdown — assess algorithmic exposure.",
+      "Operational: Chift raises €10.5m to build financial connectivity layer for the AI era — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: S&P Global: US Consumers Wary of Stablecoins and Agentic AI — potential infrastructure advantage.",
-      "Banking efficiency: OpenAI launches ChatGPT for Financial Service — cost reduction opportunity.",
-      "InsurTech: Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces — underwriting modernisation potential."
+      "Payments: MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia — potential infrastructure advantage.",
+      "Banking efficiency: Chift raises €10.5m to build financial connectivity layer for the AI era — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Customer Service AI",
@@ -33,6 +33,18 @@
       "count": 2
     },
     {
+      "topic": "Portfolio Management",
+      "count": 1
+    },
+    {
+      "topic": "Generative AI",
+      "count": 1
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
       "topic": "Stablecoin AI",
       "count": 1
     },
@@ -42,6 +54,116 @@
     }
   ],
   "articles": [
+    {
+      "id": "697358125",
+      "title": "US tech stocks fall after big AI groups call for slowdown",
+      "summary": "Memory-chip makers and Nvidia slide at the start of trading in New York",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+      "date": "2026-09-14",
+      "category": "Trading",
+      "tags": [
+        "us",
+        "ai",
+        "memory"
+      ]
+    },
+    {
+      "id": "337106331",
+      "title": "Pave raises $15m for AI-powered portfolio management platform",
+      "summary": "AI-powered portfolio management platform for financial advisors Pave Finance has raised over $15 million at a $100 million pre-money valuation in an oversubscribed Series A round.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48389/pave-raises-15m-for-ai-powered-portfolio-management-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-14",
+      "category": "Trading",
+      "tags": [
+        "pave",
+        "ai",
+        "pave finance"
+      ]
+    },
+    {
+      "id": "456767449",
+      "title": "Chift raises €10.5m to build financial connectivity layer for the AI era",
+      "summary": "Chift, a European startup building a financial connectivity layer for the AI era, has raised €10.5 million in a Series A led by BlackFin Capital Partners.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48390/chift-raises-105m-to-build-financial-connectivity-layer-for-the-ai-era?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-14",
+      "category": "Banking",
+      "tags": [
+        "chift",
+        "ai",
+        "european"
+      ]
+    },
+    {
+      "id": "215278729",
+      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
+      "summary": "ByteDance was reportedly considering spending $70 billion on AI data centers and infrastructure. The news comes as U.S. AI giants call for slowing the AI race.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
+      "date": "2026-09-14",
+      "category": "Banking",
+      "tags": [
+        "tiktok",
+        "bytedance",
+        "ai"
+      ]
+    },
+    {
+      "id": "612080972",
+      "title": "MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia",
+      "summary": "MoneyHero s latest earnings tell two stories. The first is the one the NASDAQ-listed fintech aggregator wants investors to focus on: artificial intelligence automation, better approval rates, and a more efficient operating model. The second sits deeper in the numbers: falling rev…",
+      "source": "e27",
+      "url": "https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/",
+      "date": "2026-09-14",
+      "category": "Payments",
+      "tags": [
+        "moneyhero",
+        "southeast asia",
+        "nasdaq"
+      ]
+    },
+    {
+      "id": "579813697",
+      "title": "Everyone has adopted AI. Almost nobody is ready for it",
+      "summary": "Somewhere in the last eighteen months, the AI question quietly resolved itself. Almost nobody in Singapore asks whether to adopt anymore. Accenture said 90 per cent of organisations surveyed have moved beyond AI awareness and exploration into implementation. One in two has deploy…",
+      "source": "e27",
+      "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/",
+      "date": "2026-09-14",
+      "category": "Banking",
+      "tags": [
+        "everyone",
+        "ai",
+        "almost"
+      ]
+    },
+    {
+      "id": "23746932",
+      "title": "The initiative aims to lower the cost for smaller financial institutions adopting AI.",
+      "summary": "The initiative aims to lower the cost for smaller financial institutions adopting AI.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/sgs-pathfinai-ai-sharing-programme-grows-over-300-participants",
+      "date": "2026-09-14",
+      "category": "Banking",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "778133103",
+      "title": "Data quality is the top AI compliance concern for financial institutions, scoring 275 in a survey of banks and asset managers across Singapore, Malaysia and Australia. Generative AI remains the most considered technology, cited by 77% of respondents.",
+      "summary": "Data quality is the top AI compliance concern for financial institutions, scoring 275 in a survey of banks and asset managers across Singapore, Malaysia and Australia. Generative AI remains the most considered technology, cited by 77% of respondents.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/financial-technology/in-focus/financial-firms-rank-data-quality-top-ai-compliance-risk",
+      "date": "2026-09-13",
+      "category": "RegTech",
+      "tags": [
+        "data",
+        "ai",
+        "singapore"
+      ]
+    },
     {
       "id": "742168625",
       "title": "The anti-AI portfolio: fountain pens, Warhammer and film cameras",
@@ -764,118 +886,6 @@
       "tags": [
         "singapore",
         "ai"
-      ]
-    },
-    {
-      "id": "457719843",
-      "title": "Resilience, Not Reach, is Banking’s New Hard Limit",
-      "summary": "Universal banks are trying to move faster without first becoming simpler, and AI will not fix that. Elixirr partner Tej Patel on complexity as risk. The post Resilience, Not Reach, is Banking s New Hard Limit appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/resilience-not-reach-is-bankings-new-hard-limit/",
-      "date": "2026-09-06",
-      "category": "Payments",
-      "tags": [
-        "resilience",
-        "not reach",
-        "banking"
-      ]
-    },
-    {
-      "id": "982227071",
-      "title": "Brokers Face Fundamental Challenges the Algorithm Can’t Resolve",
-      "summary": "Alessandro De Leonardis, CIO of Armundia Group, argues automation in insurance brokerage stops where human judgement must explain, arbitrate and govern. The post Brokers Face Fundamental Challenges the Algorithm Can t Resolve appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/brokers-face-fundamental-challenges-the-algorithm-cant-resolve/",
-      "date": "2026-09-06",
-      "category": "Payments",
-      "tags": [
-        "brokers face",
-        "fundamental challenges",
-        "algorithm can"
-      ]
-    },
-    {
-      "id": "948133382",
-      "title": "UBS demands new junior bankers show AI proficiency",
-      "summary": "Graduates and interns hoping to join Swiss bank must show they can use the technology to improve outcomes and efficiency",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/76b370ff-b5f6-4e22-aa30-da08b1abb8f8?syn-25a6b1a6=1",
-      "date": "2026-09-06",
-      "category": "Banking",
-      "tags": [
-        "ubs",
-        "ai",
-        "graduates"
-      ]
-    },
-    {
-      "id": "831442906",
-      "title": "Pay.UK’s David Crawford: AI fraud Is The Fastest-Moving Shift",
-      "summary": "Pay.UK's chief strategy and transformation officer David Crawford on the Mills Review, agentic commerce, and why fraud is the AI shift moving fastest. The post Pay.UK s David Crawford: AI fraud Is The Fastest-Moving Shift appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/pay-uks-david-crawford-ai-fraud-is-the-fastest-moving-shift/",
-      "date": "2026-09-06",
-      "category": "Payments",
-      "tags": [
-        "pay",
-        "uk",
-        "david crawford"
-      ]
-    },
-    {
-      "id": "699434661",
-      "title": "How AI is Driving a New Wave of Motor Fraud",
-      "summary": "Dave Rossi, managing director at National Hunter, on how AI is industrialising motor fraud and why intelligence sharing is now the industry's best defence. The post How AI is Driving a New Wave of Motor Fraud appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/how-ai-is-driving-a-new-wave-of-motor-fraud/",
-      "date": "2026-09-05",
-      "category": "Payments",
-      "tags": [
-        "how ai",
-        "driving",
-        "new wave"
-      ]
-    },
-    {
-      "id": "664328949",
-      "title": "DORA, NIS2 and the AI Act are One Job, Says UiPath’s Field CISO",
-      "summary": "UiPath Field CISO Marco Eggerling on treating DORA, NIS2 and the EU AI Act as one control set, and why board AI literacy is the next supervisory test. The post DORA, NIS2 and the AI Act are One Job, Says UiPath s Field CISO appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/dora-nis2-and-the-ai-act-are-one-job-says-uipaths-field-ciso/",
-      "date": "2026-09-05",
-      "category": "Payments",
-      "tags": [
-        "dora",
-        "ai act",
-        "one job"
-      ]
-    },
-    {
-      "id": "188342841",
-      "title": "The $1.5tn Wealth Shift: Capgemini on the Personalisation Gap",
-      "summary": "Capgemini's Jeannette Martin on why $1.5tn left traditional wealth managers, the 17 percent of clients who feel understood, and where AI is closing the gap. The post The $1.5tn Wealth Shift: Capgemini on the Personalisation Gap appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-1-5tn-wealth-shift-capgemini-on-the-personalisation-gap/",
-      "date": "2026-09-04",
-      "category": "Payments",
-      "tags": [
-        "wealth shift",
-        "capgemini",
-        "personalisation gap"
-      ]
-    },
-    {
-      "id": "691649606",
-      "title": "Autonomy in Financial Services: Engineering Trust and Control",
-      "summary": "Srinivasan Seshadri of HCLTech argues autonomy in financial services is not automation, and that trust must be engineered into every AI-driven action. The post Autonomy in Financial Services: Engineering Trust and Control appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/autonomy-in-financial-services-engineering-trust-and-control/",
-      "date": "2026-09-04",
-      "category": "Payments",
-      "tags": [
-        "autonomy",
-        "financial services",
-        "engineering trust"
       ]
     }
   ]
