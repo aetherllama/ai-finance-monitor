@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-14T13:46:44Z",
+  "last_updated": "2026-09-14T22:21:46Z",
   "insights": {
     "risks": [
       "Regulatory: Data quality is the top AI compliance concern for financial institutions, scoring 275 in a survey of banks and asset managers across Singapore, Malaysia and Australia. Generative AI remains the most considered technology, cited by 77% of respondents. — review compliance obligations.",
       "Trading risk: US tech stocks fall after big AI groups call for slowdown — assess algorithmic exposure.",
-      "Operational: Chift raises €10.5m to build financial connectivity layer for the AI era — evaluate model governance gaps."
+      "Operational: OpenAI Accelerates Device Plan With AI Camera Tech Acquisition — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia — potential infrastructure advantage.",
-      "Banking efficiency: Chift raises €10.5m to build financial connectivity layer for the AI era — cost reduction opportunity."
+      "Payments: An AI Agent Just Passed Europe's Toughest Payment Authentication Test — potential infrastructure advantage.",
+      "Banking efficiency: OpenAI Accelerates Device Plan With AI Camera Tech Acquisition — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -54,6 +54,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "538881275",
+      "title": "An AI Agent Just Passed Europe's Toughest Payment Authentication Test",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32848/an-ai-agent-just-passed-europes-toughest-payment-authentication-test?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-14",
+      "category": "Payments",
+      "tags": [
+        "an ai",
+        "agent just",
+        "passed europe"
+      ]
+    },
+    {
+      "id": "472671968",
+      "title": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition",
+      "summary": "OpenAI has acquired Glass Imaging, a startup founded by former Apple employees that is developing artificial intelligence-enhanced cameras for smartphones, The Wall Street Journal reported Monday (Sept. 14), citing unnamed sources. Glass Imaging is working on AI technology that e…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-accelerates-device-plan-with-ai-camera-tech-acquisition/",
+      "date": "2026-09-14",
+      "category": "Banking",
+      "tags": [
+        "openai accelerates",
+        "device plan",
+        "with ai"
+      ]
+    },
     {
       "id": "697358125",
       "title": "US tech stocks fall after big AI groups call for slowdown",
@@ -858,33 +886,6 @@
       "category": "Banking",
       "tags": [
         "banks",
-        "ai"
-      ]
-    },
-    {
-      "id": "31852900",
-      "title": "ByteDance Lands $29.6 Billion Loan to Fuel AI Advances",
-      "summary": "China’s ByteDance has reportedly secured a $29.6 billion loan from nearly 30 banks. That’s according to a report Friday (Sept. 4) from Reuters, which says the TikTok owner’s plans for artificial intelligence have attracted strong interest from lenders. The loan is the second-bigg…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bytedance-lands-29-6-billion-loan-to-fuel-ai-advances/",
-      "date": "2026-09-06",
-      "category": "Banking",
-      "tags": [
-        "bytedance lands",
-        "billion loan",
-        "fuel ai"
-      ]
-    },
-    {
-      "id": "772804094",
-      "title": "Singapore is leading the shift to integrated digital wallets, yet consumers remain hesitant to let AI take control of payments.",
-      "summary": "Singapore is leading the shift to integrated digital wallets, yet consumers remain hesitant to let AI take control of payments.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/singaporeans-lead-in-digital-wallet-adoption-ai-commerce-trust-lags",
-      "date": "2026-09-06",
-      "category": "Banking",
-      "tags": [
-        "singapore",
         "ai"
       ]
     }
