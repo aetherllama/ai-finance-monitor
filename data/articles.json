@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-15T12:32:59Z",
+  "last_updated": "2026-09-15T22:00:19Z",
   "insights": {
     "risks": [
       "Trading risk: TS Imagine ships AI platform for capital markets — assess algorithmic exposure.",
-      "Operational: Smartstream connects collateral management with AI — evaluate model governance gaps."
+      "Operational: The AI Flywheel: Why the Future of Banking Implementations Lies in Compounding Intelligence — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: PayNearMe acquires AI company Marr Labs — potential infrastructure advantage.",
-      "Banking efficiency: Smartstream connects collateral management with AI — cost reduction opportunity."
+      "Banking efficiency: The AI Flywheel: Why the Future of Banking Implementations Lies in Compounding Intelligence — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -49,6 +49,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "569783089",
+      "title": "The AI Flywheel: Why the Future of Banking Implementations Lies in Compounding Intelligence",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32869/the-ai-flywheel-why-the-future-of-banking-implementations-lies-in-compounding-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-15",
+      "category": "Banking",
+      "tags": [
+        "the ai",
+        "flywheel",
+        "why"
+      ]
+    },
     {
       "id": "984030384",
       "title": "Smartstream connects collateral management with AI",
@@ -869,20 +883,6 @@
         "law schools",
         "outlaw ai",
         "amid fears"
-      ]
-    },
-    {
-      "id": "614045222",
-      "title": "UBS calls for AI literacy from new recruits",
-      "summary": "Swiss bank UBS has become one of the first financial institutions to demand AI proficiency from potential employees",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48353/ubs-calls-for-ai-literacy-from-new-recruits?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-07",
-      "category": "Banking",
-      "tags": [
-        "ubs",
-        "ai",
-        "swiss"
       ]
     }
   ]
