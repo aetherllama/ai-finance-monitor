@@ -1,28 +1,23 @@
 {
-  "last_updated": "2026-09-14T22:21:46Z",
+  "last_updated": "2026-09-15T12:32:59Z",
   "insights": {
     "risks": [
-      "Regulatory: Data quality is the top AI compliance concern for financial institutions, scoring 275 in a survey of banks and asset managers across Singapore, Malaysia and Australia. Generative AI remains the most considered technology, cited by 77% of respondents. — review compliance obligations.",
-      "Trading risk: US tech stocks fall after big AI groups call for slowdown — assess algorithmic exposure.",
-      "Operational: OpenAI Accelerates Device Plan With AI Camera Tech Acquisition — evaluate model governance gaps."
+      "Trading risk: TS Imagine ships AI platform for capital markets — assess algorithmic exposure.",
+      "Operational: Smartstream connects collateral management with AI — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: An AI Agent Just Passed Europe's Toughest Payment Authentication Test — potential infrastructure advantage.",
-      "Banking efficiency: OpenAI Accelerates Device Plan With AI Camera Tech Acquisition — cost reduction opportunity."
+      "Payments: PayNearMe acquires AI company Marr Labs — potential infrastructure advantage.",
+      "Banking efficiency: Smartstream connects collateral management with AI — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 16
     },
     {
       "topic": "Automation",
       "count": 7
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 2
     },
     {
       "topic": "Payments AI",
@@ -49,11 +44,109 @@
       "count": 1
     },
     {
-      "topic": "Risk Management",
+      "topic": "Customer Service AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "984030384",
+      "title": "Smartstream connects collateral management with AI",
+      "summary": "Smartstream, the trusted data solutions provider for leading global financial institutions and enterprises, today announces two new Model Context Protocol (MCP) servers for Smart Collateral, enabling dynamic, agentic collateral operations.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110905/smartstream-connects-collateral-management-with-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-15",
+      "category": "Banking",
+      "tags": [
+        "smartstream",
+        "ai smartstream",
+        "model context"
+      ]
+    },
+    {
+      "id": "501758983",
+      "title": "PayNearMe acquires AI company Marr Labs",
+      "summary": "PayNearMe, the fintech company pioneering Payment Experience Management (PEM), today announced that it has acquired the technology assets and hired the key employees of Marr Labs, an AI company that develops agentic solutions to automate voice, messaging and workflows in complex,…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110914/paynearme-acquires-ai-company-marr-labs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-15",
+      "category": "Payments",
+      "tags": [
+        "paynearme",
+        "ai",
+        "marr labs"
+      ]
+    },
+    {
+      "id": "905697736",
+      "title": "TS Imagine ships AI platform for capital markets",
+      "summary": "TS Imagine, a leading global multi-asset provider of cloud-native trading, wealth, portfolio, risk management and prime brokerage solutions, today announced the launch of TSIQ.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110915/ts-imagine-ships-ai-platform-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-15",
+      "category": "Trading",
+      "tags": [
+        "ts imagine",
+        "ai",
+        "tsiq"
+      ]
+    },
+    {
+      "id": "514358763",
+      "title": "What’s at stake in AI’s trillion-dollar gamble",
+      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact”…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "date": "2026-09-15",
+      "category": "Banking",
+      "tags": [
+        "what",
+        "ai",
+        "when jessica"
+      ]
+    },
+    {
+      "id": "691834689",
+      "title": "Paymentus Scales Bill Payment Platform Across Additional Sectors",
+      "summary": "Paymentus executives emphasized the company’s position as a specialized technology provider navigating bill payment modernization, agentic artificial intelligence and expansion into additional verticals during the Goldman Sachs 2026 Communacopia + Technology conference. Paymentus…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/payments-innovation/2026/paymentus-scales-bill-payment-platform-across-additional-sectors/",
+      "date": "2026-09-15",
+      "category": "Payments",
+      "tags": [
+        "paymentus scales",
+        "bill payment",
+        "platform across"
+      ]
+    },
+    {
+      "id": "499089092",
+      "title": "Shopify Says AI Search Boosts Conversions by 80%",
+      "summary": "Shopify is leveraging agentic artificial intelligence to transform digital commerce discovery, lower startup barriers for small and medium-sized businesses, and reinforce its core payments and checkout infrastructure, executives said Thursday (Sept. 10). Speaking at the Goldman S…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-says-ai-search-boosts-conversions-by-80/",
+      "date": "2026-09-14",
+      "category": "Banking",
+      "tags": [
+        "shopify says",
+        "ai search",
+        "boosts conversions"
+      ]
+    },
+    {
+      "id": "495057214",
+      "title": "OCBC's AI agent slashed source-of-wealth reporting from 10 days to an hour — and Singapore's new SAFR framework is racing to build the guardrails around it.",
+      "summary": "OCBC's AI agent slashed source-of-wealth reporting from 10 days to an hour — and Singapore's new SAFR framework is racing to build the guardrails around it.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/exclusive/singapore-finance-weighs-ai-agents-against-governance-gaps",
+      "date": "2026-09-14",
+      "category": "Banking",
+      "tags": [
+        "ocbc",
+        "ai",
+        "singapore"
+      ]
+    },
     {
       "id": "538881275",
       "title": "An AI Agent Just Passed Europe's Toughest Payment Authentication Test",
@@ -790,103 +883,6 @@
         "ubs",
         "ai",
         "swiss"
-      ]
-    },
-    {
-      "id": "7201255",
-      "title": "Concryt deploys agentic AI to monitor live payment operations",
-      "summary": "Global payments technology company CONCRYT has deployed agentic AI across its live payment operations, moving the technology beyond a chatbot interface and into the day-to-day monitoring of its gateway.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-07",
-      "category": "Payments",
-      "tags": [
-        "concryt",
-        "ai",
-        "global"
-      ]
-    },
-    {
-      "id": "44121875",
-      "title": "When Banking APIs Start Making Decisions, Who Signs Off on Them?",
-      "summary": "There's a story going around the fintech press right now about AI \"transforming\" banking ...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32757/when-banking-apis-start-making-decisions-who-signs-off-on-them?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-07",
-      "category": "Payments",
-      "tags": [
-        "when banking",
-        "apis start",
-        "making decisions"
-      ]
-    },
-    {
-      "id": "639766053",
-      "title": "The $206 Billion Problem Hiding in Verified Bank Accounts: Inside VerityX’s Money Mule Whitepaper",
-      "summary": "A new VerityX whitepaper argues that rules-based AML systems are failing to stop money mule networks, calling for connected, AI-driven risk intelligence and real-time detection. The post The $206 Billion Problem Hiding in Verified Bank Accounts: Inside VerityX s Money Mule Whitep…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-206-billion-problem-hiding-in-verified-bank-accounts-inside-verityxs-money-mule-whitepaper/",
-      "date": "2026-09-07",
-      "category": "Banking",
-      "tags": [
-        "billion problem",
-        "hiding",
-        "verified bank"
-      ]
-    },
-    {
-      "id": "899756070",
-      "title": "How Banks can Adopt AI Without Losing Customer Trust",
-      "summary": "Avaya's Cameron Thomson on why banks should automate where confidence is high, keephumans where the stakes rise, and modernise piece by piece. The post How Banks can Adopt AI Without Losing Customer Trust appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/how-banks-can-adopt-ai-without-losing-customer-trust/",
-      "date": "2026-09-07",
-      "category": "Payments",
-      "tags": [
-        "how banks",
-        "adopt ai",
-        "without losing"
-      ]
-    },
-    {
-      "id": "215488275",
-      "title": "Insurance Claims Lose the Paper Chase as AI Gets to Work",
-      "summary": "Insurance claims have always been document-heavy, time-sensitive, and prone to fraud. A single corporate loss event can produce thousands of pages of notices, reports, and correspondence that a claims handler must evaluate quickly. The volume keeps growing. Artificial intelligenc…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/insurance/2026/insurance-claims-lose-the-paper-chase-as-ai-gets-to-work/",
-      "date": "2026-09-07",
-      "category": "Banking",
-      "tags": [
-        "insurance claims",
-        "lose",
-        "paper chase"
-      ]
-    },
-    {
-      "id": "25382061",
-      "title": "SCB 10X Identifies Six Key Takeaways for Organizations Navigating the AI Transformation, Drawing Insights from AI-VOLUTION The Series 2026",
-      "summary": "Bangkok, September 2, 2026 SCB 10X, the disruptive technology investment arm of SCBX Group, continues its AI knowledge-sharing initiative through “AI-VOLUTION The Series 2026”, a year-long online content series featuring in-depth conversations with global technology experts, foun…",
-      "source": "e27",
-      "url": "https://e27.co/scb-10x-identifies-six-key-takeaways-for-organizations-navigating-the-ai-transformation-drawing-insights-from-ai-volution-the-series-2026-20260907/",
-      "date": "2026-09-07",
-      "category": "Banking",
-      "tags": [
-        "scb",
-        "identifies six",
-        "key takeaways"
-      ]
-    },
-    {
-      "id": "235388758",
-      "title": "Banks face growing risks from AI-enabled fraud as criminals use the technology to create fake identities, forged documents, and deepfake videos.",
-      "summary": "Banks face growing risks from AI-enabled fraud as criminals use the technology to create fake identities, forged documents, and deepfake videos.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/expert-opinion/how-can-banks-defend-against-ai-driven-fraud",
-      "date": "2026-09-07",
-      "category": "Banking",
-      "tags": [
-        "banks",
-        "ai"
       ]
     }
   ]
