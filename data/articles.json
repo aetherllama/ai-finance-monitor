@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-16T12:30:20Z",
+  "last_updated": "2026-09-16T21:58:21Z",
   "insights": {
     "risks": [
       "Trading risk: TS Imagine ships AI platform for capital markets — assess algorithmic exposure.",
-      "Operational: Half of Investment Platforms Need More Automation — evaluate model governance gaps."
+      "Operational: FI Works launches AI-driven analytics — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The AI boom won’t help you scale. Your unit economics will — potential infrastructure advantage.",
-      "Banking efficiency: Half of Investment Platforms Need More Automation — cost reduction opportunity."
+      "Payments: FIS Acquires AI-Native OpenCoreOS as Core Banking Consolidation Continues — potential infrastructure advantage.",
+      "Banking efficiency: FI Works launches AI-driven analytics — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -21,10 +21,6 @@
     },
     {
       "topic": "Payments AI",
-      "count": 2
-    },
-    {
-      "topic": "Fraud Detection",
       "count": 2
     },
     {
@@ -46,9 +42,69 @@
     {
       "topic": "Customer Service AI",
       "count": 1
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "186421446",
+      "title": "FI Works launches AI-driven analytics",
+      "summary": "-FI Works, a leading provider of data analytics, marketing automation, and CRM solutions for community banks and credit unions, today announced new AI-powered enhancements to its Relationship Intelligence and Engagement Platform, enabling financial institutions to explore and act…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110926/fi-works-launches-ai-driven-analytics?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-16",
+      "category": "Banking",
+      "tags": [
+        "fi works",
+        "ai",
+        "crm"
+      ]
+    },
+    {
+      "id": "264054611",
+      "title": "Finance Leaders Expect AI Costs to Rise. Some Ideas on Containing Them",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32885/finance-leaders-expect-ai-costs-to-rise-some-ideas-on-containing-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-16",
+      "category": "Banking",
+      "tags": [
+        "finance leaders",
+        "expect ai",
+        "costs"
+      ]
+    },
+    {
+      "id": "632617862",
+      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess A…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "date": "2026-09-16",
+      "category": "Banking",
+      "tags": [
+        "the download",
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "726361199",
+      "title": "FIS Acquires AI-Native OpenCoreOS as Core Banking Consolidation Continues",
+      "summary": "FIS has acquired AI-native core banking startup OpenCoreOS months after launch, as analysts predict further consolidation among core providers. The post FIS Acquires AI-Native OpenCoreOS as Core Banking Consolidation Continues appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fis-acquires-ai-native-core-banking-startup-opencoreos-months-after-launch/",
+      "date": "2026-09-16",
+      "category": "Payments",
+      "tags": [
+        "fis acquires",
+        "ai",
+        "native opencoreos"
+      ]
+    },
     {
       "id": "865446523",
       "title": "Half of Investment Platforms Need More Automation",
@@ -827,62 +883,6 @@
         "anthropic",
         "openai",
         "ipo investment"
-      ]
-    },
-    {
-      "id": "169808665",
-      "title": "French fintech startup Outline raises $3 million for financial planning AI",
-      "summary": "French fintech startup Outline has raised $3 million to reinvent financial planning with AI.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48358/french-fintech-startup-outline-raises-3-million-for-financial-planning-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-08",
-      "category": "Payments",
-      "tags": [
-        "french",
-        "outline",
-        "ai french"
-      ]
-    },
-    {
-      "id": "537699405",
-      "title": "FinScan adopts AI-powered adverse media screening from Quantifind",
-      "summary": "FinScan, an Innovative Systems solution and leading provider of advanced AML and sanctions compliance solutions, today announced a strategic partnership with Quantifind, a leading provider of AI-powered financial crime and national security risk intelligence for KYC, sanctions, p…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110823/finscan-adopts-ai-powered-adverse-media-screening-from-quantifind?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-08",
-      "category": "Banking",
-      "tags": [
-        "finscan",
-        "ai",
-        "quantifind finscan"
-      ]
-    },
-    {
-      "id": "766392509",
-      "title": "Crif ships AI anti-fraud tool to tackle tampering during customer onboarding",
-      "summary": "CRIF – the global leader in credit and insurance information, analytics and solutions – has today launched its AI-powered fraud detection services in the UK, helping financial providers tackle tampering during customer onboarding.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110824/crif-ships-ai-anti-fraud-tool-to-tackle-tampering-during-customer-onboarding?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-08",
-      "category": "Banking",
-      "tags": [
-        "crif",
-        "ai",
-        "crif"
-      ]
-    },
-    {
-      "id": "927708925",
-      "title": "UAE-based fintech Sav raises $3.5 million",
-      "summary": "Phoenix Venture Partners Limited (PVP), an Abu Dhabi-based venture capital fund manager, today announced that it has led a US$3.5 million Pre-Series A financing round in Sav, an autonomous consumer fintech platform leveraging artificial intelligence and open finance infrastructur…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110830/uae-based-fintech-sav-raises-35-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-08",
-      "category": "Payments",
-      "tags": [
-        "uae",
-        "sav",
-        "phoenix venture"
       ]
     }
   ]
