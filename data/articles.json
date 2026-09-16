@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-15T22:00:19Z",
+  "last_updated": "2026-09-16T12:30:20Z",
   "insights": {
     "risks": [
       "Trading risk: TS Imagine ships AI platform for capital markets — assess algorithmic exposure.",
-      "Operational: The AI Flywheel: Why the Future of Banking Implementations Lies in Compounding Intelligence — evaluate model governance gaps."
+      "Operational: Half of Investment Platforms Need More Automation — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: PayNearMe acquires AI company Marr Labs — potential infrastructure advantage.",
-      "Banking efficiency: The AI Flywheel: Why the Future of Banking Implementations Lies in Compounding Intelligence — cost reduction opportunity."
+      "Payments: The AI boom won’t help you scale. Your unit economics will — potential infrastructure advantage.",
+      "Banking efficiency: Half of Investment Platforms Need More Automation — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 15
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 8
     },
     {
       "topic": "Payments AI",
@@ -49,6 +49,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "865446523",
+      "title": "Half of Investment Platforms Need More Automation",
+      "summary": "Money can trade in seconds, yet investors may still wait days to receive it. That gap can make a fast digital platform feel surprisingly slow at the exact moment a customer wants access to cash. “The Power of Now: Moving Money at the Speed of Life: Investment Firms’ Payout Gap” d…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/real-time-payments/2026/half-of-investment-platforms-need-more-automation/",
+      "date": "2026-09-16",
+      "category": "Banking",
+      "tags": [
+        "half",
+        "investment platforms",
+        "need more"
+      ]
+    },
+    {
+      "id": "422482412",
+      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "summary": "Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US…",
+      "source": "e27",
+      "url": "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/",
+      "date": "2026-09-16",
+      "category": "Banking",
+      "tags": [
+        "plaud",
+        "singapore",
+        "us"
+      ]
+    },
+    {
+      "id": "325207185",
+      "title": "The AI boom won’t help you scale. Your unit economics will",
+      "summary": "Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the real story of Southeast…",
+      "source": "e27",
+      "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
+      "date": "2026-09-16",
+      "category": "Payments",
+      "tags": [
+        "the ai",
+        "your",
+        "three"
+      ]
+    },
     {
       "id": "569783089",
       "title": "The AI Flywheel: Why the Future of Banking Implementations Lies in Compounding Intelligence",
@@ -841,48 +883,6 @@
         "uae",
         "sav",
         "phoenix venture"
-      ]
-    },
-    {
-      "id": "959274500",
-      "title": "Google Cloud Debuts Gemini Enterprise for Financial Services to Power Agentic Workflows",
-      "summary": "Google Cloud has launched Gemini Enterprise for Financial Services, bringing governed agentic AI to banking and capital markets with auditable workflows, enterprise data access and specialised financial capabilities. The post Google Cloud Debuts Gemini Enterprise for Financial Se…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/google-cloud-debuts-gemini-enterprise-for-financial-services-to-power-agentic-workflows/",
-      "date": "2026-09-08",
-      "category": "Payments",
-      "tags": [
-        "google cloud",
-        "debuts gemini",
-        "enterprise"
-      ]
-    },
-    {
-      "id": "710340821",
-      "title": "AI, quantum computing and the future of cyber threats",
-      "summary": "I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small businesses, and thinking…",
-      "source": "e27",
-      "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
-      "date": "2026-09-08",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "singapore press",
-        "club"
-      ]
-    },
-    {
-      "id": "448808663",
-      "title": "Law Schools Outlaw AI Amid Fears of Stunted Academic Growth",
-      "summary": "Law schools in the United States have begun banning artificial intelligence in the classroom, according to a Financial Times column Monday (Sept. 7) by Patti Waldmeir. The University of Chicago Law School is among the institutions imposing these restrictions. For the new academic…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/law-schools-outlaw-ai-amid-fears-stunted-academic-growth/",
-      "date": "2026-09-07",
-      "category": "Banking",
-      "tags": [
-        "law schools",
-        "outlaw ai",
-        "amid fears"
       ]
     }
   ]
