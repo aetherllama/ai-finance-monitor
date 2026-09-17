@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-17T12:30:02Z",
+  "last_updated": "2026-09-17T21:59:59Z",
   "insights": {
     "risks": [
       "Regulatory: Banks Use AI Agents to Catch Compliance Drift Earlier — review compliance obligations.",
-      "Operational: Zopa rolls out personal banking agent — evaluate model governance gaps."
+      "Operational: Saffron Building Society taps FintechOS for AI-powered mortgage platform — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: When Fraud Becomes the Customer: The Next Battlefront for Issuers — potential infrastructure advantage.",
-      "Banking efficiency: Zopa rolls out personal banking agent — cost reduction opportunity."
+      "Banking efficiency: Saffron Building Society taps FintechOS for AI-powered mortgage platform — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 16
     },
     {
       "topic": "Automation",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "704658394",
+      "title": "Saffron Building Society taps FintechOS for AI-powered mortgage platform",
+      "summary": "FintechOS, the agentic platform for unified product operations, has partnered with Saffron Building Society to deliver their full end-to-end mortgage origination platform covering the full lending lifecycle.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-17",
+      "category": "Banking",
+      "tags": [
+        "saffron building",
+        "society",
+        "fintechos"
+      ]
+    },
     {
       "id": "57460139",
       "title": "Zopa rolls out personal banking agent",
@@ -865,19 +879,6 @@
       "tags": [
         "synopsys",
         "star",
-        "ai"
-      ]
-    },
-    {
-      "id": "3205889",
-      "title": "Financial institutions are prioritising productivity and risk before using AI to pursue customer growth and faster product development.",
-      "summary": "Financial institutions are prioritising productivity and risk before using AI to pursue customer growth and faster product development.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/videos/bank-cfos-weigh-broader-returns-ai-investment",
-      "date": "2026-09-09",
-      "category": "Banking",
-      "tags": [
-        "financial",
         "ai"
       ]
     }
