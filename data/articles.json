@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-17T21:59:59Z",
+  "last_updated": "2026-09-18T12:08:45Z",
   "insights": {
     "risks": [
       "Regulatory: Banks Use AI Agents to Catch Compliance Drift Earlier — review compliance obligations.",
       "Operational: Saffron Building Society taps FintechOS for AI-powered mortgage platform — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: When Fraud Becomes the Customer: The Next Battlefront for Issuers — potential infrastructure advantage.",
+      "Payments: AI Agents Become the Next Payments Customer — potential infrastructure advantage.",
       "Banking efficiency: Saffron Building Society taps FintechOS for AI-powered mortgage platform — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 17
     },
     {
       "topic": "Automation",
@@ -45,6 +45,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "978369220",
+      "title": "AI Agents Become the Next Payments Customer",
+      "summary": "Watch more: Digital Shift With Viggo Stenseth of SolvaPay The payments industry has devoted much effort to making sure a bot can’t pass for a customer. Agentic commerce brings a new complication, as some bots are supposed to buy things. SolvaPay, a Stockholm-based FinTech, is bui…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-become-the-next-payments-customer/",
+      "date": "2026-09-18",
+      "category": "Payments",
+      "tags": [
+        "ai agents",
+        "become",
+        "next payments"
+      ]
+    },
     {
       "id": "704658394",
       "title": "Saffron Building Society taps FintechOS for AI-powered mortgage platform",
@@ -866,20 +880,6 @@
         "card issuers",
         "speed upgrades",
         "fraud threats"
-      ]
-    },
-    {
-      "id": "375866665",
-      "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
-      "summary": "For years, the semiconductor race was largely about making transistors smaller. That contest is far from over, but the AI boom has shifted part of the battleground elsewhere: how multiple chips are assembled, connected and kept reliable inside a single package. That is the proble…",
-      "source": "e27",
-      "url": "https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/",
-      "date": "2026-09-09",
-      "category": "Banking",
-      "tags": [
-        "synopsys",
-        "star",
-        "ai"
       ]
     }
   ]
