@@ -1,27 +1,31 @@
 {
-  "last_updated": "2026-09-18T12:08:45Z",
+  "last_updated": "2026-09-18T21:31:51Z",
   "insights": {
     "risks": [
       "Regulatory: Banks Use AI Agents to Catch Compliance Drift Earlier — review compliance obligations.",
-      "Operational: Saffron Building Society taps FintechOS for AI-powered mortgage platform — evaluate model governance gaps."
+      "Operational: Ex-PayPal CEO Harris unveils AI-powered personal finance app — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI Agents Become the Next Payments Customer — potential infrastructure advantage.",
-      "Banking efficiency: Saffron Building Society taps FintechOS for AI-powered mortgage platform — cost reduction opportunity."
+      "Payments: Ant International Unveils 100 Products to Drive Agentic Financial Operations — potential infrastructure advantage.",
+      "Banking efficiency: Ex-PayPal CEO Harris unveils AI-powered personal finance app — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 5
     },
     {
-      "topic": "Payments AI",
-      "count": 2
+      "topic": "Fraud Detection",
+      "count": 1
+    },
+    {
+      "topic": "Predictive Analytics",
+      "count": 1
     },
     {
       "topic": "Portfolio Management",
@@ -42,9 +46,97 @@
     {
       "topic": "Customer Service AI",
       "count": 1
+    },
+    {
+      "topic": "Payments AI",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "815528954",
+      "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app",
+      "summary": "Former PayPal and Intuit CEO Bill Harris has unveiled his latest venture, a personalised AI-powered financial advice app called Evergreen.ai.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-18",
+      "category": "Banking",
+      "tags": [
+        "ex",
+        "paypal ceo",
+        "harris"
+      ]
+    },
+    {
+      "id": "62846400",
+      "title": "Seon expands signal intelligence to tackle AI-generated fraud",
+      "summary": "Seon, the AI Command Center for Fraud Prevention and AML Compliance, today announced its Signal Intelligence expansion, growing the platform’s signal foundation from 900+ to more than 1,100 proprietary, directly sourced data points.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110950/seon-expands-signal-intelligence-to-tackle-ai-generated-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-18",
+      "category": "Banking",
+      "tags": [
+        "seon",
+        "ai",
+        "ai command"
+      ]
+    },
+    {
+      "id": "2934258",
+      "title": "The 2030 Blueprint: How Agentic AI and Quantum Infrastructure are Rewriting UK Open Finance",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32914/the-2030-blueprint-how-agentic-ai-and-quantum-infrastructure-are-rewriting-uk-open-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-18",
+      "category": "Banking",
+      "tags": [
+        "blueprint",
+        "how agentic",
+        "ai"
+      ]
+    },
+    {
+      "id": "882461924",
+      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
+      "summary": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
+      "date": "2026-09-18",
+      "category": "Banking",
+      "tags": [
+        "dhs",
+        "american",
+        "targeting americans"
+      ]
+    },
+    {
+      "id": "467195513",
+      "title": "Ant International Unveils 100 Products to Drive Agentic Financial Operations",
+      "summary": "Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product suite is built on Ant I…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations/",
+      "date": "2026-09-18",
+      "category": "Payments",
+      "tags": [
+        "ant international",
+        "unveils",
+        "products"
+      ]
+    },
+    {
+      "id": "192416539",
+      "title": "AI Agents Are Getting Their Own Bank Accounts",
+      "summary": "Looking to strengthen its bond with merchants, Ant International is getting bank accounts for artificial intelligence agents. Account for Agent sits inside WorldFirst, Ant’s global account brand, according to a Friday (Sept. 18) press release. The account runs on know your agent …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-are-getting-their-own-bank-accounts/",
+      "date": "2026-09-18",
+      "category": "Banking",
+      "tags": [
+        "ai agents",
+        "are getting",
+        "their own"
+      ]
+    },
     {
       "id": "978369220",
       "title": "AI Agents Become the Next Payments Customer",
@@ -796,90 +888,6 @@
         "ai",
         "microsoft",
         "work trend"
-      ]
-    },
-    {
-      "id": "609392985",
-      "title": "Pirum appoints Ray Wong as director of product - AI and data",
-      "summary": "Pirum, the global leader in securities finance automation and connectivity across the full trade lifecycle, has appointed Ray Wong as Director of Product - AI & Data to further accelerate the firm's ongoing development and roll-out of agentic AI products.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110853/pirum-appoints-ray-wong-as-director-of-product---ai-and-data?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-09",
-      "category": "Banking",
-      "tags": [
-        "pirum",
-        "ray wong",
-        "ai"
-      ]
-    },
-    {
-      "id": "575807990",
-      "title": "Daloopa ships AI Excel agent for financial modeling",
-      "summary": "Daloopa, the platform powering public equity professionals with trusted financial data and AI automation across the investment research cycle, today announced the general availability of Scout, its AI Excel agent for financial modeling.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110858/daloopa-ships-ai-excel-agent-for-financial-modeling?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-09",
-      "category": "Banking",
-      "tags": [
-        "daloopa",
-        "ai excel",
-        "ai"
-      ]
-    },
-    {
-      "id": "243891004",
-      "title": "AI Can Help Banking – But Customers Still Want a Person",
-      "summary": "COLIBRIX ONE blends AI and human support to simplify merchant onboarding, payments, and business banking for online and subscription businesses worldwide. The post AI Can Help Banking But Customers Still Want a Person appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-can-help-banking-but-customers-still-want-a-person/",
-      "date": "2026-09-09",
-      "category": "Payments",
-      "tags": [
-        "ai can",
-        "help banking",
-        "but customers"
-      ]
-    },
-    {
-      "id": "350533700",
-      "title": "Ixopay rolls out agentic payment suite",
-      "summary": "IXOPAY, a leader in payment infrastructure enabling fluid commerce, today announced the launch of the IXOPAY Agentic Suite, a flexible set of tools designed to help merchants prepare for both new agentic buying experiences and the growing role of AI in payment operations.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110850/ixopay-rolls-out-agentic-payment-suite?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-09",
-      "category": "Payments",
-      "tags": [
-        "ixopay",
-        "ixopay",
-        "ixopay agentic"
-      ]
-    },
-    {
-      "id": "19889668",
-      "title": "The Garbage Gap: Why Smarter AI Models Need Cleaner Inputs",
-      "summary": "At an event in Europe this summer, banking’s elite had one obsession: engineering the perfect \"...",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32776/the-garbage-gap-why-smarter-ai-models-need-cleaner-inputs?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-09",
-      "category": "Banking",
-      "tags": [
-        "the garbage",
-        "gap",
-        "why smarter"
-      ]
-    },
-    {
-      "id": "381186553",
-      "title": "Card Issuers Speed Upgrades as Fraud Threats Grow",
-      "summary": "Card platform upgrade calendars are getting shorter. The next major deadline may arrive before issuers finish planning for the last one. Card issuers face pressure from several directions. Fraud keeps changing, customers expect faster digital services and AI is creating new ways …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/digital-payments/2026/card-issuers-speed-upgrades-as-fraud-threats-grow/",
-      "date": "2026-09-09",
-      "category": "Banking",
-      "tags": [
-        "card issuers",
-        "speed upgrades",
-        "fraud threats"
       ]
     }
   ]
