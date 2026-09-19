@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-18T21:31:51Z",
+  "last_updated": "2026-09-19T11:51:15Z",
   "insights": {
     "risks": [
       "Regulatory: Banks Use AI Agents to Catch Compliance Drift Earlier — review compliance obligations.",
-      "Operational: Ex-PayPal CEO Harris unveils AI-powered personal finance app — evaluate model governance gaps."
+      "Operational: AI chatbots give wrong answers to financial queries ‘most of the time’ — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Ant International Unveils 100 Products to Drive Agentic Financial Operations — potential infrastructure advantage.",
-      "Banking efficiency: Ex-PayPal CEO Harris unveils AI-powered personal finance app — cost reduction opportunity."
+      "Banking efficiency: AI chatbots give wrong answers to financial queries ‘most of the time’ — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 18
+      "count": 17
     },
     {
       "topic": "Automation",
@@ -53,6 +53,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "274912691",
+      "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
+      "summary": "Report finds some chatbots ignored upcoming tax changes and hallucinated rules",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "date": "2026-09-19",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "report"
+      ]
+    },
     {
       "id": "815528954",
       "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app",
@@ -874,20 +887,6 @@
         "consumers see",
         "digital wallets",
         "their ai"
-      ]
-    },
-    {
-      "id": "718719767",
-      "title": "I built a 21-role AI workforce. The hardest part was management",
-      "summary": "The conversation around AI agents has moved quickly from demos to organisational design. Microsoft s 2025 Work Trend Index for Singapore reported that 56 per cent of Singapore leaders were already using agents to fully automate workstreams or business processes, while 46 per cent…",
-      "source": "e27",
-      "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
-      "date": "2026-09-10",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "microsoft",
-        "work trend"
       ]
     }
   ]
