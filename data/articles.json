@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-19T21:21:45Z",
+  "last_updated": "2026-09-20T12:08:48Z",
   "insights": {
     "risks": [
       "Regulatory: Banks Use AI Agents to Catch Compliance Drift Earlier — review compliance obligations.",
-      "Operational: AI chatbots give wrong answers to financial queries ‘most of the time’ — evaluate model governance gaps."
+      "Operational: Big Tech uses guarantees to keep $300bn AI exposure off balance sheets — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Ant International Unveils 100 Products to Drive Agentic Financial Operations — potential infrastructure advantage.",
-      "Banking efficiency: AI chatbots give wrong answers to financial queries ‘most of the time’ — cost reduction opportunity."
+      "Banking efficiency: Big Tech uses guarantees to keep $300bn AI exposure off balance sheets — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -53,6 +53,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "458978786",
+      "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
+      "summary": "Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
+      "date": "2026-09-20",
+      "category": "Banking",
+      "tags": [
+        "big tech",
+        "ai",
+        "wall street"
+      ]
+    },
     {
       "id": "274912691",
       "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
@@ -873,20 +887,6 @@
         "the ai",
         "playbook",
         "wealth management"
-      ]
-    },
-    {
-      "id": "208904671",
-      "title": "43% of Consumers See Digital Wallets in Their AI Shopping Future",
-      "summary": "A full shopping cart looks promising until the shopper can’t find a way to pay. The merchant has done the hard work of winning their interest, only to lose the sale at checkout. Digital wallet payment preferences can play a major role in whether shoppers complete a purchase or ab…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/consumer-insights/2026/43-percent-of-consumers-see-digital-wallets-in-their-ai-shopping-future/",
-      "date": "2026-09-10",
-      "category": "Payments",
-      "tags": [
-        "consumers see",
-        "digital wallets",
-        "their ai"
       ]
     }
   ]
