@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-09-20T12:08:48Z",
+  "last_updated": "2026-09-20T21:19:49Z",
   "insights": {
     "risks": [
-      "Regulatory: Banks Use AI Agents to Catch Compliance Drift Earlier — review compliance obligations.",
       "Operational: Big Tech uses guarantees to keep $300bn AI exposure off balance sheets — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Ant International Unveils 100 Products to Drive Agentic Financial Operations — potential infrastructure advantage.",
+      "Payments: Xsolla AI Toolkit Embeds Game Commerce Integration Into AI Coding Tools — potential infrastructure advantage.",
       "Banking efficiency: Big Tech uses guarantees to keep $300bn AI exposure off balance sheets — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Automation",
@@ -53,6 +52,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "736102131",
+      "title": "Xsolla AI Toolkit Embeds Game Commerce Integration Into AI Coding Tools",
+      "summary": "Xsolla's new agent-skill toolkit encodes validated API paths into AI coding environments, aiming to cut game shop integration from weeks to hours. The post Xsolla AI Toolkit Embeds Game Commerce Integration Into AI Coding Tools appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/xsolla-ai-toolkit-embeds-game-commerce-integration-into-ai-coding-tools/",
+      "date": "2026-09-20",
+      "category": "Payments",
+      "tags": [
+        "xsolla ai",
+        "toolkit embeds",
+        "game commerce"
+      ]
+    },
+    {
+      "id": "146139420",
+      "title": "Simply Asset Finance Posts £3.4m Pre-Tax Profit on £532m Loan Book",
+      "summary": "The specialist SME lender grew revenues 9% to £66m in FY 2025 and launched AI agent Kara to underpin an accelerated origination push. The post Simply Asset Finance Posts £3.4m Pre-Tax Profit on £532m Loan Book appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/simply-asset-finance-posts-3-4m-pre-tax-profit-on-532m-loan-book/",
+      "date": "2026-09-20",
+      "category": "Payments",
+      "tags": [
+        "simply asset",
+        "finance posts",
+        "pre"
+      ]
+    },
     {
       "id": "458978786",
       "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
@@ -859,34 +886,6 @@
         "frist derivative",
         "ai",
         "ireland first"
-      ]
-    },
-    {
-      "id": "261326719",
-      "title": "Savvy Wealth raises $100 million",
-      "summary": "Savvy Wealth (\"Savvy\"), an AI-native registered investment advisor (RIA) for independent financial advisors, today announced the successful close of its $100 million Series C funding round led by Halo Fund, the growth-stage venture firm co-founded by Qualtrics founder and Utah Ja…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110872/savvy-wealth-raises-100-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-10",
-      "category": "Banking",
-      "tags": [
-        "savvy wealth",
-        "savvy",
-        "ai"
-      ]
-    },
-    {
-      "id": "206246652",
-      "title": "The AI Playbook for Wealth Management Leaders",
-      "summary": "Author: Kuldeep Shrimali",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32796/the-ai-playbook-for-wealth-management-leaders?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-10",
-      "category": "Banking",
-      "tags": [
-        "the ai",
-        "playbook",
-        "wealth management"
       ]
     }
   ]
