@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-09-20T21:19:49Z",
+  "last_updated": "2026-09-21T13:47:15Z",
   "insights": {
     "risks": [
-      "Operational: Big Tech uses guarantees to keep $300bn AI exposure off balance sheets — evaluate model governance gaps."
+      "Operational: Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Xsolla AI Toolkit Embeds Game Commerce Integration Into AI Coding Tools — potential infrastructure advantage.",
-      "Banking efficiency: Big Tech uses guarantees to keep $300bn AI exposure off balance sheets — cost reduction opportunity."
+      "Payments: Ant International launches financial AI stack — potential infrastructure advantage.",
+      "Banking efficiency: Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 18
+      "count": 19
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Fraud Detection",
@@ -52,6 +52,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "494982150",
+      "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
+      "summary": "Regulators intensify questioning of prime brokers after blow-up at AI-focused hedge fund Situational Awareness",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
+      "date": "2026-09-21",
+      "category": "Banking",
+      "tags": [
+        "fed",
+        "boe",
+        "jane street"
+      ]
+    },
+    {
+      "id": "213013596",
+      "title": "AI-driven cashback-to-mortgage app Sprive raises $10 million",
+      "summary": "Mortgage overpayment app Sprive has closed a $10m Series A funding round.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48437/ai-driven-cashback-to-mortgage-app-sprive-raises-10-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-21",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "sprive",
+        "mortgage"
+      ]
+    },
+    {
+      "id": "782710473",
+      "title": "Ant International launches financial AI stack",
+      "summary": "China's Ant International has unveiled a full stack of AI-native products for payment, account, FX, treasury and growth operations for global businesses.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48436/ant-international-launches-financial-ai-stack?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-21",
+      "category": "Payments",
+      "tags": [
+        "ant international",
+        "ai",
+        "china"
+      ]
+    },
+    {
+      "id": "964973572",
+      "title": "Danske Bank performs AI agent transaction with Mastercard",
+      "summary": "Mastercard and Danske Bank have completed a payment in which an AI agent, acting on behalf of a consumer, carried out both the purchase and the payment.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-21",
+      "category": "Banking",
+      "tags": [
+        "danske bank",
+        "ai",
+        "mastercard mastercard"
+      ]
+    },
+    {
+      "id": "596943237",
+      "title": "Smartstream Deploys MCP Infrastructure to Power Agentic AI Across Smart Collateral Platform",
+      "summary": "Smartstream has launched two MCP servers for its Smart Collateral platform, enabling financial institutions to connect AI assistants to collateral workflows for natural language queries and automation. The post Smartstream Deploys MCP Infrastructure to Power Agentic AI Across Sma…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/smartstream-deploys-mcp-infrastructure-to-power-agentic-ai-across-smart-collateral-platform/",
+      "date": "2026-09-21",
+      "category": "Payments",
+      "tags": [
+        "smartstream deploys",
+        "mcp infrastructure",
+        "power agentic"
+      ]
+    },
+    {
+      "id": "627398569",
+      "title": "Kastle Raises $24 Million to Help Lenders Adopt Agentic AI",
+      "summary": "Kastle, an agentic AI platform for consumer lenders, has raised $24 million in new funding. The company s Series A round, announced last week and led by Insight Partners, will help Kastle expand its engineering, product and go-to-market teams, deepen its platforms capabilities an…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/kastle-raises-24-million-to-help-lenders-adopt-agentic-ai/",
+      "date": "2026-09-21",
+      "category": "Banking",
+      "tags": [
+        "kastle raises",
+        "million",
+        "help lenders"
+      ]
+    },
+    {
+      "id": "638662087",
+      "title": "Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses",
+      "summary": "In an industry first, Ant International launched a full stack of AI-native solutions for payment, account, FX, treasury and growth operations for global businesses. Unveiled at Ant International’s annual VOYAGE executive merchant forum, the AI-native product suite is built on a 2…",
+      "source": "e27",
+      "url": "https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/",
+      "date": "2026-09-21",
+      "category": "Payments",
+      "tags": [
+        "ant international",
+        "launches industry",
+        "first full"
+      ]
+    },
+    {
+      "id": "691618067",
+      "title": "The AI productivity paradox: Why finance must  move beyond automation",
+      "summary": "For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecas…",
+      "source": "e27",
+      "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
+      "date": "2026-09-21",
+      "category": "Banking",
+      "tags": [
+        "the ai",
+        "why",
+        "artificial"
+      ]
+    },
     {
       "id": "736102131",
       "title": "Xsolla AI Toolkit Embeds Game Commerce Integration Into AI Coding Tools",
@@ -774,118 +886,6 @@
         "trust bank",
         "trust ai",
         "ask"
-      ]
-    },
-    {
-      "id": "167720890",
-      "title": "AI Agents Need Permissioned Funding Sources. Not Company Bank Accounts.",
-      "summary": "The trillion-dollar question hovering around agentic commerce is why agents would hold money at all. After all, if a multinational eventually operates, say, 10,000 artificial intelligence agents buying software, booking travel, procuring inventory, managing advertising and negoti…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-need-permissioned-funding-sources-not-company-bank-accounts/",
-      "date": "2026-09-10",
-      "category": "Banking",
-      "tags": [
-        "ai agents",
-        "need permissioned",
-        "funding sources"
-      ]
-    },
-    {
-      "id": "299227805",
-      "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud",
-      "summary": "Arva AI, backed by Y Combinator and Google's AI Fund, announced the launch of its Research Lab, a research division building the proprietary models and infrastructure that let banks automate highest-risk decisions, already used by global financial institutions including a top-10 …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110876/arva-ai-opens-research-lab-to-banish-human-in-the-loop-for-financial-crime-and-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-10",
-      "category": "Banking",
-      "tags": [
-        "arva ai",
-        "research lab",
-        "combinator"
-      ]
-    },
-    {
-      "id": "71159939",
-      "title": "A Failure of Trust: The Next Financial Crisis Starts in the Pipes",
-      "summary": "Banks have fortified their balance sheets while the rails that move money decay from within. ThetaRay chief executive Brad Levy on AML failure and agentic AI. The post A Failure of Trust: The Next Financial Crisis Starts in the Pipes appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/a-failure-of-trust-the-next-financial-crisis-starts-in-the-pipes/",
-      "date": "2026-09-10",
-      "category": "Banking",
-      "tags": [
-        "failure",
-        "trust",
-        "the next"
-      ]
-    },
-    {
-      "id": "131650098",
-      "title": "Experian Deploys Real-Time AI Decisioning Across Lending Marketplaces",
-      "summary": "Experian has added an artificial intelligence-enabled decisioning engine called Experian Activate to its consumer comparison shopping platform for credit cards, personal loans and car insurance, Experian Marketplace, the company said in a Thursday (Sept. 10) press release. Experi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/experian-deploys-real-time-ai-decisioning-across-lending-marketplaces/",
-      "date": "2026-09-10",
-      "category": "InsurTech",
-      "tags": [
-        "experian deploys",
-        "real",
-        "time ai"
-      ]
-    },
-    {
-      "id": "689482988",
-      "title": "Mexican fintech Kapital raises $100 million in new financing",
-      "summary": "Mexico City-based AI-powered platform for small and medium-sized businesses (SMBs) Kapital has raised $100 million in a Series D funding round.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48380/mexican-fintech-kapital-raises-100-million-in-new-financing?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-10",
-      "category": "Payments",
-      "tags": [
-        "mexican",
-        "kapital",
-        "mexico city"
-      ]
-    },
-    {
-      "id": "737868422",
-      "title": "Daloopa launches Scount, an AI Excel agent for financial modeling",
-      "summary": "Daloopa, the platform powering public equity professionals with trusted financial data and AI automation across the investment research cycle, today announced the general availability of Scout, its AI Excel agent for financial modeling.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110864/daloopa-launches-scount-an-ai-excel-agent-for-financial-modeling?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-10",
-      "category": "Banking",
-      "tags": [
-        "daloopa",
-        "scount",
-        "ai excel"
-      ]
-    },
-    {
-      "id": "272389018",
-      "title": "Sterling Trading Tech delivers AI driven web and mobile trading capability",
-      "summary": "Designed to support traders in today’s increasingly global and extended-hours trading environment, Sterling Trading Tech (Sterling), a leading provider of advanced trading platforms, order management systems (OMS360), and risk management solutions, today announced the launch of S…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110866/sterling-trading-tech-delivers-ai-driven-web-and-mobile-trading-capability?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-10",
-      "category": "Trading",
-      "tags": [
-        "sterling trading",
-        "tech",
-        "ai"
-      ]
-    },
-    {
-      "id": "609176769",
-      "title": "Frist Derivative invests £15.5 million to build AI centre of excellence in Ireland",
-      "summary": "First Minister Michelle O’Neill, Deputy First Minister Emma Little-Pengelly and Economy Minister Dr Caoimhe Archibald have today announced a £15.3 million investment by First Derivative in research, development and job creation at a new AI and Fintech Centre of Excellence.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110870/frist-derivative-invests-155-million-to-build-ai-centre-of-excellence-in-ireland?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-10",
-      "category": "Payments",
-      "tags": [
-        "frist derivative",
-        "ai",
-        "ireland first"
       ]
     }
   ]
