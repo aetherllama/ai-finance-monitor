@@ -1,18 +1,19 @@
 {
-  "last_updated": "2026-09-21T13:47:15Z",
+  "last_updated": "2026-09-21T22:31:21Z",
   "insights": {
     "risks": [
-      "Operational: Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss — evaluate model governance gaps."
+      "Trading risk: CFTC Examines Agentic AI’s Growing Role in Finance — assess algorithmic exposure.",
+      "Operational: Sumsub and Sumvin Link KYC Identity to AI Agent Transactions — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Ant International launches financial AI stack — potential infrastructure advantage.",
-      "Banking efficiency: Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss — cost reduction opportunity."
+      "Banking efficiency: Sumsub and Sumvin Link KYC Identity to AI Agent Transactions — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 19
+      "count": 20
     },
     {
       "topic": "Automation",
@@ -52,6 +53,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "754337445",
+      "title": "Sumsub and Sumvin Link KYC Identity to AI Agent Transactions",
+      "summary": "The partnership embeds verified human identity into Sumvin's agentic credential, letting AI agents transact on behalf of KYC-cleared users across merchants and financial The post Sumsub and Sumvin Link KYC Identity to AI Agent Transactions appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/sumsub-and-sumvin-link-kyc-identity-to-ai-agent-transactions/",
+      "date": "2026-09-21",
+      "category": "Banking",
+      "tags": [
+        "sumsub",
+        "sumvin link",
+        "kyc identity"
+      ]
+    },
+    {
+      "id": "322876108",
+      "title": "CFTC Examines Agentic AI’s Growing Role in Finance",
+      "summary": "The Commodity Futures Trading Commission (CFTC) is hosting a series of roundtables devoted to new technologies in U.S. financial markets. The Frontier Forum series, hosted by the CFTC’s Innovation Task Force, will kick off next month with a discussion of artificial intelligence a…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cftc-examines-agentic-ais-growing-role-in-finance/",
+      "date": "2026-09-21",
+      "category": "Trading",
+      "tags": [
+        "cftc examines",
+        "agentic ai",
+        "growing role"
+      ]
+    },
     {
       "id": "494982150",
       "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
@@ -859,33 +888,6 @@
         "us",
         "ai",
         "visa trust"
-      ]
-    },
-    {
-      "id": "232246452",
-      "title": "Ripple puts AI agents inside its $1 billion corporate treasury bet",
-      "summary": "The software can monitor cash, risk and forecasts and suggest financial moves, but humans still have to approve every action.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/09/11/ripple-puts-ai-agents-inside-its-usd1-billion-corporate-treasury-bet",
-      "date": "2026-09-11",
-      "category": "Banking",
-      "tags": [
-        "ripple",
-        "ai"
-      ]
-    },
-    {
-      "id": "160041356",
-      "title": "Trust Bank is rolling out Trust AI Ask, which answers questions that customers have about their finances in a conversational format.",
-      "summary": "Trust Bank is rolling out Trust AI Ask, which answers questions that customers have about their finances in a conversational format.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/news/trust-bank-launches-ai-ask-conversational-finance-queries",
-      "date": "2026-09-11",
-      "category": "Banking",
-      "tags": [
-        "trust bank",
-        "trust ai",
-        "ask"
       ]
     }
   ]
