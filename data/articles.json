@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-09-21T22:31:21Z",
+  "last_updated": "2026-09-22T12:29:19Z",
   "insights": {
     "risks": [
       "Trading risk: CFTC Examines Agentic AI’s Growing Role in Finance — assess algorithmic exposure.",
-      "Operational: Sumsub and Sumvin Link KYC Identity to AI Agent Transactions — evaluate model governance gaps."
+      "Operational: Human engagement is the centre of AI adoption - Kaplan — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Ant International launches financial AI stack — potential infrastructure advantage.",
-      "Banking efficiency: Sumsub and Sumvin Link KYC Identity to AI Agent Transactions — cost reduction opportunity."
+      "Banking efficiency: Human engagement is the centre of AI adoption - Kaplan — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 20
+      "count": 19
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Fraud Detection",
@@ -42,17 +42,37 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "994465801",
+      "title": "Human engagement is the centre of AI adoption - Kaplan",
+      "summary": "What kind of AI training is conducive and helpful within the financial services space?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48440/human-engagement-is-the-centre-of-ai-adoption---kaplan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-22",
+      "category": "Banking",
+      "tags": [
+        "human",
+        "ai",
+        "kaplan what"
+      ]
+    },
+    {
+      "id": "504374950",
+      "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
+      "summary": "For Hyperbond Studio, the question was never only whether artificial intelligence could teach a language. It was whether people would keep coming back long enough for the teaching to matter. The Singapore-based startup, best known for its AI language-learning dating simulation ap…",
+      "source": "e27",
+      "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
+      "date": "2026-09-22",
+      "category": "Banking",
+      "tags": [
+        "supercell",
+        "hyperbond studio",
+        "call me"
+      ]
+    },
     {
       "id": "754337445",
       "title": "Sumsub and Sumvin Link KYC Identity to AI Agent Transactions",
@@ -860,34 +880,6 @@
         "openai",
         "chatgpt",
         "financial service"
-      ]
-    },
-    {
-      "id": "251972669",
-      "title": "Rivian’s AI Agents Cut 15 Days From Every Close",
-      "summary": "Electric vehicle manufacturer Rivian automated one of the more tedious jobs in corporate finance: tracking how much to set aside for custom manufacturing tools it has ordered but not yet received a bill for. Rivian built an artificial intelligence system on Amazon Bedrock and eli…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/rivian-ai-agents-cut-15-days-from-every-close/",
-      "date": "2026-09-11",
-      "category": "Banking",
-      "tags": [
-        "rivian",
-        "ai agents",
-        "cut"
-      ]
-    },
-    {
-      "id": "692445164",
-      "title": "72% of US consumers have used an AI assistant – Visa Trust Index",
-      "summary": "New research from Visa Trust Index revealed that consumers are increasingly using AI in their payment journey.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-11",
-      "category": "Payments",
-      "tags": [
-        "us",
-        "ai",
-        "visa trust"
       ]
     }
   ]
