@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-09-22T12:29:19Z",
+  "last_updated": "2026-09-22T21:54:56Z",
   "insights": {
     "risks": [
       "Trading risk: CFTC Examines Agentic AI’s Growing Role in Finance — assess algorithmic exposure.",
-      "Operational: Human engagement is the centre of AI adoption - Kaplan — evaluate model governance gaps."
+      "Operational: Creatio invests $300 million in its Bank.ai platform — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Ant International launches financial AI stack — potential infrastructure advantage.",
-      "Banking efficiency: Human engagement is the centre of AI adoption - Kaplan — cost reduction opportunity."
+      "Payments: MENA Fintech Association Releases Bi-Annual Regulatory Update on ADGM’s Evolving Digital Asset Framework — potential infrastructure advantage.",
+      "Banking efficiency: Creatio invests $300 million in its Bank.ai platform — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 19
+      "count": 21
     },
     {
       "topic": "Automation",
@@ -45,6 +45,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "173171454",
+      "title": "Creatio invests $300 million in its Bank.ai platform",
+      "summary": "Creatio, an AI CRM and workflow platform where people and AI agents work together, today announced a $300 million investment from 2026 through 2028 in Creatio Bank.AI, its market-leading offering for banks and financial institutions.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110972/creatio-invests-300-million-in-its-bankai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-22",
+      "category": "Banking",
+      "tags": [
+        "creatio",
+        "bank",
+        "ai crm"
+      ]
+    },
+    {
+      "id": "1742754",
+      "title": "Rogers Bank completes agentic commerce transactions with Flybits and Mastercard",
+      "summary": "Mastercard, Flybits and Rogers Bank today announced Canada’s first successful deployment of a landmark agentic commerce transaction involving an AI-powered commerce platform, card issuer and payments network, demonstrating how AI-powered shopping experiences can prioritize consum…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110975/rogers-bank-completes-agentic-commerce-transactions-with-flybits-and-mastercard?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-22",
+      "category": "Banking",
+      "tags": [
+        "rogers bank",
+        "flybits",
+        "mastercard mastercard"
+      ]
+    },
+    {
+      "id": "965098138",
+      "title": "MENA Fintech Association Releases Bi-Annual Regulatory Update on ADGM’s Evolving Digital Asset Framework",
+      "summary": "The MENA Fintech Association’s latest Regulatory Update Session report provides insights into the FSRA’s evolving regulatory priorities across digital assets and financial services, covering tokenisation, fiat-referenced tokens, staking, custody, AI, and emerging regulatory devel…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/mena-fintech-association-releases-bi-annual-regulatory-update-on-adgms-evolving-digital-asset-framework/",
+      "date": "2026-09-22",
+      "category": "Payments",
+      "tags": [
+        "mena fintech",
+        "association releases",
+        "bi"
+      ]
+    },
     {
       "id": "994465801",
       "title": "Human engagement is the centre of AI adoption - Kaplan",
@@ -838,48 +880,6 @@
         "global",
         "us consumers",
         "wary"
-      ]
-    },
-    {
-      "id": "182846627",
-      "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
-      "summary": "Founder to offload as many as 50mn shares as company posts higher revenue from data centres but faces investor fears it is overcommitted to AI",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
-      "date": "2026-09-12",
-      "category": "Trading",
-      "tags": [
-        "larry ellison",
-        "oracle",
-        "founder"
-      ]
-    },
-    {
-      "id": "324367904",
-      "title": "JPMorgan cut off Situational Awareness lending after AI losses",
-      "summary": "Leopold Aschenbrenner’s hedge fund previously suffered billions of dollars in losses during sell-off",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
-      "date": "2026-09-11",
-      "category": "Trading",
-      "tags": [
-        "jpmorgan",
-        "situational awareness",
-        "ai"
-      ]
-    },
-    {
-      "id": "206443085",
-      "title": "OpenAI launches ChatGPT for Financial Service",
-      "summary": "Open AI has launched a dedicated version of ChatGPT for financial services designed to help firms develop research, models, and customised client materials.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48391/openai-launches-chatgpt-for-financial-service?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-11",
-      "category": "Banking",
-      "tags": [
-        "openai",
-        "chatgpt",
-        "financial service"
       ]
     }
   ]
