@@ -1,23 +1,28 @@
 {
-  "last_updated": "2026-09-22T21:54:56Z",
+  "last_updated": "2026-09-23T12:39:37Z",
   "insights": {
     "risks": [
-      "Trading risk: CFTC Examines Agentic AI’s Growing Role in Finance — assess algorithmic exposure.",
-      "Operational: Creatio invests $300 million in its Bank.ai platform — evaluate model governance gaps."
+      "Trading risk: Bluewhale delivers always-on AI agents for tokenised stock and asset trading — assess algorithmic exposure.",
+      "Operational: Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: MENA Fintech Association Releases Bi-Annual Regulatory Update on ADGM’s Evolving Digital Asset Framework — potential infrastructure advantage.",
-      "Banking efficiency: Creatio invests $300 million in its Bank.ai platform — cost reduction opportunity."
+      "Payments: Form3 launches AI agentic payments infrastructure — potential infrastructure advantage.",
+      "Banking efficiency: Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI — cost reduction opportunity.",
+      "InsurTech: The intelligent lending enterprise: AI, data and the new credit lifecycle — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 21
+      "count": 24
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
+    },
+    {
+      "topic": "Payments AI",
+      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -30,21 +35,117 @@
     {
       "topic": "Portfolio Management",
       "count": 1
-    },
-    {
-      "topic": "Generative AI",
-      "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "300102178",
+      "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI",
+      "summary": "Deutsche Bank Private Bank has deployed an Agentic AI-enabled Source of Wealth solution across its Singapore and Hong Kong booking centres to streamline the Know Your Customer process.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48452/deutsche-bank-estimates-30-uplift-in-client-onboarding-by-deploying-kyc-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "kyc ai",
+        "private bank"
+      ]
+    },
+    {
+      "id": "397662149",
+      "title": "Smartstream embeds agentic AI into reconciliation tool",
+      "summary": "Smartstream, the trusted data solutions provider for leading global financial institutions and enterprises, today announces a new version of Smart Reconciliations Premium, introducing agentic AI that can investigate, progress and resolve reconciliation exceptions autonomously.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110980/smartstream-embeds-agentic-ai-into-reconciliation-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "smartstream",
+        "ai",
+        "smart reconciliations"
+      ]
+    },
+    {
+      "id": "210254853",
+      "title": "Form3 launches AI agentic payments infrastructure",
+      "summary": "Form3, a leading global fintech offering account-to-account payments technology, today announced the launch of its new AI-enabled payments platform that will enable banks and fintechs to leverage AI agents within their payments operations.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110981/form3-launches-ai-agentic-payments-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-23",
+      "category": "Payments",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "814864340",
+      "title": "Bluewhale delivers always-on AI agents for tokenised stock and asset trading",
+      "summary": "Bluwhale, the AI financial operating system connecting millions of users to traditional and blockchain financial services managed by AI, today announced trading agents for tokenized stocks and real-world assets, including gold, silver and oil.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110983/bluewhale-delivers-always-on-ai-agents-for-tokenised-stock-and-asset-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-23",
+      "category": "Trading",
+      "tags": [
+        "bluewhale",
+        "ai",
+        "bluwhale"
+      ]
+    },
+    {
+      "id": "900119645",
+      "title": "The intelligent lending enterprise: AI, data and the new credit lifecycle",
+      "summary": "In what ways must banks identify the highest-impact AI use cases across underwriting, workflow automation, risk monitoring and servicing?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-23",
+      "category": "InsurTech",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "701983550",
+      "title": "Summa Tech Adds AML Checks to Onboarder Client Onboarding Platform",
+      "summary": "Summa Tech has integrated automated AML checks into Onboarder, targeting smaller accountancy firms that previously needed a separate system for compliance. The post Summa Tech Adds AML Checks to Onboarder Client Onboarding Platform appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/summa-tech-adds-aml-checks-to-onboarder-client-onboarding-platform/",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "summa tech",
+        "adds aml",
+        "checks"
+      ]
+    },
+    {
+      "id": "143518367",
+      "title": "Containerisation explains why AI investment may continue even without returns",
+      "summary": "Boston Consulting Group recently found that 94 per cent of organisations planned to keep investing in AI even if it did not deliver returns in 2026. At first glance, that sounds irrational. Companies normally invest because they expect a financial return. If the return is not app…",
+      "source": "e27",
+      "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "containerisation",
+        "ai",
+        "boston consulting"
+      ]
+    },
+    {
+      "id": "879659618",
+      "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
+      "summary": "In January 2026, Singapore s Minister for Digital Development announced an additional SG$1 billion (US$786 million) over five years for the National AI Research and Development Plan, on top of the SG$500 million (US$393 million) already committed to high-performance compute under…",
+      "source": "e27",
+      "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "why singapore",
+        "indonesia",
+        "vietnam"
+      ]
+    },
     {
       "id": "173171454",
       "title": "Creatio invests $300 million in its Bank.ai platform",
@@ -770,116 +871,6 @@
         "pave",
         "ai",
         "pave finance"
-      ]
-    },
-    {
-      "id": "456767449",
-      "title": "Chift raises €10.5m to build financial connectivity layer for the AI era",
-      "summary": "Chift, a European startup building a financial connectivity layer for the AI era, has raised €10.5 million in a Series A led by BlackFin Capital Partners.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48390/chift-raises-105m-to-build-financial-connectivity-layer-for-the-ai-era?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-14",
-      "category": "Banking",
-      "tags": [
-        "chift",
-        "ai",
-        "european"
-      ]
-    },
-    {
-      "id": "215278729",
-      "title": "TikTok developer ByteDance arranges $29.6 billion loan as it builds AI ambitions",
-      "summary": "ByteDance was reportedly considering spending $70 billion on AI data centers and infrastructure. The news comes as U.S. AI giants call for slowing the AI race.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/09/14/tiktok-developer-bytedance-arranges-usd29-6-billion-loan-as-it-builds-ai-ambitions",
-      "date": "2026-09-14",
-      "category": "Banking",
-      "tags": [
-        "tiktok",
-        "bytedance",
-        "ai"
-      ]
-    },
-    {
-      "id": "612080972",
-      "title": "MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia",
-      "summary": "MoneyHero s latest earnings tell two stories. The first is the one the NASDAQ-listed fintech aggregator wants investors to focus on: artificial intelligence automation, better approval rates, and a more efficient operating model. The second sits deeper in the numbers: falling rev…",
-      "source": "e27",
-      "url": "https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/",
-      "date": "2026-09-14",
-      "category": "Payments",
-      "tags": [
-        "moneyhero",
-        "southeast asia",
-        "nasdaq"
-      ]
-    },
-    {
-      "id": "579813697",
-      "title": "Everyone has adopted AI. Almost nobody is ready for it",
-      "summary": "Somewhere in the last eighteen months, the AI question quietly resolved itself. Almost nobody in Singapore asks whether to adopt anymore. Accenture said 90 per cent of organisations surveyed have moved beyond AI awareness and exploration into implementation. One in two has deploy…",
-      "source": "e27",
-      "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/",
-      "date": "2026-09-14",
-      "category": "Banking",
-      "tags": [
-        "everyone",
-        "ai",
-        "almost"
-      ]
-    },
-    {
-      "id": "23746932",
-      "title": "The initiative aims to lower the cost for smaller financial institutions adopting AI.",
-      "summary": "The initiative aims to lower the cost for smaller financial institutions adopting AI.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/sgs-pathfinai-ai-sharing-programme-grows-over-300-participants",
-      "date": "2026-09-14",
-      "category": "Banking",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "778133103",
-      "title": "Data quality is the top AI compliance concern for financial institutions, scoring 275 in a survey of banks and asset managers across Singapore, Malaysia and Australia. Generative AI remains the most considered technology, cited by 77% of respondents.",
-      "summary": "Data quality is the top AI compliance concern for financial institutions, scoring 275 in a survey of banks and asset managers across Singapore, Malaysia and Australia. Generative AI remains the most considered technology, cited by 77% of respondents.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/financial-technology/in-focus/financial-firms-rank-data-quality-top-ai-compliance-risk",
-      "date": "2026-09-13",
-      "category": "RegTech",
-      "tags": [
-        "data",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "742168625",
-      "title": "The anti-AI portfolio: fountain pens, Warhammer and film cameras",
-      "summary": "Journaling, sudoku, puzzle books and other non-digital pursuits are staging a comeback",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4ffff2a7-b2aa-42aa-a68b-037f9a3fd603?syn-25a6b1a6=1",
-      "date": "2026-09-13",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "warhammer",
-        "journaling"
-      ]
-    },
-    {
-      "id": "129903494",
-      "title": "S&P Global: US Consumers Wary of Stablecoins and Agentic AI",
-      "summary": "S P Global's Q2 2026 consumer survey finds stablecoin awareness at just 16% and 47% of respondents unwilling to let AI make purchases. The post S P Global: US Consumers Wary of Stablecoins and Agentic AI appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/sp-global-us-consumers-wary-of-stablecoins-and-agentic-ai/",
-      "date": "2026-09-12",
-      "category": "Payments",
-      "tags": [
-        "global",
-        "us consumers",
-        "wary"
       ]
     }
   ]
