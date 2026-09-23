@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-23T12:39:37Z",
+  "last_updated": "2026-09-23T22:08:09Z",
   "insights": {
     "risks": [
       "Trading risk: Bluewhale delivers always-on AI agents for tokenised stock and asset trading — assess algorithmic exposure.",
-      "Operational: Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI — evaluate model governance gaps."
+      "Operational: Paywhere launches AI banking channel — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Form3 launches AI agentic payments infrastructure — potential infrastructure advantage.",
-      "Banking efficiency: Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI — cost reduction opportunity.",
+      "Banking efficiency: Paywhere launches AI banking channel — cost reduction opportunity.",
       "InsurTech: The intelligent lending enterprise: AI, data and the new credit lifecycle — underwriting modernisation potential."
     ]
   },
@@ -31,13 +31,78 @@
     {
       "topic": "Predictive Analytics",
       "count": 1
-    },
-    {
-      "topic": "Portfolio Management",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "535696441",
+      "title": "Paywhere launches AI banking channel",
+      "summary": "Paywhere today announced the commercial availability of its programmable banking platform, giving banks and credit unions a secure way to serve their customers through the AI assistants, applications, and agents they already use.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/110993/paywhere-launches-ai-banking-channel?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "paywhere",
+        "ai"
+      ]
+    },
+    {
+      "id": "625285111",
+      "title": "Belize Bank Picks Backbase for Six-Year Digital Banking Overhaul",
+      "summary": "The country's largest bank, holding 43% of national assets, will deploy Backbase's AI-native platform across retail and business banking. The post Belize Bank Picks Backbase for Six-Year Digital Banking Overhaul appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/belize-bank-picks-backbase-for-six-year-digital-banking-overhaul/",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "belize bank",
+        "picks backbase",
+        "six"
+      ]
+    },
+    {
+      "id": "454199343",
+      "title": "Bird Secures $450 Million and Extends Communications Infrastructure to AI Agents",
+      "summary": "Bird, a provider of communications infrastructure for businesses and artificial intelligence (AI) agents, secured $450 million in debt financing, Bird Founder and CEO Robert Vis said in a Wednesday (Sept. 23) blog post. The financing includes a $400 million term loan and a $50 mi…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/investment-tracker/2026/bird-secures-450-million-and-extends-communications-infrastructure-to-ai-agents/",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "bird secures",
+        "million",
+        "extends communications"
+      ]
+    },
+    {
+      "id": "703672008",
+      "title": "Is Muse Really the Answer to Meta’s AI Woes?",
+      "summary": "Meta’s Muse, the personal artificial intelligence agent the company launched Sept. 8, has taken Silicon Valley and Wall Street by surprise. Within days of launch the personal AI agent topped the App Store charts, a feat Meta’s earlier AI apps never managed, and Meta shares jumped…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/is-muse-really-the-answer-to-metas-ai-woes/",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "is muse",
+        "really",
+        "answer"
+      ]
+    },
+    {
+      "id": "804607940",
+      "title": "Cyera Raises $400 Million As Customers Push For AI Cyber Defense",
+      "summary": "Cyera is reportedly a now $12 billion company amid concerns about artificial intelligence (AI)-related cyberthreats. The data security company reached that valuation after raising $400 million from Goldman Sachs Growth Equity, The Wall Street Journal (WSJ) reported Tuesday (Sept.…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/cybersecurity/2026/cyera-raises-400-million-as-customers-push-for-ai-cyber-defense/",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "cyera raises",
+        "million as",
+        "customers push"
+      ]
+    },
     {
       "id": "300102178",
       "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI",
@@ -801,76 +866,6 @@
         "shopify says",
         "ai search",
         "boosts conversions"
-      ]
-    },
-    {
-      "id": "495057214",
-      "title": "OCBC's AI agent slashed source-of-wealth reporting from 10 days to an hour — and Singapore's new SAFR framework is racing to build the guardrails around it.",
-      "summary": "OCBC's AI agent slashed source-of-wealth reporting from 10 days to an hour — and Singapore's new SAFR framework is racing to build the guardrails around it.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/exclusive/singapore-finance-weighs-ai-agents-against-governance-gaps",
-      "date": "2026-09-14",
-      "category": "Banking",
-      "tags": [
-        "ocbc",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "538881275",
-      "title": "An AI Agent Just Passed Europe's Toughest Payment Authentication Test",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32848/an-ai-agent-just-passed-europes-toughest-payment-authentication-test?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-14",
-      "category": "Payments",
-      "tags": [
-        "an ai",
-        "agent just",
-        "passed europe"
-      ]
-    },
-    {
-      "id": "472671968",
-      "title": "OpenAI Accelerates Device Plan With AI Camera Tech Acquisition",
-      "summary": "OpenAI has acquired Glass Imaging, a startup founded by former Apple employees that is developing artificial intelligence-enhanced cameras for smartphones, The Wall Street Journal reported Monday (Sept. 14), citing unnamed sources. Glass Imaging is working on AI technology that e…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-accelerates-device-plan-with-ai-camera-tech-acquisition/",
-      "date": "2026-09-14",
-      "category": "Banking",
-      "tags": [
-        "openai accelerates",
-        "device plan",
-        "with ai"
-      ]
-    },
-    {
-      "id": "697358125",
-      "title": "US tech stocks fall after big AI groups call for slowdown",
-      "summary": "Memory-chip makers and Nvidia slide at the start of trading in New York",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
-      "date": "2026-09-14",
-      "category": "Trading",
-      "tags": [
-        "us",
-        "ai",
-        "memory"
-      ]
-    },
-    {
-      "id": "337106331",
-      "title": "Pave raises $15m for AI-powered portfolio management platform",
-      "summary": "AI-powered portfolio management platform for financial advisors Pave Finance has raised over $15 million at a $100 million pre-money valuation in an oversubscribed Series A round.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48389/pave-raises-15m-for-ai-powered-portfolio-management-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-14",
-      "category": "Trading",
-      "tags": [
-        "pave",
-        "ai",
-        "pave finance"
       ]
     }
   ]
