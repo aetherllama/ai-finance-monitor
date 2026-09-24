@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-09-24T12:38:26Z",
+  "last_updated": "2026-09-24T22:09:14Z",
   "insights": {
     "risks": [
-      "Regulatory: Financial crime compliance fintech Footprint raises $25 million — review compliance obligations.",
+      "Regulatory: Tax compliance platform Numeral raises $100m — review compliance obligations.",
       "Trading risk: Asic strengthens AI safeguards — assess algorithmic exposure.",
-      "Operational: MindBridge advances financial oversight for the Agentic era — evaluate model governance gaps."
+      "Operational: Goldman reaped more than $200mn in fees from hedge fund Situational Awareness — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Form3 launches AI agentic payments infrastructure — potential infrastructure advantage.",
-      "Banking efficiency: MindBridge advances financial oversight for the Agentic era — cost reduction opportunity."
+      "Banking efficiency: Goldman reaped more than $200mn in fees from hedge fund Situational Awareness — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Customer Service AI",
@@ -38,6 +37,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "734138202",
+      "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
+      "summary": "Barely two-year-old AI-focused investment firm became biggest client of Wall Street bank’s prime brokerage unit",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "goldman",
+        "situational awareness",
+        "barely"
+      ]
+    },
+    {
+      "id": "489700019",
+      "title": "Narmi open AI marketplace for community banks",
+      "summary": "Narmi, a leading provider of digital banking technology, today announced the launch of the Narmi AI Marketplace, a centralized destination for practical and innovative AI capabilities built for community financial institutions.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111021/narmi-open-ai-marketplace-for-community-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "narmi",
+        "ai",
+        "narmi ai"
+      ]
+    },
+    {
+      "id": "439417630",
+      "title": "Tax compliance platform Numeral raises $100m",
+      "summary": "Numeral, the AI-powered sales tax compliance platform, today announced a $100 million Series C led by Insight Partners, with participation from Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111024/tax-compliance-platform-numeral-raises-100m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-24",
+      "category": "RegTech",
+      "tags": [
+        "tax",
+        "numeral",
+        "ai"
+      ]
+    },
+    {
+      "id": "992334062",
+      "title": "EU Regulator’s Priorities for 2027 Include AI and Tokenization",
+      "summary": "The European Union’s securities regulator plans to make artificial intelligence and tokenization a supervisory priority starting in 2027, signaling a broader regulatory focus on how emerging technologies are being used across financial services. The European Securities and Market…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/legal/2026/eu-regulators-priorities-for-2027-include-ai-and-tokenization/",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "eu regulator",
+        "priorities",
+        "include ai"
+      ]
+    },
+    {
+      "id": "719815740",
+      "title": "Singlife’s approach to AI, customer adoption and the future of digital insurance.",
+      "summary": "Singlife’s approach to AI, customer adoption and the future of digital insurance.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/videos/inside-singlifes-win-asian-banking-finance-fintech-awards-2026",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "singlife",
+        "ai"
+      ]
+    },
     {
       "id": "183111197",
       "title": "Financial crime compliance fintech Footprint raises $25 million",
@@ -120,6 +188,20 @@
         "seoul",
         "ai",
         "singapore"
+      ]
+    },
+    {
+      "id": "200732676",
+      "title": "Singaporeans trust artificial intelligence (AI) highly when researching loans or credit cards, but many still hesitate to grant them autonomy to apply, according to a survey Experian conducted by Forrester Consulting.",
+      "summary": "Singaporeans trust artificial intelligence (AI) highly when researching loans or credit cards, but many still hesitate to grant them autonomy to apply, according to a survey Experian conducted by Forrester Consulting.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/in-focus/singaporeans-trust-ai-compare-loans-not-apply-them",
+      "date": "2026-09-23",
+      "category": "Banking",
+      "tags": [
+        "singaporeans",
+        "ai",
+        "experian"
       ]
     },
     {
@@ -786,90 +868,6 @@
         "finance leaders",
         "expect ai",
         "costs"
-      ]
-    },
-    {
-      "id": "632617862",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess A…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "date": "2026-09-16",
-      "category": "Banking",
-      "tags": [
-        "the download",
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "id": "726361199",
-      "title": "FIS Acquires AI-Native OpenCoreOS as Core Banking Consolidation Continues",
-      "summary": "FIS has acquired AI-native core banking startup OpenCoreOS months after launch, as analysts predict further consolidation among core providers. The post FIS Acquires AI-Native OpenCoreOS as Core Banking Consolidation Continues appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/fis-acquires-ai-native-core-banking-startup-opencoreos-months-after-launch/",
-      "date": "2026-09-16",
-      "category": "Payments",
-      "tags": [
-        "fis acquires",
-        "ai",
-        "native opencoreos"
-      ]
-    },
-    {
-      "id": "865446523",
-      "title": "Half of Investment Platforms Need More Automation",
-      "summary": "Money can trade in seconds, yet investors may still wait days to receive it. That gap can make a fast digital platform feel surprisingly slow at the exact moment a customer wants access to cash. “The Power of Now: Moving Money at the Speed of Life: Investment Firms’ Payout Gap” d…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/real-time-payments/2026/half-of-investment-platforms-need-more-automation/",
-      "date": "2026-09-16",
-      "category": "Banking",
-      "tags": [
-        "half",
-        "investment platforms",
-        "need more"
-      ]
-    },
-    {
-      "id": "422482412",
-      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
-      "summary": "Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US…",
-      "source": "e27",
-      "url": "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/",
-      "date": "2026-09-16",
-      "category": "Banking",
-      "tags": [
-        "plaud",
-        "singapore",
-        "us"
-      ]
-    },
-    {
-      "id": "325207185",
-      "title": "The AI boom won’t help you scale. Your unit economics will",
-      "summary": "Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the real story of Southeast…",
-      "source": "e27",
-      "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
-      "date": "2026-09-16",
-      "category": "Payments",
-      "tags": [
-        "the ai",
-        "your",
-        "three"
-      ]
-    },
-    {
-      "id": "569783089",
-      "title": "The AI Flywheel: Why the Future of Banking Implementations Lies in Compounding Intelligence",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32869/the-ai-flywheel-why-the-future-of-banking-implementations-lies-in-compounding-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-15",
-      "category": "Banking",
-      "tags": [
-        "the ai",
-        "flywheel",
-        "why"
       ]
     }
   ]
