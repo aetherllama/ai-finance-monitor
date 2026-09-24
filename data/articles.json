@@ -1,24 +1,28 @@
 {
-  "last_updated": "2026-09-23T22:08:09Z",
+  "last_updated": "2026-09-24T12:38:26Z",
   "insights": {
     "risks": [
-      "Trading risk: Bluewhale delivers always-on AI agents for tokenised stock and asset trading — assess algorithmic exposure.",
-      "Operational: Paywhere launches AI banking channel — evaluate model governance gaps."
+      "Regulatory: Financial crime compliance fintech Footprint raises $25 million — review compliance obligations.",
+      "Trading risk: Asic strengthens AI safeguards — assess algorithmic exposure.",
+      "Operational: MindBridge advances financial oversight for the Agentic era — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Form3 launches AI agentic payments infrastructure — potential infrastructure advantage.",
-      "Banking efficiency: Paywhere launches AI banking channel — cost reduction opportunity.",
-      "InsurTech: The intelligent lending enterprise: AI, data and the new credit lifecycle — underwriting modernisation potential."
+      "Banking efficiency: MindBridge advances financial oversight for the Agentic era — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 24
+      "count": 21
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 8
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
     },
     {
       "topic": "Payments AI",
@@ -34,6 +38,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "183111197",
+      "title": "Financial crime compliance fintech Footprint raises $25 million",
+      "summary": "Footprint, the AI operating system for risk, today announced it has raised $25 million in Series B funding led by QED Investors, with participation from MUFG, Commerce Ventures, LightBank, and Alumni Ventures, and continued backing from existing investors Index Ventures, Lerer Hi…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111008/financial-crime-compliance-fintech-footprint-raises-25-million?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-24",
+      "category": "RegTech",
+      "tags": [
+        "financial",
+        "footprint",
+        "ai"
+      ]
+    },
+    {
+      "id": "198608659",
+      "title": "Asic strengthens AI safeguards",
+      "summary": "ASIC is strengthening safeguards for automated and AI-enabled trading while streamlining regulatory requirements for securities and futures market participants under incoming changes to its Market Integrity Rules (MIRs).",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111014/asic-strengthens-ai-safeguards?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-24",
+      "category": "Trading",
+      "tags": [
+        "asic",
+        "ai",
+        "asic"
+      ]
+    },
+    {
+      "id": "337518029",
+      "title": "MindBridge advances financial oversight for the Agentic era",
+      "summary": "MindBridge Analytics Inc. announced the next evolution of its platform and unveiled new capabilities designed to strengthen financial oversight as AI and automation take on more work across finance and audit.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111015/mindbridge-advances-financial-oversight-for-the-agentic-era?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "mindbridge",
+        "agentic",
+        "mindbridge analytics"
+      ]
+    },
+    {
+      "id": "383886180",
+      "title": "Ripjar ramps up AI in customer screening to disrupt global economy of crime",
+      "summary": "Ripjar, the provider of smarter screening and risk intelligence solutions, has introduced new AI innovations within ULTRA, the real intelligence engine that powers screening operations at financial institutions and enterprises, including 25% of the Global Systemically Important B…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111016/ripjar-ramps-up-ai-in-customer-screening-to-disrupt-global-economy-of-crime?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "ripjar",
+        "ai",
+        "ultra"
+      ]
+    },
+    {
+      "id": "844706331",
+      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
+      "summary": "European regulators will map how financial firms use the technologies in client-facing products and begin checks on the most affected businesses.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "eu",
+        "ai",
+        "european"
+      ]
+    },
+    {
+      "id": "2358238",
+      "title": "Seoul tops global AI implementation as Singapore enters top tier",
+      "summary": "The global race to lead artificial intelligence is usually framed as a contest between countries: the US versus China, with Europe, India and a handful of others trying to carve out space. A new ranking argues that this view misses where much of the action is actually happening. …",
+      "source": "e27",
+      "url": "https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "seoul",
+        "ai",
+        "singapore"
+      ]
+    },
     {
       "id": "535696441",
       "title": "Paywhere launches AI banking channel",
@@ -782,90 +870,6 @@
         "the ai",
         "flywheel",
         "why"
-      ]
-    },
-    {
-      "id": "984030384",
-      "title": "Smartstream connects collateral management with AI",
-      "summary": "Smartstream, the trusted data solutions provider for leading global financial institutions and enterprises, today announces two new Model Context Protocol (MCP) servers for Smart Collateral, enabling dynamic, agentic collateral operations.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110905/smartstream-connects-collateral-management-with-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-15",
-      "category": "Banking",
-      "tags": [
-        "smartstream",
-        "ai smartstream",
-        "model context"
-      ]
-    },
-    {
-      "id": "501758983",
-      "title": "PayNearMe acquires AI company Marr Labs",
-      "summary": "PayNearMe, the fintech company pioneering Payment Experience Management (PEM), today announced that it has acquired the technology assets and hired the key employees of Marr Labs, an AI company that develops agentic solutions to automate voice, messaging and workflows in complex,…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110914/paynearme-acquires-ai-company-marr-labs?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-15",
-      "category": "Payments",
-      "tags": [
-        "paynearme",
-        "ai",
-        "marr labs"
-      ]
-    },
-    {
-      "id": "905697736",
-      "title": "TS Imagine ships AI platform for capital markets",
-      "summary": "TS Imagine, a leading global multi-asset provider of cloud-native trading, wealth, portfolio, risk management and prime brokerage solutions, today announced the launch of TSIQ.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110915/ts-imagine-ships-ai-platform-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-15",
-      "category": "Trading",
-      "tags": [
-        "ts imagine",
-        "ai",
-        "tsiq"
-      ]
-    },
-    {
-      "id": "514358763",
-      "title": "What’s at stake in AI’s trillion-dollar gamble",
-      "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact”…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
-      "date": "2026-09-15",
-      "category": "Banking",
-      "tags": [
-        "what",
-        "ai",
-        "when jessica"
-      ]
-    },
-    {
-      "id": "691834689",
-      "title": "Paymentus Scales Bill Payment Platform Across Additional Sectors",
-      "summary": "Paymentus executives emphasized the company’s position as a specialized technology provider navigating bill payment modernization, agentic artificial intelligence and expansion into additional verticals during the Goldman Sachs 2026 Communacopia + Technology conference. Paymentus…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/payments-innovation/2026/paymentus-scales-bill-payment-platform-across-additional-sectors/",
-      "date": "2026-09-15",
-      "category": "Payments",
-      "tags": [
-        "paymentus scales",
-        "bill payment",
-        "platform across"
-      ]
-    },
-    {
-      "id": "499089092",
-      "title": "Shopify Says AI Search Boosts Conversions by 80%",
-      "summary": "Shopify is leveraging agentic artificial intelligence to transform digital commerce discovery, lower startup barriers for small and medium-sized businesses, and reinforce its core payments and checkout infrastructure, executives said Thursday (Sept. 10). Speaking at the Goldman S…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-says-ai-search-boosts-conversions-by-80/",
-      "date": "2026-09-14",
-      "category": "Banking",
-      "tags": [
-        "shopify says",
-        "ai search",
-        "boosts conversions"
       ]
     }
   ]
