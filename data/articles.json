@@ -1,30 +1,35 @@
 {
-  "last_updated": "2026-09-24T22:09:14Z",
+  "last_updated": "2026-09-25T12:39:49Z",
   "insights": {
     "risks": [
       "Regulatory: Tax compliance platform Numeral raises $100m — review compliance obligations.",
-      "Trading risk: Asic strengthens AI safeguards — assess algorithmic exposure.",
-      "Operational: Goldman reaped more than $200mn in fees from hedge fund Situational Awareness — evaluate model governance gaps."
+      "Trading risk: Bluwhale announces trading agents for tokenised stocks and real-world assets — assess algorithmic exposure.",
+      "Operational: Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Goldman reaped more than $200mn in fees from hedge fund Situational Awareness — cost reduction opportunity."
+      "Payments: Saffron Building Society Selects FintechOS to Deploy AI-Powered Mortgage Origination Platform — potential infrastructure advantage.",
+      "Banking efficiency: Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 21
+      "count": 20
     },
     {
       "topic": "Automation",
       "count": 7
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Payments AI",
+      "count": 2
+    },
+    {
+      "topic": "Credit & Underwriting",
       "count": 1
     },
     {
-      "topic": "Payments AI",
+      "topic": "Customer Service AI",
       "count": 1
     },
     {
@@ -37,6 +42,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "64205366",
+      "title": "Bluwhale announces trading agents for tokenised stocks and real-world assets",
+      "summary": "Bluwhale, the AI financial operating system connecting millions of users to traditional and blockchain financial services managed by AI, today announced trading agents for tokenized stocks and real-world assets, including gold, silver and oil. The broader tokenized-stock market a…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111025/bluwhale-announces-trading-agents-for-tokenised-stocks-and-real-world-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-25",
+      "category": "Trading",
+      "tags": [
+        "bluwhale",
+        "ai",
+        "apple"
+      ]
+    },
+    {
+      "id": "331585955",
+      "title": "Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs",
+      "summary": "The FTSE 250 specialist bank posted underlying pre-tax profit of £195.5m and a loan book of £20.1bn, while reiterating FY 2026 guidance. The post Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/shawbrook-h1-2026-profit-up-16-as-ai-cuts-underwriting-costs/",
+      "date": "2026-09-25",
+      "category": "Banking",
+      "tags": [
+        "shawbrook",
+        "profit",
+        "ai cuts"
+      ]
+    },
+    {
+      "id": "272489095",
+      "title": "Saffron Building Society Selects FintechOS to Deploy AI-Powered Mortgage Origination Platform",
+      "summary": "Saffron Building Society has partnered with FintechOS to deploy an AI-powered mortgage origination platform, automating decisioning, streamlining broker workflows and accelerating product launches. The post Saffron Building Society Selects FintechOS to Deploy AI-Powered Mortgage …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/saffron-building-society-selects-fintechos-to-deploy-ai-powered-mortgage-origination-platform/",
+      "date": "2026-09-25",
+      "category": "Payments",
+      "tags": [
+        "saffron building",
+        "society selects",
+        "fintechos"
+      ]
+    },
+    {
+      "id": "35059787",
+      "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
+      "summary": "San Francisco and New York still lead The Observer s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the inst…",
+      "source": "e27",
+      "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
+      "date": "2026-09-25",
+      "category": "Banking",
+      "tags": [
+        "ecosystem roundup",
+        "seoul",
+        "ai"
+      ]
+    },
+    {
+      "id": "878000319",
+      "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
+      "summary": "For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between early signs and medica…",
+      "source": "e27",
+      "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
+      "date": "2026-09-25",
+      "category": "Banking",
+      "tags": [
+        "goodarch",
+        "ai",
+        "malaysia"
+      ]
+    },
+    {
+      "id": "214087026",
+      "title": "Rethinking Orchestration for the Next Generation of AI-Driven Payments",
+      "summary": "In this virtual interview in the lead-up to Sibos 2026, we explore how the next generation of fraud is evolving as different technologies grow, providing key considerations to stay prepared.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3600/rethinking-orchestration-for-the-next-generation-of-ai-driven-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-24",
+      "category": "Banking",
+      "tags": [
+        "rethinking orchestration",
+        "next generation",
+        "ai"
+      ]
+    },
     {
       "id": "734138202",
       "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
@@ -784,90 +873,6 @@
         "when fraud",
         "becomes",
         "customer"
-      ]
-    },
-    {
-      "id": "610254705",
-      "title": "The Next Fraud Frontier Is the Impostor Who Passes Every Check",
-      "summary": "Card theft and account breaches remain major threats, but some of today’s fastest-growing fraud schemes begin earlier by targeting identity itself. Criminals increasingly use artificial intelligence to build false identities and mimic real voices and faces well enough to slip pas…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/2026/the-next-fraud-frontier-is-the-impostor-who-passes-every-check/",
-      "date": "2026-09-17",
-      "category": "Banking",
-      "tags": [
-        "the next",
-        "fraud frontier",
-        "is"
-      ]
-    },
-    {
-      "id": "915879526",
-      "title": "Banks Use AI Agents to Catch Compliance Drift Earlier",
-      "summary": "Watch more: Digital Shift With Flagright’s Chris Phillips Financial institutions have spent years stalking the risks and opportunities that artificial intelligence brings to their security-critical space. Then came AI agents. These agents could give banks something their existing…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/banking/2026/ai-agents-give-banks-the-end-to-end-auditability-compliance-always-wanted/",
-      "date": "2026-09-17",
-      "category": "RegTech",
-      "tags": [
-        "banks use",
-        "ai agents",
-        "catch compliance"
-      ]
-    },
-    {
-      "id": "117185754",
-      "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
-      "summary": "Databricks is putting more weight behind Singapore as large companies across Asia shift from experimenting with artificial intelligence to trying to run it safely inside their core operations. The US data and AI company said it will invest more than US$350 million in Singapore ov…",
-      "source": "e27",
-      "url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
-      "date": "2026-09-17",
-      "category": "Banking",
-      "tags": [
-        "databricks",
-        "singapore",
-        "us"
-      ]
-    },
-    {
-      "id": "392453771",
-      "title": "Consumers are willing to endure a 24-hour money transfer delay in exchange for stronger artificial intelligence (AI)-powered fraud protection, according to a study by Visa.",
-      "summary": "Consumers are willing to endure a 24-hour money transfer delay in exchange for stronger artificial intelligence (AI)-powered fraud protection, according to a study by Visa.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/cards-payments/news/apac-consumers-trade-transfer-speed-fraud-safety-deepfake-fears-rise",
-      "date": "2026-09-17",
-      "category": "Banking",
-      "tags": [
-        "consumers",
-        "ai",
-        "visa"
-      ]
-    },
-    {
-      "id": "186421446",
-      "title": "FI Works launches AI-driven analytics",
-      "summary": "-FI Works, a leading provider of data analytics, marketing automation, and CRM solutions for community banks and credit unions, today announced new AI-powered enhancements to its Relationship Intelligence and Engagement Platform, enabling financial institutions to explore and act…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110926/fi-works-launches-ai-driven-analytics?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-16",
-      "category": "Banking",
-      "tags": [
-        "fi works",
-        "ai",
-        "crm"
-      ]
-    },
-    {
-      "id": "264054611",
-      "title": "Finance Leaders Expect AI Costs to Rise. Some Ideas on Containing Them",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32885/finance-leaders-expect-ai-costs-to-rise-some-ideas-on-containing-them?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-16",
-      "category": "Banking",
-      "tags": [
-        "finance leaders",
-        "expect ai",
-        "costs"
       ]
     }
   ]
