@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-25T12:39:49Z",
+  "last_updated": "2026-09-25T22:07:04Z",
   "insights": {
     "risks": [
       "Regulatory: Tax compliance platform Numeral raises $100m — review compliance obligations.",
       "Trading risk: Bluwhale announces trading agents for tokenised stocks and real-world assets — assess algorithmic exposure.",
-      "Operational: Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs — evaluate model governance gaps."
+      "Operational: Socure brings identity verification and fraud prevention to Circle Arc mainnnet — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Saffron Building Society Selects FintechOS to Deploy AI-Powered Mortgage Origination Platform — potential infrastructure advantage.",
-      "Banking efficiency: Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs — cost reduction opportunity."
+      "Payments: Why AI reporting will change fintech marketing teams before AI creatives do — potential infrastructure advantage.",
+      "Banking efficiency: Socure brings identity verification and fraud prevention to Circle Arc mainnnet — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -19,6 +19,10 @@
     {
       "topic": "Automation",
       "count": 7
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 2
     },
     {
       "topic": "Payments AI",
@@ -33,15 +37,53 @@
       "count": 1
     },
     {
-      "topic": "Fraud Detection",
-      "count": 1
-    },
-    {
       "topic": "Predictive Analytics",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "976429639",
+      "title": "Socure brings identity verification and fraud prevention to Circle Arc mainnnet",
+      "summary": "Socure, the leading AI-native trust infrastructure for global identity and risk intelligence, today announced that RiskOS is being used for identity verification and fraud prevention on Arc, the open Layer 1 blockchain built by Circle and now live on public mainnet.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111030/socure-brings-identity-verification-and-fraud-prevention-to-circle-arc-mainnnet?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-25",
+      "category": "Banking",
+      "tags": [
+        "socure",
+        "circle arc",
+        "ai"
+      ]
+    },
+    {
+      "id": "604139575",
+      "title": "Feedzai tackles banks’ agentic AI integration gap with Farol agent",
+      "summary": "Feedzai, the global leader in AI-native financial crime prevention, today launched Farol, an embedded AI agent engineered to slash fraud investigation latency and sharpen threat detection across risk operations in banking.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111031/feedzai-tackles-banks-agentic-ai-integration-gap-with-farol-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-25",
+      "category": "Banking",
+      "tags": [
+        "feedzai",
+        "ai",
+        "farol"
+      ]
+    },
+    {
+      "id": "56414325",
+      "title": "Why AI reporting will change fintech marketing teams before AI creatives do",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/32990/why-ai-reporting-will-change-fintech-marketing-teams-before-ai-creatives-do?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-25",
+      "category": "Payments",
+      "tags": [
+        "why ai",
+        "ai",
+        "author"
+      ]
+    },
     {
       "id": "64205366",
       "title": "Bluwhale announces trading agents for tokenised stocks and real-world assets",
@@ -831,48 +873,6 @@
         "ai agents",
         "become",
         "next payments"
-      ]
-    },
-    {
-      "id": "704658394",
-      "title": "Saffron Building Society taps FintechOS for AI-powered mortgage platform",
-      "summary": "FintechOS, the agentic platform for unified product operations, has partnered with Saffron Building Society to deliver their full end-to-end mortgage origination platform covering the full lending lifecycle.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-17",
-      "category": "Banking",
-      "tags": [
-        "saffron building",
-        "society",
-        "fintechos"
-      ]
-    },
-    {
-      "id": "57460139",
-      "title": "Zopa rolls out personal banking agent",
-      "summary": "UK bank Zopa is rolling out a conversational AI to current account customers, billing it as an 'always-on personal banker'.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48414/zopa-rolls-out-personal-banking-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-17",
-      "category": "Banking",
-      "tags": [
-        "zopa",
-        "uk",
-        "ai"
-      ]
-    },
-    {
-      "id": "827745228",
-      "title": "When Fraud Becomes the Customer: The Next Battlefront for Issuers",
-      "summary": "[branded_divider] Fraud Is Moving Beyond Transactions to Attack Identity The fraud landscape has shifted from isolated payment events to persistent identity-based attacks that span channels, devices and customer relationships. AI is accelerating both the scale and the sophisticat…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/tracker_posts/when-fraud-becomes-the-customer-the-next-battlefront-for-issuers/",
-      "date": "2026-09-17",
-      "category": "Payments",
-      "tags": [
-        "when fraud",
-        "becomes",
-        "customer"
       ]
     }
   ]
