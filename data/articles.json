@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-09-26T12:07:47Z",
+  "last_updated": "2026-09-26T21:54:28Z",
   "insights": {
     "risks": [
-      "Regulatory: Tax compliance platform Numeral raises $100m — review compliance obligations.",
+      "Regulatory: Sedric Joins American Fintech Council to Push AI Compliance Controls — review compliance obligations.",
       "Trading risk: Bluwhale announces trading agents for tokenised stocks and real-world assets — assess algorithmic exposure.",
-      "Operational: Socure brings identity verification and fraud prevention to Circle Arc mainnnet — evaluate model governance gaps."
+      "Operational: Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Why AI reporting will change fintech marketing teams before AI creatives do — potential infrastructure advantage.",
-      "Banking efficiency: Socure brings identity verification and fraud prevention to Circle Arc mainnnet — cost reduction opportunity."
+      "Banking efficiency: Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 20
+      "count": 19
     },
     {
       "topic": "Automation",
@@ -27,6 +27,10 @@
     {
       "topic": "Payments AI",
       "count": 2
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 1
     },
     {
       "topic": "Credit & Underwriting",
@@ -42,6 +46,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "627561932",
+      "title": "Sedric Joins American Fintech Council to Push AI Compliance Controls",
+      "summary": "The agentic AI compliance platform has joined the AFC as it targets real-time marketing and communications governance for regulated financial institutions. The post Sedric Joins American Fintech Council to Push AI Compliance Controls appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/sedric-joins-american-fintech-council-to-push-ai-compliance-controls/",
+      "date": "2026-09-26",
+      "category": "RegTech",
+      "tags": [
+        "sedric joins",
+        "american fintech",
+        "council"
+      ]
+    },
+    {
+      "id": "326424046",
+      "title": "Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve",
+      "summary": "Parloa's Malte Kosub says a 7.4% resolution rate exposes a strategic failure, not a technology one, in financial services AI deployment. The post Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/parloa-ceo-bank-chatbots-built-to-deflect-not-resolve/",
+      "date": "2026-09-26",
+      "category": "Banking",
+      "tags": [
+        "parloa ceo",
+        "bank chatbots",
+        "built"
+      ]
+    },
     {
       "id": "976429639",
       "title": "Socure brings identity verification and fraud prevention to Circle Arc mainnnet",
@@ -845,34 +877,6 @@
         "ant international",
         "unveils",
         "products"
-      ]
-    },
-    {
-      "id": "192416539",
-      "title": "AI Agents Are Getting Their Own Bank Accounts",
-      "summary": "Looking to strengthen its bond with merchants, Ant International is getting bank accounts for artificial intelligence agents. Account for Agent sits inside WorldFirst, Ant’s global account brand, according to a Friday (Sept. 18) press release. The account runs on know your agent …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-are-getting-their-own-bank-accounts/",
-      "date": "2026-09-18",
-      "category": "Banking",
-      "tags": [
-        "ai agents",
-        "are getting",
-        "their own"
-      ]
-    },
-    {
-      "id": "978369220",
-      "title": "AI Agents Become the Next Payments Customer",
-      "summary": "Watch more: Digital Shift With Viggo Stenseth of SolvaPay The payments industry has devoted much effort to making sure a bot can’t pass for a customer. Agentic commerce brings a new complication, as some bots are supposed to buy things. SolvaPay, a Stockholm-based FinTech, is bui…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-become-the-next-payments-customer/",
-      "date": "2026-09-18",
-      "category": "Payments",
-      "tags": [
-        "ai agents",
-        "become",
-        "next payments"
       ]
     }
   ]
