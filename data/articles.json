@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T12:52:48Z",
+  "last_updated": "2026-09-27T21:56:32Z",
   "insights": {
     "risks": [
       "Regulatory: Sedric Joins American Fintech Council to Push AI Compliance Controls — review compliance obligations.",
@@ -7,7 +7,7 @@
       "Operational: Big companies warn lack of ‘AI openness’ could hit investment in Europe — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Cloudflare AI Wallets Put Agentic Commerce Trust Frameworks to the Test — potential infrastructure advantage.",
+      "Payments: Sibos 2026 preview: AI, tokenised money and the ledger take the stage — potential infrastructure advantage.",
       "Banking efficiency: Big companies warn lack of ‘AI openness’ could hit investment in Europe — cost reduction opportunity."
     ]
   },
@@ -21,15 +21,15 @@
       "count": 7
     },
     {
-      "topic": "Fraud Detection",
-      "count": 2
-    },
-    {
       "topic": "Payments AI",
       "count": 2
     },
     {
       "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
+      "topic": "Fraud Detection",
       "count": 1
     },
     {
@@ -42,6 +42,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "927224724",
+      "title": "Sibos 2026 preview: AI, tokenised money and the ledger take the stage",
+      "summary": "Sibos opens in Miami on Monday with more than 500 speakers across 250 sessions. Jane Fraser opens, Serena Williams closes, and the week's running argument is how banks put AI, tokenised deposits and Swift's new ledger into production. The post Sibos 2026 preview: AI, tokenised mo…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/sibos-2026-preview-ai-tokenised-money-and-the-ledger-take-the-stage/",
+      "date": "2026-09-27",
+      "category": "Payments",
+      "tags": [
+        "sibos",
+        "ai",
+        "miami"
+      ]
+    },
+    {
+      "id": "971151952",
+      "title": "nCino Adds MCP Layer to Connect AI Agents to Mortgage Suite",
+      "summary": "nCino's new Mortgage MCP lets lenders plug compatible AI agents into its loan origination platform via the open-source Model Context Protocol. The post nCino Adds MCP Layer to Connect AI Agents to Mortgage Suite appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ncino-adds-mcp-layer-to-connect-ai-agents-to-mortgage-suite/",
+      "date": "2026-09-27",
+      "category": "Payments",
+      "tags": [
+        "adds mcp",
+        "layer",
+        "connect ai"
+      ]
+    },
     {
       "id": "632116698",
       "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
@@ -845,34 +873,6 @@
         "ex",
         "paypal ceo",
         "harris"
-      ]
-    },
-    {
-      "id": "62846400",
-      "title": "Seon expands signal intelligence to tackle AI-generated fraud",
-      "summary": "Seon, the AI Command Center for Fraud Prevention and AML Compliance, today announced its Signal Intelligence expansion, growing the platform’s signal foundation from 900+ to more than 1,100 proprietary, directly sourced data points.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110950/seon-expands-signal-intelligence-to-tackle-ai-generated-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-18",
-      "category": "Banking",
-      "tags": [
-        "seon",
-        "ai",
-        "ai command"
-      ]
-    },
-    {
-      "id": "2934258",
-      "title": "The 2030 Blueprint: How Agentic AI and Quantum Infrastructure are Rewriting UK Open Finance",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32914/the-2030-blueprint-how-agentic-ai-and-quantum-infrastructure-are-rewriting-uk-open-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-18",
-      "category": "Banking",
-      "tags": [
-        "blueprint",
-        "how agentic",
-        "ai"
       ]
     }
   ]
