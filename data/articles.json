@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-26T21:54:28Z",
+  "last_updated": "2026-09-27T12:52:48Z",
   "insights": {
     "risks": [
       "Regulatory: Sedric Joins American Fintech Council to Push AI Compliance Controls — review compliance obligations.",
       "Trading risk: Bluwhale announces trading agents for tokenised stocks and real-world assets — assess algorithmic exposure.",
-      "Operational: Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve — evaluate model governance gaps."
+      "Operational: Big companies warn lack of ‘AI openness’ could hit investment in Europe — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Why AI reporting will change fintech marketing teams before AI creatives do — potential infrastructure advantage.",
-      "Banking efficiency: Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve — cost reduction opportunity."
+      "Payments: Cloudflare AI Wallets Put Agentic Commerce Trust Frameworks to the Test — potential infrastructure advantage.",
+      "Banking efficiency: Big companies warn lack of ‘AI openness’ could hit investment in Europe — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -39,13 +39,37 @@
     {
       "topic": "Customer Service AI",
       "count": 1
-    },
-    {
-      "topic": "Predictive Analytics",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "632116698",
+      "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
+      "summary": "Multinationals evaluating countries’ approach to AI before making expansion plans, say executives",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+      "date": "2026-09-27",
+      "category": "Banking",
+      "tags": [
+        "big",
+        "ai",
+        "europe multinationals"
+      ]
+    },
+    {
+      "id": "517197490",
+      "title": "Cloudflare AI Wallets Put Agentic Commerce Trust Frameworks to the Test",
+      "summary": "Cloudflare's agent identity and payment tools signal a shift from experimentation to implementation, but industry standards remain fragmented. The post Cloudflare AI Wallets Put Agentic Commerce Trust Frameworks to the Test appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/cloudflare-ai-wallets-put-agentic-commerce-trust-frameworks-to-the-test/",
+      "date": "2026-09-27",
+      "category": "Payments",
+      "tags": [
+        "cloudflare ai",
+        "wallets put",
+        "agentic commerce"
+      ]
+    },
     {
       "id": "627561932",
       "title": "Sedric Joins American Fintech Council to Push AI Compliance Controls",
@@ -849,34 +873,6 @@
         "blueprint",
         "how agentic",
         "ai"
-      ]
-    },
-    {
-      "id": "882461924",
-      "title": "DHS’s predictive policing is unconstitutional, un-American and should be stopped",
-      "summary": "Targeting Americans based on what their spending habits can tell us about their politics is an abuse of our financial system, writes Coin Center’s Laz Pieper.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/opinion/2026/09/18/dhs-s-predictive-policing-is-unconstitutional-un-american-and-should-be-stopped",
-      "date": "2026-09-18",
-      "category": "Banking",
-      "tags": [
-        "dhs",
-        "american",
-        "targeting americans"
-      ]
-    },
-    {
-      "id": "467195513",
-      "title": "Ant International Unveils 100 Products to Drive Agentic Financial Operations",
-      "summary": "Ant International has announced an artificial intelligence-native financial stack that includes nearly 100products across payment, account, foreign exchange, treasury and growth operations, the company said in a Friday (Sept. 18) press release. The product suite is built on Ant I…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ant-international-unveils-100-products-to-drive-agentic-financial-operations/",
-      "date": "2026-09-18",
-      "category": "Payments",
-      "tags": [
-        "ant international",
-        "unveils",
-        "products"
       ]
     }
   ]
