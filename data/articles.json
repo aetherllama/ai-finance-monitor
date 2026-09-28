@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-09-27T21:56:32Z",
+  "last_updated": "2026-09-28T15:09:52Z",
   "insights": {
     "risks": [
       "Regulatory: Sedric Joins American Fintech Council to Push AI Compliance Controls — review compliance obligations.",
-      "Trading risk: Bluwhale announces trading agents for tokenised stocks and real-world assets — assess algorithmic exposure.",
-      "Operational: Big companies warn lack of ‘AI openness’ could hit investment in Europe — evaluate model governance gaps."
+      "Trading risk: SIA has scaled AI. Aviation must now govern the point of action — assess algorithmic exposure.",
+      "Operational: Singapore to train 80,000 FS sector employees in AI skills — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Sibos 2026 preview: AI, tokenised money and the ledger take the stage — potential infrastructure advantage.",
-      "Banking efficiency: Big companies warn lack of ‘AI openness’ could hit investment in Europe — cost reduction opportunity."
+      "Banking efficiency: Singapore to train 80,000 FS sector employees in AI skills — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 19
+      "count": 20
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Payments AI",
@@ -42,6 +42,104 @@
     }
   ],
   "articles": [
+    {
+      "id": "594950548",
+      "title": "Singapore to train 80,000 FS sector employees in AI skills",
+      "summary": "Singapore's financial services sector has moved to prepare itself for the artificial intelligence era through the launch of an AI workforce co-lab and a commitment to train 80,000 employees in the technology.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48482/singapore-to-train-80000-fs-sector-employees-in-ai-skills?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-28",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "fs",
+        "ai"
+      ]
+    },
+    {
+      "id": "407753055",
+      "title": "FIS integrates with data and AI platform Spade's real-time transaction enrichment technology",
+      "summary": "FIS (NYSE: FIS), a global leader in financial technology, today announced the integration of Spade’s real-time transaction enrichment technology into FIS's debit processing platform.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111039/fis-integrates-with-data-and-ai-platform-spades-real-time-transaction-enrichment-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-28",
+      "category": "Banking",
+      "tags": [
+        "fis",
+        "ai",
+        "spade"
+      ]
+    },
+    {
+      "id": "611319199",
+      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
+      "summary": "AI agents could trigger a bank run by automatically moving household cash from low-interest checking accounts to higher-yield alternatives, Slok warns.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
+      "date": "2026-09-28",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "apollo",
+        "torsten slok"
+      ]
+    },
+    {
+      "id": "375379349",
+      "title": "A*STAR and EDB unveil SG Semiconductor as partnerships target AI-era chis",
+      "summary": "Singapore is putting a clearer name and sharper frame around one of its most important industrial bets. On Friday, the city-state announced SG Semiconductor, a national identity for its semiconductor sector, jointly developed by A*STAR and the Singapore Economic Development Board…",
+      "source": "e27",
+      "url": "https://e27.co/astar-and-edb-unveil-sg-semiconductor-as-partnerships-target-ai-era-chis-20260928/",
+      "date": "2026-09-28",
+      "category": "Banking",
+      "tags": [
+        "star",
+        "edb",
+        "sg semiconductor"
+      ]
+    },
+    {
+      "id": "990192636",
+      "title": "SIA has scaled AI. Aviation must now govern the point of action",
+      "summary": "Singapore Airlines expanding artificial intelligence (AI) portfolio shows that adoption is no longer the main issue. The harder question is what an AI system should be permitted to do. The Business Times reported on 18 August that Singapore Airlines, or SIA, has deployed more tha…",
+      "source": "e27",
+      "url": "https://e27.co/sia-has-scaled-ai-aviation-must-now-govern-the-point-of-action-20260924/",
+      "date": "2026-09-28",
+      "category": "Trading",
+      "tags": [
+        "sia",
+        "ai",
+        "aviation"
+      ]
+    },
+    {
+      "id": "103391394",
+      "title": "The Commonwealth Bank of Australia (CBA) and other financial institutions have jointly published a shared set of principles for agentic commerce and AI agents.",
+      "summary": "The Commonwealth Bank of Australia (CBA) and other financial institutions have jointly published a shared set of principles for agentic commerce and AI agents.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/cards-payments/news/cba-asb-bofa-join-consortium-ai-commerce-rules",
+      "date": "2026-09-28",
+      "category": "Banking",
+      "tags": [
+        "the commonwealth",
+        "bank",
+        "australia"
+      ]
+    },
+    {
+      "id": "444043621",
+      "title": "PT Bank Negara Indonesia (Persero) Tbk (BNI) sees AI as potentially more useful for monitoring borrowers than approving loans.",
+      "summary": "PT Bank Negara Indonesia (Persero) Tbk (BNI) sees AI as potentially more useful for monitoring borrowers than approving loans.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/exclusive/bni-eyes-tapping-business-networks-assess-small-company-borrowers",
+      "date": "2026-09-28",
+      "category": "Banking",
+      "tags": [
+        "pt bank",
+        "negara indonesia",
+        "persero"
+      ]
+    },
     {
       "id": "927224724",
       "title": "Sibos 2026 preview: AI, tokenised money and the ledger take the stage",
@@ -776,103 +874,6 @@
         "kastle raises",
         "million",
         "help lenders"
-      ]
-    },
-    {
-      "id": "638662087",
-      "title": "Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses",
-      "summary": "In an industry first, Ant International launched a full stack of AI-native solutions for payment, account, FX, treasury and growth operations for global businesses. Unveiled at Ant International’s annual VOYAGE executive merchant forum, the AI-native product suite is built on a 2…",
-      "source": "e27",
-      "url": "https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/",
-      "date": "2026-09-21",
-      "category": "Payments",
-      "tags": [
-        "ant international",
-        "launches industry",
-        "first full"
-      ]
-    },
-    {
-      "id": "691618067",
-      "title": "The AI productivity paradox: Why finance must  move beyond automation",
-      "summary": "For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecas…",
-      "source": "e27",
-      "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
-      "date": "2026-09-21",
-      "category": "Banking",
-      "tags": [
-        "the ai",
-        "why",
-        "artificial"
-      ]
-    },
-    {
-      "id": "736102131",
-      "title": "Xsolla AI Toolkit Embeds Game Commerce Integration Into AI Coding Tools",
-      "summary": "Xsolla's new agent-skill toolkit encodes validated API paths into AI coding environments, aiming to cut game shop integration from weeks to hours. The post Xsolla AI Toolkit Embeds Game Commerce Integration Into AI Coding Tools appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/xsolla-ai-toolkit-embeds-game-commerce-integration-into-ai-coding-tools/",
-      "date": "2026-09-20",
-      "category": "Payments",
-      "tags": [
-        "xsolla ai",
-        "toolkit embeds",
-        "game commerce"
-      ]
-    },
-    {
-      "id": "146139420",
-      "title": "Simply Asset Finance Posts £3.4m Pre-Tax Profit on £532m Loan Book",
-      "summary": "The specialist SME lender grew revenues 9% to £66m in FY 2025 and launched AI agent Kara to underpin an accelerated origination push. The post Simply Asset Finance Posts £3.4m Pre-Tax Profit on £532m Loan Book appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/simply-asset-finance-posts-3-4m-pre-tax-profit-on-532m-loan-book/",
-      "date": "2026-09-20",
-      "category": "Payments",
-      "tags": [
-        "simply asset",
-        "finance posts",
-        "pre"
-      ]
-    },
-    {
-      "id": "458978786",
-      "title": "Big Tech uses guarantees to keep $300bn AI exposure off balance sheets",
-      "summary": "Wall Street finds new way to turn tech giants’ credit strength into cheaper funding for AI build-out",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563?syn-25a6b1a6=1",
-      "date": "2026-09-20",
-      "category": "Banking",
-      "tags": [
-        "big tech",
-        "ai",
-        "wall street"
-      ]
-    },
-    {
-      "id": "274912691",
-      "title": "AI chatbots give wrong answers to financial queries ‘most of the time’",
-      "summary": "Report finds some chatbots ignored upcoming tax changes and hallucinated rules",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "date": "2026-09-19",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "report"
-      ]
-    },
-    {
-      "id": "815528954",
-      "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app",
-      "summary": "Former PayPal and Intuit CEO Bill Harris has unveiled his latest venture, a personalised AI-powered financial advice app called Evergreen.ai.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48428/ex-paypal-ceo-harris-unveils-ai-powered-personal-finance-app?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-18",
-      "category": "Banking",
-      "tags": [
-        "ex",
-        "paypal ceo",
-        "harris"
       ]
     }
   ]
