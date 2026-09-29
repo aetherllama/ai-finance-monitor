@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-09-29T13:53:21Z",
+  "last_updated": "2026-09-29T22:52:58Z",
   "insights": {
     "risks": [
-      "Trading risk: SIA has scaled AI. Aviation must now govern the point of action — assess algorithmic exposure.",
-      "Operational: Nvidia turns to insurers to spread the risk of AI build-out — evaluate model governance gaps."
+      "Regulatory: How Deterministic AI Agents Can Safely Close Regulatory Loopholes — review compliance obligations.",
+      "Operational: Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Finastra unveils AI-powered repair recommendations to support banks with smarter decision-making — potential infrastructure advantage.",
-      "Banking efficiency: Nvidia turns to insurers to spread the risk of AI build-out — cost reduction opportunity."
+      "Banking efficiency: Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,7 +17,7 @@
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Fraud Detection",
@@ -41,6 +41,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "58145766",
+      "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows",
+      "summary": "Held at The National Hotel in Miami during Sibos 2026, Google Cloud hosted a breakfast roundtable that focussed on the future of purpose-built AI for financial institutions, welcoming Georgina Bulkeley, director of financial services solutions, Google Cloud; Kristin Reinke, VP of…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48500/sibos-2026-google-cloud-reveals-banks-are-moving-from-ai-copilots-to-autonomous-workflows?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "sibos",
+        "google cloud",
+        "ai"
+      ]
+    },
+    {
+      "id": "890944208",
+      "title": "Throught Machine and AWS to drive AI-powered core migrations",
+      "summary": "Thought Machine, the cloud-native core banking and payments technology company, today announced an AI-powered migration solution to accelerate banking modernisation with Amazon Web Services, Inc. (AWS) Transform.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111074/throught-machine-and-aws-to-drive-ai-powered-core-migrations?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "throught machine",
+        "aws",
+        "ai"
+      ]
+    },
+    {
+      "id": "635052105",
+      "title": "How Deterministic AI Agents Can Safely Close Regulatory Loopholes",
+      "summary": "In the lead up to a Finextra webinar, this interview provides context into compliance agents within operations.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3601/how-deterministic-ai-agents-can-safely-close-regulatory-loopholes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "RegTech",
+      "tags": [
+        "how deterministic",
+        "ai agents",
+        "can safely"
+      ]
+    },
+    {
+      "id": "518451464",
+      "title": "Thomaston Savings Bank Upgrades ATM Network with Diebold Nixdorf",
+      "summary": "The 150-year-old Connecticut mutual bank is deploying DN Series ATMs and AI-driven managed services across its 16-branch network. The post Thomaston Savings Bank Upgrades ATM Network with Diebold Nixdorf appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/thomaston-savings-bank-upgrades-atm-network-with-diebold-nixdorf/",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "thomaston savings",
+        "bank upgrades",
+        "atm network"
+      ]
+    },
     {
       "id": "168996652",
       "title": "Nvidia turns to insurers to spread the risk of AI build-out",
@@ -817,62 +873,6 @@
         "creatio",
         "bank",
         "ai crm"
-      ]
-    },
-    {
-      "id": "1742754",
-      "title": "Rogers Bank completes agentic commerce transactions with Flybits and Mastercard",
-      "summary": "Mastercard, Flybits and Rogers Bank today announced Canada’s first successful deployment of a landmark agentic commerce transaction involving an AI-powered commerce platform, card issuer and payments network, demonstrating how AI-powered shopping experiences can prioritize consum…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110975/rogers-bank-completes-agentic-commerce-transactions-with-flybits-and-mastercard?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-22",
-      "category": "Banking",
-      "tags": [
-        "rogers bank",
-        "flybits",
-        "mastercard mastercard"
-      ]
-    },
-    {
-      "id": "965098138",
-      "title": "MENA Fintech Association Releases Bi-Annual Regulatory Update on ADGM’s Evolving Digital Asset Framework",
-      "summary": "The MENA Fintech Association’s latest Regulatory Update Session report provides insights into the FSRA’s evolving regulatory priorities across digital assets and financial services, covering tokenisation, fiat-referenced tokens, staking, custody, AI, and emerging regulatory devel…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/mena-fintech-association-releases-bi-annual-regulatory-update-on-adgms-evolving-digital-asset-framework/",
-      "date": "2026-09-22",
-      "category": "Payments",
-      "tags": [
-        "mena fintech",
-        "association releases",
-        "bi"
-      ]
-    },
-    {
-      "id": "994465801",
-      "title": "Human engagement is the centre of AI adoption - Kaplan",
-      "summary": "What kind of AI training is conducive and helpful within the financial services space?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48440/human-engagement-is-the-centre-of-ai-adoption---kaplan?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-22",
-      "category": "Banking",
-      "tags": [
-        "human",
-        "ai",
-        "kaplan what"
-      ]
-    },
-    {
-      "id": "504374950",
-      "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
-      "summary": "For Hyperbond Studio, the question was never only whether artificial intelligence could teach a language. It was whether people would keep coming back long enough for the teaching to matter. The Singapore-based startup, best known for its AI language-learning dating simulation ap…",
-      "source": "e27",
-      "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
-      "date": "2026-09-22",
-      "category": "Banking",
-      "tags": [
-        "supercell",
-        "hyperbond studio",
-        "call me"
       ]
     }
   ]
