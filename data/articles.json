@@ -1,24 +1,27 @@
 {
-  "last_updated": "2026-09-28T23:46:17Z",
+  "last_updated": "2026-09-29T13:53:21Z",
   "insights": {
     "risks": [
-      "Regulatory: Sedric Joins American Fintech Council to Push AI Compliance Controls — review compliance obligations.",
       "Trading risk: SIA has scaled AI. Aviation must now govern the point of action — assess algorithmic exposure.",
-      "Operational: Singapore to train 80,000 FS sector employees in AI skills — evaluate model governance gaps."
+      "Operational: Nvidia turns to insurers to spread the risk of AI build-out — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Sibos 2026 preview: AI, tokenised money and the ledger take the stage — potential infrastructure advantage.",
-      "Banking efficiency: Singapore to train 80,000 FS sector employees in AI skills — cost reduction opportunity."
+      "Payments: Finastra unveils AI-powered repair recommendations to support banks with smarter decision-making — potential infrastructure advantage.",
+      "Banking efficiency: Nvidia turns to insurers to spread the risk of AI build-out — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 20
+      "count": 15
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 8
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 2
     },
     {
       "topic": "Payments AI",
@@ -26,10 +29,6 @@
     },
     {
       "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
       "count": 1
     },
     {
@@ -42,6 +41,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "168996652",
+      "title": "Nvidia turns to insurers to spread the risk of AI build-out",
+      "summary": "World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "nvidia",
+        "ai",
+        "world"
+      ]
+    },
+    {
+      "id": "686330565",
+      "title": "Finastra unveils AI-powered repair recommendations to support banks with smarter decision-making",
+      "summary": "Today at Sibos 2026 in Miami, Finastra announced the launch of Repair Recommendations – a new AI-powered capability within AI OperatorAssist. This move will help banks respond more quickly to growing payment activity by adding smarter decision-making into their existing workflows…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111033/finastra-unveils-ai-powered-repair-recommendations-to-support-banks-with-smarter-decision-making?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "Payments",
+      "tags": [
+        "finastra",
+        "ai",
+        "today"
+      ]
+    },
+    {
+      "id": "753088774",
+      "title": "Plaid teams with decagon on conversational AI",
+      "summary": "Decagon and Plaid are announcing a partnership. With Plaid, customers can now securely connect their bank accounts within a Decagon conversation and take action on bank connections, failed payments, and disputed charges.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111059/plaid-teams-with-decagon-on-conversational-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "plaid",
+        "ai decagon",
+        "with plaid"
+      ]
+    },
+    {
+      "id": "613825790",
+      "title": "AutoRek's automated reconciliation platform made available to Linedata clients",
+      "summary": "Linedata (Euronext Paris: LIN), a global provider of credit and asset management technology, data, and services, today announced that it was entering a strategic partnership with AutoRek.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111060/autoreks-automated-reconciliation-platform-made-available-to-linedata-clients?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "autorek",
+        "linedata",
+        "euronext paris"
+      ]
+    },
+    {
+      "id": "905656914",
+      "title": "Thai remittance fintech DeeMoney selects SEON as its fraud and compliance partner",
+      "summary": "SEON, the AI Command Center for Fraud Prevention and AML Compliance, today announced that DeeMoney, Thailand’s leading fintech for international money transfers, has selected SEON as its fraud and compliance partner.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111066/thai-remittance-fintech-deemoney-selects-seon-as-its-fraud-and-compliance-partner?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "thai",
+        "deemoney",
+        "seon"
+      ]
+    },
+    {
+      "id": "847383297",
+      "title": "The Hidden Risk of Banking AI: Automating the Wrong Problem",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33017/the-hidden-risk-of-banking-ai-automating-the-wrong-problem?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "the hidden",
+        "risk",
+        "banking ai"
+      ]
+    },
+    {
+      "id": "448940708",
+      "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
+      "summary": "Artificial intelligence is moving deeper into asset management, but not only through chatbots, research summaries or back-office automation. The bigger question is whether AI can help investment firms do what has become increasingly difficult in public markets: find differentiate…",
+      "source": "e27",
+      "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "blue fire",
+        "ai",
+        "us"
+      ]
+    },
+    {
+      "id": "510784833",
+      "title": "Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan",
+      "summary": "Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconductor supply chain. In …",
+      "source": "e27",
+      "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
+      "date": "2026-09-29",
+      "category": "Banking",
+      "tags": [
+        "vietnam",
+        "samsung electro",
+        "mechanics"
+      ]
+    },
     {
       "id": "594950548",
       "title": "Singapore to train 80,000 FS sector employees in AI skills",
@@ -762,118 +873,6 @@
         "supercell",
         "hyperbond studio",
         "call me"
-      ]
-    },
-    {
-      "id": "754337445",
-      "title": "Sumsub and Sumvin Link KYC Identity to AI Agent Transactions",
-      "summary": "The partnership embeds verified human identity into Sumvin's agentic credential, letting AI agents transact on behalf of KYC-cleared users across merchants and financial The post Sumsub and Sumvin Link KYC Identity to AI Agent Transactions appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/sumsub-and-sumvin-link-kyc-identity-to-ai-agent-transactions/",
-      "date": "2026-09-21",
-      "category": "Banking",
-      "tags": [
-        "sumsub",
-        "sumvin link",
-        "kyc identity"
-      ]
-    },
-    {
-      "id": "322876108",
-      "title": "CFTC Examines Agentic AI’s Growing Role in Finance",
-      "summary": "The Commodity Futures Trading Commission (CFTC) is hosting a series of roundtables devoted to new technologies in U.S. financial markets. The Frontier Forum series, hosted by the CFTC’s Innovation Task Force, will kick off next month with a discussion of artificial intelligence a…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/cftc-examines-agentic-ais-growing-role-in-finance/",
-      "date": "2026-09-21",
-      "category": "Trading",
-      "tags": [
-        "cftc examines",
-        "agentic ai",
-        "growing role"
-      ]
-    },
-    {
-      "id": "494982150",
-      "title": "Fed and BoE step up scrutiny of bank exposure to trading firms after Jane Street loss",
-      "summary": "Regulators intensify questioning of prime brokers after blow-up at AI-focused hedge fund Situational Awareness",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f1d9d398-0666-44cf-96f4-390e6c3f5173?syn-25a6b1a6=1",
-      "date": "2026-09-21",
-      "category": "Banking",
-      "tags": [
-        "fed",
-        "boe",
-        "jane street"
-      ]
-    },
-    {
-      "id": "213013596",
-      "title": "AI-driven cashback-to-mortgage app Sprive raises $10 million",
-      "summary": "Mortgage overpayment app Sprive has closed a $10m Series A funding round.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48437/ai-driven-cashback-to-mortgage-app-sprive-raises-10-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-21",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "sprive",
-        "mortgage"
-      ]
-    },
-    {
-      "id": "782710473",
-      "title": "Ant International launches financial AI stack",
-      "summary": "China's Ant International has unveiled a full stack of AI-native products for payment, account, FX, treasury and growth operations for global businesses.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48436/ant-international-launches-financial-ai-stack?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-21",
-      "category": "Payments",
-      "tags": [
-        "ant international",
-        "ai",
-        "china"
-      ]
-    },
-    {
-      "id": "964973572",
-      "title": "Danske Bank performs AI agent transaction with Mastercard",
-      "summary": "Mastercard and Danske Bank have completed a payment in which an AI agent, acting on behalf of a consumer, carried out both the purchase and the payment.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-21",
-      "category": "Banking",
-      "tags": [
-        "danske bank",
-        "ai",
-        "mastercard mastercard"
-      ]
-    },
-    {
-      "id": "596943237",
-      "title": "Smartstream Deploys MCP Infrastructure to Power Agentic AI Across Smart Collateral Platform",
-      "summary": "Smartstream has launched two MCP servers for its Smart Collateral platform, enabling financial institutions to connect AI assistants to collateral workflows for natural language queries and automation. The post Smartstream Deploys MCP Infrastructure to Power Agentic AI Across Sma…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/smartstream-deploys-mcp-infrastructure-to-power-agentic-ai-across-smart-collateral-platform/",
-      "date": "2026-09-21",
-      "category": "Payments",
-      "tags": [
-        "smartstream deploys",
-        "mcp infrastructure",
-        "power agentic"
-      ]
-    },
-    {
-      "id": "627398569",
-      "title": "Kastle Raises $24 Million to Help Lenders Adopt Agentic AI",
-      "summary": "Kastle, an agentic AI platform for consumer lenders, has raised $24 million in new funding. The company s Series A round, announced last week and led by Insight Partners, will help Kastle expand its engineering, product and go-to-market teams, deepen its platforms capabilities an…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/kastle-raises-24-million-to-help-lenders-adopt-agentic-ai/",
-      "date": "2026-09-21",
-      "category": "Banking",
-      "tags": [
-        "kastle raises",
-        "million",
-        "help lenders"
       ]
     }
   ]
