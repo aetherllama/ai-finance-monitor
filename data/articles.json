@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-09-30T13:28:44Z",
+  "last_updated": "2026-09-30T22:52:57Z",
   "insights": {
     "risks": [
-      "Regulatory: How Deterministic AI Agents Can Safely Close Regulatory Loopholes — review compliance obligations.",
+      "Regulatory: Bridging the Compliance Screening Decision Gap: What’s Next? — review compliance obligations.",
       "Trading risk: Robinhood deepens agentic AI offering in push to become go-to place for active traders — assess algorithmic exposure.",
-      "Operational: Elio Mortgage launches with $5.1m in pre-seed funding — evaluate model governance gaps."
+      "Operational: APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one. — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Altimetrik’s Vikas Krishan on AI Token Costs and the AI Act — potential infrastructure advantage.",
-      "Banking efficiency: Elio Mortgage launches with $5.1m in pre-seed funding — cost reduction opportunity."
+      "Banking efficiency: APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one. — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -46,6 +46,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "126849446",
+      "title": "Bridging the Compliance Screening Decision Gap: What’s Next?",
+      "summary": "At Sibos 2026, David White, Global Head of Product and Data for Risk Intelligence at LSEG, reveals how LSEG is collaborating with AWS to bridge the compliance screening decision gap using intelligent data and AI agents.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3602/bridging-the-compliance-screening-decision-gap-whats-next?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-30",
+      "category": "RegTech",
+      "tags": [
+        "bridging",
+        "compliance screening",
+        "decision gap"
+      ]
+    },
+    {
+      "id": "959538169",
+      "title": "APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one.",
+      "summary": "APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/in-focus/two-in-five-apac-firms-are-redesigning-key-processes-around-ai",
+      "date": "2026-09-30",
+      "category": "Banking",
+      "tags": [
+        "apac",
+        "ai",
+        "however"
+      ]
+    },
     {
       "id": "495219513",
       "title": "Robinhood deepens agentic AI offering in push to become go-to place for active traders",
@@ -853,34 +881,6 @@
         "is muse",
         "really",
         "answer"
-      ]
-    },
-    {
-      "id": "804607940",
-      "title": "Cyera Raises $400 Million As Customers Push For AI Cyber Defense",
-      "summary": "Cyera is reportedly a now $12 billion company amid concerns about artificial intelligence (AI)-related cyberthreats. The data security company reached that valuation after raising $400 million from Goldman Sachs Growth Equity, The Wall Street Journal (WSJ) reported Tuesday (Sept.…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/cybersecurity/2026/cyera-raises-400-million-as-customers-push-for-ai-cyber-defense/",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "cyera raises",
-        "million as",
-        "customers push"
-      ]
-    },
-    {
-      "id": "300102178",
-      "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI",
-      "summary": "Deutsche Bank Private Bank has deployed an Agentic AI-enabled Source of Wealth solution across its Singapore and Hong Kong booking centres to streamline the Know Your Customer process.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48452/deutsche-bank-estimates-30-uplift-in-client-onboarding-by-deploying-kyc-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "kyc ai",
-        "private bank"
       ]
     }
   ]
