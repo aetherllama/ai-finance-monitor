@@ -1,31 +1,32 @@
 {
-  "last_updated": "2026-09-29T22:52:58Z",
+  "last_updated": "2026-09-30T13:28:44Z",
   "insights": {
     "risks": [
       "Regulatory: How Deterministic AI Agents Can Safely Close Regulatory Loopholes — review compliance obligations.",
-      "Operational: Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows — evaluate model governance gaps."
+      "Trading risk: Robinhood deepens agentic AI offering in push to become go-to place for active traders — assess algorithmic exposure.",
+      "Operational: Elio Mortgage launches with $5.1m in pre-seed funding — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Finastra unveils AI-powered repair recommendations to support banks with smarter decision-making — potential infrastructure advantage.",
-      "Banking efficiency: Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows — cost reduction opportunity."
+      "Payments: Altimetrik’s Vikas Krishan on AI Token Costs and the AI Act — potential infrastructure advantage.",
+      "Banking efficiency: Elio Mortgage launches with $5.1m in pre-seed funding — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Automation",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Fraud Detection",
       "count": 2
     },
     {
-      "topic": "Payments AI",
-      "count": 2
+      "topic": "Algorithmic Trading",
+      "count": 1
     },
     {
       "topic": "Regulatory AI",
@@ -36,11 +37,126 @@
       "count": 1
     },
     {
+      "topic": "Payments AI",
+      "count": 1
+    },
+    {
       "topic": "Customer Service AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "495219513",
+      "title": "Robinhood deepens agentic AI offering in push to become go-to place for active traders",
+      "summary": "At yesterday evening’s HOOD Summit: Engines of Creation, Robinhood chairman and CEO, Vlad Tenev, announced a clutch of new active trading products.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48507/robinhood-deepens-agentic-ai-offering-in-push-to-become-go-to-place-for-active-traders?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-30",
+      "category": "Trading",
+      "tags": [
+        "robinhood",
+        "ai",
+        "hood summit"
+      ]
+    },
+    {
+      "id": "161973355",
+      "title": "Brits feel overwhelmed by growing sophistication of AI-powered scams",
+      "summary": "The UK's National Trading Standards body reports that half of Brits struggle to tell what’s genuine online, while a quarter admit to feeling overwhelmed by the sophistication of scams as AI supercharges criminal activity.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48502/brits-feel-overwhelmed-by-growing-sophistication-of-ai-powered-scams?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-30",
+      "category": "Trading",
+      "tags": [
+        "brits",
+        "ai",
+        "the uk"
+      ]
+    },
+    {
+      "id": "283859856",
+      "title": "Elio Mortgage launches with $5.1m in pre-seed funding",
+      "summary": "AI-native startup Elio Mortgage has raised $5.1 million in pre-seed funding led by Motive Partners and Social Leverage.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48495/elio-mortgage-launches-with-51m-in-pre-seed-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-30",
+      "category": "Banking",
+      "tags": [
+        "elio mortgage",
+        "ai",
+        "motive partners"
+      ]
+    },
+    {
+      "id": "126039803",
+      "title": "Duco clients report 76% time savings in post-trade reconciliation operations with AI platform",
+      "summary": "Duco, the leading platform for agentic Operations in financial services, today announced the results of its Pacesetters programme, in which an initial group of 12 clients cut the time spent on manual reconciliation operational work by an average of 76% using Duco’s agentic worksp…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111081/duco-clients-report-76-time-savings-in-post-trade-reconciliation-operations-with-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-30",
+      "category": "Banking",
+      "tags": [
+        "duco",
+        "ai",
+        "operations"
+      ]
+    },
+    {
+      "id": "884240132",
+      "title": "Oracle adds AI to financial crime and compliance products",
+      "summary": "Oracle Financial Services today expanded its financial crime and compliance management portfolio with the availability of Oracle Nexus Case Flow and Oracle Nexus Reach for financial crime investigations.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111088/oracle-adds-ai-to-financial-crime-and-compliance-products?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-09-30",
+      "category": "Trading",
+      "tags": [
+        "oracle",
+        "ai",
+        "oracle financial"
+      ]
+    },
+    {
+      "id": "282749683",
+      "title": "Altimetrik’s Vikas Krishan on AI Token Costs and the AI Act",
+      "summary": "Altimetrik's Vikas Krishan says a rising AI token bill measures activity, not value, and that the AI Act delay is a board-level risk decision, not a reprieve. The post Altimetrik s Vikas Krishan on AI Token Costs and the AI Act appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/altimetriks-vikas-krishan-on-ai-token-costs-and-the-ai-act/",
+      "date": "2026-09-30",
+      "category": "Payments",
+      "tags": [
+        "altimetrik",
+        "vikas krishan",
+        "ai token"
+      ]
+    },
+    {
+      "id": "266677477",
+      "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
+      "summary": "Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable…",
+      "source": "e27",
+      "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
+      "date": "2026-09-30",
+      "category": "Banking",
+      "tags": [
+        "mdec",
+        "anuar fariz",
+        "fadzil"
+      ]
+    },
+    {
+      "id": "842228851",
+      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
+      "summary": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
+      "date": "2026-09-29",
+      "category": "Trading",
+      "tags": [
+        "robinhood",
+        "ai"
+      ]
+    },
     {
       "id": "58145766",
       "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows",
@@ -765,114 +881,6 @@
         "deutsche bank",
         "kyc ai",
         "private bank"
-      ]
-    },
-    {
-      "id": "397662149",
-      "title": "Smartstream embeds agentic AI into reconciliation tool",
-      "summary": "Smartstream, the trusted data solutions provider for leading global financial institutions and enterprises, today announces a new version of Smart Reconciliations Premium, introducing agentic AI that can investigate, progress and resolve reconciliation exceptions autonomously.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110980/smartstream-embeds-agentic-ai-into-reconciliation-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "smartstream",
-        "ai",
-        "smart reconciliations"
-      ]
-    },
-    {
-      "id": "210254853",
-      "title": "Form3 launches AI agentic payments infrastructure",
-      "summary": "Form3, a leading global fintech offering account-to-account payments technology, today announced the launch of its new AI-enabled payments platform that will enable banks and fintechs to leverage AI agents within their payments operations.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110981/form3-launches-ai-agentic-payments-infrastructure?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-23",
-      "category": "Payments",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "814864340",
-      "title": "Bluewhale delivers always-on AI agents for tokenised stock and asset trading",
-      "summary": "Bluwhale, the AI financial operating system connecting millions of users to traditional and blockchain financial services managed by AI, today announced trading agents for tokenized stocks and real-world assets, including gold, silver and oil.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110983/bluewhale-delivers-always-on-ai-agents-for-tokenised-stock-and-asset-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-23",
-      "category": "Trading",
-      "tags": [
-        "bluewhale",
-        "ai",
-        "bluwhale"
-      ]
-    },
-    {
-      "id": "900119645",
-      "title": "The intelligent lending enterprise: AI, data and the new credit lifecycle",
-      "summary": "In what ways must banks identify the highest-impact AI use cases across underwriting, workflow automation, risk monitoring and servicing?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/630/the-intelligent-lending-enterprise-ai-data-and-the-new-credit-lifecycle?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-23",
-      "category": "InsurTech",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "701983550",
-      "title": "Summa Tech Adds AML Checks to Onboarder Client Onboarding Platform",
-      "summary": "Summa Tech has integrated automated AML checks into Onboarder, targeting smaller accountancy firms that previously needed a separate system for compliance. The post Summa Tech Adds AML Checks to Onboarder Client Onboarding Platform appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/summa-tech-adds-aml-checks-to-onboarder-client-onboarding-platform/",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "summa tech",
-        "adds aml",
-        "checks"
-      ]
-    },
-    {
-      "id": "143518367",
-      "title": "Containerisation explains why AI investment may continue even without returns",
-      "summary": "Boston Consulting Group recently found that 94 per cent of organisations planned to keep investing in AI even if it did not deliver returns in 2026. At first glance, that sounds irrational. Companies normally invest because they expect a financial return. If the return is not app…",
-      "source": "e27",
-      "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "containerisation",
-        "ai",
-        "boston consulting"
-      ]
-    },
-    {
-      "id": "879659618",
-      "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
-      "summary": "In January 2026, Singapore s Minister for Digital Development announced an additional SG$1 billion (US$786 million) over five years for the National AI Research and Development Plan, on top of the SG$500 million (US$393 million) already committed to high-performance compute under…",
-      "source": "e27",
-      "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "why singapore",
-        "indonesia",
-        "vietnam"
-      ]
-    },
-    {
-      "id": "173171454",
-      "title": "Creatio invests $300 million in its Bank.ai platform",
-      "summary": "Creatio, an AI CRM and workflow platform where people and AI agents work together, today announced a $300 million investment from 2026 through 2028 in Creatio Bank.AI, its market-leading offering for banks and financial institutions.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110972/creatio-invests-300-million-in-its-bankai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-22",
-      "category": "Banking",
-      "tags": [
-        "creatio",
-        "bank",
-        "ai crm"
       ]
     }
   ]
