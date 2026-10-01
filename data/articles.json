@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-01T14:20:08Z",
+  "last_updated": "2026-10-01T23:02:21Z",
   "insights": {
     "risks": [
-      "Regulatory: Bridging the Compliance Screening Decision Gap: What’s Next? — review compliance obligations.",
+      "Regulatory: Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist. — review compliance obligations.",
       "Trading risk: Robinhood deepens agentic AI offering in push to become go-to place for active traders — assess algorithmic exposure.",
-      "Operational: An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism — evaluate model governance gaps."
+      "Operational: Sardine launches AI research lab — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Altimetrik’s Vikas Krishan on AI Token Costs and the AI Act — potential infrastructure advantage.",
-      "Banking efficiency: An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism — cost reduction opportunity."
+      "Payments: Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap — potential infrastructure advantage.",
+      "Banking efficiency: Sardine launches AI research lab — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 16
     },
     {
       "topic": "Automation",
@@ -46,6 +46,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "293556681",
+      "title": "Sardine launches AI research lab",
+      "summary": "Sardine, the leading agentic risk platform for fighting fraud and financial crime, today launched Sardine AI Labs, an applied research group advancing frontier intelligence to fight financial crime.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111103/sardine-launches-ai-research-lab?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-01",
+      "category": "Banking",
+      "tags": [
+        "sardine",
+        "ai",
+        "sardine ai"
+      ]
+    },
+    {
+      "id": "53671807",
+      "title": "Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap",
+      "summary": "A Goldman Sachs-sponsored research paper argues technology and AI can help RIAs close a widening advisor capacity gap ahead of a $100 trillion wealth The post Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/wealth-management-iq-report-flags-ai-as-answer-to-ria-talent-gap/",
+      "date": "2026-10-01",
+      "category": "Payments",
+      "tags": [
+        "wealth management",
+        "iq report",
+        "flags ai"
+      ]
+    },
+    {
+      "id": "942565198",
+      "title": "St. Louis Fed Adapts FRED Database for AI Agents",
+      "summary": "Federal Reserve Economic Data (FRED) has introduced a FRED MCP Connector that uses the Model Context Protocol (MCP) to simplify connecting FRED data with artificial intelligence systems, Federal Reserve Board Governor Christopher J. Waller said Thursday (Oct. 1). In a speech deli…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/st-louis-fed-adapts-fred-database-for-ai-agents/",
+      "date": "2026-10-01",
+      "category": "Banking",
+      "tags": [
+        "st",
+        "louis fed",
+        "adapts fred"
+      ]
+    },
+    {
+      "id": "984433277",
+      "title": "Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist.",
+      "summary": "Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/in-focus/apac-finance-firms-eye-3m-agentic-ai-savings",
+      "date": "2026-10-01",
+      "category": "RegTech",
+      "tags": [
+        "nearly",
+        "apac",
+        "ai"
+      ]
+    },
     {
       "id": "716403213",
       "title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism",
@@ -825,61 +881,6 @@
         "ripjar",
         "ai",
         "ultra"
-      ]
-    },
-    {
-      "id": "844706331",
-      "title": "EU's financial regulator to make AI and tokenization a supervisory priority in 2027",
-      "summary": "European regulators will map how financial firms use the technologies in client-facing products and begin checks on the most affected businesses.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/policy/2026/09/24/eu-s-financial-regulator-to-make-ai-and-tokenization-a-supervisory-priority-in-2027",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "eu",
-        "ai",
-        "european"
-      ]
-    },
-    {
-      "id": "2358238",
-      "title": "Seoul tops global AI implementation as Singapore enters top tier",
-      "summary": "The global race to lead artificial intelligence is usually framed as a contest between countries: the US versus China, with Europe, India and a handful of others trying to carve out space. A new ranking argues that this view misses where much of the action is actually happening. …",
-      "source": "e27",
-      "url": "https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "seoul",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "200732676",
-      "title": "Singaporeans trust artificial intelligence (AI) highly when researching loans or credit cards, but many still hesitate to grant them autonomy to apply, according to a survey Experian conducted by Forrester Consulting.",
-      "summary": "Singaporeans trust artificial intelligence (AI) highly when researching loans or credit cards, but many still hesitate to grant them autonomy to apply, according to a survey Experian conducted by Forrester Consulting.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/singaporeans-trust-ai-compare-loans-not-apply-them",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "singaporeans",
-        "ai",
-        "experian"
-      ]
-    },
-    {
-      "id": "535696441",
-      "title": "Paywhere launches AI banking channel",
-      "summary": "Paywhere today announced the commercial availability of its programmable banking platform, giving banks and credit unions a secure way to serve their customers through the AI assistants, applications, and agents they already use.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/110993/paywhere-launches-ai-banking-channel?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "paywhere",
-        "ai"
       ]
     }
   ]
