@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-09-30T22:52:57Z",
+  "last_updated": "2026-10-01T14:20:08Z",
   "insights": {
     "risks": [
       "Regulatory: Bridging the Compliance Screening Decision Gap: What’s Next? — review compliance obligations.",
       "Trading risk: Robinhood deepens agentic AI offering in push to become go-to place for active traders — assess algorithmic exposure.",
-      "Operational: APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one. — evaluate model governance gaps."
+      "Operational: An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Altimetrik’s Vikas Krishan on AI Token Costs and the AI Act — potential infrastructure advantage.",
-      "Banking efficiency: APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one. — cost reduction opportunity."
+      "Banking efficiency: An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 13
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 9
     },
     {
       "topic": "Fraud Detection",
@@ -46,6 +46,47 @@
     }
   ],
   "articles": [
+    {
+      "id": "716403213",
+      "title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism",
+      "summary": "Accruing income at home from land and power abroad has an old name: empire",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+      "date": "2026-10-01",
+      "category": "Banking",
+      "tags": [
+        "an ai",
+        "accruing"
+      ]
+    },
+    {
+      "id": "844987651",
+      "title": "Gresham ships application to simplify complex reconciliation with AI",
+      "summary": "Gresham, a global leader in enterprise data automation for the financial services industry, today announces the availability of Control Studio, a new AI-enabled, self-service application for its Control reconciliation product.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111095/gresham-ships-application-to-simplify-complex-reconciliation-with-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-01",
+      "category": "Banking",
+      "tags": [
+        "gresham",
+        "ai gresham",
+        "control studio"
+      ]
+    },
+    {
+      "id": "206647239",
+      "title": "Sibos 2026 day two: banks put AI agents to work, but keep the judgement for people",
+      "summary": "Day two in Miami belonged to BNY, BNP Paribas, Deutsche Bank, Citi and HSBC describing agents that repair payments, triage trades and check documents in production, with people kept for the decisions that matter. The post Sibos 2026 day two: banks put AI agents to work, but keep …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/sibos-2026-day-two-banks-put-ai-agents-to-work-but-keep-the-judgement-for-people/",
+      "date": "2026-10-01",
+      "category": "Banking",
+      "tags": [
+        "sibos",
+        "ai",
+        "day"
+      ]
+    },
     {
       "id": "126849446",
       "title": "Bridging the Compliance Screening Decision Gap: What’s Next?",
@@ -839,48 +880,6 @@
       "tags": [
         "paywhere",
         "ai"
-      ]
-    },
-    {
-      "id": "625285111",
-      "title": "Belize Bank Picks Backbase for Six-Year Digital Banking Overhaul",
-      "summary": "The country's largest bank, holding 43% of national assets, will deploy Backbase's AI-native platform across retail and business banking. The post Belize Bank Picks Backbase for Six-Year Digital Banking Overhaul appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/belize-bank-picks-backbase-for-six-year-digital-banking-overhaul/",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "belize bank",
-        "picks backbase",
-        "six"
-      ]
-    },
-    {
-      "id": "454199343",
-      "title": "Bird Secures $450 Million and Extends Communications Infrastructure to AI Agents",
-      "summary": "Bird, a provider of communications infrastructure for businesses and artificial intelligence (AI) agents, secured $450 million in debt financing, Bird Founder and CEO Robert Vis said in a Wednesday (Sept. 23) blog post. The financing includes a $400 million term loan and a $50 mi…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/bird-secures-450-million-and-extends-communications-infrastructure-to-ai-agents/",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "bird secures",
-        "million",
-        "extends communications"
-      ]
-    },
-    {
-      "id": "703672008",
-      "title": "Is Muse Really the Answer to Meta’s AI Woes?",
-      "summary": "Meta’s Muse, the personal artificial intelligence agent the company launched Sept. 8, has taken Silicon Valley and Wall Street by surprise. Within days of launch the personal AI agent topped the App Store charts, a feat Meta’s earlier AI apps never managed, and Meta shares jumped…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/is-muse-really-the-answer-to-metas-ai-woes/",
-      "date": "2026-09-23",
-      "category": "Banking",
-      "tags": [
-        "is muse",
-        "really",
-        "answer"
       ]
     }
   ]
