@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-01T23:02:21Z",
+  "last_updated": "2026-10-02T13:42:02Z",
   "insights": {
     "risks": [
       "Regulatory: Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist. — review compliance obligations.",
       "Trading risk: Robinhood deepens agentic AI offering in push to become go-to place for active traders — assess algorithmic exposure.",
-      "Operational: Sardine launches AI research lab — evaluate model governance gaps."
+      "Operational: Australia's WeMoney launches AI and open banking-powered lending assessment service — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap — potential infrastructure advantage.",
-      "Banking efficiency: Sardine launches AI research lab — cost reduction opportunity."
+      "Payments: HBX Group on the Payment Friction Behind a Travel Booking — potential infrastructure advantage.",
+      "Banking efficiency: Australia's WeMoney launches AI and open banking-powered lending assessment service — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -18,7 +18,11 @@
     },
     {
       "topic": "Automation",
-      "count": 9
+      "count": 8
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 2
     },
     {
       "topic": "Fraud Detection",
@@ -33,19 +37,81 @@
       "count": 1
     },
     {
-      "topic": "Credit & Underwriting",
-      "count": 1
-    },
-    {
       "topic": "Payments AI",
-      "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "761183956",
+      "title": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
+      "summary": "Australia's WeMoney has launched an AI-powered lending assessment service built on the country's Consumer Data Right.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48525/australias-wemoney-launches-ai-and-open-banking-powered-lending-assessment-service?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "australia",
+        "wemoney",
+        "ai"
+      ]
+    },
+    {
+      "id": "97080909",
+      "title": "WealthAi launches AI agents to oversee client onboarding and KYC process",
+      "summary": "WealthAi, the AI operating system OS for wealth managers and advisers, has launched a new suite of AI agents designed to oversee the client onboarding and KYC process end-to-end.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111111/wealthai-launches-ai-agents-to-oversee-client-onboarding-and-kyc-process?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "wealthai",
+        "ai",
+        "kyc"
+      ]
+    },
+    {
+      "id": "490181605",
+      "title": "Why the first finance hire at an AI startup is a permissions decision",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33052/why-the-first-finance-hire-at-an-ai-startup-is-a-permissions-decision?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "why",
+        "ai",
+        "author"
+      ]
+    },
+    {
+      "id": "208858204",
+      "title": "HBX Group on the Payment Friction Behind a Travel Booking",
+      "summary": "HBX Group's Sofoklis Limniotis on why B2B travel payments still lag the consumer checkout, and how virtual cards, wallets and automation can close the gap. The post HBX Group on the Payment Friction Behind a Travel Booking appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/hbx-group-on-the-payment-friction-behind-a-travel-booking/",
+      "date": "2026-10-02",
+      "category": "Payments",
+      "tags": [
+        "hbx group",
+        "payment friction",
+        "behind"
+      ]
+    },
+    {
+      "id": "496994608",
+      "title": "Singapore’s AI dividend will depend on what happens after the pilot phase",
+      "summary": "Singapore s early bet on artificial intelligence could give its economy a modest but meaningful lift as population ageing starts to bite. But the real test will not be how many companies say they use AI. It will be whether they can rebuild work around it. The ASEAN+3 Macroeconomi…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "but"
+      ]
+    },
     {
       "id": "293556681",
       "title": "Sardine launches AI research lab",
@@ -812,75 +878,6 @@
         "eu regulator",
         "priorities",
         "include ai"
-      ]
-    },
-    {
-      "id": "719815740",
-      "title": "Singlife’s approach to AI, customer adoption and the future of digital insurance.",
-      "summary": "Singlife’s approach to AI, customer adoption and the future of digital insurance.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/videos/inside-singlifes-win-asian-banking-finance-fintech-awards-2026",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "singlife",
-        "ai"
-      ]
-    },
-    {
-      "id": "183111197",
-      "title": "Financial crime compliance fintech Footprint raises $25 million",
-      "summary": "Footprint, the AI operating system for risk, today announced it has raised $25 million in Series B funding led by QED Investors, with participation from MUFG, Commerce Ventures, LightBank, and Alumni Ventures, and continued backing from existing investors Index Ventures, Lerer Hi…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111008/financial-crime-compliance-fintech-footprint-raises-25-million?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-24",
-      "category": "RegTech",
-      "tags": [
-        "financial",
-        "footprint",
-        "ai"
-      ]
-    },
-    {
-      "id": "198608659",
-      "title": "Asic strengthens AI safeguards",
-      "summary": "ASIC is strengthening safeguards for automated and AI-enabled trading while streamlining regulatory requirements for securities and futures market participants under incoming changes to its Market Integrity Rules (MIRs).",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111014/asic-strengthens-ai-safeguards?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-24",
-      "category": "Trading",
-      "tags": [
-        "asic",
-        "ai",
-        "asic"
-      ]
-    },
-    {
-      "id": "337518029",
-      "title": "MindBridge advances financial oversight for the Agentic era",
-      "summary": "MindBridge Analytics Inc. announced the next evolution of its platform and unveiled new capabilities designed to strengthen financial oversight as AI and automation take on more work across finance and audit.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111015/mindbridge-advances-financial-oversight-for-the-agentic-era?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "mindbridge",
-        "agentic",
-        "mindbridge analytics"
-      ]
-    },
-    {
-      "id": "383886180",
-      "title": "Ripjar ramps up AI in customer screening to disrupt global economy of crime",
-      "summary": "Ripjar, the provider of smarter screening and risk intelligence solutions, has introduced new AI innovations within ULTRA, the real intelligence engine that powers screening operations at financial institutions and enterprises, including 25% of the Global Systemically Important B…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111016/ripjar-ramps-up-ai-in-customer-screening-to-disrupt-global-economy-of-crime?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "ripjar",
-        "ai",
-        "ultra"
       ]
     }
   ]
