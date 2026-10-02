@@ -1,32 +1,35 @@
 {
-  "last_updated": "2026-10-02T13:42:02Z",
+  "last_updated": "2026-10-02T22:51:38Z",
   "insights": {
     "risks": [
       "Regulatory: Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist. — review compliance obligations.",
-      "Trading risk: Robinhood deepens agentic AI offering in push to become go-to place for active traders — assess algorithmic exposure.",
-      "Operational: Australia's WeMoney launches AI and open banking-powered lending assessment service — evaluate model governance gaps."
+      "Operational: Redefining enterprise intelligence with autonomous AI — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: HBX Group on the Payment Friction Behind a Travel Booking — potential infrastructure advantage.",
-      "Banking efficiency: Australia's WeMoney launches AI and open banking-powered lending assessment service — cost reduction opportunity."
+      "Payments: Institutional investors see US forced to share AI lead with China — potential infrastructure advantage.",
+      "Banking efficiency: Redefining enterprise intelligence with autonomous AI — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 17
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 9
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 3
     },
     {
       "topic": "Credit & Underwriting",
       "count": 2
     },
     {
-      "topic": "Fraud Detection",
-      "count": 2
+      "topic": "Stablecoin AI",
+      "count": 1
     },
     {
       "topic": "Algorithmic Trading",
@@ -35,13 +38,79 @@
     {
       "topic": "Regulatory AI",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "301015277",
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from …",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "redefining",
+        "ai enterprise",
+        "ai"
+      ]
+    },
+    {
+      "id": "916141582",
+      "title": "Institutional investors see US forced to share AI lead with China",
+      "summary": "A Robocap survey of 100 investors managing $513bn finds 56% expect the US and China to hold joint AI leadership within five years. The post Institutional investors see US forced to share AI lead with China appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/institutional-investors-see-us-forced-to-share-ai-lead-with-china/",
+      "date": "2026-10-02",
+      "category": "Payments",
+      "tags": [
+        "institutional",
+        "us",
+        "ai"
+      ]
+    },
+    {
+      "id": "325599310",
+      "title": "Sionic Lists Instant Bank Pay on Microsoft Marketplace",
+      "summary": "The Atlanta firm's pay-by-bank service, using FedNow and RTP rails, is now available on Microsoft Marketplace with an AI-powered fraud detection The post Sionic Lists Instant Bank Pay on Microsoft Marketplace appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/sionic-lists-instant-bank-pay-on-microsoft-marketplace/",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "sionic lists",
+        "instant bank",
+        "pay"
+      ]
+    },
+    {
+      "id": "973828444",
+      "title": "Finery Markets Adds AI Onboarding, Analytics and OTC Guide",
+      "summary": "The institutional OTC platform has launched a single-prompt AI integration tool, a new analytics dashboard, and a stablecoin report citing 81% OTC share in The post Finery Markets Adds AI Onboarding, Analytics and OTC Guide appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/finery-markets-adds-ai-onboarding-analytics-and-otc-guide/",
+      "date": "2026-10-02",
+      "category": "Payments",
+      "tags": [
+        "finery markets",
+        "adds ai",
+        "onboarding"
+      ]
+    },
+    {
+      "id": "200365311",
+      "title": "Bank AI Job Postings Jump 49% as Agents Go to Work",
+      "summary": "Wall Street banks are accelerating artificial intelligence hiring as they shift from chatbots to AI agents. Hiring is expanding beyond model builders to engineers who put agents to work across trading desks, compliance units and back-office operations. AI-related job postings at …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-ai-job-postings-jump-49percent-agents-go-work/",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "bank ai",
+        "job postings",
+        "jump"
+      ]
+    },
     {
       "id": "761183956",
       "title": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
@@ -808,76 +877,6 @@
         "goodarch",
         "ai",
         "malaysia"
-      ]
-    },
-    {
-      "id": "214087026",
-      "title": "Rethinking Orchestration for the Next Generation of AI-Driven Payments",
-      "summary": "In this virtual interview in the lead-up to Sibos 2026, we explore how the next generation of fraud is evolving as different technologies grow, providing key considerations to stay prepared.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3600/rethinking-orchestration-for-the-next-generation-of-ai-driven-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "rethinking orchestration",
-        "next generation",
-        "ai"
-      ]
-    },
-    {
-      "id": "734138202",
-      "title": "Goldman reaped more than $200mn in fees from hedge fund Situational Awareness",
-      "summary": "Barely two-year-old AI-focused investment firm became biggest client of Wall Street bank’s prime brokerage unit",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bdec4129-ccac-4149-aa53-90ddd50cb925?syn-25a6b1a6=1",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "goldman",
-        "situational awareness",
-        "barely"
-      ]
-    },
-    {
-      "id": "489700019",
-      "title": "Narmi open AI marketplace for community banks",
-      "summary": "Narmi, a leading provider of digital banking technology, today announced the launch of the Narmi AI Marketplace, a centralized destination for practical and innovative AI capabilities built for community financial institutions.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111021/narmi-open-ai-marketplace-for-community-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "narmi",
-        "ai",
-        "narmi ai"
-      ]
-    },
-    {
-      "id": "439417630",
-      "title": "Tax compliance platform Numeral raises $100m",
-      "summary": "Numeral, the AI-powered sales tax compliance platform, today announced a $100 million Series C led by Insight Partners, with participation from Salesforce Ventures, Geodesic, Benchmark, Mayfield, FCVC, Y Combinator and Uncork.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111024/tax-compliance-platform-numeral-raises-100m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-24",
-      "category": "RegTech",
-      "tags": [
-        "tax",
-        "numeral",
-        "ai"
-      ]
-    },
-    {
-      "id": "992334062",
-      "title": "EU Regulator’s Priorities for 2027 Include AI and Tokenization",
-      "summary": "The European Union’s securities regulator plans to make artificial intelligence and tokenization a supervisory priority starting in 2027, signaling a broader regulatory focus on how emerging technologies are being used across financial services. The European Securities and Market…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/legal/2026/eu-regulators-priorities-for-2027-include-ai-and-tokenization/",
-      "date": "2026-09-24",
-      "category": "Banking",
-      "tags": [
-        "eu regulator",
-        "priorities",
-        "include ai"
       ]
     }
   ]
