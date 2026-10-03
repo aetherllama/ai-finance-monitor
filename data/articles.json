@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-10-03T12:21:43Z",
+  "last_updated": "2026-10-03T22:04:09Z",
   "insights": {
     "risks": [
-      "Regulatory: Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist. — review compliance obligations.",
-      "Operational: Liberate’s AI Agents Take Over the Insurance Night Shift — evaluate model governance gaps."
+      "Operational: Cathie Wood says smart investors need to start watching where AI agents spend money — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Institutional investors see US forced to share AI lead with China — potential infrastructure advantage.",
-      "Banking efficiency: Liberate’s AI Agents Take Over the Insurance Night Shift — cost reduction opportunity."
+      "Banking efficiency: Cathie Wood says smart investors need to start watching where AI agents spend money — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 18
+      "count": 19
     },
     {
       "topic": "Automation",
@@ -41,6 +40,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "955190083",
+      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
+      "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
+      "date": "2026-10-03",
+      "category": "Banking",
+      "tags": [
+        "cathie wood",
+        "ai",
+        "as ai"
+      ]
+    },
     {
       "id": "813896095",
       "title": "Liberate’s AI Agents Take Over the Insurance Night Shift",
@@ -863,20 +876,6 @@
         "saffron building",
         "society selects",
         "fintechos"
-      ]
-    },
-    {
-      "id": "35059787",
-      "title": "Ecosystem Roundup: Seoul tops AI implementation as Singapore joins the global top tier",
-      "summary": "San Francisco and New York still lead The Observer s inaugural AI Cities Index, but the more consequential finding sits further east. Six of the world s top 10 AI cities are in East and Southeast Asia, and Seoul ranks first globally for implementation: whether a city has the inst…",
-      "source": "e27",
-      "url": "https://e27.co/ecosystem-roundup-seoul-tops-ai-implementation-as-singapore-joins-the-global-top-tier-20260925/",
-      "date": "2026-09-25",
-      "category": "Banking",
-      "tags": [
-        "ecosystem roundup",
-        "seoul",
-        "ai"
       ]
     }
   ]
