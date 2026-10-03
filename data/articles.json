@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-02T22:51:38Z",
+  "last_updated": "2026-10-03T12:21:43Z",
   "insights": {
     "risks": [
       "Regulatory: Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist. — review compliance obligations.",
-      "Operational: Redefining enterprise intelligence with autonomous AI — evaluate model governance gaps."
+      "Operational: Liberate’s AI Agents Take Over the Insurance Night Shift — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Institutional investors see US forced to share AI lead with China — potential infrastructure advantage.",
-      "Banking efficiency: Redefining enterprise intelligence with autonomous AI — cost reduction opportunity."
+      "Banking efficiency: Liberate’s AI Agents Take Over the Insurance Night Shift — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 18
     },
     {
       "topic": "Automation",
@@ -41,6 +41,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "813896095",
+      "title": "Liberate’s AI Agents Take Over the Insurance Night Shift",
+      "summary": "A policyholder calls her insurance agency to ask what she owes. An artificial intelligence (AI) agent answers, pulls the balance and logs the call in the carrier’s core system, with no employee on the line. Interactions like that have given insurance agencies and carriers back mo…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/insurance/2026/liberates-ai-agents-take-over-the-insurance-night-shift/",
+      "date": "2026-10-02",
+      "category": "Banking",
+      "tags": [
+        "liberate",
+        "ai agents",
+        "take over"
+      ]
+    },
     {
       "id": "301015277",
       "title": "Redefining enterprise intelligence with autonomous AI",
@@ -863,20 +877,6 @@
         "ecosystem roundup",
         "seoul",
         "ai"
-      ]
-    },
-    {
-      "id": "878000319",
-      "title": "GoodARCH launches AI foot mapping in Malaysia with US$230K healthtech investment",
-      "summary": "For many people, foot pain is ignored until it starts changing everyday behaviour. They walk less, avoid stairs, switch shoes, or live with knee and back discomfort that seems unrelated. GoodARCH is betting that a five-minute scan can narrow the gap between early signs and medica…",
-      "source": "e27",
-      "url": "https://e27.co/goodarch-launches-ai-foot-mapping-in-malaysia-with-us230k-healthtech-investment-20260925/",
-      "date": "2026-09-25",
-      "category": "Banking",
-      "tags": [
-        "goodarch",
-        "ai",
-        "malaysia"
       ]
     }
   ]
