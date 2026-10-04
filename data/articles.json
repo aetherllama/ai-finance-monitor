@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-04T13:06:28Z",
+  "last_updated": "2026-10-04T22:15:35Z",
   "insights": {
     "risks": [
-      "Operational: Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet — evaluate model governance gaps."
+      "Operational: New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Institutional investors see US forced to share AI lead with China — potential infrastructure advantage.",
-      "Banking efficiency: Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet — cost reduction opportunity."
+      "Banking efficiency: New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -40,6 +40,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "227552758",
+      "title": "New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks",
+      "summary": "The White House has reportedly given its artificial intelligence task force 120 days to report on the risks and potential rewards of the technology. That’s according to a report Saturday (Oct. 3) from The Wall Street Journal (WSJ), citing comments by Jay Clayton, the director of …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-ai-czar-jay-clayton-gets-120-days-to-report-on-techs-risks/",
+      "date": "2026-10-04",
+      "category": "Banking",
+      "tags": [
+        "new ai",
+        "czar jay",
+        "clayton gets"
+      ]
+    },
     {
       "id": "365369793",
       "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
@@ -862,20 +876,6 @@
         "why ai",
         "ai",
         "author"
-      ]
-    },
-    {
-      "id": "64205366",
-      "title": "Bluwhale announces trading agents for tokenised stocks and real-world assets",
-      "summary": "Bluwhale, the AI financial operating system connecting millions of users to traditional and blockchain financial services managed by AI, today announced trading agents for tokenized stocks and real-world assets, including gold, silver and oil. The broader tokenized-stock market a…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111025/bluwhale-announces-trading-agents-for-tokenised-stocks-and-real-world-assets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-25",
-      "category": "Trading",
-      "tags": [
-        "bluwhale",
-        "ai",
-        "apple"
       ]
     }
   ]
