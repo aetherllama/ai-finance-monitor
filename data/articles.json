@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-03T22:04:09Z",
+  "last_updated": "2026-10-04T13:06:28Z",
   "insights": {
     "risks": [
-      "Operational: Cathie Wood says smart investors need to start watching where AI agents spend money — evaluate model governance gaps."
+      "Operational: Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Institutional investors see US forced to share AI lead with China — potential infrastructure advantage.",
-      "Banking efficiency: Cathie Wood says smart investors need to start watching where AI agents spend money — cost reduction opportunity."
+      "Banking efficiency: Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,18 +16,18 @@
     },
     {
       "topic": "Automation",
-      "count": 9
+      "count": 8
     },
     {
       "topic": "Fraud Detection",
       "count": 3
     },
     {
-      "topic": "Credit & Underwriting",
-      "count": 2
+      "topic": "Stablecoin AI",
+      "count": 1
     },
     {
-      "topic": "Stablecoin AI",
+      "topic": "Credit & Underwriting",
       "count": 1
     },
     {
@@ -40,6 +40,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "365369793",
+      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
+      "summary": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
+      "date": "2026-10-04",
+      "category": "Banking",
+      "tags": [
+        "masayoshi son",
+        "ai",
+        "softbank"
+      ]
+    },
+    {
+      "id": "750255403",
+      "title": "Mal Raises $230m Seed to Build AI-Native Islamic Bank from Abu Dhabi",
+      "summary": "Abu Dhabi fintech Mal has secured a $230m seed round and UAE central bank approval in principle to launch a licensed Islamic digital bank built The post Mal Raises $230m Seed to Build AI-Native Islamic Bank from Abu Dhabi appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/mal-raises-230m-seed-to-build-ai-native-islamic-bank-from-abu-dhabi/",
+      "date": "2026-10-04",
+      "category": "Banking",
+      "tags": [
+        "mal raises",
+        "seed",
+        "build ai"
+      ]
+    },
     {
       "id": "955190083",
       "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
@@ -848,34 +876,6 @@
         "bluwhale",
         "ai",
         "apple"
-      ]
-    },
-    {
-      "id": "331585955",
-      "title": "Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs",
-      "summary": "The FTSE 250 specialist bank posted underlying pre-tax profit of £195.5m and a loan book of £20.1bn, while reiterating FY 2026 guidance. The post Shawbrook H1 2026: Profit up 16% as AI Cuts Underwriting Costs appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/shawbrook-h1-2026-profit-up-16-as-ai-cuts-underwriting-costs/",
-      "date": "2026-09-25",
-      "category": "Banking",
-      "tags": [
-        "shawbrook",
-        "profit",
-        "ai cuts"
-      ]
-    },
-    {
-      "id": "272489095",
-      "title": "Saffron Building Society Selects FintechOS to Deploy AI-Powered Mortgage Origination Platform",
-      "summary": "Saffron Building Society has partnered with FintechOS to deploy an AI-powered mortgage origination platform, automating decisioning, streamlining broker workflows and accelerating product launches. The post Saffron Building Society Selects FintechOS to Deploy AI-Powered Mortgage …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/saffron-building-society-selects-fintechos-to-deploy-ai-powered-mortgage-origination-platform/",
-      "date": "2026-09-25",
-      "category": "Payments",
-      "tags": [
-        "saffron building",
-        "society selects",
-        "fintechos"
       ]
     }
   ]
