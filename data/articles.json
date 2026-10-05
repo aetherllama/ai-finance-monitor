@@ -1,29 +1,35 @@
 {
-  "last_updated": "2026-10-04T22:15:35Z",
+  "last_updated": "2026-10-05T15:43:58Z",
   "insights": {
     "risks": [
-      "Operational: New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks — evaluate model governance gaps."
+      "Regulatory: Curvestone AI selected for Barclays scaleup scheme — review compliance obligations.",
+      "Trading risk: Bloomberg Electronic Markets brings automation to JGB Market-on-Close functionality — assess algorithmic exposure.",
+      "Operational: CaixaBank establishes new AI and data division — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Institutional investors see US forced to share AI lead with China — potential infrastructure advantage.",
-      "Banking efficiency: New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks — cost reduction opportunity."
+      "Payments: Stripe’s OpenRouter Deal Signals AI-Driven Hybrid Payment Routing — potential infrastructure advantage.",
+      "Banking efficiency: CaixaBank establishes new AI and data division — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 19
+      "count": 15
     },
     {
       "topic": "Automation",
-      "count": 8
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 3
+      "count": 9
     },
     {
       "topic": "Stablecoin AI",
+      "count": 2
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 2
+    },
+    {
+      "topic": "Regulatory AI",
       "count": 1
     },
     {
@@ -33,13 +39,121 @@
     {
       "topic": "Algorithmic Trading",
       "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "199395170",
+      "title": "CaixaBank establishes new AI and data division",
+      "summary": "Spanish financial services firm CaixaBank has created its first AI and data division in a move designed to accelerate the bank's digital transformation efforts.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48528/caixabank-establishes-new-ai-and-data-division?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-05",
+      "category": "Banking",
+      "tags": [
+        "caixabank",
+        "ai",
+        "spanish"
+      ]
+    },
+    {
+      "id": "42666775",
+      "title": "Curvestone AI selected for Barclays scaleup scheme",
+      "summary": "Curvestone AI, the AI compliance platform for regulated financial services, has announced its selection as one of only 25 companies chosen for the Barclays Eagle Labs Scaleup Programme.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111123/curvestone-ai-selected-for-barclays-scaleup-scheme?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-05",
+      "category": "RegTech",
+      "tags": [
+        "curvestone ai",
+        "barclays",
+        "ai"
+      ]
+    },
+    {
+      "id": "817963592",
+      "title": "Bloomberg Electronic Markets brings automation to JGB Market-on-Close functionality",
+      "summary": "Bloomberg announced the first successful fully automated Japanese Government Bond (JGB) Market-on-Close trade, following the introduction of a new workflow. Aligned to BB3P (Hikene Trading), the Market-on-Close reference rate for JGBs, the automated workflow helps minimize tracki…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111132/bloomberg-electronic-markets-brings-automation-to-jgb-market-on-close-functionality?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-05",
+      "category": "Trading",
+      "tags": [
+        "bloomberg electronic",
+        "markets",
+        "jgb market"
+      ]
+    },
+    {
+      "id": "213948983",
+      "title": "Stripe’s OpenRouter Deal Signals AI-Driven Hybrid Payment Routing",
+      "summary": "A $7bn-plus acquisition of AI gateway OpenRouter positions Stripe to route transactions intelligently across fiat and stablecoin rails. The post Stripe s OpenRouter Deal Signals AI-Driven Hybrid Payment Routing appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/stripes-openrouter-deal-signals-ai-driven-hybrid-payment-routing/",
+      "date": "2026-10-05",
+      "category": "Payments",
+      "tags": [
+        "stripe",
+        "openrouter deal",
+        "signals ai"
+      ]
+    },
+    {
+      "id": "59214654",
+      "title": "0G picks Singapore as global base, expands AI research into badminton",
+      "summary": "For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure company said it will inv…",
+      "source": "e27",
+      "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
+      "date": "2026-10-05",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "for zero"
+      ]
+    },
+    {
+      "id": "849617018",
+      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
+      "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into syste…",
+      "source": "e27",
+      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
+      "date": "2026-10-05",
+      "category": "RegTech",
+      "tags": [
+        "onebyzero",
+        "us",
+        "series"
+      ]
+    },
+    {
+      "id": "11344711",
+      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
+      "summary": "This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generation innovation scheme. …",
+      "source": "e27",
+      "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
+      "date": "2026-10-05",
+      "category": "Banking",
+      "tags": [
+        "everyone",
+        "ai",
+        "almost"
+      ]
+    },
+    {
+      "id": "99628875",
+      "title": "Small banks, credit unions, and lenders are ahead of other small and mid-sized businesses in adopting artificial intelligence (AI), according to a study by SAS.",
+      "summary": "Small banks, credit unions, and lenders are ahead of other small and mid-sized businesses in adopting artificial intelligence (AI), according to a study by SAS.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/information-technology/in-focus/small-banks-are-early-ai-adopters-infrastructure-holds-back-scale",
+      "date": "2026-10-04",
+      "category": "Banking",
+      "tags": [
+        "small",
+        "ai",
+        "sas"
+      ]
+    },
     {
       "id": "227552758",
       "title": "New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks",
@@ -764,118 +878,6 @@
         "sibos",
         "ai",
         "miami"
-      ]
-    },
-    {
-      "id": "971151952",
-      "title": "nCino Adds MCP Layer to Connect AI Agents to Mortgage Suite",
-      "summary": "nCino's new Mortgage MCP lets lenders plug compatible AI agents into its loan origination platform via the open-source Model Context Protocol. The post nCino Adds MCP Layer to Connect AI Agents to Mortgage Suite appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ncino-adds-mcp-layer-to-connect-ai-agents-to-mortgage-suite/",
-      "date": "2026-09-27",
-      "category": "Payments",
-      "tags": [
-        "adds mcp",
-        "layer",
-        "connect ai"
-      ]
-    },
-    {
-      "id": "632116698",
-      "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
-      "summary": "Multinationals evaluating countries’ approach to AI before making expansion plans, say executives",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
-      "date": "2026-09-27",
-      "category": "Banking",
-      "tags": [
-        "big",
-        "ai",
-        "europe multinationals"
-      ]
-    },
-    {
-      "id": "517197490",
-      "title": "Cloudflare AI Wallets Put Agentic Commerce Trust Frameworks to the Test",
-      "summary": "Cloudflare's agent identity and payment tools signal a shift from experimentation to implementation, but industry standards remain fragmented. The post Cloudflare AI Wallets Put Agentic Commerce Trust Frameworks to the Test appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/cloudflare-ai-wallets-put-agentic-commerce-trust-frameworks-to-the-test/",
-      "date": "2026-09-27",
-      "category": "Payments",
-      "tags": [
-        "cloudflare ai",
-        "wallets put",
-        "agentic commerce"
-      ]
-    },
-    {
-      "id": "627561932",
-      "title": "Sedric Joins American Fintech Council to Push AI Compliance Controls",
-      "summary": "The agentic AI compliance platform has joined the AFC as it targets real-time marketing and communications governance for regulated financial institutions. The post Sedric Joins American Fintech Council to Push AI Compliance Controls appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/sedric-joins-american-fintech-council-to-push-ai-compliance-controls/",
-      "date": "2026-09-26",
-      "category": "RegTech",
-      "tags": [
-        "sedric joins",
-        "american fintech",
-        "council"
-      ]
-    },
-    {
-      "id": "326424046",
-      "title": "Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve",
-      "summary": "Parloa's Malte Kosub says a 7.4% resolution rate exposes a strategic failure, not a technology one, in financial services AI deployment. The post Parloa CEO: Bank Chatbots Built to Deflect, Not Resolve appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/parloa-ceo-bank-chatbots-built-to-deflect-not-resolve/",
-      "date": "2026-09-26",
-      "category": "Banking",
-      "tags": [
-        "parloa ceo",
-        "bank chatbots",
-        "built"
-      ]
-    },
-    {
-      "id": "976429639",
-      "title": "Socure brings identity verification and fraud prevention to Circle Arc mainnnet",
-      "summary": "Socure, the leading AI-native trust infrastructure for global identity and risk intelligence, today announced that RiskOS is being used for identity verification and fraud prevention on Arc, the open Layer 1 blockchain built by Circle and now live on public mainnet.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111030/socure-brings-identity-verification-and-fraud-prevention-to-circle-arc-mainnnet?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-25",
-      "category": "Banking",
-      "tags": [
-        "socure",
-        "circle arc",
-        "ai"
-      ]
-    },
-    {
-      "id": "604139575",
-      "title": "Feedzai tackles banks’ agentic AI integration gap with Farol agent",
-      "summary": "Feedzai, the global leader in AI-native financial crime prevention, today launched Farol, an embedded AI agent engineered to slash fraud investigation latency and sharpen threat detection across risk operations in banking.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111031/feedzai-tackles-banks-agentic-ai-integration-gap-with-farol-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-25",
-      "category": "Banking",
-      "tags": [
-        "feedzai",
-        "ai",
-        "farol"
-      ]
-    },
-    {
-      "id": "56414325",
-      "title": "Why AI reporting will change fintech marketing teams before AI creatives do",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/32990/why-ai-reporting-will-change-fintech-marketing-teams-before-ai-creatives-do?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-25",
-      "category": "Payments",
-      "tags": [
-        "why ai",
-        "ai",
-        "author"
       ]
     }
   ]
