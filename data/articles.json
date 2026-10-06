@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-06T14:02:16Z",
+  "last_updated": "2026-10-06T22:56:32Z",
   "insights": {
     "risks": [
-      "Operational: S&P 500 hits record high as AI stocks shrug off bond market slump — evaluate model governance gaps."
+      "Operational: AlphaSense unveils SuperAnalyst AI agent — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The Prediction that AI will Kill Off SaaS is Premature. A Better Question is Which Elements are Converging? — potential infrastructure advantage.",
-      "Banking efficiency: S&P 500 hits record high as AI stocks shrug off bond market slump — cost reduction opportunity."
+      "Payments: Plaid launches credit, fraud and payment risk AI models — potential infrastructure advantage.",
+      "Banking efficiency: AlphaSense unveils SuperAnalyst AI agent — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -16,11 +16,15 @@
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Stablecoin AI",
       "count": 2
+    },
+    {
+      "topic": "Payments AI",
+      "count": 1
     },
     {
       "topic": "Regulatory AI",
@@ -40,6 +44,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "794624138",
+      "title": "Plaid launches credit, fraud and payment risk AI models",
+      "summary": "Open finance fintech Plaid has unveiled AI models designed to help financial firms make better lending decisions, catch more fraud, and reduce payment risk.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48545/plaid-launches-credit-fraud-and-payment-risk-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Payments",
+      "tags": [
+        "plaid",
+        "ai",
+        "open"
+      ]
+    },
+    {
+      "id": "251713716",
+      "title": "AlphaSense unveils SuperAnalyst AI agent",
+      "summary": "AlphaSense, the AI platform redefining market intelligence for the business and financial world, today announced its always-on AI agent, SuperAnalyst, is evolving decision-grade AI from answering questions to continuously executing complex workflows using real-time data on behalf…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111163/alphasense-unveils-superanalyst-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "alphasense",
+        "superanalyst ai",
+        "ai"
+      ]
+    },
+    {
+      "id": "996967392",
+      "title": "On-Demand – AI without the hype: What AML transformation means",
+      "summary": "How can organisations innovate with AI while meeting growing governance and regulatory expectations?",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/event-info/627/on-demand--ai-without-the-hype-what-aml-transformation-means?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "on",
+        "demand",
+        "ai"
+      ]
+    },
+    {
+      "id": "948823517",
+      "title": "MDI Ventures sharpens SEA thesis around AI, blockchain, digital asset infra",
+      "summary": "MDI Ventures, the corporate venture capital arm of Indonesia s TelkomGroup, is narrowing its Southeast Asia investment focus around enterprise AI, AI infrastructure, governance software, real-world asset tokenisation, institutional custody, and regulated digital asset rails. The …",
+      "source": "e27",
+      "url": "https://e27.co/mdi-ventures-sharpens-sea-thesis-around-ai-blockchain-digital-asset-infra-20261006/",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "mdi ventures",
+        "sea",
+        "ai"
+      ]
+    },
     {
       "id": "154412029",
       "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
@@ -818,62 +878,6 @@
       "tags": [
         "robinhood",
         "ai"
-      ]
-    },
-    {
-      "id": "58145766",
-      "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows",
-      "summary": "Held at The National Hotel in Miami during Sibos 2026, Google Cloud hosted a breakfast roundtable that focussed on the future of purpose-built AI for financial institutions, welcoming Georgina Bulkeley, director of financial services solutions, Google Cloud; Kristin Reinke, VP of…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48500/sibos-2026-google-cloud-reveals-banks-are-moving-from-ai-copilots-to-autonomous-workflows?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "sibos",
-        "google cloud",
-        "ai"
-      ]
-    },
-    {
-      "id": "890944208",
-      "title": "Throught Machine and AWS to drive AI-powered core migrations",
-      "summary": "Thought Machine, the cloud-native core banking and payments technology company, today announced an AI-powered migration solution to accelerate banking modernisation with Amazon Web Services, Inc. (AWS) Transform.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111074/throught-machine-and-aws-to-drive-ai-powered-core-migrations?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "throught machine",
-        "aws",
-        "ai"
-      ]
-    },
-    {
-      "id": "635052105",
-      "title": "How Deterministic AI Agents Can Safely Close Regulatory Loopholes",
-      "summary": "In the lead up to a Finextra webinar, this interview provides context into compliance agents within operations.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3601/how-deterministic-ai-agents-can-safely-close-regulatory-loopholes?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "RegTech",
-      "tags": [
-        "how deterministic",
-        "ai agents",
-        "can safely"
-      ]
-    },
-    {
-      "id": "518451464",
-      "title": "Thomaston Savings Bank Upgrades ATM Network with Diebold Nixdorf",
-      "summary": "The 150-year-old Connecticut mutual bank is deploying DN Series ATMs and AI-driven managed services across its 16-branch network. The post Thomaston Savings Bank Upgrades ATM Network with Diebold Nixdorf appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/thomaston-savings-bank-upgrades-atm-network-with-diebold-nixdorf/",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "thomaston savings",
-        "bank upgrades",
-        "atm network"
       ]
     }
   ]
