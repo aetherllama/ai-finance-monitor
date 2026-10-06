@@ -1,35 +1,33 @@
 {
-  "last_updated": "2026-10-06T00:41:13Z",
+  "last_updated": "2026-10-06T14:02:16Z",
   "insights": {
     "risks": [
-      "Regulatory: Curvestone AI selected for Barclays scaleup scheme — review compliance obligations.",
-      "Trading risk: Bloomberg Electronic Markets brings automation to JGB Market-on-Close functionality — assess algorithmic exposure.",
-      "Operational: AI without the hype: What AML transformation means — evaluate model governance gaps."
+      "Operational: S&P 500 hits record high as AI stocks shrug off bond market slump — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Stripe’s OpenRouter Deal Signals AI-Driven Hybrid Payment Routing — potential infrastructure advantage.",
-      "Banking efficiency: AI without the hype: What AML transformation means — cost reduction opportunity."
+      "Payments: The Prediction that AI will Kill Off SaaS is Premature. A Better Question is Which Elements are Converging? — potential infrastructure advantage.",
+      "Banking efficiency: S&P 500 hits record high as AI stocks shrug off bond market slump — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 15
     },
     {
       "topic": "Automation",
-      "count": 9
+      "count": 7
     },
     {
       "topic": "Stablecoin AI",
       "count": 2
     },
     {
-      "topic": "Fraud Detection",
-      "count": 2
+      "topic": "Regulatory AI",
+      "count": 1
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Fraud Detection",
       "count": 1
     },
     {
@@ -42,6 +40,158 @@
     }
   ],
   "articles": [
+    {
+      "id": "154412029",
+      "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
+      "summary": "Wall Street’s blue-chip index at fresh peak but rally increasingly reliant on handful of tech stocks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "wall street"
+      ]
+    },
+    {
+      "id": "958249349",
+      "title": "DNB to lay off 400 and expand use of AI agents",
+      "summary": "Norway's biggest bank, DNB, is set to lay off 400 staff in its technology teams while it increases its investment in AI agents.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48538/dnb-to-lay-off-400-and-expand-use-of-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "dnb",
+        "ai",
+        "norway"
+      ]
+    },
+    {
+      "id": "758502885",
+      "title": "ExpenseIn partners Stripe on automated reimbursements for business expenses",
+      "summary": "ExpenseIn, the expense management platform, extends its partnership with Stripe, the programmable financial services company, to introduce automated reimbursement for its users.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111154/expensein-partners-stripe-on-automated-reimbursements-for-business-expenses?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "expensein",
+        "stripe"
+      ]
+    },
+    {
+      "id": "708025790",
+      "title": "How Financial Institutions Can Prepare for AI Agents as the Next Customer Interface",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33086/how-financial-institutions-can-prepare-for-ai-agents-as-the-next-customer-interface?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "how financial",
+        "institutions can",
+        "prepare"
+      ]
+    },
+    {
+      "id": "325360833",
+      "title": "Capex Catches Up With Amazon as AI Momentum Slows on Wall Street",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33084/capex-catches-up-with-amazon-as-ai-momentum-slows-on-wall-street?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "capex catches",
+        "up with",
+        "amazon"
+      ]
+    },
+    {
+      "id": "851083491",
+      "title": "Three AI banking assistants, three different bets. Learn from bunq, Starling and Revolut",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33072/three-ai-banking-assistants-three-different-bets-learn-from-bunq-starling-and-revolut?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "three ai",
+        "learn",
+        "starling"
+      ]
+    },
+    {
+      "id": "742284999",
+      "title": "The Prediction that AI will Kill Off SaaS is Premature. A Better Question is Which Elements are Converging?",
+      "summary": "AI may not kill SaaS, but reshape it—commoditising interfaces and routine tasks while increasing the value of trusted data, workflows, integrations, security and business logic. The post The Prediction that AI will Kill Off SaaS is Premature. A Better Question is Which Elements a…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-prediction-that-ai-will-kill-off-saas-is-premature-a-better-question-is-which-elements-are-converging/",
+      "date": "2026-10-06",
+      "category": "Payments",
+      "tags": [
+        "the prediction",
+        "ai",
+        "kill off"
+      ]
+    },
+    {
+      "id": "932146578",
+      "title": "Addressing the Digital Shift – AI Accounting ERP Trend in Singapore",
+      "summary": "Selecting a scalable enterprise solution is no longer just an operational choice; it is a core business strategy. For small and medium businesses navigating a highly digitalized economy, legacy architectures fail to meet modern efficiency standards. Integrating advanced automatio…",
+      "source": "e27",
+      "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "addressing",
+        "digital shift",
+        "ai accounting"
+      ]
+    },
+    {
+      "id": "514145464",
+      "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
+      "summary": "Across Southeast Asia s technology hubs, engineering leaders are getting used to a new kind of productivity curve. In Singapore, Jakarta, Manila and Ho Chi Minh City, software teams are shipping faster, clearing backlogs more quickly and leaning on AI tools for work that once con…",
+      "source": "e27",
+      "url": "https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "southeast asia",
+        "across southeast"
+      ]
+    },
+    {
+      "id": "775197377",
+      "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
+      "summary": "In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it s hardware that will be disrupted. Since AI…",
+      "source": "e27",
+      "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "why southeast",
+        "asia",
+        "vcs"
+      ]
+    },
+    {
+      "id": "706034665",
+      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
+      "summary": "The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the raw compute needed to…",
+      "source": "e27",
+      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
+      "date": "2026-10-06",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "southeast asia",
+        "gpus"
+      ]
+    },
     {
       "id": "166838192",
       "title": "AI without the hype: What AML transformation means",
@@ -724,160 +874,6 @@
         "thomaston savings",
         "bank upgrades",
         "atm network"
-      ]
-    },
-    {
-      "id": "168996652",
-      "title": "Nvidia turns to insurers to spread the risk of AI build-out",
-      "summary": "World’s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "nvidia",
-        "ai",
-        "world"
-      ]
-    },
-    {
-      "id": "686330565",
-      "title": "Finastra unveils AI-powered repair recommendations to support banks with smarter decision-making",
-      "summary": "Today at Sibos 2026 in Miami, Finastra announced the launch of Repair Recommendations – a new AI-powered capability within AI OperatorAssist. This move will help banks respond more quickly to growing payment activity by adding smarter decision-making into their existing workflows…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111033/finastra-unveils-ai-powered-repair-recommendations-to-support-banks-with-smarter-decision-making?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "Payments",
-      "tags": [
-        "finastra",
-        "ai",
-        "today"
-      ]
-    },
-    {
-      "id": "753088774",
-      "title": "Plaid teams with decagon on conversational AI",
-      "summary": "Decagon and Plaid are announcing a partnership. With Plaid, customers can now securely connect their bank accounts within a Decagon conversation and take action on bank connections, failed payments, and disputed charges.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111059/plaid-teams-with-decagon-on-conversational-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "plaid",
-        "ai decagon",
-        "with plaid"
-      ]
-    },
-    {
-      "id": "613825790",
-      "title": "AutoRek's automated reconciliation platform made available to Linedata clients",
-      "summary": "Linedata (Euronext Paris: LIN), a global provider of credit and asset management technology, data, and services, today announced that it was entering a strategic partnership with AutoRek.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111060/autoreks-automated-reconciliation-platform-made-available-to-linedata-clients?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "autorek",
-        "linedata",
-        "euronext paris"
-      ]
-    },
-    {
-      "id": "905656914",
-      "title": "Thai remittance fintech DeeMoney selects SEON as its fraud and compliance partner",
-      "summary": "SEON, the AI Command Center for Fraud Prevention and AML Compliance, today announced that DeeMoney, Thailand’s leading fintech for international money transfers, has selected SEON as its fraud and compliance partner.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111066/thai-remittance-fintech-deemoney-selects-seon-as-its-fraud-and-compliance-partner?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "thai",
-        "deemoney",
-        "seon"
-      ]
-    },
-    {
-      "id": "847383297",
-      "title": "The Hidden Risk of Banking AI: Automating the Wrong Problem",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33017/the-hidden-risk-of-banking-ai-automating-the-wrong-problem?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "the hidden",
-        "risk",
-        "banking ai"
-      ]
-    },
-    {
-      "id": "448940708",
-      "title": "Blue Fire AI closes US$9M round with AM-One stake under Mizuho partnership",
-      "summary": "Artificial intelligence is moving deeper into asset management, but not only through chatbots, research summaries or back-office automation. The bigger question is whether AI can help investment firms do what has become increasingly difficult in public markets: find differentiate…",
-      "source": "e27",
-      "url": "https://e27.co/blue-fire-ai-closes-us9m-round-with-am-one-stake-under-mizuho-partnership-20260929/",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "blue fire",
-        "ai",
-        "us"
-      ]
-    },
-    {
-      "id": "510784833",
-      "title": "Vietnam gains from Samsung Electro-Mechanics’s US$4.9B AI substrate expansion plan",
-      "summary": "Samsung Electro-Mechanics is making its largest single-product investment to date, committing US$4.9 billion to expand production of chip-packaging substrates in South Korea and Vietnam as the artificial intelligence boom reshapes demand across the semiconductor supply chain. In …",
-      "source": "e27",
-      "url": "https://e27.co/vietnam-gains-from-samsung-electro-mechanicss-us4-9b-ai-substrate-expansion-plan-20260929/",
-      "date": "2026-09-29",
-      "category": "Banking",
-      "tags": [
-        "vietnam",
-        "samsung electro",
-        "mechanics"
-      ]
-    },
-    {
-      "id": "594950548",
-      "title": "Singapore to train 80,000 FS sector employees in AI skills",
-      "summary": "Singapore's financial services sector has moved to prepare itself for the artificial intelligence era through the launch of an AI workforce co-lab and a commitment to train 80,000 employees in the technology.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48482/singapore-to-train-80000-fs-sector-employees-in-ai-skills?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-28",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "fs",
-        "ai"
-      ]
-    },
-    {
-      "id": "407753055",
-      "title": "FIS integrates with data and AI platform Spade's real-time transaction enrichment technology",
-      "summary": "FIS (NYSE: FIS), a global leader in financial technology, today announced the integration of Spade’s real-time transaction enrichment technology into FIS's debit processing platform.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111039/fis-integrates-with-data-and-ai-platform-spades-real-time-transaction-enrichment-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-28",
-      "category": "Banking",
-      "tags": [
-        "fis",
-        "ai",
-        "spade"
-      ]
-    },
-    {
-      "id": "611319199",
-      "title": "AI agents could drain cheap bank deposits, Apollo's Torsten Slok warns",
-      "summary": "AI agents could trigger a bank run by automatically moving household cash from low-interest checking accounts to higher-yield alternatives, Slok warns.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/09/28/ai-agents-could-drain-cheap-bank-deposits-apollo-s-torsten-slok-warns",
-      "date": "2026-09-28",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "apollo",
-        "torsten slok"
       ]
     }
   ]
