@@ -1,26 +1,28 @@
 {
-  "last_updated": "2026-10-06T22:56:32Z",
+  "last_updated": "2026-10-07T14:20:18Z",
   "insights": {
     "risks": [
-      "Operational: AlphaSense unveils SuperAnalyst AI agent — evaluate model governance gaps."
+      "Regulatory: The Monetary Authority of Singapore (MAS) has issued guidelines on artificial intelligence (AI) risk management for responsible AI adoption in the financial sector. — review compliance obligations.",
+      "Trading risk: TS Imagine adds regulatory intelligence to AI platform for capital markets — assess algorithmic exposure.",
+      "Operational: JPMorgan Chase extends lead as world's most AI-advanced bank — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Plaid launches credit, fraud and payment risk AI models — potential infrastructure advantage.",
-      "Banking efficiency: AlphaSense unveils SuperAnalyst AI agent — cost reduction opportunity."
+      "Payments: Why Data Products will determine the next phase of Fintech AI? Not the AI models! — potential infrastructure advantage.",
+      "Banking efficiency: JPMorgan Chase extends lead as world's most AI-advanced bank — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 14
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Stablecoin AI",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Payments AI",
@@ -37,13 +39,121 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
-    },
-    {
-      "topic": "Algorithmic Trading",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "336546015",
+      "title": "JPMorgan Chase extends lead as world's most AI-advanced bank",
+      "summary": "JPMorgan Chase has extended its lead as the world's most artificial intelligence-advanced bank, once again topping the Evident AI Index.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48542/jpmorgan-chase-extends-lead-as-worlds-most-ai-advanced-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-07",
+      "category": "Banking",
+      "tags": [
+        "jpmorgan chase",
+        "ai",
+        "evident ai"
+      ]
+    },
+    {
+      "id": "679331600",
+      "title": "Incognia launches AI agent detection tool",
+      "summary": "As AI agents begin making purchases, payments and account changes on behalf of consumers, financial institutions face a new challenge: knowing an AI agent is legitimate does not necessarily mean the action it is taking is authorized by the person behind it.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111171/incognia-launches-ai-agent-detection-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-07",
+      "category": "Banking",
+      "tags": [
+        "incognia",
+        "ai",
+        "as ai"
+      ]
+    },
+    {
+      "id": "240441976",
+      "title": "Sumsub launches reusable KYC gateway",
+      "summary": "Sumsub, the AI-powered trust infrastructure for compliance operations at scale, today launched Reusable KYC Gateway at Token2049 Singapore. MiniPay, one of the fastest growing stablecoin wallets, is the first live integrator, giving its users a shared verification experience acro…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111179/sumsub-launches-reusable-kyc-gateway?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-07",
+      "category": "Banking",
+      "tags": [
+        "sumsub",
+        "kyc",
+        "ai"
+      ]
+    },
+    {
+      "id": "626771203",
+      "title": "TS Imagine adds regulatory intelligence to AI platform for capital markets",
+      "summary": "TS Imagine, a global provider of trading, portfolio, risk management and prime brokerage solutions, today announced the availability of Gentek.ai’s Model Context Protocol (MCP) with TSIQ, its AI platform for capital markets.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111182/ts-imagine-adds-regulatory-intelligence-to-ai-platform-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-07",
+      "category": "Trading",
+      "tags": [
+        "ts imagine",
+        "ai",
+        "gentek"
+      ]
+    },
+    {
+      "id": "221794000",
+      "title": "AI in Banking: How To Build a Resilient Foundation for the Future",
+      "summary": "At Sibos 2026, Finastra’s Mike Stawchansky reveals how cloud data and API-led architectures build a resilient foundation for AI in banking.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3607/ai-in-banking-how-to-build-a-resilient-foundation-for-the-future?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-07",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "banking",
+        "how to"
+      ]
+    },
+    {
+      "id": "523359964",
+      "title": "Why Data Products will determine the next phase of Fintech AI? Not the AI models!",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33093/why-data-products-will-determine-the-next-phase-of-fintech-ai-not-the-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-07",
+      "category": "Payments",
+      "tags": [
+        "why data",
+        "products",
+        "fintech ai"
+      ]
+    },
+    {
+      "id": "821032900",
+      "title": "Southeast Asian tech leaders are learning to trust AI agents, but not with production",
+      "summary": "AI coding agents have moved quickly from novelty to daily tool inside Southeast Asian engineering teams. Across Singapore, Bangkok, Jakarta and Ho Chi Minh City, developers are no longer just asking AI to complete a line of code or explain an error message. They are using agents …",
+      "source": "e27",
+      "url": "https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/",
+      "date": "2026-10-07",
+      "category": "Banking",
+      "tags": [
+        "southeast asian",
+        "ai",
+        "across singapore"
+      ]
+    },
+    {
+      "id": "315712719",
+      "title": "The Monetary Authority of Singapore (MAS) has issued guidelines on artificial intelligence (AI) risk management for responsible AI adoption in the financial sector.",
+      "summary": "The Monetary Authority of Singapore (MAS) has issued guidelines on artificial intelligence (AI) risk management for responsible AI adoption in the financial sector.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/mas-issues-ai-risk-management-guidelines-financial-sector",
+      "date": "2026-10-07",
+      "category": "RegTech",
+      "tags": [
+        "the monetary",
+        "authority",
+        "singapore"
+      ]
+    },
     {
       "id": "794624138",
       "title": "Plaid launches credit, fraud and payment risk AI models",
@@ -767,117 +877,6 @@
         "apac",
         "ai",
         "however"
-      ]
-    },
-    {
-      "id": "495219513",
-      "title": "Robinhood deepens agentic AI offering in push to become go-to place for active traders",
-      "summary": "At yesterday evening’s HOOD Summit: Engines of Creation, Robinhood chairman and CEO, Vlad Tenev, announced a clutch of new active trading products.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48507/robinhood-deepens-agentic-ai-offering-in-push-to-become-go-to-place-for-active-traders?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-30",
-      "category": "Trading",
-      "tags": [
-        "robinhood",
-        "ai",
-        "hood summit"
-      ]
-    },
-    {
-      "id": "161973355",
-      "title": "Brits feel overwhelmed by growing sophistication of AI-powered scams",
-      "summary": "The UK's National Trading Standards body reports that half of Brits struggle to tell what’s genuine online, while a quarter admit to feeling overwhelmed by the sophistication of scams as AI supercharges criminal activity.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48502/brits-feel-overwhelmed-by-growing-sophistication-of-ai-powered-scams?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-30",
-      "category": "Trading",
-      "tags": [
-        "brits",
-        "ai",
-        "the uk"
-      ]
-    },
-    {
-      "id": "283859856",
-      "title": "Elio Mortgage launches with $5.1m in pre-seed funding",
-      "summary": "AI-native startup Elio Mortgage has raised $5.1 million in pre-seed funding led by Motive Partners and Social Leverage.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48495/elio-mortgage-launches-with-51m-in-pre-seed-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-30",
-      "category": "Banking",
-      "tags": [
-        "elio mortgage",
-        "ai",
-        "motive partners"
-      ]
-    },
-    {
-      "id": "126039803",
-      "title": "Duco clients report 76% time savings in post-trade reconciliation operations with AI platform",
-      "summary": "Duco, the leading platform for agentic Operations in financial services, today announced the results of its Pacesetters programme, in which an initial group of 12 clients cut the time spent on manual reconciliation operational work by an average of 76% using Duco’s agentic worksp…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111081/duco-clients-report-76-time-savings-in-post-trade-reconciliation-operations-with-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-30",
-      "category": "Banking",
-      "tags": [
-        "duco",
-        "ai",
-        "operations"
-      ]
-    },
-    {
-      "id": "884240132",
-      "title": "Oracle adds AI to financial crime and compliance products",
-      "summary": "Oracle Financial Services today expanded its financial crime and compliance management portfolio with the availability of Oracle Nexus Case Flow and Oracle Nexus Reach for financial crime investigations.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111088/oracle-adds-ai-to-financial-crime-and-compliance-products?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-30",
-      "category": "Trading",
-      "tags": [
-        "oracle",
-        "ai",
-        "oracle financial"
-      ]
-    },
-    {
-      "id": "282749683",
-      "title": "Altimetrik’s Vikas Krishan on AI Token Costs and the AI Act",
-      "summary": "Altimetrik's Vikas Krishan says a rising AI token bill measures activity, not value, and that the AI Act delay is a board-level risk decision, not a reprieve. The post Altimetrik s Vikas Krishan on AI Token Costs and the AI Act appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/altimetriks-vikas-krishan-on-ai-token-costs-and-the-ai-act/",
-      "date": "2026-09-30",
-      "category": "Payments",
-      "tags": [
-        "altimetrik",
-        "vikas krishan",
-        "ai token"
-      ]
-    },
-    {
-      "id": "266677477",
-      "title": "MDEC chief Anuar Fariz Fadzil to exit after US$44B investment push",
-      "summary": "Malaysia Digital Economy Corporation (MDEC) CEO Anuar Fariz Fadzil will leave the national digital-economy agency when his current contract ends on 2 October 2026, closing a two-year tenure marked by a sharper focus on artificial intelligence, high-value investment and measurable…",
-      "source": "e27",
-      "url": "https://e27.co/mdec-chief-anuar-fariz-fadzil-to-exit-after-us44b-investment-push-20260930/",
-      "date": "2026-09-30",
-      "category": "Banking",
-      "tags": [
-        "mdec",
-        "anuar fariz",
-        "fadzil"
-      ]
-    },
-    {
-      "id": "842228851",
-      "title": "Robinhood adds AI agents, perps and weekend trading in push to win active traders",
-      "summary": "The brokerage is expanding its trading hours and adding leveraged crypto products and automated trading tools to attract more active investors.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/09/29/robinhood-adds-ai-agents-perps-and-weekend-trading-in-push-to-win-active-traders",
-      "date": "2026-09-29",
-      "category": "Trading",
-      "tags": [
-        "robinhood",
-        "ai"
       ]
     }
   ]
