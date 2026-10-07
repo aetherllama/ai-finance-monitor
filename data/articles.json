@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-07T14:20:18Z",
+  "last_updated": "2026-10-07T23:30:35Z",
   "insights": {
     "risks": [
       "Regulatory: The Monetary Authority of Singapore (MAS) has issued guidelines on artificial intelligence (AI) risk management for responsible AI adoption in the financial sector. — review compliance obligations.",
       "Trading risk: TS Imagine adds regulatory intelligence to AI platform for capital markets — assess algorithmic exposure.",
-      "Operational: JPMorgan Chase extends lead as world's most AI-advanced bank — evaluate model governance gaps."
+      "Operational: HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Why Data Products will determine the next phase of Fintech AI? Not the AI models! — potential infrastructure advantage.",
-      "Banking efficiency: JPMorgan Chase extends lead as world's most AI-advanced bank — cost reduction opportunity."
+      "Banking efficiency: HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -42,6 +42,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "714261273",
+      "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push",
+      "summary": "HSBC is planning to axe up to 70% of its UK financial advisors as part of swingeing cuts to its wealth management business driven by riding use of AI, according to the Financial Times.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48549/hsbc-to-make-deep-wide-and-brutal-uk-wealth-management-job-cuts-in-ai-push?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-07",
+      "category": "Banking",
+      "tags": [
+        "hsbc",
+        "uk",
+        "ai"
+      ]
+    },
     {
       "id": "336546015",
       "title": "JPMorgan Chase extends lead as world's most AI-advanced bank",
@@ -863,20 +877,6 @@
         "bridging",
         "compliance screening",
         "decision gap"
-      ]
-    },
-    {
-      "id": "959538169",
-      "title": "APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one.",
-      "summary": "APAC financial firms are moving beyond AI pilots, with 41% redesigning key processes around the technology versus 28% globally. However, only 18% reported a significant revenue impact, while 75% still hope to achieve one.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/two-in-five-apac-firms-are-redesigning-key-processes-around-ai",
-      "date": "2026-09-30",
-      "category": "Banking",
-      "tags": [
-        "apac",
-        "ai",
-        "however"
       ]
     }
   ]
