@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-07T23:30:35Z",
+  "last_updated": "2026-10-08T14:28:22Z",
   "insights": {
     "risks": [
-      "Regulatory: The Monetary Authority of Singapore (MAS) has issued guidelines on artificial intelligence (AI) risk management for responsible AI adoption in the financial sector. — review compliance obligations.",
+      "Regulatory: MAS gives Singapore’s financial firms one year to prepare for AI risk rules — review compliance obligations.",
       "Trading risk: TS Imagine adds regulatory intelligence to AI platform for capital markets — assess algorithmic exposure.",
-      "Operational: HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push — evaluate model governance gaps."
+      "Operational: Singapore central bank issues risk rules on banks' AI use — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Why Data Products will determine the next phase of Fintech AI? Not the AI models! — potential infrastructure advantage.",
-      "Banking efficiency: HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push — cost reduction opportunity."
+      "Banking efficiency: Singapore central bank issues risk rules on banks' AI use — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -23,6 +23,14 @@
     {
       "topic": "Stablecoin AI",
       "count": 3
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 1
+    },
+    {
+      "topic": "Risk Management",
+      "count": 1
     },
     {
       "topic": "Payments AI",
@@ -42,6 +50,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "675685976",
+      "title": "Singapore central bank issues risk rules on banks' AI use",
+      "summary": "Banks in Singapore must seek an independent review of any forthcoming AI projects before implementation, according to new rules.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48558/singapore-central-bank-issues-risk-rules-on-banks-ai-use?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-08",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "banks"
+      ]
+    },
+    {
+      "id": "558294525",
+      "title": "Backbase puts agentic AI in customers' hands",
+      "summary": "Backbase today announced the general availability of Conversational Banking, bringing agentic AI into banks’ customer and employee experiences.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111184/backbase-puts-agentic-ai-in-customers-hands?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-08",
+      "category": "Banking",
+      "tags": [
+        "backbase",
+        "ai",
+        "conversational banking"
+      ]
+    },
+    {
+      "id": "502650139",
+      "title": "Combatting the Rise of AI-Driven Financial Crime in Banking",
+      "summary": "At Sibos 2026, FICO’s Julie Conroy reveals how banks can use agentic AI and cloud tech to combat deepfakes and rising financial crime that targets wealth management and corporate clients.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3608/combatting-the-rise-of-ai-driven-financial-crime-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-08",
+      "category": "Banking",
+      "tags": [
+        "combatting",
+        "rise",
+        "ai"
+      ]
+    },
+    {
+      "id": "288611012",
+      "title": "Equifax UK Launches Automated AML Watchlist Monitoring Tool",
+      "summary": "Equifax UK's new Automatic Watchlist Monitoring product delivers real-time sanctions and adverse media screening via a single API for regulated businesses. The post Equifax UK Launches Automated AML Watchlist Monitoring Tool appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/equifax-uk-launches-automated-aml-watchlist-monitoring-tool/",
+      "date": "2026-10-08",
+      "category": "Banking",
+      "tags": [
+        "equifax uk",
+        "launches automated",
+        "aml watchlist"
+      ]
+    },
+    {
+      "id": "168348504",
+      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
+      "summary": "Singapore s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisions and even execution…",
+      "source": "e27",
+      "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
+      "date": "2026-10-08",
+      "category": "RegTech",
+      "tags": [
+        "mas",
+        "singapore",
+        "ai"
+      ]
+    },
+    {
+      "id": "725600783",
+      "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
+      "summary": "For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel s RE:AI and the Singapore Institute of Technology (SIT) are trying to addr…",
+      "source": "e27",
+      "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
+      "date": "2026-10-08",
+      "category": "Banking",
+      "tags": [
+        "singtel",
+        "re",
+        "ai"
+      ]
+    },
     {
       "id": "714261273",
       "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push",
@@ -794,89 +886,6 @@
         "wealth management",
         "iq report",
         "flags ai"
-      ]
-    },
-    {
-      "id": "942565198",
-      "title": "St. Louis Fed Adapts FRED Database for AI Agents",
-      "summary": "Federal Reserve Economic Data (FRED) has introduced a FRED MCP Connector that uses the Model Context Protocol (MCP) to simplify connecting FRED data with artificial intelligence systems, Federal Reserve Board Governor Christopher J. Waller said Thursday (Oct. 1). In a speech deli…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/st-louis-fed-adapts-fred-database-for-ai-agents/",
-      "date": "2026-10-01",
-      "category": "Banking",
-      "tags": [
-        "st",
-        "louis fed",
-        "adapts fred"
-      ]
-    },
-    {
-      "id": "984433277",
-      "title": "Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist.",
-      "summary": "Nearly half of APAC financial institutions said agentic AI could save $2m-$3m a year in compliance costs, but familiarity remains low. Only 18% were very or moderately familiar with the technology, while concerns over privacy and explainability persist.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/apac-finance-firms-eye-3m-agentic-ai-savings",
-      "date": "2026-10-01",
-      "category": "RegTech",
-      "tags": [
-        "nearly",
-        "apac",
-        "ai"
-      ]
-    },
-    {
-      "id": "716403213",
-      "title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism",
-      "summary": "Accruing income at home from land and power abroad has an old name: empire",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-      "date": "2026-10-01",
-      "category": "Banking",
-      "tags": [
-        "an ai",
-        "accruing"
-      ]
-    },
-    {
-      "id": "844987651",
-      "title": "Gresham ships application to simplify complex reconciliation with AI",
-      "summary": "Gresham, a global leader in enterprise data automation for the financial services industry, today announces the availability of Control Studio, a new AI-enabled, self-service application for its Control reconciliation product.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111095/gresham-ships-application-to-simplify-complex-reconciliation-with-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-01",
-      "category": "Banking",
-      "tags": [
-        "gresham",
-        "ai gresham",
-        "control studio"
-      ]
-    },
-    {
-      "id": "206647239",
-      "title": "Sibos 2026 day two: banks put AI agents to work, but keep the judgement for people",
-      "summary": "Day two in Miami belonged to BNY, BNP Paribas, Deutsche Bank, Citi and HSBC describing agents that repair payments, triage trades and check documents in production, with people kept for the decisions that matter. The post Sibos 2026 day two: banks put AI agents to work, but keep …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/sibos-2026-day-two-banks-put-ai-agents-to-work-but-keep-the-judgement-for-people/",
-      "date": "2026-10-01",
-      "category": "Banking",
-      "tags": [
-        "sibos",
-        "ai",
-        "day"
-      ]
-    },
-    {
-      "id": "126849446",
-      "title": "Bridging the Compliance Screening Decision Gap: What’s Next?",
-      "summary": "At Sibos 2026, David White, Global Head of Product and Data for Risk Intelligence at LSEG, reveals how LSEG is collaborating with AWS to bridge the compliance screening decision gap using intelligent data and AI agents.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3602/bridging-the-compliance-screening-decision-gap-whats-next?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-09-30",
-      "category": "RegTech",
-      "tags": [
-        "bridging",
-        "compliance screening",
-        "decision gap"
       ]
     }
   ]
