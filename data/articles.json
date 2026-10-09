@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-08T23:41:29Z",
+  "last_updated": "2026-10-09T14:15:17Z",
   "insights": {
     "risks": [
       "Regulatory: MAS gives Singapore’s financial firms one year to prepare for AI risk rules — review compliance obligations.",
-      "Trading risk: TS Imagine adds regulatory intelligence to AI platform for capital markets — assess algorithmic exposure.",
-      "Operational: Singapore central bank issues risk rules on banks' AI use — evaluate model governance gaps."
+      "Operational: Investment research spend flatlines despite AI advancements — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Why Data Products will determine the next phase of Fintech AI? Not the AI models! — potential infrastructure advantage.",
-      "Banking efficiency: Singapore central bank issues risk rules on banks' AI use — cost reduction opportunity."
+      "Banking efficiency: Investment research spend flatlines despite AI advancements — cost reduction opportunity.",
+      "InsurTech: Nivo launches AI assistant for lending — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -26,7 +25,11 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 1
+      "count": 2
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 2
     },
     {
       "topic": "Risk Management",
@@ -43,13 +46,93 @@
     {
       "topic": "Fraud Detection",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "638446398",
+      "title": "Nivo launches AI assistant for lending",
+      "summary": "Nivo has today launched Lender Collect, an AI assistant that coordinates a lending case from the first broker email through evidence gathering, underwriting preparation and the conditions that follow the lender's decision.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111203/nivo-launches-ai-assistant-for-lending?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-09",
+      "category": "InsurTech",
+      "tags": [
+        "nivo",
+        "ai",
+        "lender collect"
+      ]
+    },
+    {
+      "id": "62264091",
+      "title": "Investment research spend flatlines despite AI advancements",
+      "summary": "Substantive Research, the research and market data discovery and pricing analytics provider, today publishes the findings of its latest survey into investment research spending and consumption, highlighting how research spending continues to flatline despite new AI-driven require…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111209/investment-research-spend-flatlines-despite-ai-advancements?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-09",
+      "category": "Banking",
+      "tags": [
+        "investment",
+        "ai",
+        "substantive research"
+      ]
+    },
+    {
+      "id": "168425400",
+      "title": "Rezolv Raises $12.5m Series A to Scale AI Lending Platform",
+      "summary": "The Mumbai-based lendtech firm closed a Norwest-led round to deepen AI automation across debt collections, underwriting and risk for Indian banks and NBFCs. The post Rezolv Raises $12.5m Series A to Scale AI Lending Platform appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/rezolv-raises-12-5m-series-a-to-scale-ai-lending-platform/",
+      "date": "2026-10-09",
+      "category": "InsurTech",
+      "tags": [
+        "rezolv raises",
+        "series",
+        "scale ai"
+      ]
+    },
+    {
+      "id": "199040422",
+      "title": "Ecosystem Roundup: Granite Asia, Google bundle cash and compute for Asia’s AI founders",
+      "summary": "Asia s AI founders do not lack investor attention. What they lack is the expensive plumbing frontier AI demands: models, compute, technical help and patient capital. Granite Asia and Google AI Futures Fund want to bundle all of it into one programme. The Singapore-headquartered V…",
+      "source": "e27",
+      "url": "https://e27.co/ecosystem-roundup-granite-asia-google-bundle-cash-and-compute-for-asias-ai-founders-20261009/",
+      "date": "2026-10-09",
+      "category": "Banking",
+      "tags": [
+        "ecosystem roundup",
+        "granite asia",
+        "google"
+      ]
+    },
+    {
+      "id": "38917166",
+      "title": "SoftBank, Grab, PETROS explore AI infra  platform in Sarawak",
+      "summary": "Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its proximity to Singapor…",
+      "source": "e27",
+      "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
+      "date": "2026-10-09",
+      "category": "Banking",
+      "tags": [
+        "softbank",
+        "grab",
+        "petros"
+      ]
+    },
+    {
+      "id": "651291157",
+      "title": "Entity Resolution Is the Real Bottleneck for Agentic AI in Banking",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33106/entity-resolution-is-the-real-bottleneck-for-agentic-ai-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-08",
+      "category": "Banking",
+      "tags": [
+        "entity resolution",
+        "is",
+        "real bottleneck"
+      ]
+    },
     {
       "id": "675685976",
       "title": "Singapore central bank issues risk rules on banks' AI use",
@@ -802,90 +885,6 @@
         "australia",
         "wemoney",
         "ai"
-      ]
-    },
-    {
-      "id": "97080909",
-      "title": "WealthAi launches AI agents to oversee client onboarding and KYC process",
-      "summary": "WealthAi, the AI operating system OS for wealth managers and advisers, has launched a new suite of AI agents designed to oversee the client onboarding and KYC process end-to-end.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111111/wealthai-launches-ai-agents-to-oversee-client-onboarding-and-kyc-process?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "wealthai",
-        "ai",
-        "kyc"
-      ]
-    },
-    {
-      "id": "490181605",
-      "title": "Why the first finance hire at an AI startup is a permissions decision",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33052/why-the-first-finance-hire-at-an-ai-startup-is-a-permissions-decision?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "why",
-        "ai",
-        "author"
-      ]
-    },
-    {
-      "id": "208858204",
-      "title": "HBX Group on the Payment Friction Behind a Travel Booking",
-      "summary": "HBX Group's Sofoklis Limniotis on why B2B travel payments still lag the consumer checkout, and how virtual cards, wallets and automation can close the gap. The post HBX Group on the Payment Friction Behind a Travel Booking appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/hbx-group-on-the-payment-friction-behind-a-travel-booking/",
-      "date": "2026-10-02",
-      "category": "Payments",
-      "tags": [
-        "hbx group",
-        "payment friction",
-        "behind"
-      ]
-    },
-    {
-      "id": "496994608",
-      "title": "Singapore’s AI dividend will depend on what happens after the pilot phase",
-      "summary": "Singapore s early bet on artificial intelligence could give its economy a modest but meaningful lift as population ageing starts to bite. But the real test will not be how many companies say they use AI. It will be whether they can rebuild work around it. The ASEAN+3 Macroeconomi…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-ai-dividend-will-depend-on-what-happens-after-the-pilot-phase-20261002/",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "but"
-      ]
-    },
-    {
-      "id": "293556681",
-      "title": "Sardine launches AI research lab",
-      "summary": "Sardine, the leading agentic risk platform for fighting fraud and financial crime, today launched Sardine AI Labs, an applied research group advancing frontier intelligence to fight financial crime.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111103/sardine-launches-ai-research-lab?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-01",
-      "category": "Banking",
-      "tags": [
-        "sardine",
-        "ai",
-        "sardine ai"
-      ]
-    },
-    {
-      "id": "53671807",
-      "title": "Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap",
-      "summary": "A Goldman Sachs-sponsored research paper argues technology and AI can help RIAs close a widening advisor capacity gap ahead of a $100 trillion wealth The post Wealth Management IQ Report Flags AI as Answer to RIA Talent Gap appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/wealth-management-iq-report-flags-ai-as-answer-to-ria-talent-gap/",
-      "date": "2026-10-01",
-      "category": "Payments",
-      "tags": [
-        "wealth management",
-        "iq report",
-        "flags ai"
       ]
     }
   ]
