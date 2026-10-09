@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-09T14:15:17Z",
+  "last_updated": "2026-10-09T23:06:41Z",
   "insights": {
     "risks": [
       "Regulatory: MAS gives Singapore’s financial firms one year to prepare for AI risk rules — review compliance obligations.",
-      "Operational: Investment research spend flatlines despite AI advancements — evaluate model governance gaps."
+      "Operational: The hazy OpenAI growth metric driving Wall Street — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Investment research spend flatlines despite AI advancements — cost reduction opportunity.",
+      "Banking efficiency: The hazy OpenAI growth metric driving Wall Street — cost reduction opportunity.",
       "InsurTech: Nivo launches AI assistant for lending — underwriting modernisation potential."
     ]
   },
@@ -29,7 +29,7 @@
     },
     {
       "topic": "Credit & Underwriting",
-      "count": 2
+      "count": 1
     },
     {
       "topic": "Risk Management",
@@ -49,6 +49,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "238482877",
+      "title": "The hazy OpenAI growth metric driving Wall Street",
+      "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
+      "date": "2026-10-09",
+      "category": "Banking",
+      "tags": [
+        "openai",
+        "wall street",
+        "revelations"
+      ]
+    },
     {
       "id": "638446398",
       "title": "Nivo launches AI assistant for lending",
@@ -871,20 +885,6 @@
         "bank ai",
         "job postings",
         "jump"
-      ]
-    },
-    {
-      "id": "761183956",
-      "title": "Australia's WeMoney launches AI and open banking-powered lending assessment service",
-      "summary": "Australia's WeMoney has launched an AI-powered lending assessment service built on the country's Consumer Data Right.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48525/australias-wemoney-launches-ai-and-open-banking-powered-lending-assessment-service?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "australia",
-        "wemoney",
-        "ai"
       ]
     }
   ]
