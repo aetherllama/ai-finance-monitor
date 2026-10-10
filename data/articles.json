@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-10-09T23:06:41Z",
+  "last_updated": "2026-10-10T13:27:00Z",
   "insights": {
     "risks": [
       "Regulatory: MAS gives Singapore’s financial firms one year to prepare for AI risk rules — review compliance obligations.",
       "Operational: The hazy OpenAI growth metric driving Wall Street — evaluate model governance gaps."
     ],
     "opportunities": [
+      "Payments: When Should AI Refuse to Answer in Regulated Fintech Support? — potential infrastructure advantage.",
       "Banking efficiency: The hazy OpenAI growth metric driving Wall Street — cost reduction opportunity.",
       "InsurTech: Nivo launches AI assistant for lending — underwriting modernisation potential."
     ]
@@ -13,7 +14,7 @@
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -49,6 +50,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "958637701",
+      "title": "When Should AI Refuse to Answer in Regulated Fintech Support?",
+      "summary": "A former fintech customer experience manager argues AI support tools in regulated finance must learn when to stop answering and pass the customer to a human. The post When Should AI Refuse to Answer in Regulated Fintech Support? appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/when-should-ai-refuse-to-answer-in-regulated-fintech-support/",
+      "date": "2026-10-10",
+      "category": "Payments",
+      "tags": [
+        "when should",
+        "ai refuse",
+        "answer"
+      ]
+    },
     {
       "id": "238482877",
       "title": "The hazy OpenAI growth metric driving Wall Street",
@@ -871,20 +886,6 @@
         "finery markets",
         "adds ai",
         "onboarding"
-      ]
-    },
-    {
-      "id": "200365311",
-      "title": "Bank AI Job Postings Jump 49% as Agents Go to Work",
-      "summary": "Wall Street banks are accelerating artificial intelligence hiring as they shift from chatbots to AI agents. Hiring is expanding beyond model builders to engineers who put agents to work across trading desks, compliance units and back-office operations. AI-related job postings at …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-ai-job-postings-jump-49percent-agents-go-work/",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "bank ai",
-        "job postings",
-        "jump"
       ]
     }
   ]
