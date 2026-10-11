@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-11T13:52:29Z",
+  "last_updated": "2026-10-11T22:44:17Z",
   "insights": {
     "risks": [
       "Regulatory: MAS gives Singapore’s financial firms one year to prepare for AI risk rules — review compliance obligations.",
-      "Operational: The hazy OpenAI growth metric driving Wall Street — evaluate model governance gaps."
+      "Operational: APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles. — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: When Should AI Refuse to Answer in Regulated Fintech Support? — potential infrastructure advantage.",
-      "Banking efficiency: The hazy OpenAI growth metric driving Wall Street — cost reduction opportunity.",
+      "Banking efficiency: APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles. — cost reduction opportunity.",
       "InsurTech: Nivo launches AI assistant for lending — underwriting modernisation potential."
     ]
   },
@@ -21,11 +21,11 @@
       "count": 5
     },
     {
-      "topic": "Stablecoin AI",
-      "count": 3
+      "topic": "Customer Service AI",
+      "count": 2
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Stablecoin AI",
       "count": 2
     },
     {
@@ -50,6 +50,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "227587334",
+      "title": "APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles.",
+      "summary": "APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/in-focus/banks-battle-tech-giants-scarce-ai-talent",
+      "date": "2026-10-11",
+      "category": "Banking",
+      "tags": [
+        "apac",
+        "ai",
+        "deloitte"
+      ]
+    },
     {
       "id": "958637701",
       "title": "When Should AI Refuse to Answer in Regulated Fintech Support?",
@@ -872,20 +886,6 @@
         "sionic lists",
         "instant bank",
         "pay"
-      ]
-    },
-    {
-      "id": "973828444",
-      "title": "Finery Markets Adds AI Onboarding, Analytics and OTC Guide",
-      "summary": "The institutional OTC platform has launched a single-prompt AI integration tool, a new analytics dashboard, and a stablecoin report citing 81% OTC share in The post Finery Markets Adds AI Onboarding, Analytics and OTC Guide appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/finery-markets-adds-ai-onboarding-analytics-and-otc-guide/",
-      "date": "2026-10-02",
-      "category": "Payments",
-      "tags": [
-        "finery markets",
-        "adds ai",
-        "onboarding"
       ]
     }
   ]
