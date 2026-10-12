@@ -1,32 +1,40 @@
 {
-  "last_updated": "2026-10-11T22:44:17Z",
+  "last_updated": "2026-10-12T16:36:52Z",
   "insights": {
     "risks": [
-      "Regulatory: MAS gives Singapore’s financial firms one year to prepare for AI risk rules — review compliance obligations.",
-      "Operational: APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles. — evaluate model governance gaps."
+      "Regulatory: Compliance Automation Should Route Responsibility, Not Remove It — review compliance obligations.",
+      "Operational: FIS launches agentic AI suite for the office of the CFO — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: When Should AI Refuse to Answer in Regulated Fintech Support? — potential infrastructure advantage.",
-      "Banking efficiency: APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles. — cost reduction opportunity.",
+      "Payments: News & Views Podcast: The Real Barrier to Agentic Payments Is Not the AI — potential infrastructure advantage.",
+      "Banking efficiency: FIS launches agentic AI suite for the office of the CFO — cost reduction opportunity.",
       "InsurTech: Nivo launches AI assistant for lending — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 8
     },
     {
       "topic": "Customer Service AI",
+      "count": 3
+    },
+    {
+      "topic": "Payments AI",
       "count": 2
     },
     {
       "topic": "Stablecoin AI",
       "count": 2
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
     },
     {
       "topic": "Credit & Underwriting",
@@ -37,19 +45,165 @@
       "count": 1
     },
     {
-      "topic": "Payments AI",
-      "count": 1
-    },
-    {
       "topic": "Regulatory AI",
-      "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "778123479",
+      "title": "FIS launches agentic AI suite for the office of the CFO",
+      "summary": "Banking technology vendor FIS has built an agentic AI suite designed to help CFOs manage collections, liquidity, risk and cash flow.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48568/fis-launches-agentic-ai-suite-for-the-office-of-the-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "fis",
+        "ai",
+        "cfo banking"
+      ]
+    },
+    {
+      "id": "867921732",
+      "title": "Veryfi launches AI-powered fraud prevention tools",
+      "summary": "Veryfi, the leader in AI-powered document intelligence, recently announced the general availability of its Fraud Detection & Prevention Suite, a configurable, API-first platform that detects fraudulent documents, checks, receipts, and invoices in real time across accounts payable…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111219/veryfi-launches-ai-powered-fraud-prevention-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "veryfi",
+        "ai",
+        "fraud detection"
+      ]
+    },
+    {
+      "id": "235047377",
+      "title": "Agentic payments: How will AI protocols transform finance?",
+      "summary": "At Sibos 2026, Coinbase’s Yuga Cohler talks about how new agentic protocols and secure infrastructure, built in collaboration with AWS, will power the future of autonomous AI payments.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3609/agentic-payments-how-will-ai-protocols-transform-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "agentic",
+        "how",
+        "ai"
+      ]
+    },
+    {
+      "id": "557721336",
+      "title": "News & Views Podcast: The Real Barrier to Agentic Payments Is Not the AI",
+      "summary": "Banks need modern systems and clear safeguards to make agentic payments and tokenized money work securely. The post News Views Podcast: The Real Barrier to Agentic Payments Is Not the AI appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/news-views-podcast-the-real-barrier-to-agentic-payments-is-not-the-ai/",
+      "date": "2026-10-12",
+      "category": "Payments",
+      "tags": [
+        "news",
+        "views podcast",
+        "the real"
+      ]
+    },
+    {
+      "id": "130746382",
+      "title": "Emirates NBD Launches AI Travel Assistant with Visa and Tripadvisor",
+      "summary": "Emirates NBD's conversational travel planner draws on Tripadvisor's 1 billion reviews and surfaces Visa cardholder offers, with no bank login required. The post Emirates NBD Launches AI Travel Assistant with Visa and Tripadvisor appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/emirates-nbd-launches-ai-travel-assistant-with-visa-and-tripadvisor/",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "emirates nbd",
+        "launches ai",
+        "travel assistant"
+      ]
+    },
+    {
+      "id": "622484500",
+      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
+      "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME landscape in Southeast…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "singapore smes",
+        "ai",
+        "ask"
+      ]
+    },
+    {
+      "id": "289726251",
+      "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
+      "summary": "Southeast Asia s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retailers adopt the techno…",
+      "source": "e27",
+      "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "why sea",
+        "ai",
+        "southeast asia"
+      ]
+    },
+    {
+      "id": "747935744",
+      "title": "PT Super Bank Indonesia uses AI and behavioural data to assess borrowers overlooked by traditional credit scoring, opening up lending to underserved segments while managing risk.",
+      "summary": "PT Super Bank Indonesia uses AI and behavioural data to assess borrowers overlooked by traditional credit scoring, opening up lending to underserved segments while managing risk.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/exclusive/superbank-looks-beyond-credit-scores-ai",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "pt super",
+        "bank indonesia",
+        "ai"
+      ]
+    },
+    {
+      "id": "779911068",
+      "title": "UOB and Amazon Web Services (AWS) have signed a memorandum of understanding (MOU) to jointly explore how cloud and artificial intelligence (AI) capabilities can be used to strengthen UOB’s operation resilience.",
+      "summary": "UOB and Amazon Web Services (AWS) have signed a memorandum of understanding (MOU) to jointly explore how cloud and artificial intelligence (AI) capabilities can be used to strengthen UOB’s operation resilience.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/uob-and-aws-sign-mou-hybrid-cloud-and-ai-five-markets",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "uob",
+        "amazon web",
+        "services"
+      ]
+    },
+    {
+      "id": "404848051",
+      "title": "Compliance Automation Should Route Responsibility, Not Remove It",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33123/compliance-automation-should-route-responsibility-not-remove-it?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-11",
+      "category": "RegTech",
+      "tags": [
+        "compliance automation",
+        "should route",
+        "responsibility"
+      ]
+    },
+    {
+      "id": "27174993",
+      "title": "Beyond AI Adoption: How Financial Institutions Can Turn Intelligent Automation into Trusted Business",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33122/beyond-ai-adoption-how-financial-institutions-can-turn-intelligent-automation-into-trusted-business?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-11",
+      "category": "Banking",
+      "tags": [
+        "beyond ai",
+        "adoption",
+        "how financial"
+      ]
+    },
     {
       "id": "227587334",
       "title": "APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles.",
@@ -732,160 +886,6 @@
         "singapore",
         "ai",
         "for zero"
-      ]
-    },
-    {
-      "id": "849617018",
-      "title": "OneByZero raises US$20M Series A to help enterprises move AI from pilots to production",
-      "summary": "For many large companies in Southeast Asia, the challenge with artificial intelligence (AI) is no longer access. The models are available, the cloud infrastructure is ready, and boards have approved AI experimentation. The harder problem is turning that experimentation into syste…",
-      "source": "e27",
-      "url": "https://e27.co/onebyzero-raises-us20m-series-a-to-help-enterprises-move-ai-from-pilots-to-production-20261005/",
-      "date": "2026-10-05",
-      "category": "RegTech",
-      "tags": [
-        "onebyzero",
-        "us",
-        "series"
-      ]
-    },
-    {
-      "id": "11344711",
-      "title": "Everyone can build with AI now. Almost nobody can see what’s coming",
-      "summary": "This week, two numbers came out of the same region within days of each other, and almost nobody put them side by side. On September 3, Singapore s central bank committed SG$220 million over three years to fintech and AI infrastructure under a fourth-generation innovation scheme. …",
-      "source": "e27",
-      "url": "https://e27.co/everyone-can-build-with-ai-now-almost-nobody-can-see-whats-coming-20261004/",
-      "date": "2026-10-05",
-      "category": "Banking",
-      "tags": [
-        "everyone",
-        "ai",
-        "almost"
-      ]
-    },
-    {
-      "id": "99628875",
-      "title": "Small banks, credit unions, and lenders are ahead of other small and mid-sized businesses in adopting artificial intelligence (AI), according to a study by SAS.",
-      "summary": "Small banks, credit unions, and lenders are ahead of other small and mid-sized businesses in adopting artificial intelligence (AI), according to a study by SAS.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/information-technology/in-focus/small-banks-are-early-ai-adopters-infrastructure-holds-back-scale",
-      "date": "2026-10-04",
-      "category": "Banking",
-      "tags": [
-        "small",
-        "ai",
-        "sas"
-      ]
-    },
-    {
-      "id": "227552758",
-      "title": "New AI Czar Jay Clayton Gets 120 Days to Report on Tech’s Risks",
-      "summary": "The White House has reportedly given its artificial intelligence task force 120 days to report on the risks and potential rewards of the technology. That’s according to a report Saturday (Oct. 3) from The Wall Street Journal (WSJ), citing comments by Jay Clayton, the director of …",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/new-ai-czar-jay-clayton-gets-120-days-to-report-on-techs-risks/",
-      "date": "2026-10-04",
-      "category": "Banking",
-      "tags": [
-        "new ai",
-        "czar jay",
-        "clayton gets"
-      ]
-    },
-    {
-      "id": "365369793",
-      "title": "Masayoshi Son’s AI ambitions outgrow SoftBank’s balance sheet",
-      "summary": "DigitalBridge CEO Marc Ganzi says his data centre investment group will be SoftBank’s ‘third-party infrastructure arm’ after $4bn takeover",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9b3a355e-5975-445f-9004-b95513e3856a?syn-25a6b1a6=1",
-      "date": "2026-10-04",
-      "category": "Banking",
-      "tags": [
-        "masayoshi son",
-        "ai",
-        "softbank"
-      ]
-    },
-    {
-      "id": "750255403",
-      "title": "Mal Raises $230m Seed to Build AI-Native Islamic Bank from Abu Dhabi",
-      "summary": "Abu Dhabi fintech Mal has secured a $230m seed round and UAE central bank approval in principle to launch a licensed Islamic digital bank built The post Mal Raises $230m Seed to Build AI-Native Islamic Bank from Abu Dhabi appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/mal-raises-230m-seed-to-build-ai-native-islamic-bank-from-abu-dhabi/",
-      "date": "2026-10-04",
-      "category": "Banking",
-      "tags": [
-        "mal raises",
-        "seed",
-        "build ai"
-      ]
-    },
-    {
-      "id": "955190083",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "date": "2026-10-03",
-      "category": "Banking",
-      "tags": [
-        "cathie wood",
-        "ai",
-        "as ai"
-      ]
-    },
-    {
-      "id": "813896095",
-      "title": "Liberate’s AI Agents Take Over the Insurance Night Shift",
-      "summary": "A policyholder calls her insurance agency to ask what she owes. An artificial intelligence (AI) agent answers, pulls the balance and logs the call in the carrier’s core system, with no employee on the line. Interactions like that have given insurance agencies and carriers back mo…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/insurance/2026/liberates-ai-agents-take-over-the-insurance-night-shift/",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "liberate",
-        "ai agents",
-        "take over"
-      ]
-    },
-    {
-      "id": "301015277",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from …",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "redefining",
-        "ai enterprise",
-        "ai"
-      ]
-    },
-    {
-      "id": "916141582",
-      "title": "Institutional investors see US forced to share AI lead with China",
-      "summary": "A Robocap survey of 100 investors managing $513bn finds 56% expect the US and China to hold joint AI leadership within five years. The post Institutional investors see US forced to share AI lead with China appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/institutional-investors-see-us-forced-to-share-ai-lead-with-china/",
-      "date": "2026-10-02",
-      "category": "Payments",
-      "tags": [
-        "institutional",
-        "us",
-        "ai"
-      ]
-    },
-    {
-      "id": "325599310",
-      "title": "Sionic Lists Instant Bank Pay on Microsoft Marketplace",
-      "summary": "The Atlanta firm's pay-by-bank service, using FedNow and RTP rails, is now available on Microsoft Marketplace with an AI-powered fraud detection The post Sionic Lists Instant Bank Pay on Microsoft Marketplace appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/sionic-lists-instant-bank-pay-on-microsoft-marketplace/",
-      "date": "2026-10-02",
-      "category": "Banking",
-      "tags": [
-        "sionic lists",
-        "instant bank",
-        "pay"
       ]
     }
   ]
