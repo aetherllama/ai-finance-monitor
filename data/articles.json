@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-12T16:36:52Z",
+  "last_updated": "2026-10-13T01:10:35Z",
   "insights": {
     "risks": [
       "Regulatory: Compliance Automation Should Route Responsibility, Not Remove It — review compliance obligations.",
-      "Operational: FIS launches agentic AI suite for the office of the CFO — evaluate model governance gaps."
+      "Operational: The Double-Edged Sword of AI in Banking — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: News & Views Podcast: The Real Barrier to Agentic Payments Is Not the AI — potential infrastructure advantage.",
-      "Banking efficiency: FIS launches agentic AI suite for the office of the CFO — cost reduction opportunity.",
-      "InsurTech: Nivo launches AI assistant for lending — underwriting modernisation potential."
+      "Banking efficiency: The Double-Edged Sword of AI in Banking — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -50,6 +49,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "816652150",
+      "title": "The Double-Edged Sword of AI in Banking",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33139/the-double-edged-sword-of-ai-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-12",
+      "category": "Banking",
+      "tags": [
+        "the double",
+        "edged sword",
+        "ai"
+      ]
+    },
     {
       "id": "778123479",
       "title": "FIS launches agentic AI suite for the office of the CFO",
@@ -872,20 +885,6 @@
         "stripe",
         "openrouter deal",
         "signals ai"
-      ]
-    },
-    {
-      "id": "59214654",
-      "title": "0G picks Singapore as global base, expands AI research into badminton",
-      "summary": "For most artificial intelligence companies, Singapore is either a regional sales base or a policy-friendly testbed. For Zero Gravity, better known as 0G, the city-state is now becoming something more central: its global headquarters. The AI infrastructure company said it will inv…",
-      "source": "e27",
-      "url": "https://e27.co/0g-picks-singapore-as-global-base-expands-ai-research-into-badminton-20261005/",
-      "date": "2026-10-05",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "for zero"
       ]
     }
   ]
