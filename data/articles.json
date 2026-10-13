@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-10-13T14:54:00Z",
+  "last_updated": "2026-10-13T23:13:17Z",
   "insights": {
     "risks": [
       "Regulatory: Compliance Automation Should Route Responsibility, Not Remove It — review compliance obligations.",
-      "Operational: The Double-Edged Sword of AI in Banking — evaluate model governance gaps."
+      "Trading risk: Bajaj Broking launches algorithmic trading platform — assess algorithmic exposure.",
+      "Operational: Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: News & Views Podcast: The Real Barrier to Agentic Payments Is Not the AI — potential infrastructure advantage.",
-      "Banking efficiency: The Double-Edged Sword of AI in Banking — cost reduction opportunity."
+      "Payments: Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless Infrastructure, and Regulatory Guardrails — potential infrastructure advantage.",
+      "Banking efficiency: Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Customer Service AI",
@@ -28,8 +29,8 @@
       "count": 2
     },
     {
-      "topic": "Stablecoin AI",
-      "count": 2
+      "topic": "Algorithmic Trading",
+      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -44,11 +45,65 @@
       "count": 1
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "363934966",
+      "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
+      "summary": "Declines for Samsung and SK Hynix drag Korea’s Kospi sharply lower as investors fret over the scale of AI investment",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e16f0422-cf75-4cc9-962d-4605e421dc63?syn-25a6b1a6=1",
+      "date": "2026-10-13",
+      "category": "Banking",
+      "tags": [
+        "chip",
+        "broadcom",
+        "ai"
+      ]
+    },
+    {
+      "id": "481666085",
+      "title": "SBS unveils sovereign AI platform for core banking",
+      "summary": "French software firm SBS has launched what it claims the world's first sovereign AI platform to be developed for the banking market.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48577/sbs-unveils-sovereign-ai-platform-for-core-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-13",
+      "category": "Banking",
+      "tags": [
+        "sbs",
+        "ai",
+        "french"
+      ]
+    },
+    {
+      "id": "43823976",
+      "title": "Bajaj Broking launches algorithmic trading platform",
+      "summary": "Bajaj Broking, a full-service stockbroker, today announced the launch of its algorithmic trading platform, enabling users to access ready-made, exchange-registered strategies or build customised trading strategies using a range of technical indicators and predefined trading condi…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111237/bajaj-broking-launches-algorithmic-trading-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-13",
+      "category": "Trading",
+      "tags": [
+        "bajaj broking"
+      ]
+    },
+    {
+      "id": "121933306",
+      "title": "Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless Infrastructure, and Regulatory Guardrails",
+      "summary": "Money20/20 USA 2026 in Las Vegas will explore borderless payments, AI transformation, strategic partnerships and regulation, bringing together leaders shaping the future of financial services. The post Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless In…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/money20-20-usa-unveils-2026-agenda-focused-on-ai-transformation-borderless-infrastructure-and-regulatory-guardrails/",
+      "date": "2026-10-13",
+      "category": "Payments",
+      "tags": [
+        "usa unveils",
+        "agenda focused",
+        "ai transformation"
+      ]
+    },
     {
       "id": "816652150",
       "title": "The Double-Edged Sword of AI in Banking",
@@ -829,62 +884,6 @@
         "apac",
         "better",
         "ai"
-      ]
-    },
-    {
-      "id": "199395170",
-      "title": "CaixaBank establishes new AI and data division",
-      "summary": "Spanish financial services firm CaixaBank has created its first AI and data division in a move designed to accelerate the bank's digital transformation efforts.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48528/caixabank-establishes-new-ai-and-data-division?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-05",
-      "category": "Banking",
-      "tags": [
-        "caixabank",
-        "ai",
-        "spanish"
-      ]
-    },
-    {
-      "id": "42666775",
-      "title": "Curvestone AI selected for Barclays scaleup scheme",
-      "summary": "Curvestone AI, the AI compliance platform for regulated financial services, has announced its selection as one of only 25 companies chosen for the Barclays Eagle Labs Scaleup Programme.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111123/curvestone-ai-selected-for-barclays-scaleup-scheme?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-05",
-      "category": "RegTech",
-      "tags": [
-        "curvestone ai",
-        "barclays",
-        "ai"
-      ]
-    },
-    {
-      "id": "817963592",
-      "title": "Bloomberg Electronic Markets brings automation to JGB Market-on-Close functionality",
-      "summary": "Bloomberg announced the first successful fully automated Japanese Government Bond (JGB) Market-on-Close trade, following the introduction of a new workflow. Aligned to BB3P (Hikene Trading), the Market-on-Close reference rate for JGBs, the automated workflow helps minimize tracki…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111132/bloomberg-electronic-markets-brings-automation-to-jgb-market-on-close-functionality?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-05",
-      "category": "Trading",
-      "tags": [
-        "bloomberg electronic",
-        "markets",
-        "jgb market"
-      ]
-    },
-    {
-      "id": "213948983",
-      "title": "Stripe’s OpenRouter Deal Signals AI-Driven Hybrid Payment Routing",
-      "summary": "A $7bn-plus acquisition of AI gateway OpenRouter positions Stripe to route transactions intelligently across fiat and stablecoin rails. The post Stripe s OpenRouter Deal Signals AI-Driven Hybrid Payment Routing appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/stripes-openrouter-deal-signals-ai-driven-hybrid-payment-routing/",
-      "date": "2026-10-05",
-      "category": "Payments",
-      "tags": [
-        "stripe",
-        "openrouter deal",
-        "signals ai"
       ]
     }
   ]
