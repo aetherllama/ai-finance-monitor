@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-10-13T23:13:17Z",
+  "last_updated": "2026-10-14T12:45:34Z",
   "insights": {
     "risks": [
-      "Regulatory: Compliance Automation Should Route Responsibility, Not Remove It — review compliance obligations.",
       "Trading risk: Bajaj Broking launches algorithmic trading platform — assess algorithmic exposure.",
-      "Operational: Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing — evaluate model governance gaps."
+      "Operational: CoreWeave targets ‘unlimited’ insurance money to fund AI build-out — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless Infrastructure, and Regulatory Guardrails — potential infrastructure advantage.",
-      "Banking efficiency: Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing — cost reduction opportunity."
+      "Banking efficiency: CoreWeave targets ‘unlimited’ insurance money to fund AI build-out — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Automation",
@@ -22,11 +21,11 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 3
+      "count": 4
     },
     {
       "topic": "Payments AI",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Algorithmic Trading",
@@ -50,6 +49,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "806346064",
+      "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
+      "summary": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "coreweave",
+        "ai",
+        "co"
+      ]
+    },
+    {
+      "id": "36254981",
+      "title": "How Can AI in Payments Balance Innovation With Fraud Risk?",
+      "summary": "At Sibos 2026, Pay.UK’s David Crawford shows how deterministic and probabilistic AI keep everyday payments fast, safe, and free from fraud.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3612/how-can-ai-in-payments-balance-innovation-with-fraud-risk?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "how can",
+        "ai",
+        "payments balance"
+      ]
+    },
+    {
+      "id": "853406636",
+      "title": "Anthropic’s Singapore MOU bets on safety testing, not consumer reach",
+      "summary": "Anthropic has finally given its Singapore customers somewhere to knock. The San Francisco-based AI lab opened an office in the city-state on Wednesday, its fifth in the Asia Pacific, and signed a memorandum of understanding (MOU) with the Ministry of Digital Development and Infor…",
+      "source": "e27",
+      "url": "https://e27.co/anthropics-singapore-mou-bets-on-safety-testing-not-consumer-reach-20261014/",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "anthropic",
+        "singapore mou",
+        "singapore"
+      ]
+    },
+    {
+      "id": "367404059",
+      "title": "Singapore’s next AI industry may be the people who check the agents",
+      "summary": "An AI chatbot that drafts a bad email is an embarrassment. An AI agent that sends it, to the wrong customer, with the wrong file attached, after approving the wrong refund, is a liability. Singapore’s regulators have clearly been losing sleep over the second scenario. On Wednesda…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-next-ai-industry-may-be-the-people-who-check-the-agents-20261014/",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "an ai"
+      ]
+    },
+    {
+      "id": "232609706",
+      "title": "Parallel Loop nets US$6.6M to sell enterprises the one thing AI models lack: context",
+      "summary": "In early 2018, Yujun Chean and Prateek Jogani were selling car insurance with a cashback twist. Their Singapore startup, Vouch Insurtech, had just raised SGD1 million (then US$755,000) in seed funding as the parent of Thai insurtech FairDee. Eight years on, the pair are back with…",
+      "source": "e27",
+      "url": "https://e27.co/parallel-loop-nets-us6-6m-to-sell-enterprises-the-one-thing-ai-models-lack-context-20261014/",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "parallel loop",
+        "us",
+        "ai"
+      ]
+    },
+    {
+      "id": "868200091",
+      "title": "Singapore wants Google’s AI to catch scammers before victims hit send",
+      "summary": "Singapore’s war on scams has mostly been fought far from the victim: in police operations centres, bank back offices and, more recently, in rulebooks telling platforms what they must block. Now the city-state wants part of that fight to happen inside the phone itself. Google on W…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-wants-googles-ai-to-catch-scammers-before-victims-hit-send-20261014/",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "google",
+        "ai"
+      ]
+    },
     {
       "id": "363934966",
       "title": "Chip stocks slide after Broadcom boss warns of ‘casino’ mentality in AI investing",
@@ -800,90 +883,6 @@
         "why southeast",
         "asia",
         "vcs"
-      ]
-    },
-    {
-      "id": "706034665",
-      "title": "AI’s bottleneck economy is taking shape across Southeast Asia’s chip supply chain",
-      "summary": "The artificial intelligence investment story is beginning to move beyond the most obvious winners. For much of the past three years, the market s attention has centred on graphics processing units (GPUs), high-bandwidth memory and the companies supplying the raw compute needed to…",
-      "source": "e27",
-      "url": "https://e27.co/ais-bottleneck-economy-is-taking-shape-across-southeast-asias-chip-supply-chain-20261005/",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "southeast asia",
-        "gpus"
-      ]
-    },
-    {
-      "id": "166838192",
-      "title": "AI without the hype: What AML transformation means",
-      "summary": "How can organisations innovate with AI while meeting growing governance and regulatory expectations?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/627/ai-without-the-hype-what-aml-transformation-means?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "what aml",
-        "how"
-      ]
-    },
-    {
-      "id": "650753082",
-      "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
-      "summary": "Syndication of the massive financing package tests lending appetite amid growing concerns over mounting AI debt",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
-      "date": "2026-10-05",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "broadcom",
-        "anthropic syndication"
-      ]
-    },
-    {
-      "id": "968098468",
-      "title": "NYC Lawmakers Aim to Lead Nation in Establishing AI Safety Rules",
-      "summary": "New York City is positioning itself as a leader in an effort to slow down the development of artificial intelligence (AI), the Wall Street Journal reported Monday (Oct. 5). The New York City Council held a hearing Monday in which lawmakers heard from, and in some cases grilled, r…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nyc-lawmakers-aim-to-lead-nation-in-establishing-ai-safety-rules/",
-      "date": "2026-10-05",
-      "category": "Banking",
-      "tags": [
-        "nyc lawmakers",
-        "aim",
-        "lead nation"
-      ]
-    },
-    {
-      "id": "70610045",
-      "title": "Bank of America Says Investors Are Overplaying AI and Underestimating Consumers",
-      "summary": "It may be time for investors to pivot from artificial intelligence-linked capital expenditures to consumer-driven spending, Bank of America strategists wrote in a Monday (Oct. 5) note, according to a Bloomberg report. The abundance of AI spending and the shrinking of discretionar…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bank-of-america-says-investors-are-overplaying-ai-underestimating-consumers/",
-      "date": "2026-10-05",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "america says",
-        "investors are"
-      ]
-    },
-    {
-      "id": "596186606",
-      "title": "APAC banks face rising pressure to retain customers, with 72% of consumers only moderately satisfied or less with their main bank. Better digital services, personalised advice and secure AI could influence switching decisions.",
-      "summary": "APAC banks face rising pressure to retain customers, with 72% of consumers only moderately satisfied or less with their main bank. Better digital services, personalised advice and secure AI could influence switching decisions.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/apac-banks-risk-losing-customers-over-weak-digital-services",
-      "date": "2026-10-05",
-      "category": "Banking",
-      "tags": [
-        "apac",
-        "better",
-        "ai"
       ]
     }
   ]
