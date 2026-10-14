@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-10-14T12:45:34Z",
+  "last_updated": "2026-10-14T22:07:58Z",
   "insights": {
     "risks": [
+      "Regulatory: AI Supervision Starts With Your Data: Do You Own It? — review compliance obligations.",
       "Trading risk: Bajaj Broking launches algorithmic trading platform — assess algorithmic exposure.",
-      "Operational: CoreWeave targets ‘unlimited’ insurance money to fund AI build-out — evaluate model governance gaps."
+      "Operational: Starling becomes first bank to train AI model on UK sovereign cloud — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless Infrastructure, and Regulatory Guardrails — potential infrastructure advantage.",
-      "Banking efficiency: CoreWeave targets ‘unlimited’ insurance money to fund AI build-out — cost reduction opportunity."
+      "Banking efficiency: Starling becomes first bank to train AI model on UK sovereign cloud — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Automation",
@@ -49,6 +50,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "230932528",
+      "title": "Starling becomes first bank to train AI model on UK sovereign cloud",
+      "summary": "Starling is working with AI chip making giant Nvidia to build a transactional foundational model that is trained and hosted within a UK sovereign cloud.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48583/starling-becomes-first-bank-to-train-ai-model-on-uk-sovereign-cloud?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "starling",
+        "ai",
+        "uk"
+      ]
+    },
+    {
+      "id": "600597493",
+      "title": "Bakkt chooses Thredd to power credit card-as-a-service programme settling in stablecoins",
+      "summary": "Thredd, the AI-first issuer processing platform, today announced a partnership with Bakkt to power a credit card-as-a-service program in the United States designed to settle in stablecoins.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111252/bakkt-chooses-thredd-to-power-credit-card-as-a-service-programme-settling-in-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "bakkt",
+        "thredd",
+        "ai"
+      ]
+    },
+    {
+      "id": "786731522",
+      "title": "Mollie to build banking layer for AI agents",
+      "summary": "Mollie today announced a new venture model to build a dedicated intelligence platform and banking layer for AI agents.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111257/mollie-to-build-banking-layer-for-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "mollie",
+        "ai"
+      ]
+    },
+    {
+      "id": "199870437",
+      "title": "Deutsche Bank deploys Farsight tech",
+      "summary": "Farsight, the platform helping global financial services firms become AI-native, today announced its partnership with Deutsche Bank.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111260/deutsche-bank-deploys-farsight-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-14",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "farsight",
+        "ai"
+      ]
+    },
+    {
+      "id": "777587174",
+      "title": "AI Supervision Starts With Your Data: Do You Own It?",
+      "summary": "Compliance teams are racing to adopt AI supervision. Jamie Hoyle of RedOak/MirrorWeb argues the first question is whether firms own their communications data. The post AI Supervision Starts With Your Data: Do You Own It? appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-supervision-starts-with-your-data-do-you-own-it/",
+      "date": "2026-10-14",
+      "category": "RegTech",
+      "tags": [
+        "ai supervision",
+        "starts with",
+        "your data"
+      ]
+    },
     {
       "id": "806346064",
       "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
@@ -813,76 +883,6 @@
         "capex catches",
         "up with",
         "amazon"
-      ]
-    },
-    {
-      "id": "851083491",
-      "title": "Three AI banking assistants, three different bets. Learn from bunq, Starling and Revolut",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33072/three-ai-banking-assistants-three-different-bets-learn-from-bunq-starling-and-revolut?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "three ai",
-        "learn",
-        "starling"
-      ]
-    },
-    {
-      "id": "742284999",
-      "title": "The Prediction that AI will Kill Off SaaS is Premature. A Better Question is Which Elements are Converging?",
-      "summary": "AI may not kill SaaS, but reshape it—commoditising interfaces and routine tasks while increasing the value of trusted data, workflows, integrations, security and business logic. The post The Prediction that AI will Kill Off SaaS is Premature. A Better Question is Which Elements a…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-prediction-that-ai-will-kill-off-saas-is-premature-a-better-question-is-which-elements-are-converging/",
-      "date": "2026-10-06",
-      "category": "Payments",
-      "tags": [
-        "the prediction",
-        "ai",
-        "kill off"
-      ]
-    },
-    {
-      "id": "932146578",
-      "title": "Addressing the Digital Shift – AI Accounting ERP Trend in Singapore",
-      "summary": "Selecting a scalable enterprise solution is no longer just an operational choice; it is a core business strategy. For small and medium businesses navigating a highly digitalized economy, legacy architectures fail to meet modern efficiency standards. Integrating advanced automatio…",
-      "source": "e27",
-      "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "addressing",
-        "digital shift",
-        "ai accounting"
-      ]
-    },
-    {
-      "id": "514145464",
-      "title": "The junior developer dilemma: How AI is reshaping tech talent in Southeast Asia",
-      "summary": "Across Southeast Asia s technology hubs, engineering leaders are getting used to a new kind of productivity curve. In Singapore, Jakarta, Manila and Ho Chi Minh City, software teams are shipping faster, clearing backlogs more quickly and leaning on AI tools for work that once con…",
-      "source": "e27",
-      "url": "https://e27.co/the-junior-developer-dilemma-how-ai-is-reshaping-tech-talent-in-southeast-asia-20261006/",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "southeast asia",
-        "across southeast"
-      ]
-    },
-    {
-      "id": "775197377",
-      "title": "Why Southeast Asia’s VCs should pay attention to a16z’s new investment bet",
-      "summary": "In 2021, I invested in one of the robotics startups that was solving for real world problems. The idea was to look beyond the screen and make every hardware talking through new robo technology. My thesis was clear, after the software it s hardware that will be disrupted. Since AI…",
-      "source": "e27",
-      "url": "https://e27.co/why-southeast-asias-vcs-should-pay-attention-to-a16zs-new-investment-bet-20261004/",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "why southeast",
-        "asia",
-        "vcs"
       ]
     }
   ]
