@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-10-15T12:32:15Z",
+  "last_updated": "2026-10-15T22:01:11Z",
   "insights": {
     "risks": [
-      "Regulatory: AI Supervision Starts With Your Data: Do You Own It? — review compliance obligations.",
-      "Operational: Lack of financial confidence driving consumers to AI assistants — evaluate model governance gaps."
+      "Trading risk: Treasuries rally as investors seek shelter from AI turbulence — assess algorithmic exposure.",
+      "Operational: AI-native core banking startup Maximum signs Emprise Bank — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: The Smarter Path to Managing Payment Modernisation — potential infrastructure advantage.",
-      "Banking efficiency: Lack of financial confidence driving consumers to AI assistants — cost reduction opportunity."
+      "Banking efficiency: AI-native core banking startup Maximum signs Emprise Bank — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 9
     },
     {
       "topic": "Automation",
@@ -25,7 +25,7 @@
     },
     {
       "topic": "Payments AI",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Generative AI",
@@ -53,6 +53,75 @@
     }
   ],
   "articles": [
+    {
+      "id": "786549741",
+      "title": "Treasuries rally as investors seek shelter from AI turbulence",
+      "summary": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "date": "2026-10-15",
+      "category": "Trading",
+      "tags": [
+        "treasuries",
+        "ai",
+        "global"
+      ]
+    },
+    {
+      "id": "189096759",
+      "title": "Risk of an AI crunch for stock markets is rising",
+      "summary": "The tremor seen this week could be a foretaste of things to come",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
+      "date": "2026-10-15",
+      "category": "Trading",
+      "tags": [
+        "risk",
+        "ai"
+      ]
+    },
+    {
+      "id": "699339798",
+      "title": "AI-native core banking startup Maximum signs Emprise Bank",
+      "summary": "Emprise Bank has announced a design partnership with Maximum, an AI-native banking infrastructure company, to transform its core banking system.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111263/ai-native-core-banking-startup-maximum-signs-emprise-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "maximum",
+        "emprise bank"
+      ]
+    },
+    {
+      "id": "425297849",
+      "title": "Extend brings AI receipt agent to bank partners' SMB customers",
+      "summary": "Extend, the financial operations platform bringing modern spend and expense management to business cards everywhere, today shared its AI Receipt Agent with bank partners as part of its larger mission to make trusted AI tools accessible to the small and mid-market businesses they …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111294/extend-brings-ai-receipt-agent-to-bank-partners-smb-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "extend",
+        "ai",
+        "smb"
+      ]
+    },
+    {
+      "id": "918231111",
+      "title": "PEX brings AI-powered finance workflows to ChatGPT and Claude",
+      "summary": "PEX, a leading corporate card and spend management platform, today launched PEX AI, a set of capabilities that automates everyday finance work, runs multi-step workflows and connects PEX to AI assistants such as Claude and ChatGPT.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111304/pex-brings-ai-powered-finance-workflows-to-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "pex",
+        "ai",
+        "chatgpt"
+      ]
+    },
     {
       "id": "575568033",
       "title": "Lack of financial confidence driving consumers to AI assistants",
@@ -818,76 +887,6 @@
         "ts imagine",
         "ai",
         "gentek"
-      ]
-    },
-    {
-      "id": "221794000",
-      "title": "AI in Banking: How To Build a Resilient Foundation for the Future",
-      "summary": "At Sibos 2026, Finastra’s Mike Stawchansky reveals how cloud data and API-led architectures build a resilient foundation for AI in banking.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3607/ai-in-banking-how-to-build-a-resilient-foundation-for-the-future?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-07",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "banking",
-        "how to"
-      ]
-    },
-    {
-      "id": "523359964",
-      "title": "Why Data Products will determine the next phase of Fintech AI? Not the AI models!",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33093/why-data-products-will-determine-the-next-phase-of-fintech-ai-not-the-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-07",
-      "category": "Payments",
-      "tags": [
-        "why data",
-        "products",
-        "fintech ai"
-      ]
-    },
-    {
-      "id": "821032900",
-      "title": "Southeast Asian tech leaders are learning to trust AI agents, but not with production",
-      "summary": "AI coding agents have moved quickly from novelty to daily tool inside Southeast Asian engineering teams. Across Singapore, Bangkok, Jakarta and Ho Chi Minh City, developers are no longer just asking AI to complete a line of code or explain an error message. They are using agents …",
-      "source": "e27",
-      "url": "https://e27.co/southeast-asian-tech-leaders-are-learning-to-trust-ai-agents-but-not-with-production-20261007/",
-      "date": "2026-10-07",
-      "category": "Banking",
-      "tags": [
-        "southeast asian",
-        "ai",
-        "across singapore"
-      ]
-    },
-    {
-      "id": "315712719",
-      "title": "The Monetary Authority of Singapore (MAS) has issued guidelines on artificial intelligence (AI) risk management for responsible AI adoption in the financial sector.",
-      "summary": "The Monetary Authority of Singapore (MAS) has issued guidelines on artificial intelligence (AI) risk management for responsible AI adoption in the financial sector.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/mas-issues-ai-risk-management-guidelines-financial-sector",
-      "date": "2026-10-07",
-      "category": "RegTech",
-      "tags": [
-        "the monetary",
-        "authority",
-        "singapore"
-      ]
-    },
-    {
-      "id": "794624138",
-      "title": "Plaid launches credit, fraud and payment risk AI models",
-      "summary": "Open finance fintech Plaid has unveiled AI models designed to help financial firms make better lending decisions, catch more fraud, and reduce payment risk.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48545/plaid-launches-credit-fraud-and-payment-risk-ai-models?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Payments",
-      "tags": [
-        "plaid",
-        "ai",
-        "open"
       ]
     }
   ]
