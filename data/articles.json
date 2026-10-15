@@ -1,24 +1,23 @@
 {
-  "last_updated": "2026-10-14T22:07:58Z",
+  "last_updated": "2026-10-15T12:32:15Z",
   "insights": {
     "risks": [
       "Regulatory: AI Supervision Starts With Your Data: Do You Own It? — review compliance obligations.",
-      "Trading risk: Bajaj Broking launches algorithmic trading platform — assess algorithmic exposure.",
-      "Operational: Starling becomes first bank to train AI model on UK sovereign cloud — evaluate model governance gaps."
+      "Operational: Lack of financial confidence driving consumers to AI assistants — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless Infrastructure, and Regulatory Guardrails — potential infrastructure advantage.",
-      "Banking efficiency: Starling becomes first bank to train AI model on UK sovereign cloud — cost reduction opportunity."
+      "Payments: The Smarter Path to Managing Payment Modernisation — potential infrastructure advantage.",
+      "Banking efficiency: Lack of financial confidence driving consumers to AI assistants — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 10
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Customer Service AI",
@@ -27,6 +26,10 @@
     {
       "topic": "Payments AI",
       "count": 3
+    },
+    {
+      "topic": "Generative AI",
+      "count": 1
     },
     {
       "topic": "Algorithmic Trading",
@@ -50,6 +53,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "575568033",
+      "title": "Lack of financial confidence driving consumers to AI assistants",
+      "summary": "A significant number of UK banking consumers are turning to AI assistants out of a sense of embarrassment and a fear of being judged for a lack of financial literacy.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48589/lack-of-financial-confidence-driving-consumers-to-ai-assistants?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "lack",
+        "ai",
+        "uk"
+      ]
+    },
+    {
+      "id": "167635998",
+      "title": "Cultivate AI launches AI platform for credit unions",
+      "summary": "Cultivate AI, the collaborative AI platform built specifically for the credit union industry, is officially available beginning today to all credit unions and CUSOs.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111273/cultivate-ai-launches-ai-platform-for-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "cultivate ai",
+        "ai",
+        "cusos"
+      ]
+    },
+    {
+      "id": "896458270",
+      "title": "Dougs raises $50m for AI accounting platform",
+      "summary": "Dougs, the technology-led accounting and financial management platform for small businesses, today announced a €50 million investment from Expedition Growth Capital.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111274/dougs-raises-50m-for-ai-accounting-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "dougs",
+        "ai",
+        "expedition growth"
+      ]
+    },
+    {
+      "id": "723423529",
+      "title": "The Smarter Path to Managing Payment Modernisation",
+      "summary": "At Sibos 2026, RedCompass Labs’ Robert Coakley reveals how banks can manage payment modernisation complexity by leveraging the ecosystem and AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3616/the-smarter-path-to-managing-payment-modernisation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-15",
+      "category": "Payments",
+      "tags": [
+        "the smarter",
+        "path",
+        "managing payment"
+      ]
+    },
+    {
+      "id": "88338459",
+      "title": "FintechOS Elevate 2026: Can AI Deliver Beyond the Pilots and Promises?",
+      "summary": "FintechOS Elevate 2026 put AI's big promises to the test, from lending decisions and product innovation to the challenge of proving results. The post FintechOS Elevate 2026: Can AI Deliver Beyond the Pilots and Promises? appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fintechos-elevate-2026-can-ai-deliver-beyond-the-pilots-and-promises/",
+      "date": "2026-10-15",
+      "category": "Payments",
+      "tags": [
+        "fintechos elevate",
+        "can ai",
+        "deliver beyond"
+      ]
+    },
+    {
+      "id": "761813768",
+      "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
+      "summary": "Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited s office carrying something different: not a …",
+      "source": "e27",
+      "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "sea",
+        "google",
+        "ai"
+      ]
+    },
+    {
+      "id": "825674005",
+      "title": "AI can increase productivity. It can’t increase human capacity",
+      "summary": "We may be using AI to save hours of work, only to fill those hours with more work. This is something I have been thinking about as organisations accelerate their investment in AI. The productivity opportunity is undeniable. Generative AI can draft in seconds, analyse large volume…",
+      "source": "e27",
+      "url": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "it",
+        "we"
+      ]
+    },
+    {
+      "id": "601547987",
+      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
+      "summary": "Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out that performance is pl…",
+      "source": "e27",
+      "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "singapore",
+        "employers"
+      ]
+    },
     {
       "id": "230932528",
       "title": "Starling becomes first bank to train AI model on UK sovereign cloud",
@@ -773,116 +888,6 @@
         "plaid",
         "ai",
         "open"
-      ]
-    },
-    {
-      "id": "251713716",
-      "title": "AlphaSense unveils SuperAnalyst AI agent",
-      "summary": "AlphaSense, the AI platform redefining market intelligence for the business and financial world, today announced its always-on AI agent, SuperAnalyst, is evolving decision-grade AI from answering questions to continuously executing complex workflows using real-time data on behalf…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111163/alphasense-unveils-superanalyst-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "alphasense",
-        "superanalyst ai",
-        "ai"
-      ]
-    },
-    {
-      "id": "996967392",
-      "title": "On-Demand – AI without the hype: What AML transformation means",
-      "summary": "How can organisations innovate with AI while meeting growing governance and regulatory expectations?",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/event-info/627/on-demand--ai-without-the-hype-what-aml-transformation-means?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "on",
-        "demand",
-        "ai"
-      ]
-    },
-    {
-      "id": "948823517",
-      "title": "MDI Ventures sharpens SEA thesis around AI, blockchain, digital asset infra",
-      "summary": "MDI Ventures, the corporate venture capital arm of Indonesia s TelkomGroup, is narrowing its Southeast Asia investment focus around enterprise AI, AI infrastructure, governance software, real-world asset tokenisation, institutional custody, and regulated digital asset rails. The …",
-      "source": "e27",
-      "url": "https://e27.co/mdi-ventures-sharpens-sea-thesis-around-ai-blockchain-digital-asset-infra-20261006/",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "mdi ventures",
-        "sea",
-        "ai"
-      ]
-    },
-    {
-      "id": "154412029",
-      "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
-      "summary": "Wall Street’s blue-chip index at fresh peak but rally increasingly reliant on handful of tech stocks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/1c1ee003-f041-4c66-a971-f08d488d11f7?syn-25a6b1a6=1",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "wall street"
-      ]
-    },
-    {
-      "id": "958249349",
-      "title": "DNB to lay off 400 and expand use of AI agents",
-      "summary": "Norway's biggest bank, DNB, is set to lay off 400 staff in its technology teams while it increases its investment in AI agents.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48538/dnb-to-lay-off-400-and-expand-use-of-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "dnb",
-        "ai",
-        "norway"
-      ]
-    },
-    {
-      "id": "758502885",
-      "title": "ExpenseIn partners Stripe on automated reimbursements for business expenses",
-      "summary": "ExpenseIn, the expense management platform, extends its partnership with Stripe, the programmable financial services company, to introduce automated reimbursement for its users.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111154/expensein-partners-stripe-on-automated-reimbursements-for-business-expenses?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "expensein",
-        "stripe"
-      ]
-    },
-    {
-      "id": "708025790",
-      "title": "How Financial Institutions Can Prepare for AI Agents as the Next Customer Interface",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33086/how-financial-institutions-can-prepare-for-ai-agents-as-the-next-customer-interface?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "how financial",
-        "institutions can",
-        "prepare"
-      ]
-    },
-    {
-      "id": "325360833",
-      "title": "Capex Catches Up With Amazon as AI Momentum Slows on Wall Street",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33084/capex-catches-up-with-amazon-as-ai-momentum-slows-on-wall-street?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-06",
-      "category": "Banking",
-      "tags": [
-        "capex catches",
-        "up with",
-        "amazon"
       ]
     }
   ]
