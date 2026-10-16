@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-16T12:11:22Z",
+  "last_updated": "2026-10-16T21:57:53Z",
   "insights": {
     "risks": [
       "Regulatory: Shareholders should have a say on making AI safe — review compliance obligations.",
       "Trading risk: Treasuries rally as investors seek shelter from AI turbulence — assess algorithmic exposure.",
-      "Operational: G7 economies plan simulated AI attacks on banks as cyber fears rise — evaluate model governance gaps."
+      "Operational: Citi becomes latest US bank to restrict AI agents from accessing accounts — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI-native payments platform Movere launches — potential infrastructure advantage.",
-      "Banking efficiency: G7 economies plan simulated AI attacks on banks as cyber fears rise — cost reduction opportunity."
+      "Banking efficiency: Citi becomes latest US bank to restrict AI agents from accessing accounts — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Automation",
@@ -46,6 +46,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "256247710",
+      "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+      "summary": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "citi",
+        "us",
+        "ai"
+      ]
+    },
+    {
+      "id": "891029919",
+      "title": "Can Agentic AI Transform Corporate Banking Self-Service Experiences?",
+      "summary": "At Sibos 2026, Pega’s Steve Morgan talks about banks can leveraging agentic AI to deliver seamless corporate self-service experiences.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3618/can-agentic-ai-transform-corporate-banking-self-service-experiences?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "can agentic",
+        "ai transform",
+        "corporate banking"
+      ]
+    },
+    {
+      "id": "807758024",
+      "title": "Regions Bank Says AI Cybersecurity Drives Up Costs 1.5% to 3.5%",
+      "summary": "Regions Financial Corp., parent company of Regions Bank, expects the cost of cybersecurity to increase its adjusted noninterest expense by between 1.5% and 3.5% for full-year 2026, Chief Financial Officer Anil Chadha said Friday (Oct. 16) during an earnings call. The company’s in…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/earnings/2026/regions-bank-says-ai-cybersecurity-drives-up-costs-1-5percent-to-3-5percent/",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "regions bank",
+        "says ai",
+        "cybersecurity drives"
+      ]
+    },
     {
       "id": "824520032",
       "title": "Shareholders should have a say on making AI safe",
@@ -836,48 +878,6 @@
         "ecosystem roundup",
         "granite asia",
         "google"
-      ]
-    },
-    {
-      "id": "38917166",
-      "title": "SoftBank, Grab, PETROS explore AI infra  platform in Sarawak",
-      "summary": "Sarawak is not usually the first place that comes to mind when Southeast Asia’s artificial intelligence race is discussed. Singapore has the region’s densest cloud and startup ecosystem, Malaysia’s Johor has been drawing data centre investment because of its proximity to Singapor…",
-      "source": "e27",
-      "url": "https://e27.co/softbank-grab-petros-explore-ai-infra-platform-in-sarawak-20261009/",
-      "date": "2026-10-09",
-      "category": "Banking",
-      "tags": [
-        "softbank",
-        "grab",
-        "petros"
-      ]
-    },
-    {
-      "id": "651291157",
-      "title": "Entity Resolution Is the Real Bottleneck for Agentic AI in Banking",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33106/entity-resolution-is-the-real-bottleneck-for-agentic-ai-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-08",
-      "category": "Banking",
-      "tags": [
-        "entity resolution",
-        "is",
-        "real bottleneck"
-      ]
-    },
-    {
-      "id": "675685976",
-      "title": "Singapore central bank issues risk rules on banks' AI use",
-      "summary": "Banks in Singapore must seek an independent review of any forthcoming AI projects before implementation, according to new rules.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48558/singapore-central-bank-issues-risk-rules-on-banks-ai-use?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-08",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "banks"
       ]
     }
   ]
