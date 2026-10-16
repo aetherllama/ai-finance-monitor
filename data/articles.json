@@ -1,58 +1,189 @@
 {
-  "last_updated": "2026-10-15T22:01:11Z",
+  "last_updated": "2026-10-16T12:11:22Z",
   "insights": {
     "risks": [
+      "Regulatory: Shareholders should have a say on making AI safe — review compliance obligations.",
       "Trading risk: Treasuries rally as investors seek shelter from AI turbulence — assess algorithmic exposure.",
-      "Operational: AI-native core banking startup Maximum signs Emprise Bank — evaluate model governance gaps."
+      "Operational: G7 economies plan simulated AI attacks on banks as cyber fears rise — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: The Smarter Path to Managing Payment Modernisation — potential infrastructure advantage.",
-      "Banking efficiency: AI-native core banking startup Maximum signs Emprise Bank — cost reduction opportunity."
+      "Payments: AI-native payments platform Movere launches — potential infrastructure advantage.",
+      "Banking efficiency: G7 economies plan simulated AI attacks on banks as cyber fears rise — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
-    },
-    {
-      "topic": "Automation",
       "count": 6
     },
     {
-      "topic": "Customer Service AI",
-      "count": 4
+      "topic": "Automation",
+      "count": 5
     },
     {
       "topic": "Payments AI",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Generative AI",
-      "count": 1
+      "count": 3
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 3
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 2
     },
     {
       "topic": "Algorithmic Trading",
       "count": 1
     },
     {
-      "topic": "Fraud Detection",
-      "count": 1
-    },
-    {
       "topic": "Credit & Underwriting",
-      "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "824520032",
+      "title": "Shareholders should have a say on making AI safe",
+      "summary": "SEC decision to rescind key rule on voting could not have come at a worse time",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd",
+      "date": "2026-10-16",
+      "category": "RegTech",
+      "tags": [
+        "shareholders",
+        "ai",
+        "sec"
+      ]
+    },
+    {
+      "id": "624993673",
+      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+      "summary": "Finance ministers agree to hold tabletop drills to prepare against future cyber attacks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "finance"
+      ]
+    },
+    {
+      "id": "146959054",
+      "title": "Deutsche Bank rolls out on-premise AI system",
+      "summary": "Germany's Deutsche Bank has implemented an AI platform across its capital markets and investment banking teams in Europe and North America.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48594/deutsche-bank-rolls-out-on-premise-ai-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "ai",
+        "germany"
+      ]
+    },
+    {
+      "id": "345974579",
+      "title": "AI-native personal finance platform Matters emerges from stealth with $5m pre-seed",
+      "summary": "Matters, a Swedish AI-native personal finance platform, has emerged from stealth with a $5 million pre-seed funding round.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48592/ai-native-personal-finance-platform-matters-emerges-from-stealth-with-5m-pre-seed?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "matters",
+        "swedish ai"
+      ]
+    },
+    {
+      "id": "363304618",
+      "title": "AI-native payments platform Movere launches",
+      "summary": "A collection of banking and fintech veterans has unveiled Movere, an AI-native payments platform for businesses.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48593/ai-native-payments-platform-movere-launches?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-16",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "movere"
+      ]
+    },
+    {
+      "id": "807661882",
+      "title": "Farsight and Ornn partner for AI-powered banking",
+      "summary": "Farsight, the platform helping global financial services firms become AI-native, today announced a partnership with Ornn, which builds financial markets for compute.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111310/farsight-and-ornn-partner-for-ai-powered-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "farsight",
+        "ornn",
+        "ai"
+      ]
+    },
+    {
+      "id": "255330704",
+      "title": "Employers are buying AI tools. Their managers are being left behind",
+      "summary": "Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK s Singapore Workplace Culture Study 2026, may say more about the region s productivity problem than any headline about AI or inflation. The first is the share of employees who try to m…",
+      "source": "e27",
+      "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "employers",
+        "ai",
+        "their"
+      ]
+    },
+    {
+      "id": "938739917",
+      "title": "Bank of the Philippine Islands (BPI) has the most mentions across consumer, business, and trust queries made in generative artificial intelligence (gen AI) models.",
+      "summary": "Bank of the Philippine Islands (BPI) has the most mentions across consumer, business, and trust queries made in generative artificial intelligence (gen AI) models.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/news/bpi-tops-philippine-bank-ai-visibility",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "philippine islands",
+        "bpi"
+      ]
+    },
+    {
+      "id": "457503813",
+      "title": "Ping An Digital Bank (PingAnDB) completed its “Anti-Fraud Strategy Platform” use case as part of the second cohort of Hong Kong’s Gen AI Sandbox.",
+      "summary": "Ping An Digital Bank (PingAnDB) completed its “Anti-Fraud Strategy Platform” use case as part of the second cohort of Hong Kong’s Gen AI Sandbox.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/pingandb-hits-96-deepfake-detection-accuracy-in-hk-genai-sandbox-test",
+      "date": "2026-10-16",
+      "category": "Banking",
+      "tags": [
+        "ping an",
+        "digital bank",
+        "pingandb"
+      ]
+    },
+    {
+      "id": "403838241",
+      "title": "Banking leaders said that regulatory and governance concerns are the primary obstacles to adopting artificial intelligence (AI) tools in their organisations, according to a survey by FICO.",
+      "summary": "Banking leaders said that regulatory and governance concerns are the primary obstacles to adopting artificial intelligence (AI) tools in their organisations, according to a survey by FICO.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/in-focus/apac-bank-leaders-cite-trust-over-cost-main-ai-hurdle",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "banking",
+        "ai",
+        "fico"
+      ]
+    },
     {
       "id": "786549741",
       "title": "Treasuries rally as investors seek shelter from AI turbulence",
@@ -747,146 +878,6 @@
         "singapore",
         "ai",
         "banks"
-      ]
-    },
-    {
-      "id": "558294525",
-      "title": "Backbase puts agentic AI in customers' hands",
-      "summary": "Backbase today announced the general availability of Conversational Banking, bringing agentic AI into banks’ customer and employee experiences.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111184/backbase-puts-agentic-ai-in-customers-hands?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-08",
-      "category": "Banking",
-      "tags": [
-        "backbase",
-        "ai",
-        "conversational banking"
-      ]
-    },
-    {
-      "id": "502650139",
-      "title": "Combatting the Rise of AI-Driven Financial Crime in Banking",
-      "summary": "At Sibos 2026, FICO’s Julie Conroy reveals how banks can use agentic AI and cloud tech to combat deepfakes and rising financial crime that targets wealth management and corporate clients.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3608/combatting-the-rise-of-ai-driven-financial-crime-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-08",
-      "category": "Banking",
-      "tags": [
-        "combatting",
-        "rise",
-        "ai"
-      ]
-    },
-    {
-      "id": "288611012",
-      "title": "Equifax UK Launches Automated AML Watchlist Monitoring Tool",
-      "summary": "Equifax UK's new Automatic Watchlist Monitoring product delivers real-time sanctions and adverse media screening via a single API for regulated businesses. The post Equifax UK Launches Automated AML Watchlist Monitoring Tool appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/equifax-uk-launches-automated-aml-watchlist-monitoring-tool/",
-      "date": "2026-10-08",
-      "category": "Banking",
-      "tags": [
-        "equifax uk",
-        "launches automated",
-        "aml watchlist"
-      ]
-    },
-    {
-      "id": "168348504",
-      "title": "MAS gives Singapore’s financial firms one year to prepare for AI risk rules",
-      "summary": "Singapore s financial regulator has set out how banks, insurers, payment companies and other financial institutions should govern artificial intelligence, as AI moves from back-office experiments into systems that can influence customer outcomes, risk decisions and even execution…",
-      "source": "e27",
-      "url": "https://e27.co/mas-gives-singapore-financial-firms-one-year-to-prepare-for-ai-risk-rules-20261008/",
-      "date": "2026-10-08",
-      "category": "RegTech",
-      "tags": [
-        "mas",
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "725600783",
-      "title": "Singtel’s RE:AI partners SIT-NVIDIA centre to tackle enterprise AI deployment gap",
-      "summary": "For many companies, the harder part of artificial intelligence is no longer running a pilot. It is turning that pilot into something reliable enough to sit inside daily operations. That gap is what Singtel s RE:AI and the Singapore Institute of Technology (SIT) are trying to addr…",
-      "source": "e27",
-      "url": "https://e27.co/singtels-reai-partners-sit-nvidia-centre-to-tackle-enterprise-ai-deployment-gap-20261008/",
-      "date": "2026-10-08",
-      "category": "Banking",
-      "tags": [
-        "singtel",
-        "re",
-        "ai"
-      ]
-    },
-    {
-      "id": "714261273",
-      "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push",
-      "summary": "HSBC is planning to axe up to 70% of its UK financial advisors as part of swingeing cuts to its wealth management business driven by riding use of AI, according to the Financial Times.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48549/hsbc-to-make-deep-wide-and-brutal-uk-wealth-management-job-cuts-in-ai-push?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-07",
-      "category": "Banking",
-      "tags": [
-        "hsbc",
-        "uk",
-        "ai"
-      ]
-    },
-    {
-      "id": "336546015",
-      "title": "JPMorgan Chase extends lead as world's most AI-advanced bank",
-      "summary": "JPMorgan Chase has extended its lead as the world's most artificial intelligence-advanced bank, once again topping the Evident AI Index.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48542/jpmorgan-chase-extends-lead-as-worlds-most-ai-advanced-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-07",
-      "category": "Banking",
-      "tags": [
-        "jpmorgan chase",
-        "ai",
-        "evident ai"
-      ]
-    },
-    {
-      "id": "679331600",
-      "title": "Incognia launches AI agent detection tool",
-      "summary": "As AI agents begin making purchases, payments and account changes on behalf of consumers, financial institutions face a new challenge: knowing an AI agent is legitimate does not necessarily mean the action it is taking is authorized by the person behind it.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111171/incognia-launches-ai-agent-detection-tool?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-07",
-      "category": "Banking",
-      "tags": [
-        "incognia",
-        "ai",
-        "as ai"
-      ]
-    },
-    {
-      "id": "240441976",
-      "title": "Sumsub launches reusable KYC gateway",
-      "summary": "Sumsub, the AI-powered trust infrastructure for compliance operations at scale, today launched Reusable KYC Gateway at Token2049 Singapore. MiniPay, one of the fastest growing stablecoin wallets, is the first live integrator, giving its users a shared verification experience acro…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111179/sumsub-launches-reusable-kyc-gateway?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-07",
-      "category": "Banking",
-      "tags": [
-        "sumsub",
-        "kyc",
-        "ai"
-      ]
-    },
-    {
-      "id": "626771203",
-      "title": "TS Imagine adds regulatory intelligence to AI platform for capital markets",
-      "summary": "TS Imagine, a global provider of trading, portfolio, risk management and prime brokerage solutions, today announced the availability of Gentek.ai’s Model Context Protocol (MCP) with TSIQ, its AI platform for capital markets.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111182/ts-imagine-adds-regulatory-intelligence-to-ai-platform-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-07",
-      "category": "Trading",
-      "tags": [
-        "ts imagine",
-        "ai",
-        "gentek"
       ]
     }
   ]
