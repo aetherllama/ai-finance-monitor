@@ -1,28 +1,27 @@
 {
-  "last_updated": "2026-10-16T21:57:53Z",
+  "last_updated": "2026-10-17T11:29:39Z",
   "insights": {
     "risks": [
       "Regulatory: Shareholders should have a say on making AI safe — review compliance obligations.",
-      "Trading risk: Treasuries rally as investors seek shelter from AI turbulence — assess algorithmic exposure.",
-      "Operational: Citi becomes latest US bank to restrict AI agents from accessing accounts — evaluate model governance gaps."
+      "Operational: The dress rehearsal for an AI reckoning — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI-native payments platform Movere launches — potential infrastructure advantage.",
-      "Banking efficiency: Citi becomes latest US bank to restrict AI agents from accessing accounts — cost reduction opportunity."
+      "Payments: Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards — potential infrastructure advantage.",
+      "Banking efficiency: The dress rehearsal for an AI reckoning — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 7
-    },
-    {
-      "topic": "Automation",
-      "count": 5
+      "count": 8
     },
     {
       "topic": "Payments AI",
-      "count": 3
+      "count": 4
+    },
+    {
+      "topic": "Automation",
+      "count": 4
     },
     {
       "topic": "Generative AI",
@@ -39,13 +38,36 @@
     {
       "topic": "Algorithmic Trading",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "132979860",
+      "title": "The dress rehearsal for an AI reckoning",
+      "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+      "date": "2026-10-17",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "ructions"
+      ]
+    },
+    {
+      "id": "501574563",
+      "title": "Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards",
+      "summary": "Oobit AI Payments issues a disposable card per transaction, letting AI agents spend stablecoins without accessing the user's underlying account. The post Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/oobit-lets-ai-assistants-pay-with-stablecoins-via-one-time-cards/",
+      "date": "2026-10-17",
+      "category": "Payments",
+      "tags": [
+        "oobit lets",
+        "ai assistants",
+        "pay"
+      ]
+    },
     {
       "id": "256247710",
       "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
@@ -850,34 +872,6 @@
         "investment",
         "ai",
         "substantive research"
-      ]
-    },
-    {
-      "id": "168425400",
-      "title": "Rezolv Raises $12.5m Series A to Scale AI Lending Platform",
-      "summary": "The Mumbai-based lendtech firm closed a Norwest-led round to deepen AI automation across debt collections, underwriting and risk for Indian banks and NBFCs. The post Rezolv Raises $12.5m Series A to Scale AI Lending Platform appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/rezolv-raises-12-5m-series-a-to-scale-ai-lending-platform/",
-      "date": "2026-10-09",
-      "category": "InsurTech",
-      "tags": [
-        "rezolv raises",
-        "series",
-        "scale ai"
-      ]
-    },
-    {
-      "id": "199040422",
-      "title": "Ecosystem Roundup: Granite Asia, Google bundle cash and compute for Asia’s AI founders",
-      "summary": "Asia s AI founders do not lack investor attention. What they lack is the expensive plumbing frontier AI demands: models, compute, technical help and patient capital. Granite Asia and Google AI Futures Fund want to bundle all of it into one programme. The Singapore-headquartered V…",
-      "source": "e27",
-      "url": "https://e27.co/ecosystem-roundup-granite-asia-google-bundle-cash-and-compute-for-asias-ai-founders-20261009/",
-      "date": "2026-10-09",
-      "category": "Banking",
-      "tags": [
-        "ecosystem roundup",
-        "granite asia",
-        "google"
       ]
     }
   ]
