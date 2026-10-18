@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-18T11:59:20Z",
+  "last_updated": "2026-10-18T21:20:17Z",
   "insights": {
     "risks": [
       "Regulatory: Shareholders should have a say on making AI safe — review compliance obligations.",
       "Operational: The dress rehearsal for an AI reckoning — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards — potential infrastructure advantage.",
+      "Payments: nCino and Parlay Link Up to Automate SBA Lending Intake with AI — potential infrastructure advantage.",
       "Banking efficiency: The dress rehearsal for an AI reckoning — cost reduction opportunity."
     ]
   },
@@ -41,6 +41,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "770400517",
+      "title": "nCino and Parlay Link Up to Automate SBA Lending Intake with AI",
+      "summary": "The live integration has processed over $500m in SBA loan inquiries in 2026, with lenders reporting up to 80% less manual work per credit-ready The post nCino and Parlay Link Up to Automate SBA Lending Intake with AI appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ncino-and-parlay-link-up-to-automate-sba-lending-intake-with-ai/",
+      "date": "2026-10-18",
+      "category": "Payments",
+      "tags": [
+        "parlay link",
+        "up",
+        "automate sba"
+      ]
+    },
     {
       "id": "132979860",
       "title": "The dress rehearsal for an AI reckoning",
@@ -858,20 +872,6 @@
         "nivo",
         "ai",
         "lender collect"
-      ]
-    },
-    {
-      "id": "62264091",
-      "title": "Investment research spend flatlines despite AI advancements",
-      "summary": "Substantive Research, the research and market data discovery and pricing analytics provider, today publishes the findings of its latest survey into investment research spending and consumption, highlighting how research spending continues to flatline despite new AI-driven require…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111209/investment-research-spend-flatlines-despite-ai-advancements?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-09",
-      "category": "Banking",
-      "tags": [
-        "investment",
-        "ai",
-        "substantive research"
       ]
     }
   ]
