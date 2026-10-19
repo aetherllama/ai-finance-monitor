@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T14:28:29Z",
+  "last_updated": "2026-10-19T22:50:27Z",
   "insights": {
     "risks": [
       "Regulatory: Specialist Mortgage Group embeds Y3S platform — review compliance obligations.",
@@ -7,7 +7,8 @@
     ],
     "opportunities": [
       "Payments: nCino and Parlay Link Up to Automate SBA Lending Intake with AI — potential infrastructure advantage.",
-      "Banking efficiency: Huntington Bank partners Google Cloud for AI-powered small business operating system — cost reduction opportunity."
+      "Banking efficiency: Huntington Bank partners Google Cloud for AI-powered small business operating system — cost reduction opportunity.",
+      "InsurTech: “We were looking at it wrong”: The explosive claim that’s upended the AI world — underwriting modernisation potential."
     ]
   },
   "trending": [
@@ -32,6 +33,10 @@
       "count": 2
     },
     {
+      "topic": "Neural Networks",
+      "count": 1
+    },
+    {
       "topic": "Regulatory AI",
       "count": 1
     },
@@ -45,6 +50,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "393130053",
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautiou…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "date": "2026-10-19",
+      "category": "InsurTech",
+      "tags": [
+        "we",
+        "ai",
+        "with"
+      ]
+    },
     {
       "id": "684746028",
       "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system",
@@ -862,20 +881,6 @@
         "news",
         "views podcast",
         "the real"
-      ]
-    },
-    {
-      "id": "130746382",
-      "title": "Emirates NBD Launches AI Travel Assistant with Visa and Tripadvisor",
-      "summary": "Emirates NBD's conversational travel planner draws on Tripadvisor's 1 billion reviews and surfaces Visa cardholder offers, with no bank login required. The post Emirates NBD Launches AI Travel Assistant with Visa and Tripadvisor appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/emirates-nbd-launches-ai-travel-assistant-with-visa-and-tripadvisor/",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "emirates nbd",
-        "launches ai",
-        "travel assistant"
       ]
     }
   ]
