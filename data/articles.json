@@ -1,26 +1,22 @@
 {
-  "last_updated": "2026-10-18T21:20:17Z",
+  "last_updated": "2026-10-19T14:28:29Z",
   "insights": {
     "risks": [
-      "Regulatory: Shareholders should have a say on making AI safe — review compliance obligations.",
-      "Operational: The dress rehearsal for an AI reckoning — evaluate model governance gaps."
+      "Regulatory: Specialist Mortgage Group embeds Y3S platform — review compliance obligations.",
+      "Operational: Huntington Bank partners Google Cloud for AI-powered small business operating system — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: nCino and Parlay Link Up to Automate SBA Lending Intake with AI — potential infrastructure advantage.",
-      "Banking efficiency: The dress rehearsal for an AI reckoning — cost reduction opportunity."
+      "Banking efficiency: Huntington Bank partners Google Cloud for AI-powered small business operating system — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 8
+      "count": 10
     },
     {
       "topic": "Payments AI",
-      "count": 4
-    },
-    {
-      "topic": "Automation",
       "count": 4
     },
     {
@@ -29,18 +25,166 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Fraud Detection",
       "count": 2
     },
     {
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
       "topic": "Algorithmic Trading",
+      "count": 1
+    },
+    {
+      "topic": "Automation",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "684746028",
+      "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system",
+      "summary": "The Huntington National Bank has unveiled an AI-powered operating system built with Google Cloud’s Gemini Enterprise platform.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "huntington bank",
+        "google cloud",
+        "ai"
+      ]
+    },
+    {
+      "id": "231132541",
+      "title": "FCA calls for disclaimers on AI financial advice",
+      "summary": "The UK's financial services watchdog is calling on AI providers to issue disclaimers for services that provide financial advice to consumers via agentic AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48604/fca-calls-for-disclaimers-on-ai-financial-advice?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "fca",
+        "ai",
+        "the uk"
+      ]
+    },
+    {
+      "id": "565996590",
+      "title": "World takes on AI-driven impersonations with new suite for banking and finance",
+      "summary": "World, the digital identity project co-founded by OpenAI boss Sam Altman has unveiled suite of tools designed to help banks prevent deepfake fraud and AI-driven impersonation across customer accounts, employee workflows, and agents.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48602/world-takes-on-ai-driven-impersonations-with-new-suite-for-banking-and-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "world",
+        "ai",
+        "openai"
+      ]
+    },
+    {
+      "id": "626859797",
+      "title": "Specialist Mortgage Group embeds Y3S platform",
+      "summary": "Curvestone AI, the AI compliance and oversight platform for regulated financial services, has today announced that Specialist Mortgage Group, the Cardiff-based group behind Y3S Loans, Y3S Bridging and Commercial and Chase Blue Loans, has deployed its platform across their advice …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111323/specialist-mortgage-group-embeds-y3s-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "RegTech",
+      "tags": [
+        "specialist mortgage",
+        "group",
+        "curvestone ai"
+      ]
+    },
+    {
+      "id": "596197126",
+      "title": "Blevins Franks selects Palindrome for cross-border wealth advice",
+      "summary": "Agentic AI specialist Palindrome is pleased to announce it has partnered with cross-border wealth manager Blevins Franks to support its new initiative for UK advisers with clients in Europe.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111327/blevins-franks-selects-palindrome-for-cross-border-wealth-advice?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "blevins franks",
+        "palindrome",
+        "agentic ai"
+      ]
+    },
+    {
+      "id": "674948931",
+      "title": "Kaplan UK research highlights AI capability gaps",
+      "summary": "​​​Two in five (40%) financial services directors and C-Suite professionals say their organisation has lost a competitive bid or client opportunity partly because of AI capability concerns, according to new research from Kaplan UK - a leading provider of professional education, a…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111331/kaplan-uk-research-highlights-ai-capability-gaps?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "kaplan uk",
+        "ai",
+        "two"
+      ]
+    },
+    {
+      "id": "323832908",
+      "title": "A $1 Trillion Week: What the AI Selloff Says About Credit, Leverage and Who Holds the Risk",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33216/a-1-trillion-week-what-the-ai-selloff-says-about-credit-leverage-and-who-holds-the-risk?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "trillion week",
+        "what",
+        "ai selloff"
+      ]
+    },
+    {
+      "id": "622468993",
+      "title": "Why Model Risk is the True Bottleneck for Bank AI Deployment",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33215/why-model-risk-is-the-true-bottleneck-for-bank-ai-deployment?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "why model",
+        "risk",
+        "true bottleneck"
+      ]
+    },
+    {
+      "id": "642961863",
+      "title": "Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans",
+      "summary": "Young workers in Singapore are not waiting for their employers to roll out AI. They are already using it, often on personal devices and often without anyone watching. According to “What Gen Z Workers Want 2026”, a study commissioned by Deel and conducted with YouGov and ThinkerTa…",
+      "source": "e27",
+      "url": "https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "gen",
+        "ai",
+        "singapore"
+      ]
+    },
+    {
+      "id": "261203074",
+      "title": "Dealing with shadow AI: What companies should do instead of banning AI",
+      "summary": "In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow A…",
+      "source": "e27",
+      "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
+      "date": "2026-10-19",
+      "category": "Banking",
+      "tags": [
+        "dealing",
+        "ai",
+        "what"
+      ]
+    },
     {
       "id": "770400517",
       "title": "nCino and Parlay Link Up to Automate SBA Lending Intake with AI",
@@ -732,146 +876,6 @@
         "emirates nbd",
         "launches ai",
         "travel assistant"
-      ]
-    },
-    {
-      "id": "622484500",
-      "title": "Singapore SMEs buy back time with AI, but messy data keeps pilots stuck",
-      "summary": "Ask a Singapore small business owner what AI has done for them, and the answer is time. Ask whether their systems are ready to let AI run more of the business, and the answer gets a lot less certain. Also Read: Beyond automation: How AI is reshaping the SME landscape in Southeast…",
-      "source": "e27",
-      "url": "https://e27.co/singapore-smes-buy-back-time-with-ai-but-messy-data-keeps-pilots-stuck-20261012/",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "singapore smes",
-        "ai",
-        "ask"
-      ]
-    },
-    {
-      "id": "289726251",
-      "title": "Why SEA’s retailers need to protect AI-powered customer experience with observability",
-      "summary": "Southeast Asia s retail sector is racing to embed AI into every layer of the customer journey and nowhere is that race more visible than in Singapore. The government announced a 400 per cent tax deduction on AI expenditure to help small and medium-sized retailers adopt the techno…",
-      "source": "e27",
-      "url": "https://e27.co/why-seas-retailers-need-to-protect-ai-powered-customer-experience-with-observability-20261004/",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "why sea",
-        "ai",
-        "southeast asia"
-      ]
-    },
-    {
-      "id": "747935744",
-      "title": "PT Super Bank Indonesia uses AI and behavioural data to assess borrowers overlooked by traditional credit scoring, opening up lending to underserved segments while managing risk.",
-      "summary": "PT Super Bank Indonesia uses AI and behavioural data to assess borrowers overlooked by traditional credit scoring, opening up lending to underserved segments while managing risk.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/exclusive/superbank-looks-beyond-credit-scores-ai",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "pt super",
-        "bank indonesia",
-        "ai"
-      ]
-    },
-    {
-      "id": "779911068",
-      "title": "UOB and Amazon Web Services (AWS) have signed a memorandum of understanding (MOU) to jointly explore how cloud and artificial intelligence (AI) capabilities can be used to strengthen UOB’s operation resilience.",
-      "summary": "UOB and Amazon Web Services (AWS) have signed a memorandum of understanding (MOU) to jointly explore how cloud and artificial intelligence (AI) capabilities can be used to strengthen UOB’s operation resilience.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/uob-and-aws-sign-mou-hybrid-cloud-and-ai-five-markets",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "uob",
-        "amazon web",
-        "services"
-      ]
-    },
-    {
-      "id": "404848051",
-      "title": "Compliance Automation Should Route Responsibility, Not Remove It",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33123/compliance-automation-should-route-responsibility-not-remove-it?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-11",
-      "category": "RegTech",
-      "tags": [
-        "compliance automation",
-        "should route",
-        "responsibility"
-      ]
-    },
-    {
-      "id": "27174993",
-      "title": "Beyond AI Adoption: How Financial Institutions Can Turn Intelligent Automation into Trusted Business",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33122/beyond-ai-adoption-how-financial-institutions-can-turn-intelligent-automation-into-trusted-business?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-11",
-      "category": "Banking",
-      "tags": [
-        "beyond ai",
-        "adoption",
-        "how financial"
-      ]
-    },
-    {
-      "id": "227587334",
-      "title": "APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles.",
-      "summary": "APAC financial institutions face growing competition for AI, data and regulatory talent as the region’s financial services workforce exceeds 39 million. Deloitte says retraining existing employees will be key as technology reshapes roles.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/banks-battle-tech-giants-scarce-ai-talent",
-      "date": "2026-10-11",
-      "category": "Banking",
-      "tags": [
-        "apac",
-        "ai",
-        "deloitte"
-      ]
-    },
-    {
-      "id": "958637701",
-      "title": "When Should AI Refuse to Answer in Regulated Fintech Support?",
-      "summary": "A former fintech customer experience manager argues AI support tools in regulated finance must learn when to stop answering and pass the customer to a human. The post When Should AI Refuse to Answer in Regulated Fintech Support? appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/when-should-ai-refuse-to-answer-in-regulated-fintech-support/",
-      "date": "2026-10-10",
-      "category": "Payments",
-      "tags": [
-        "when should",
-        "ai refuse",
-        "answer"
-      ]
-    },
-    {
-      "id": "238482877",
-      "title": "The hazy OpenAI growth metric driving Wall Street",
-      "summary": "Revelations that the AI giant’s annualised revenues were $20bn less than previously reported triggered volatility in US stocks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/62653892-2333-4953-a8d5-cfd760ae3257?syn-25a6b1a6=1",
-      "date": "2026-10-09",
-      "category": "Banking",
-      "tags": [
-        "openai",
-        "wall street",
-        "revelations"
-      ]
-    },
-    {
-      "id": "638446398",
-      "title": "Nivo launches AI assistant for lending",
-      "summary": "Nivo has today launched Lender Collect, an AI assistant that coordinates a lending case from the first broker email through evidence gathering, underwriting preparation and the conditions that follow the lender's decision.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111203/nivo-launches-ai-assistant-for-lending?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-09",
-      "category": "InsurTech",
-      "tags": [
-        "nivo",
-        "ai",
-        "lender collect"
       ]
     }
   ]
