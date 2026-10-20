@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-19T22:50:27Z",
+  "last_updated": "2026-10-20T12:37:07Z",
   "insights": {
     "risks": [
       "Regulatory: Specialist Mortgage Group embeds Y3S platform — review compliance obligations.",
-      "Operational: Huntington Bank partners Google Cloud for AI-powered small business operating system — evaluate model governance gaps."
+      "Trading risk: AI debt worries spark surge in default insurance trading — assess algorithmic exposure.",
+      "Operational: Colibrix One contracts Vivox AI for merchant onboarding — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: nCino and Parlay Link Up to Automate SBA Lending Intake with AI — potential infrastructure advantage.",
-      "Banking efficiency: Huntington Bank partners Google Cloud for AI-powered small business operating system — cost reduction opportunity.",
-      "InsurTech: “We were looking at it wrong”: The explosive claim that’s upended the AI world — underwriting modernisation potential."
+      "Banking efficiency: Colibrix One contracts Vivox AI for merchant onboarding — cost reduction opportunity.",
+      "InsurTech: The Download: the claim shaking up AI and the internet’s agent problem — underwriting modernisation potential."
     ]
   },
   "trending": [
@@ -18,38 +18,141 @@
     },
     {
       "topic": "Payments AI",
-      "count": 4
+      "count": 3
     },
     {
       "topic": "Generative AI",
       "count": 3
     },
     {
+      "topic": "Neural Networks",
+      "count": 2
+    },
+    {
       "topic": "Customer Service AI",
       "count": 2
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 2
-    },
-    {
-      "topic": "Neural Networks",
-      "count": 1
     },
     {
       "topic": "Regulatory AI",
       "count": 1
     },
     {
-      "topic": "Algorithmic Trading",
-      "count": 1
-    },
-    {
-      "topic": "Automation",
+      "topic": "Fraud Detection",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "31718349",
+      "title": "AI debt worries spark surge in default insurance trading",
+      "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
+      "date": "2026-10-20",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "volumes"
+      ]
+    },
+    {
+      "id": "705612569",
+      "title": "South Korean data centre builder tumbles 32% on trading debut",
+      "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+      "date": "2026-10-20",
+      "category": "Trading",
+      "tags": [
+        "south korean",
+        "shares",
+        "elice"
+      ]
+    },
+    {
+      "id": "584413462",
+      "title": "Colibrix One contracts Vivox AI for merchant onboarding",
+      "summary": "COLIBRIX ONE, a global financial infrastructure platform for digital businesses and e-commerce, has selected Vivox AI to automate know-your-business checks for onboarding merchants, the companies said Tuesday.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111353/colibrix-one-contracts-vivox-ai-for-merchant-onboarding?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-20",
+      "category": "Banking",
+      "tags": [
+        "colibrix one",
+        "vivox ai",
+        "colibrix one"
+      ]
+    },
+    {
+      "id": "498389969",
+      "title": "Northteq launches AI agents for equipment finance",
+      "summary": "Today, Northteq is introducing aurora Agent Suite, an all-new set of AI agents built directly into aurora, its Salesforce-native loan origination system for equipment finance.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111356/northteq-launches-ai-agents-for-equipment-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-20",
+      "category": "Banking",
+      "tags": [
+        "northteq",
+        "ai",
+        "today"
+      ]
+    },
+    {
+      "id": "665368085",
+      "title": "Agentic AI and Instant Payments: How Can Banks Reduce Fragmentation?",
+      "summary": "At Sibos 2026, the Euro Banking Association shares the ways in which banks can combat agentic AI disintermediation and reduce European payment fragmentation. How agentic AI could reshape bank brands and customer loyalty.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3621/agentic-ai-and-instant-payments-how-can-banks-reduce-fragmentation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-20",
+      "category": "Banking",
+      "tags": [
+        "agentic ai",
+        "instant payments",
+        "how can"
+      ]
+    },
+    {
+      "id": "266933548",
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.”…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+      "date": "2026-10-20",
+      "category": "InsurTech",
+      "tags": [
+        "the download",
+        "ai",
+        "this"
+      ]
+    },
+    {
+      "id": "764262576",
+      "title": "Banks want AI agents to move money, as long as someone is accountable",
+      "summary": "The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics Markets Research is a reminder that a payment involves more than moving the money. Someone al…",
+      "source": "e27",
+      "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
+      "date": "2026-10-20",
+      "category": "Banking",
+      "tags": [
+        "banks",
+        "ai",
+        "uob global"
+      ]
+    },
+    {
+      "id": "361483322",
+      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
+      "summary": "The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan t…",
+      "source": "e27",
+      "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
+      "date": "2026-10-20",
+      "category": "Banking",
+      "tags": [
+        "hsbc",
+        "ai",
+        "southeast asia"
+      ]
+    },
     {
       "id": "393130053",
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
@@ -771,116 +874,6 @@
         "chip",
         "broadcom",
         "ai"
-      ]
-    },
-    {
-      "id": "481666085",
-      "title": "SBS unveils sovereign AI platform for core banking",
-      "summary": "French software firm SBS has launched what it claims the world's first sovereign AI platform to be developed for the banking market.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48577/sbs-unveils-sovereign-ai-platform-for-core-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-13",
-      "category": "Banking",
-      "tags": [
-        "sbs",
-        "ai",
-        "french"
-      ]
-    },
-    {
-      "id": "43823976",
-      "title": "Bajaj Broking launches algorithmic trading platform",
-      "summary": "Bajaj Broking, a full-service stockbroker, today announced the launch of its algorithmic trading platform, enabling users to access ready-made, exchange-registered strategies or build customised trading strategies using a range of technical indicators and predefined trading condi…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111237/bajaj-broking-launches-algorithmic-trading-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-13",
-      "category": "Trading",
-      "tags": [
-        "bajaj broking"
-      ]
-    },
-    {
-      "id": "121933306",
-      "title": "Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless Infrastructure, and Regulatory Guardrails",
-      "summary": "Money20/20 USA 2026 in Las Vegas will explore borderless payments, AI transformation, strategic partnerships and regulation, bringing together leaders shaping the future of financial services. The post Money20/20 USA Unveils 2026 Agenda Focused on AI Transformation, Borderless In…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/money20-20-usa-unveils-2026-agenda-focused-on-ai-transformation-borderless-infrastructure-and-regulatory-guardrails/",
-      "date": "2026-10-13",
-      "category": "Payments",
-      "tags": [
-        "usa unveils",
-        "agenda focused",
-        "ai transformation"
-      ]
-    },
-    {
-      "id": "816652150",
-      "title": "The Double-Edged Sword of AI in Banking",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33139/the-double-edged-sword-of-ai-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "the double",
-        "edged sword",
-        "ai"
-      ]
-    },
-    {
-      "id": "778123479",
-      "title": "FIS launches agentic AI suite for the office of the CFO",
-      "summary": "Banking technology vendor FIS has built an agentic AI suite designed to help CFOs manage collections, liquidity, risk and cash flow.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48568/fis-launches-agentic-ai-suite-for-the-office-of-the-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "fis",
-        "ai",
-        "cfo banking"
-      ]
-    },
-    {
-      "id": "867921732",
-      "title": "Veryfi launches AI-powered fraud prevention tools",
-      "summary": "Veryfi, the leader in AI-powered document intelligence, recently announced the general availability of its Fraud Detection & Prevention Suite, a configurable, API-first platform that detects fraudulent documents, checks, receipts, and invoices in real time across accounts payable…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111219/veryfi-launches-ai-powered-fraud-prevention-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "veryfi",
-        "ai",
-        "fraud detection"
-      ]
-    },
-    {
-      "id": "235047377",
-      "title": "Agentic payments: How will AI protocols transform finance?",
-      "summary": "At Sibos 2026, Coinbase’s Yuga Cohler talks about how new agentic protocols and secure infrastructure, built in collaboration with AWS, will power the future of autonomous AI payments.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3609/agentic-payments-how-will-ai-protocols-transform-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-12",
-      "category": "Banking",
-      "tags": [
-        "agentic",
-        "how",
-        "ai"
-      ]
-    },
-    {
-      "id": "557721336",
-      "title": "News & Views Podcast: The Real Barrier to Agentic Payments Is Not the AI",
-      "summary": "Banks need modern systems and clear safeguards to make agentic payments and tokenized money work securely. The post News Views Podcast: The Real Barrier to Agentic Payments Is Not the AI appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/news-views-podcast-the-real-barrier-to-agentic-payments-is-not-the-ai/",
-      "date": "2026-10-12",
-      "category": "Payments",
-      "tags": [
-        "news",
-        "views podcast",
-        "the real"
       ]
     }
   ]
