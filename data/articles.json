@@ -1,43 +1,45 @@
 {
-  "last_updated": "2026-10-20T22:10:25Z",
+  "last_updated": "2026-10-21T12:48:28Z",
   "insights": {
     "risks": [
+      "Regulatory: Financial Solutions Adds AI and Compliance Checks to Wealth Pilot — review compliance obligations.",
       "Trading risk: U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance — assess algorithmic exposure.",
-      "Operational: Sustainable Finance Live: How can we power regenerative finance? — evaluate model governance gaps."
+      "Operational: Bank bosses under pressure to implement AI ahead of time — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Sustainable Finance Live: How can we power regenerative finance? — cost reduction opportunity.",
-      "InsurTech: The Download: the claim shaking up AI and the internet’s agent problem — underwriting modernisation potential."
+      "Payments: Tether leads $15 million funding round for AI-focused payment startup Mural — potential infrastructure advantage.",
+      "Banking efficiency: Bank bosses under pressure to implement AI ahead of time — cost reduction opportunity.",
+      "InsurTech: AI won’t tidy your business. It just moves the mess faster — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
+    },
+    {
+      "topic": "Payments AI",
+      "count": 3
     },
     {
       "topic": "Generative AI",
       "count": 3
     },
     {
-      "topic": "Neural Networks",
-      "count": 2
-    },
-    {
-      "topic": "Payments AI",
-      "count": 2
-    },
-    {
       "topic": "Automation",
-      "count": 1
+      "count": 2
     },
     {
       "topic": "Regulatory AI",
-      "count": 1
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
-      "count": 1
+      "count": 2
+    },
+    {
+      "topic": "Neural Networks",
+      "count": 2
     },
     {
       "topic": "Fraud Detection",
@@ -45,6 +47,102 @@
     }
   ],
   "articles": [
+    {
+      "id": "246352293",
+      "title": "Bank bosses under pressure to implement AI ahead of time",
+      "summary": "The vast majority of bank bosses in the UK and Ireland feel they are being pressured to implement AI technology more quickly than they feel is comfortable.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48626/bank-bosses-under-pressure-to-implement-ai-ahead-of-time?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-21",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "ai",
+        "uk"
+      ]
+    },
+    {
+      "id": "130920406",
+      "title": "Agentic AI in financial services: risk guide",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33237/agentic-ai-in-financial-services-risk-guide?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-21",
+      "category": "Banking",
+      "tags": [
+        "agentic ai",
+        "author"
+      ]
+    },
+    {
+      "id": "103554895",
+      "title": "Financial Solutions Adds AI and Compliance Checks to Wealth Pilot",
+      "summary": "The Exeter IFA network has upgraded its adviser portal with automated file checking and an FCA-fluent AI assistant, both operating on a single centralised The post Financial Solutions Adds AI and Compliance Checks to Wealth Pilot appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/financial-solutions-adds-ai-and-compliance-checks-to-wealth-pilot/",
+      "date": "2026-10-21",
+      "category": "RegTech",
+      "tags": [
+        "financial solutions",
+        "adds ai",
+        "compliance checks"
+      ]
+    },
+    {
+      "id": "27221527",
+      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+      "summary": "The Series A round, which included participation from North Island Ventures and existing investors, brings New York-based Mural's total funding to $28 million.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+      "date": "2026-10-21",
+      "category": "Payments",
+      "tags": [
+        "tether",
+        "ai",
+        "mural the"
+      ]
+    },
+    {
+      "id": "508385462",
+      "title": "Agentic AI is Singapore’s hottest job skill, and that should worry the people it replaces",
+      "summary": "Somewhere in Singapore this week, a recruiter is probably rewriting a job ad that once asked for “advanced Excel skills” so that it now asks for “hands-on experience with agentic AI workflows”. Multiply that by a few thousand listings and you arrive at the headline figure in Jobs…",
+      "source": "e27",
+      "url": "https://e27.co/agentic-ai-is-singapores-hottest-job-skill-and-that-should-worry-the-people-it-replaces-20261021/",
+      "date": "2026-10-21",
+      "category": "Banking",
+      "tags": [
+        "agentic ai",
+        "singapore",
+        "somewhere"
+      ]
+    },
+    {
+      "id": "769397976",
+      "title": "AI won’t tidy your business. It just moves the mess faster",
+      "summary": "I build AI tools for marketers, and run an AI marketing software firm in Singapore, so I spend a lot of time hearing about AI adoption. A recent talk by Robert Lai, founder of performance agency Kaliber, stuck with me because it opened with an uncomfortable claim: most of the AI …",
+      "source": "e27",
+      "url": "https://e27.co/ai-wont-tidy-your-business-it-just-moves-the-mess-faster-20261018/",
+      "date": "2026-10-21",
+      "category": "InsurTech",
+      "tags": [
+        "ai",
+        "it",
+        "singapore"
+      ]
+    },
+    {
+      "id": "66952347",
+      "title": "Talks covered tokenisation AI adoption quantum security and sustainable finance.",
+      "summary": "Talks covered tokenisation AI adoption quantum security and sustainable finance.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/uk-and-singapore-align-financial-agenda-ahead-g20-and-asean-roles",
+      "date": "2026-10-21",
+      "category": "Banking",
+      "tags": [
+        "talks",
+        "ai"
+      ]
+    },
     {
       "id": "989654903",
       "title": "Sustainable Finance Live: How can we power regenerative finance?",
@@ -780,103 +878,6 @@
         "ai",
         "it",
         "we"
-      ]
-    },
-    {
-      "id": "601547987",
-      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
-      "summary": "Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out that performance is pl…",
-      "source": "e27",
-      "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "singapore",
-        "employers"
-      ]
-    },
-    {
-      "id": "230932528",
-      "title": "Starling becomes first bank to train AI model on UK sovereign cloud",
-      "summary": "Starling is working with AI chip making giant Nvidia to build a transactional foundational model that is trained and hosted within a UK sovereign cloud.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48583/starling-becomes-first-bank-to-train-ai-model-on-uk-sovereign-cloud?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-14",
-      "category": "Banking",
-      "tags": [
-        "starling",
-        "ai",
-        "uk"
-      ]
-    },
-    {
-      "id": "600597493",
-      "title": "Bakkt chooses Thredd to power credit card-as-a-service programme settling in stablecoins",
-      "summary": "Thredd, the AI-first issuer processing platform, today announced a partnership with Bakkt to power a credit card-as-a-service program in the United States designed to settle in stablecoins.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111252/bakkt-chooses-thredd-to-power-credit-card-as-a-service-programme-settling-in-stablecoins?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-14",
-      "category": "Banking",
-      "tags": [
-        "bakkt",
-        "thredd",
-        "ai"
-      ]
-    },
-    {
-      "id": "786731522",
-      "title": "Mollie to build banking layer for AI agents",
-      "summary": "Mollie today announced a new venture model to build a dedicated intelligence platform and banking layer for AI agents.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111257/mollie-to-build-banking-layer-for-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-14",
-      "category": "Banking",
-      "tags": [
-        "mollie",
-        "ai"
-      ]
-    },
-    {
-      "id": "199870437",
-      "title": "Deutsche Bank deploys Farsight tech",
-      "summary": "Farsight, the platform helping global financial services firms become AI-native, today announced its partnership with Deutsche Bank.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111260/deutsche-bank-deploys-farsight-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-14",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "farsight",
-        "ai"
-      ]
-    },
-    {
-      "id": "777587174",
-      "title": "AI Supervision Starts With Your Data: Do You Own It?",
-      "summary": "Compliance teams are racing to adopt AI supervision. Jamie Hoyle of RedOak/MirrorWeb argues the first question is whether firms own their communications data. The post AI Supervision Starts With Your Data: Do You Own It? appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ai-supervision-starts-with-your-data-do-you-own-it/",
-      "date": "2026-10-14",
-      "category": "RegTech",
-      "tags": [
-        "ai supervision",
-        "starts with",
-        "your data"
-      ]
-    },
-    {
-      "id": "806346064",
-      "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
-      "summary": "Co-founder eyes insurers’ vast capital for loans as the Nvidia-backed cloud provider seeks to fund the data centre build-out",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
-      "date": "2026-10-14",
-      "category": "Banking",
-      "tags": [
-        "coreweave",
-        "ai",
-        "co"
       ]
     }
   ]
