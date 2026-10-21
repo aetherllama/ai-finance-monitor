@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-21T12:48:28Z",
+  "last_updated": "2026-10-21T22:12:22Z",
   "insights": {
     "risks": [
       "Regulatory: Financial Solutions Adds AI and Compliance Checks to Wealth Pilot — review compliance obligations.",
-      "Trading risk: U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance — assess algorithmic exposure.",
-      "Operational: Bank bosses under pressure to implement AI ahead of time — evaluate model governance gaps."
+      "Operational: Robbin launches credit integration with ChatGPT and Claude — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Tether leads $15 million funding round for AI-focused payment startup Mural — potential infrastructure advantage.",
-      "Banking efficiency: Bank bosses under pressure to implement AI ahead of time — cost reduction opportunity.",
+      "Payments: Loops Raises $3.5m Seed to Unify AI Commerce Tools for Retailers — potential infrastructure advantage.",
+      "Banking efficiency: Robbin launches credit integration with ChatGPT and Claude — cost reduction opportunity.",
       "InsurTech: AI won’t tidy your business. It just moves the mess faster — underwriting modernisation potential."
     ]
   },
@@ -19,10 +18,6 @@
     },
     {
       "topic": "Payments AI",
-      "count": 3
-    },
-    {
-      "topic": "Generative AI",
       "count": 3
     },
     {
@@ -42,11 +37,85 @@
       "count": 2
     },
     {
+      "topic": "Generative AI",
+      "count": 2
+    },
+    {
       "topic": "Fraud Detection",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "437240457",
+      "title": "Robbin launches credit integration with ChatGPT and Claude",
+      "summary": "Robbin is launching Latin America's first credit MCP, a technology that lets finance teams work with the company's credit intelligence directly inside the AI assistants they already use. Integrated with Claude and ChatGPT, it turns credit analysis into a chat: limit recommendatio…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111392/robbin-launches-credit-integration-with-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-21",
+      "category": "Banking",
+      "tags": [
+        "robbin",
+        "chatgpt",
+        "claude robbin"
+      ]
+    },
+    {
+      "id": "580185987",
+      "title": "Outmarket AI brings AI-native insurance workflows to agencies of all sizes",
+      "summary": "Outmarket AI, the leading AI platform purpose-built for insurance, today launched Outmarket Lite, a new self-serve offering that lets any agency or team put Outmarket's AI to work the same day.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111393/outmarket-ai-brings-ai-native-insurance-workflows-to-agencies-of-all-sizes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-21",
+      "category": "Banking",
+      "tags": [
+        "outmarket ai",
+        "ai",
+        "outmarket lite"
+      ]
+    },
+    {
+      "id": "556084297",
+      "title": "Beyond the Sandbox: Bridging the Execution Gap in Institutional Banking AI",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33245/beyond-the-sandbox-bridging-the-execution-gap-in-institutional-banking-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-21",
+      "category": "Banking",
+      "tags": [
+        "beyond",
+        "sandbox",
+        "bridging"
+      ]
+    },
+    {
+      "id": "659184505",
+      "title": "Loops Raises $3.5m Seed to Unify AI Commerce Tools for Retailers",
+      "summary": "The San Francisco startup closed a $3.5m seed round led by a16z Speedrun to build a single AI layer covering search, discovery and customer The post Loops Raises $3.5m Seed to Unify AI Commerce Tools for Retailers appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/loops-raises-3-5m-seed-to-unify-ai-commerce-tools-for-retailers/",
+      "date": "2026-10-21",
+      "category": "Payments",
+      "tags": [
+        "loops raises",
+        "seed",
+        "unify ai"
+      ]
+    },
+    {
+      "id": "455729089",
+      "title": "Northern FinTech Summit 2026: Trust Takes Centre Stage as Sector Tackles AI, Risk and Growth",
+      "summary": "FinTech North's Northern FinTech Summit 2026 in York put trust at the heart of discussions on AI, cybersecurity, financial inclusion and skills. The post Northern FinTech Summit 2026: Trust Takes Centre Stage as Sector Tackles AI, Risk and Growth appeared first on The Fintech Tim…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/northern-fintech-summit-2026-trust-takes-centre-stage-as-sector-tackles-ai-risk-and-growth/",
+      "date": "2026-10-21",
+      "category": "Payments",
+      "tags": [
+        "northern fintech",
+        "summit",
+        "trust takes"
+      ]
+    },
     {
       "id": "246352293",
       "title": "Bank bosses under pressure to implement AI ahead of time",
@@ -700,6 +769,20 @@
       ]
     },
     {
+      "id": "954975423",
+      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
+      "summary": "Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out that performance is pl…",
+      "source": "e27",
+      "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
+      "date": "2026-10-15",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "singapore",
+        "employers"
+      ]
+    },
+    {
       "id": "403838241",
       "title": "Banking leaders said that regulatory and governance concerns are the primary obstacles to adopting artificial intelligence (AI) tools in their organisations, according to a survey by FICO.",
       "summary": "Banking leaders said that regulatory and governance concerns are the primary obstacles to adopting artificial intelligence (AI) tools in their organisations, according to a survey by FICO.",
@@ -794,90 +877,6 @@
         "lack",
         "ai",
         "uk"
-      ]
-    },
-    {
-      "id": "167635998",
-      "title": "Cultivate AI launches AI platform for credit unions",
-      "summary": "Cultivate AI, the collaborative AI platform built specifically for the credit union industry, is officially available beginning today to all credit unions and CUSOs.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111273/cultivate-ai-launches-ai-platform-for-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "cultivate ai",
-        "ai",
-        "cusos"
-      ]
-    },
-    {
-      "id": "896458270",
-      "title": "Dougs raises $50m for AI accounting platform",
-      "summary": "Dougs, the technology-led accounting and financial management platform for small businesses, today announced a €50 million investment from Expedition Growth Capital.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111274/dougs-raises-50m-for-ai-accounting-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "dougs",
-        "ai",
-        "expedition growth"
-      ]
-    },
-    {
-      "id": "723423529",
-      "title": "The Smarter Path to Managing Payment Modernisation",
-      "summary": "At Sibos 2026, RedCompass Labs’ Robert Coakley reveals how banks can manage payment modernisation complexity by leveraging the ecosystem and AI.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3616/the-smarter-path-to-managing-payment-modernisation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-15",
-      "category": "Payments",
-      "tags": [
-        "the smarter",
-        "path",
-        "managing payment"
-      ]
-    },
-    {
-      "id": "88338459",
-      "title": "FintechOS Elevate 2026: Can AI Deliver Beyond the Pilots and Promises?",
-      "summary": "FintechOS Elevate 2026 put AI's big promises to the test, from lending decisions and product innovation to the challenge of proving results. The post FintechOS Elevate 2026: Can AI Deliver Beyond the Pilots and Promises? appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/fintechos-elevate-2026-can-ai-deliver-beyond-the-pilots-and-promises/",
-      "date": "2026-10-15",
-      "category": "Payments",
-      "tags": [
-        "fintechos elevate",
-        "can ai",
-        "deliver beyond"
-      ]
-    },
-    {
-      "id": "761813768",
-      "title": "Sea and Google open chapter two of their AI pact before chapter one ships",
-      "summary": "Google has been busy making friends in Singapore. On 7 October, its AI Futures Fund teamed up with Granite Asia to write cheques of up to US$2 million into Asian AI startups. Eight days later, the same fund has walked into Sea Limited s office carrying something different: not a …",
-      "source": "e27",
-      "url": "https://e27.co/sea-and-google-open-chapter-two-of-their-ai-pact-before-chapter-one-ships-20261015/",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "sea",
-        "google",
-        "ai"
-      ]
-    },
-    {
-      "id": "825674005",
-      "title": "AI can increase productivity. It can’t increase human capacity",
-      "summary": "We may be using AI to save hours of work, only to fill those hours with more work. This is something I have been thinking about as organisations accelerate their investment in AI. The productivity opportunity is undeniable. Generative AI can draft in seconds, analyse large volume…",
-      "source": "e27",
-      "url": "https://e27.co/ai-can-increase-productivity-it-cant-increase-human-capacity-20261015/",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "it",
-        "we"
       ]
     }
   ]
