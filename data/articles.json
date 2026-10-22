@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-21T22:12:22Z",
+  "last_updated": "2026-10-22T12:51:36Z",
   "insights": {
     "risks": [
       "Regulatory: Financial Solutions Adds AI and Compliance Checks to Wealth Pilot — review compliance obligations.",
-      "Operational: Robbin launches credit integration with ChatGPT and Claude — evaluate model governance gaps."
+      "Operational: Barclays to cut 5,000 jobs amid AI expansion — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Loops Raises $3.5m Seed to Unify AI Commerce Tools for Retailers — potential infrastructure advantage.",
-      "Banking efficiency: Robbin launches credit integration with ChatGPT and Claude — cost reduction opportunity.",
+      "Banking efficiency: Barclays to cut 5,000 jobs amid AI expansion — cost reduction opportunity.",
       "InsurTech: AI won’t tidy your business. It just moves the mess faster — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 12
     },
     {
       "topic": "Payments AI",
@@ -46,6 +46,33 @@
     }
   ],
   "articles": [
+    {
+      "id": "331237073",
+      "title": "Barclays to cut 5,000 jobs amid AI expansion",
+      "summary": "Barclays is the latest high street bank to announce a headcount reduction at the same time as an expansion in the use of AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48632/barclays-to-cut-5000-jobs-amid-ai-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-22",
+      "category": "Banking",
+      "tags": [
+        "barclays",
+        "ai"
+      ]
+    },
+    {
+      "id": "751512638",
+      "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
+      "summary": "In February 2026, Sea Limited struck a partnership with Google on agentic shopping prototypes. By June, Shopee had become the first Southeast Asian e-commerce platform built directly into ChatGPT, live across Indonesia, Malaysia, the Philippines, Singapore, Thailand, Taiwan and V…",
+      "source": "e27",
+      "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
+      "date": "2026-10-22",
+      "category": "Banking",
+      "tags": [
+        "southeast asia",
+        "now",
+        "ai in"
+      ]
+    },
     {
       "id": "437240457",
       "title": "Robbin launches credit integration with ChatGPT and Claude",
@@ -849,34 +876,6 @@
         "extend",
         "ai",
         "smb"
-      ]
-    },
-    {
-      "id": "918231111",
-      "title": "PEX brings AI-powered finance workflows to ChatGPT and Claude",
-      "summary": "PEX, a leading corporate card and spend management platform, today launched PEX AI, a set of capabilities that automates everyday finance work, runs multi-step workflows and connects PEX to AI assistants such as Claude and ChatGPT.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111304/pex-brings-ai-powered-finance-workflows-to-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "pex",
-        "ai",
-        "chatgpt"
-      ]
-    },
-    {
-      "id": "575568033",
-      "title": "Lack of financial confidence driving consumers to AI assistants",
-      "summary": "A significant number of UK banking consumers are turning to AI assistants out of a sense of embarrassment and a fear of being judged for a lack of financial literacy.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48589/lack-of-financial-confidence-driving-consumers-to-ai-assistants?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "lack",
-        "ai",
-        "uk"
       ]
     }
   ]
