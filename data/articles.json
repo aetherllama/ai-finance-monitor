@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-10-22T22:12:43Z",
+  "last_updated": "2026-10-23T12:30:04Z",
   "insights": {
     "risks": [
-      "Regulatory: Financial Solutions Adds AI and Compliance Checks to Wealth Pilot — review compliance obligations.",
-      "Operational: Barclays to cut 5,000 jobs amid AI expansion — evaluate model governance gaps."
+      "Trading risk: Quant salaries on the rise amid AI revolution — assess algorithmic exposure.",
+      "Operational: AI oversight needs a different model to banking — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Loops Raises $3.5m Seed to Unify AI Commerce Tools for Retailers — potential infrastructure advantage.",
-      "Banking efficiency: Barclays to cut 5,000 jobs amid AI expansion — cost reduction opportunity.",
-      "InsurTech: AI won’t tidy your business. It just moves the mess faster — underwriting modernisation potential."
+      "Payments: LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients — potential infrastructure advantage.",
+      "Banking efficiency: AI oversight needs a different model to banking — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -41,11 +40,98 @@
       "count": 2
     },
     {
+      "topic": "Credit & Underwriting",
+      "count": 1
+    },
+    {
       "topic": "Fraud Detection",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "407181926",
+      "title": "AI oversight needs a different model to banking",
+      "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
+      "date": "2026-10-23",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "regulatory"
+      ]
+    },
+    {
+      "id": "829265227",
+      "title": "Quant salaries on the rise amid AI revolution",
+      "summary": "Remuneration for quantitative finance professionals has continued to rise despite the increased use of AI, according to recently published research.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48640/quant-salaries-on-the-rise-amid-ai-revolution?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-23",
+      "category": "Trading",
+      "tags": [
+        "quant",
+        "ai",
+        "remuneration"
+      ]
+    },
+    {
+      "id": "837155439",
+      "title": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
+      "summary": "Corporate credit data, analytics, and AI technology provider Cognitive Credit has closed a $40 million strategic growth investment led by Summit Partners with participation from ETFS Capital.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48635/cognitive-credit-raises-40m-to-scale-specialist-data-and-ai-for-credit-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-23",
+      "category": "Banking",
+      "tags": [
+        "cognitive credit",
+        "ai",
+        "corporate"
+      ]
+    },
+    {
+      "id": "357830381",
+      "title": "LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients",
+      "summary": "The Irish AI mortgage platform will deploy across SPF's UK mortgage and protection workflows, with a broader rollout planned for 2027. The post LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/lendwell-signs-multi-year-ai-mortgage-deal-with-spf-private-clients/",
+      "date": "2026-10-23",
+      "category": "Payments",
+      "tags": [
+        "lendwell signs",
+        "multi",
+        "year ai"
+      ]
+    },
+    {
+      "id": "44183377",
+      "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
+      "summary": "Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon as the “frozen middle”…",
+      "source": "e27",
+      "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
+      "date": "2026-10-23",
+      "category": "Banking",
+      "tags": [
+        "red hat",
+        "singapore ai",
+        "southeast asia"
+      ]
+    },
+    {
+      "id": "108561561",
+      "title": "Male founders are losing confidence. Women are doubling down on AI",
+      "summary": "HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more tha…",
+      "source": "e27",
+      "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
+      "date": "2026-10-23",
+      "category": "Banking",
+      "tags": [
+        "male",
+        "women",
+        "ai hsbc"
+      ]
+    },
     {
       "id": "331237073",
       "title": "Barclays to cut 5,000 jobs amid AI expansion",
@@ -793,89 +879,6 @@
         "ping an",
         "digital bank",
         "pingandb"
-      ]
-    },
-    {
-      "id": "954975423",
-      "title": "AI and inflation are driving Singapore’s workplace anxiety. Employers are spending on the wrong fix",
-      "summary": "Most Singapore office workers know the ritual. A message lands at 10.47pm. It is not urgent. You answer it within 90 seconds anyway, not because the work demands it, but because you want someone to notice that you answered it within 90 seconds. It turns out that performance is pl…",
-      "source": "e27",
-      "url": "https://e27.co/ai-and-inflation-are-driving-singapores-workplace-anxiety-employers-are-spending-on-the-wrong-fix-20261015/",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "singapore",
-        "employers"
-      ]
-    },
-    {
-      "id": "403838241",
-      "title": "Banking leaders said that regulatory and governance concerns are the primary obstacles to adopting artificial intelligence (AI) tools in their organisations, according to a survey by FICO.",
-      "summary": "Banking leaders said that regulatory and governance concerns are the primary obstacles to adopting artificial intelligence (AI) tools in their organisations, according to a survey by FICO.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/in-focus/apac-bank-leaders-cite-trust-over-cost-main-ai-hurdle",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "banking",
-        "ai",
-        "fico"
-      ]
-    },
-    {
-      "id": "786549741",
-      "title": "Treasuries rally as investors seek shelter from AI turbulence",
-      "summary": "Global chip stocks caught up in volatile trading amid fears over sustainability of AI boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-      "date": "2026-10-15",
-      "category": "Trading",
-      "tags": [
-        "treasuries",
-        "ai",
-        "global"
-      ]
-    },
-    {
-      "id": "189096759",
-      "title": "Risk of an AI crunch for stock markets is rising",
-      "summary": "The tremor seen this week could be a foretaste of things to come",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
-      "date": "2026-10-15",
-      "category": "Trading",
-      "tags": [
-        "risk",
-        "ai"
-      ]
-    },
-    {
-      "id": "699339798",
-      "title": "AI-native core banking startup Maximum signs Emprise Bank",
-      "summary": "Emprise Bank has announced a design partnership with Maximum, an AI-native banking infrastructure company, to transform its core banking system.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111263/ai-native-core-banking-startup-maximum-signs-emprise-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "maximum",
-        "emprise bank"
-      ]
-    },
-    {
-      "id": "425297849",
-      "title": "Extend brings AI receipt agent to bank partners' SMB customers",
-      "summary": "Extend, the financial operations platform bringing modern spend and expense management to business cards everywhere, today shared its AI Receipt Agent with bank partners as part of its larger mission to make trusted AI tools accessible to the small and mid-market businesses they …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111294/extend-brings-ai-receipt-agent-to-bank-partners-smb-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-15",
-      "category": "Banking",
-      "tags": [
-        "extend",
-        "ai",
-        "smb"
       ]
     }
   ]
