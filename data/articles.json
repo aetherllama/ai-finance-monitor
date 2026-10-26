@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-10-25T21:33:31Z",
+  "last_updated": "2026-10-26T14:02:04Z",
   "insights": {
     "risks": [
-      "Trading risk: Quant salaries on the rise amid AI revolution — assess algorithmic exposure.",
-      "Operational: AI oversight needs a different model to banking — evaluate model governance gaps."
+      "Regulatory: L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares — review compliance obligations.",
+      "Trading risk: Meta plans $95bn stock offering to bankroll AI expansion — assess algorithmic exposure.",
+      "Operational: Is it time up for humans when it comes to financial modelling in the age of AI? — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients — potential infrastructure advantage.",
-      "Banking efficiency: AI oversight needs a different model to banking — cost reduction opportunity."
+      "Banking efficiency: Is it time up for humans when it comes to financial modelling in the age of AI? — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -36,19 +37,67 @@
       "count": 2
     },
     {
-      "topic": "Generative AI",
-      "count": 2
-    },
-    {
       "topic": "Credit & Underwriting",
-      "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "884269743",
+      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
+      "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
+      "date": "2026-10-26",
+      "category": "Trading",
+      "tags": [
+        "meta",
+        "ai",
+        "chipmakers nvidia"
+      ]
+    },
+    {
+      "id": "188405818",
+      "title": "Is it time up for humans when it comes to financial modelling in the age of AI?",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33300/is-it-time-up-for-humans-when-it-comes-to-financial-modelling-in-the-age-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-26",
+      "category": "Banking",
+      "tags": [
+        "is",
+        "ai",
+        "author"
+      ]
+    },
+    {
+      "id": "395700383",
+      "title": "L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares",
+      "summary": "The Hong Kong investment firm will use Newton Labs' compliance protocol to put late-stage private technology holdings onchain for eligible investors. The post L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/l2-capital-picks-newton-to-tokenize-500m-pre-ipo-ai-shares/",
+      "date": "2026-10-26",
+      "category": "RegTech",
+      "tags": [
+        "capital picks",
+        "newton",
+        "tokenize"
+      ]
+    },
+    {
+      "id": "373503626",
+      "title": "GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room",
+      "summary": "When a chip plant is running close to full tilt, a failing chiller or a slow gas leak is not a maintenance ticket. It is lost output that cannot easily be made up elsewhere. That is the problem GlobalFoundries (GF) says it is tackling in Singapore. The New York-headquartered cont…",
+      "source": "e27",
+      "url": "https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/",
+      "date": "2026-10-26",
+      "category": "Banking",
+      "tags": [
+        "globalfoundries",
+        "singapore",
+        "ai"
+      ]
+    },
     {
       "id": "407181926",
       "title": "AI oversight needs a different model to banking",
@@ -823,62 +872,6 @@
       "tags": [
         "ai",
         "movere"
-      ]
-    },
-    {
-      "id": "807661882",
-      "title": "Farsight and Ornn partner for AI-powered banking",
-      "summary": "Farsight, the platform helping global financial services firms become AI-native, today announced a partnership with Ornn, which builds financial markets for compute.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111310/farsight-and-ornn-partner-for-ai-powered-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "farsight",
-        "ornn",
-        "ai"
-      ]
-    },
-    {
-      "id": "255330704",
-      "title": "Employers are buying AI tools. Their managers are being left behind",
-      "summary": "Thirty-seven per cent. Eleven per cent. Those two numbers, tucked deep inside Jobstreet by SEEK s Singapore Workplace Culture Study 2026, may say more about the region s productivity problem than any headline about AI or inflation. The first is the share of employees who try to m…",
-      "source": "e27",
-      "url": "https://e27.co/employers-are-buying-ai-tools-their-managers-are-being-left-behind-20261016/",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "employers",
-        "ai",
-        "their"
-      ]
-    },
-    {
-      "id": "938739917",
-      "title": "Bank of the Philippine Islands (BPI) has the most mentions across consumer, business, and trust queries made in generative artificial intelligence (gen AI) models.",
-      "summary": "Bank of the Philippine Islands (BPI) has the most mentions across consumer, business, and trust queries made in generative artificial intelligence (gen AI) models.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/news/bpi-tops-philippine-bank-ai-visibility",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "philippine islands",
-        "bpi"
-      ]
-    },
-    {
-      "id": "457503813",
-      "title": "Ping An Digital Bank (PingAnDB) completed its “Anti-Fraud Strategy Platform” use case as part of the second cohort of Hong Kong’s Gen AI Sandbox.",
-      "summary": "Ping An Digital Bank (PingAnDB) completed its “Anti-Fraud Strategy Platform” use case as part of the second cohort of Hong Kong’s Gen AI Sandbox.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/pingandb-hits-96-deepfake-detection-accuracy-in-hk-genai-sandbox-test",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "ping an",
-        "digital bank",
-        "pingandb"
       ]
     }
   ]
