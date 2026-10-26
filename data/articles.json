@@ -1,20 +1,24 @@
 {
-  "last_updated": "2026-10-26T14:02:04Z",
+  "last_updated": "2026-10-26T23:04:01Z",
   "insights": {
     "risks": [
       "Regulatory: L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares — review compliance obligations.",
-      "Trading risk: Meta plans $95bn stock offering to bankroll AI expansion — assess algorithmic exposure.",
-      "Operational: Is it time up for humans when it comes to financial modelling in the age of AI? — evaluate model governance gaps."
+      "Trading risk: B2Prime launches Claude connector for AI-assisted market research — assess algorithmic exposure.",
+      "Operational: Nevis raises $70m for wealth management AI operating system — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients — potential infrastructure advantage.",
-      "Banking efficiency: Is it time up for humans when it comes to financial modelling in the age of AI? — cost reduction opportunity."
+      "Payments: How Machine Learning is Reshaping US Fintech Markets as Digital Transformation Ramps Up — potential infrastructure advantage.",
+      "Banking efficiency: Nevis raises $70m for wealth management AI operating system — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
+    },
+    {
+      "topic": "Customer Service AI",
+      "count": 3
     },
     {
       "topic": "Payments AI",
@@ -29,12 +33,12 @@
       "count": 2
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Neural Networks",
       "count": 2
     },
     {
-      "topic": "Neural Networks",
-      "count": 2
+      "topic": "Machine Learning",
+      "count": 1
     },
     {
       "topic": "Credit & Underwriting",
@@ -42,6 +46,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "121715903",
+      "title": "Nevis raises $70m for wealth management AI operating system",
+      "summary": "Nevis, a startup founded by former Revolut executives that is building an AI operating system for wealth management, has raised $70 million in a Series B funding round led by EQT Ventures.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48649/nevis-raises-70m-for-wealth-management-ai-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-26",
+      "category": "Banking",
+      "tags": [
+        "nevis",
+        "ai",
+        "revolut"
+      ]
+    },
+    {
+      "id": "407855646",
+      "title": "B2Prime launches Claude connector for AI-assisted market research",
+      "summary": "B2Prime Group, a global financial services provider, has launched its own connector in Claude’s directory, allowing users to access market intelligence and trading analytics through an AI assistant.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111441/b2prime-launches-claude-connector-for-ai-assisted-market-research?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-26",
+      "category": "Trading",
+      "tags": [
+        "claude",
+        "ai",
+        "group"
+      ]
+    },
+    {
+      "id": "746756214",
+      "title": "How Machine Learning is Reshaping US Fintech Markets as Digital Transformation Ramps Up",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33306/how-machine-learning-is-reshaping-us-fintech-markets-as-digital-transformation-ramps-up?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-26",
+      "category": "Payments",
+      "tags": [
+        "how machine",
+        "learning",
+        "reshaping us"
+      ]
+    },
+    {
+      "id": "243919673",
+      "title": "Amex Publishes Intent-Authentication Framework for AI Agent Payments",
+      "summary": "American Express has detailed how it will capture and authenticate customer instructions to AI agents before a payment is made, shifting liability to intent records. The post Amex Publishes Intent-Authentication Framework for AI Agent Payments appeared first on The Fintech Times …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/amex-publishes-intent-authentication-framework-for-ai-agent-payments/",
+      "date": "2026-10-26",
+      "category": "Payments",
+      "tags": [
+        "amex publishes",
+        "intent",
+        "authentication framework"
+      ]
+    },
     {
       "id": "884269743",
       "title": "Meta plans $95bn stock offering to bankroll AI expansion",
@@ -818,60 +878,6 @@
         "shareholders",
         "ai",
         "sec"
-      ]
-    },
-    {
-      "id": "624993673",
-      "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
-      "summary": "Finance ministers agree to hold tabletop drills to prepare against future cyber attacks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "finance"
-      ]
-    },
-    {
-      "id": "146959054",
-      "title": "Deutsche Bank rolls out on-premise AI system",
-      "summary": "Germany's Deutsche Bank has implemented an AI platform across its capital markets and investment banking teams in Europe and North America.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48594/deutsche-bank-rolls-out-on-premise-ai-system?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "ai",
-        "germany"
-      ]
-    },
-    {
-      "id": "345974579",
-      "title": "AI-native personal finance platform Matters emerges from stealth with $5m pre-seed",
-      "summary": "Matters, a Swedish AI-native personal finance platform, has emerged from stealth with a $5 million pre-seed funding round.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48592/ai-native-personal-finance-platform-matters-emerges-from-stealth-with-5m-pre-seed?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "matters",
-        "swedish ai"
-      ]
-    },
-    {
-      "id": "363304618",
-      "title": "AI-native payments platform Movere launches",
-      "summary": "A collection of banking and fintech veterans has unveiled Movere, an AI-native payments platform for businesses.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48593/ai-native-payments-platform-movere-launches?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-16",
-      "category": "Payments",
-      "tags": [
-        "ai",
-        "movere"
       ]
     }
   ]
