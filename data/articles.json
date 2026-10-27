@@ -1,20 +1,22 @@
 {
-  "last_updated": "2026-10-27T13:04:26Z",
+  "last_updated": "2026-10-27T22:53:38Z",
   "insights": {
     "risks": [
-      "Regulatory: L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares — review compliance obligations.",
-      "Trading risk: B2Prime launches Claude connector for AI-assisted market research — assess algorithmic exposure.",
-      "Operational: Tech stocks rally as AI trade revives — evaluate model governance gaps."
+      "Regulatory: Zafin to buy Naehas to expand AI-powered banking and compliance platform — review compliance obligations.",
+      "Operational: The limits of hedging the AI boom — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: How Machine Learning is Reshaping US Fintech Markets as Digital Transformation Ramps Up — potential infrastructure advantage.",
-      "Banking efficiency: Tech stocks rally as AI trade revives — cost reduction opportunity."
+      "Banking efficiency: The limits of hedging the AI boom — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
+    },
+    {
+      "topic": "Automation",
+      "count": 4
     },
     {
       "topic": "Payments AI",
@@ -22,14 +24,6 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 3
-    },
-    {
-      "topic": "Automation",
-      "count": 2
-    },
-    {
-      "topic": "Regulatory AI",
       "count": 2
     },
     {
@@ -43,9 +37,138 @@
     {
       "topic": "Credit & Underwriting",
       "count": 1
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "434048395",
+      "title": "The limits of hedging the AI boom",
+      "summary": "As tech investment soars, finding protection is becoming more urgent — and harder",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "as"
+      ]
+    },
+    {
+      "id": "779903897",
+      "title": "Zafin to buy Naehas to expand AI-powered banking and compliance platform",
+      "summary": "Zafin, a Toronto-based AI platform for regulated institutions such as banks, has inked a deal to buy Naehas, a provider of offer management, disclosure automation and marketing compliance technology serving financial institutions in the US.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48654/zafin-to-buy-naehas-to-expand-ai-powered-banking-and-compliance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-27",
+      "category": "RegTech",
+      "tags": [
+        "zafin",
+        "naehas",
+        "ai"
+      ]
+    },
+    {
+      "id": "23084383",
+      "title": "Kenya's I&M Bank selects Otoma for end-to-end payments",
+      "summary": "I&M Bank, a leading Tier 1 commercial bank headquartered in Kenya, has partnered with Otoma, a leading provider of AI native, no-code payments infrastructure, to modernize its end to end payments technology, enhancing the speed, reliability and efficiency of payment services for …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111466/kenyas-im-bank-selects-otoma-for-end-to-end-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "kenya",
+        "bank",
+        "otoma"
+      ]
+    },
+    {
+      "id": "664291357",
+      "title": "Webull Canada launches AI-powered investing",
+      "summary": "Webull Securities (Canada) Ltd, an online investment platform and subsidiary of Webull Corporation (NASDAQ: BULL), today announced that Canadian investors can now connect their Webull accounts to AI assistants, including ChatGPT, Perplexity, Claude and Grok.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111467/webull-canada-launches-ai-powered-investing?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "webull canada",
+        "ai",
+        "webull securities"
+      ]
+    },
+    {
+      "id": "439666817",
+      "title": "Hyphenate raises $45m for autonomous finance agents",
+      "summary": "The first wave of finance AI helped teams work faster. The next is taking responsibility for the work itself. Hyphenate, the autonomous finance platform for the office of the CFO, today announced a $45 million Series A led by Nexus Venture Partners, with participation from B Capi…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "hyphenate",
+        "ai",
+        "cfo"
+      ]
+    },
+    {
+      "id": "493878135",
+      "title": "Can Open Source Drive Secure AI Innovation in Banking?",
+      "summary": "At Sibos 2026, Red Hat and Accenture talk about how open source transparency and industry collaboration drive secure AI innovation in banking.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3628/can-open-source-drive-secure-ai-innovation-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "can open",
+        "source drive",
+        "secure ai"
+      ]
+    },
+    {
+      "id": "402088300",
+      "title": "ADIB adds 200,000 customers and a first-of-its-kind open finance licence as nine-month profit climbs to AED 6.4 billion",
+      "summary": "Abu Dhabi Islamic Bank has reported a 6 per cent rise in profit before tax to AED 6.4 billion for the first nine months of 2026, with customer financing up a quarter, deposits past AED 250 billion and a non-performing asset ratio at a record low. Behind the headline numbers sits …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/adib-secures-uaes-first-open-finance-licence-as-nine-month-profit-hits-aed-6-4b/",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "adib",
+        "aed",
+        "abu dhabi"
+      ]
+    },
+    {
+      "id": "123370143",
+      "title": "About 34% of APAC financial services firms are using AI to transform their business models, above the 31% global average. However, only 18% of financial firms globally report revenue gains from AI adoption, despite productivity improvements.",
+      "summary": "About 34% of APAC financial services firms are using AI to transform their business models, above the 31% global average. However, only 18% of financial firms globally report revenue gains from AI adoption, despite productivity improvements.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/in-focus/ai-boosts-productivity-fails-lift-revenue-most-banks",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "about",
+        "apac",
+        "ai"
+      ]
+    },
+    {
+      "id": "224195055",
+      "title": "HSBC has launched HSBCnio, a digital AI-enabled solution that simplifies and unifies its transaction banking services.",
+      "summary": "HSBC has launched HSBCnio, a digital AI-enabled solution that simplifies and unifies its transaction banking services.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/cash-management/news/hsbc-rolls-out-hsbcnio-unify-clients-transaction-banking-access",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "hsbc",
+        "hsbcnio",
+        "ai"
+      ]
+    },
     {
       "id": "173516710",
       "title": "Tech stocks rally as AI trade revives",
@@ -753,132 +876,6 @@
         "fca",
         "ai",
         "the uk"
-      ]
-    },
-    {
-      "id": "565996590",
-      "title": "World takes on AI-driven impersonations with new suite for banking and finance",
-      "summary": "World, the digital identity project co-founded by OpenAI boss Sam Altman has unveiled suite of tools designed to help banks prevent deepfake fraud and AI-driven impersonation across customer accounts, employee workflows, and agents.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48602/world-takes-on-ai-driven-impersonations-with-new-suite-for-banking-and-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "world",
-        "ai",
-        "openai"
-      ]
-    },
-    {
-      "id": "626859797",
-      "title": "Specialist Mortgage Group embeds Y3S platform",
-      "summary": "Curvestone AI, the AI compliance and oversight platform for regulated financial services, has today announced that Specialist Mortgage Group, the Cardiff-based group behind Y3S Loans, Y3S Bridging and Commercial and Chase Blue Loans, has deployed its platform across their advice …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111323/specialist-mortgage-group-embeds-y3s-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "RegTech",
-      "tags": [
-        "specialist mortgage",
-        "group",
-        "curvestone ai"
-      ]
-    },
-    {
-      "id": "596197126",
-      "title": "Blevins Franks selects Palindrome for cross-border wealth advice",
-      "summary": "Agentic AI specialist Palindrome is pleased to announce it has partnered with cross-border wealth manager Blevins Franks to support its new initiative for UK advisers with clients in Europe.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111327/blevins-franks-selects-palindrome-for-cross-border-wealth-advice?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "blevins franks",
-        "palindrome",
-        "agentic ai"
-      ]
-    },
-    {
-      "id": "674948931",
-      "title": "Kaplan UK research highlights AI capability gaps",
-      "summary": "​​​Two in five (40%) financial services directors and C-Suite professionals say their organisation has lost a competitive bid or client opportunity partly because of AI capability concerns, according to new research from Kaplan UK - a leading provider of professional education, a…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111331/kaplan-uk-research-highlights-ai-capability-gaps?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "kaplan uk",
-        "ai",
-        "two"
-      ]
-    },
-    {
-      "id": "323832908",
-      "title": "A $1 Trillion Week: What the AI Selloff Says About Credit, Leverage and Who Holds the Risk",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33216/a-1-trillion-week-what-the-ai-selloff-says-about-credit-leverage-and-who-holds-the-risk?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "trillion week",
-        "what",
-        "ai selloff"
-      ]
-    },
-    {
-      "id": "622468993",
-      "title": "Why Model Risk is the True Bottleneck for Bank AI Deployment",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33215/why-model-risk-is-the-true-bottleneck-for-bank-ai-deployment?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "why model",
-        "risk",
-        "true bottleneck"
-      ]
-    },
-    {
-      "id": "642961863",
-      "title": "Gen Z is bringing its own AI to work. Singapore’s SMEs need rules, not bans",
-      "summary": "Young workers in Singapore are not waiting for their employers to roll out AI. They are already using it, often on personal devices and often without anyone watching. According to “What Gen Z Workers Want 2026”, a study commissioned by Deel and conducted with YouGov and ThinkerTa…",
-      "source": "e27",
-      "url": "https://e27.co/gen-z-is-bringing-its-own-ai-to-work-singapores-smes-need-rules-not-bans-20261019/",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "gen",
-        "ai",
-        "singapore"
-      ]
-    },
-    {
-      "id": "261203074",
-      "title": "Dealing with shadow AI: What companies should do instead of banning AI",
-      "summary": "In most companies across Singapore and Thailand, the AI policy already exists: drafted, approved and circulated. And yet, somewhere in the same organisation, an employee is pasting a supplier contract into a free chatbot to summarise it before a meeting. This is known as shadow A…",
-      "source": "e27",
-      "url": "https://e27.co/dealing-with-shadow-ai-what-companies-should-do-instead-of-banning-ai-20261016/",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "dealing",
-        "ai",
-        "what"
-      ]
-    },
-    {
-      "id": "770400517",
-      "title": "nCino and Parlay Link Up to Automate SBA Lending Intake with AI",
-      "summary": "The live integration has processed over $500m in SBA loan inquiries in 2026, with lenders reporting up to 80% less manual work per credit-ready The post nCino and Parlay Link Up to Automate SBA Lending Intake with AI appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/ncino-and-parlay-link-up-to-automate-sba-lending-intake-with-ai/",
-      "date": "2026-10-18",
-      "category": "Payments",
-      "tags": [
-        "parlay link",
-        "up",
-        "automate sba"
       ]
     }
   ]
