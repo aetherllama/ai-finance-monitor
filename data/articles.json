@@ -1,27 +1,27 @@
 {
-  "last_updated": "2026-10-26T23:04:01Z",
+  "last_updated": "2026-10-27T13:04:26Z",
   "insights": {
     "risks": [
       "Regulatory: L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares — review compliance obligations.",
       "Trading risk: B2Prime launches Claude connector for AI-assisted market research — assess algorithmic exposure.",
-      "Operational: Nevis raises $70m for wealth management AI operating system — evaluate model governance gaps."
+      "Operational: Tech stocks rally as AI trade revives — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: How Machine Learning is Reshaping US Fintech Markets as Digital Transformation Ramps Up — potential infrastructure advantage.",
-      "Banking efficiency: Nevis raises $70m for wealth management AI operating system — cost reduction opportunity."
+      "Banking efficiency: Tech stocks rally as AI trade revives — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 3
+      "count": 11
     },
     {
       "topic": "Payments AI",
+      "count": 3
+    },
+    {
+      "topic": "Customer Service AI",
       "count": 3
     },
     {
@@ -46,6 +46,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "173516710",
+      "title": "Tech stocks rally as AI trade revives",
+      "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "tech",
+        "ai",
+        "asia"
+      ]
+    },
+    {
+      "id": "864637879",
+      "title": "Backbase launches AI software factory for banking",
+      "summary": "Backbase today introduced Delivery Factory, an AI software factory purpose-built for banking, in which a bank's delivery team works alongside specialist AI agents from the first agreed requirement to working code.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111436/backbase-launches-ai-software-factory-for-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "backbase",
+        "ai",
+        "delivery factory"
+      ]
+    },
+    {
+      "id": "46383264",
+      "title": "Why Open Banking Needs Sustainable Commercial Model to Scale Payments and AI Services",
+      "summary": "At Sibos 2026, NatWest’s Simon Eacott reveals how commercial models, A2A payments, and AI can drive open banking to the next level.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3627/why-open-banking-needs-sustainable-commercial-model-to-scale-payments-and-ai-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "why open",
+        "banking needs",
+        "sustainable commercial"
+      ]
+    },
+    {
+      "id": "533342181",
+      "title": "An AI label alone no longer wins lenders, JPMorgan says",
+      "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "an ai",
+        "jpmorgan",
+        "as"
+      ]
+    },
+    {
+      "id": "911144310",
+      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
+      "summary": "From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a common theme: The Break…",
+      "source": "e27",
+      "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "from",
+        "my",
+        "ai"
+      ]
+    },
+    {
+      "id": "393273016",
+      "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
+      "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into th…",
+      "source": "e27",
+      "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
+      "date": "2026-10-27",
+      "category": "Banking",
+      "tags": [
+        "qpiai",
+        "singapore",
+        "put"
+      ]
+    },
     {
       "id": "121715903",
       "title": "Nevis raises $70m for wealth management AI operating system",
@@ -795,89 +879,6 @@
         "parlay link",
         "up",
         "automate sba"
-      ]
-    },
-    {
-      "id": "132979860",
-      "title": "The dress rehearsal for an AI reckoning",
-      "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
-      "date": "2026-10-17",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "ructions"
-      ]
-    },
-    {
-      "id": "501574563",
-      "title": "Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards",
-      "summary": "Oobit AI Payments issues a disposable card per transaction, letting AI agents spend stablecoins without accessing the user's underlying account. The post Oobit Lets AI Assistants Pay with Stablecoins Via One-Time Cards appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/oobit-lets-ai-assistants-pay-with-stablecoins-via-one-time-cards/",
-      "date": "2026-10-17",
-      "category": "Payments",
-      "tags": [
-        "oobit lets",
-        "ai assistants",
-        "pay"
-      ]
-    },
-    {
-      "id": "256247710",
-      "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
-      "summary": "US lenders fear chatbots could shift billions of dollars in deposits to higher-yielding accounts",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "citi",
-        "us",
-        "ai"
-      ]
-    },
-    {
-      "id": "891029919",
-      "title": "Can Agentic AI Transform Corporate Banking Self-Service Experiences?",
-      "summary": "At Sibos 2026, Pega’s Steve Morgan talks about banks can leveraging agentic AI to deliver seamless corporate self-service experiences.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3618/can-agentic-ai-transform-corporate-banking-self-service-experiences?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "can agentic",
-        "ai transform",
-        "corporate banking"
-      ]
-    },
-    {
-      "id": "807758024",
-      "title": "Regions Bank Says AI Cybersecurity Drives Up Costs 1.5% to 3.5%",
-      "summary": "Regions Financial Corp., parent company of Regions Bank, expects the cost of cybersecurity to increase its adjusted noninterest expense by between 1.5% and 3.5% for full-year 2026, Chief Financial Officer Anil Chadha said Friday (Oct. 16) during an earnings call. The company’s in…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/earnings/2026/regions-bank-says-ai-cybersecurity-drives-up-costs-1-5percent-to-3-5percent/",
-      "date": "2026-10-16",
-      "category": "Banking",
-      "tags": [
-        "regions bank",
-        "says ai",
-        "cybersecurity drives"
-      ]
-    },
-    {
-      "id": "824520032",
-      "title": "Shareholders should have a say on making AI safe",
-      "summary": "SEC decision to rescind key rule on voting could not have come at a worse time",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd",
-      "date": "2026-10-16",
-      "category": "RegTech",
-      "tags": [
-        "shareholders",
-        "ai",
-        "sec"
       ]
     }
   ]
