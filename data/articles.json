@@ -1,18 +1,20 @@
 {
-  "last_updated": "2026-10-27T22:53:38Z",
+  "last_updated": "2026-10-28T13:54:13Z",
   "insights": {
     "risks": [
-      "Regulatory: Zafin to buy Naehas to expand AI-powered banking and compliance platform — review compliance obligations.",
-      "Operational: The limits of hedging the AI boom — evaluate model governance gaps."
+      "Regulatory: NatWest slashes marketing compliance approval times with Adclear agents — review compliance obligations.",
+      "Trading risk: Kospi surges 7% as SK Hynix earnings fuel AI stock rebound — assess algorithmic exposure.",
+      "Operational: Meta’s Muse lands in Singapore with a guest list Amazon never got — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: The limits of hedging the AI boom — cost reduction opportunity."
+      "Payments: LuLu Financial and Purpleplum Launch Unified SME Banking in UAE — potential infrastructure advantage.",
+      "Banking efficiency: Meta’s Muse lands in Singapore with a guest list Amazon never got — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -24,10 +26,6 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 2
-    },
-    {
-      "topic": "Neural Networks",
       "count": 2
     },
     {
@@ -44,6 +42,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "712980428",
+      "title": "NatWest slashes marketing compliance approval times with Adclear agents",
+      "summary": "NatWest has brought in AI agents from Adclear to overhaul how compliance is embedded across its marketing and communications operations, slashing approval times by 80%.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48660/natwest-slashes-marketing-compliance-approval-times-with-adclear-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-28",
+      "category": "RegTech",
+      "tags": [
+        "natwest",
+        "adclear",
+        "ai"
+      ]
+    },
+    {
+      "id": "653598360",
+      "title": "LuLu Financial and Purpleplum Launch Unified SME Banking in UAE",
+      "summary": "LuLu Financial Holdings and Purpleplum have launched a unified SME platform in the UAE, combining ruya-issued digital accounts, agentic AI onboarding, cross-border rails, and WPS payroll. The post LuLu Financial and Purpleplum Launch Unified SME Banking in UAE appeared first on T…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/lulu-financial-and-purpleplum-launch-unified-sme-banking-in-uae/",
+      "date": "2026-10-28",
+      "category": "Payments",
+      "tags": [
+        "lulu financial",
+        "purpleplum launch",
+        "unified sme"
+      ]
+    },
+    {
+      "id": "213149904",
+      "title": "The Autumn Budget 2026 – How FinTech holds the answers to Burnham’s biggest problems",
+      "summary": "UK FinTech urges the government to back SME lending, AI in financial services, investment and sterling stablecoins in the upcoming Budget to drive growth, jobs and financial inclusion nationwide. The post The Autumn Budget 2026 How FinTech holds the answers to Burnham’s biggest p…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-autumn-budget-2026-how-fintech-holds-the-answers-to-burnhams-biggest-problems/",
+      "date": "2026-10-28",
+      "category": "Payments",
+      "tags": [
+        "the autumn",
+        "budget",
+        "how fintech"
+      ]
+    },
+    {
+      "id": "171852333",
+      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+      "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+      "date": "2026-10-28",
+      "category": "Trading",
+      "tags": [
+        "kospi",
+        "sk hynix",
+        "ai"
+      ]
+    },
+    {
+      "id": "863760763",
+      "title": "Meta’s Muse lands in Singapore with a guest list Amazon never got",
+      "summary": "When Meta switched on Muse in the US last month, it let its new personal AI agent wander into Amazon.com unannounced. Twelve days later, Amazon showed it the door, complaining that the bot did not identify itself and that nobody had asked permission. In Singapore, Meta has brough…",
+      "source": "e27",
+      "url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/",
+      "date": "2026-10-28",
+      "category": "Banking",
+      "tags": [
+        "meta",
+        "muse",
+        "singapore"
+      ]
+    },
+    {
+      "id": "671318947",
+      "title": "Inside Singapore’s AI push: Lighthouses, rice importers and robot labs",
+      "summary": "Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore (EnterpriseSG) that i…",
+      "source": "e27",
+      "url": "https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/",
+      "date": "2026-10-28",
+      "category": "Banking",
+      "tags": [
+        "inside singapore",
+        "ai",
+        "lighthouses"
+      ]
+    },
     {
       "id": "434048395",
       "title": "The limits of hedging the AI boom",
@@ -792,90 +874,6 @@
         "agentic ai",
         "instant payments",
         "how can"
-      ]
-    },
-    {
-      "id": "266933548",
-      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.”…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-      "date": "2026-10-20",
-      "category": "InsurTech",
-      "tags": [
-        "the download",
-        "ai",
-        "this"
-      ]
-    },
-    {
-      "id": "764262576",
-      "title": "Banks want AI agents to move money, as long as someone is accountable",
-      "summary": "The pitch for agentic payments usually goes like this: software that negotiates, pays, reconciles and optimises cash while the finance team sleeps. A new report from UOB Global Economics Markets Research is a reminder that a payment involves more than moving the money. Someone al…",
-      "source": "e27",
-      "url": "https://e27.co/banks-want-ai-agents-to-move-money-as-long-as-someone-is-accountable-20261020/",
-      "date": "2026-10-20",
-      "category": "Banking",
-      "tags": [
-        "banks",
-        "ai",
-        "uob global"
-      ]
-    },
-    {
-      "id": "361483322",
-      "title": "HSBC says AI will create jobs. Southeast Asia should read the fine print first",
-      "summary": "The most revealing thing about HSBC’s latest survey of the world’s entrepreneurs isn’t the headline number. It’s who is spending it. On the surface, the Global Entrepreneurial Wealth Report 2026 reads like a hype cycle in spreadsheet form. Business owners across 17 markets plan t…",
-      "source": "e27",
-      "url": "https://e27.co/hsbc-says-ai-will-create-jobs-southeast-asia-should-read-the-fine-print-first-20261020/",
-      "date": "2026-10-20",
-      "category": "Banking",
-      "tags": [
-        "hsbc",
-        "ai",
-        "southeast asia"
-      ]
-    },
-    {
-      "id": "393130053",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautiou…",
-      "source": "MIT Tech Review",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
-      "date": "2026-10-19",
-      "category": "InsurTech",
-      "tags": [
-        "we",
-        "ai",
-        "with"
-      ]
-    },
-    {
-      "id": "684746028",
-      "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system",
-      "summary": "The Huntington National Bank has unveiled an AI-powered operating system built with Google Cloud’s Gemini Enterprise platform.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "huntington bank",
-        "google cloud",
-        "ai"
-      ]
-    },
-    {
-      "id": "231132541",
-      "title": "FCA calls for disclaimers on AI financial advice",
-      "summary": "The UK's financial services watchdog is calling on AI providers to issue disclaimers for services that provide financial advice to consumers via agentic AI.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48604/fca-calls-for-disclaimers-on-ai-financial-advice?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-19",
-      "category": "Banking",
-      "tags": [
-        "fca",
-        "ai",
-        "the uk"
       ]
     }
   ]
