@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-10-28T23:01:23Z",
+  "last_updated": "2026-10-29T14:00:29Z",
   "insights": {
     "risks": [
       "Regulatory: Automated Compliance Is Not Yet Defensible Compliance — review compliance obligations.",
       "Trading risk: CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading' — assess algorithmic exposure.",
-      "Operational: Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring — evaluate model governance gaps."
+      "Operational: The 70/30 rule: Why ASEAN banks still need humans as AI takes over — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Circle and Proof Demo Verified-ID Stablecoin Payments for AI Agents — potential infrastructure advantage.",
-      "Banking efficiency: Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring — cost reduction opportunity."
+      "Payments: Napier AI integrates LSEG World-Check On Demand for risk-based payment screening — potential infrastructure advantage.",
+      "Banking efficiency: The 70/30 rule: Why ASEAN banks still need humans as AI takes over — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -25,11 +25,11 @@
       "count": 4
     },
     {
-      "topic": "Machine Learning",
-      "count": 2
+      "topic": "Customer Service AI",
+      "count": 3
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Machine Learning",
       "count": 2
     },
     {
@@ -46,6 +46,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "551448667",
+      "title": "Napier AI integrates LSEG World-Check On Demand for risk-based payment screening",
+      "summary": "Napier AI Transaction Screening has successfully completed the technology validation process for its integration with LSEG’s new World-Check On Demand.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111500/napier-ai-integrates-lseg-world-check-on-demand-for-risk-based-payment-screening?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-29",
+      "category": "Payments",
+      "tags": [
+        "napier ai",
+        "lseg world",
+        "check on"
+      ]
+    },
+    {
+      "id": "211995380",
+      "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
+      "summary": "There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in ASEAN Banking 2026 at…",
+      "source": "e27",
+      "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
+      "date": "2026-10-29",
+      "category": "Banking",
+      "tags": [
+        "why asean",
+        "ai",
+        "there"
+      ]
+    },
+    {
+      "id": "644816205",
+      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
+      "summary": "Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday s AI. You don t need AI where I ask a question and get an answer. I think that s already passed, says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subc…",
+      "source": "e27",
+      "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
+      "date": "2026-10-29",
+      "category": "Banking",
+      "tags": [
+        "thailand",
+        "singapore",
+        "asia"
+      ]
+    },
     {
       "id": "41207960",
       "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring",
@@ -837,47 +879,6 @@
         "modernising core",
         "banking without",
         "compromising resilience"
-      ]
-    },
-    {
-      "id": "700754177",
-      "title": "From Cloud Outages to Intelligent Resilience: An AI Framework for Banking",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33226/from-cloud-outages-to-intelligent-resilience-an-ai-framework-for-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-20",
-      "category": "Banking",
-      "tags": [
-        "from cloud",
-        "outages",
-        "intelligent resilience"
-      ]
-    },
-    {
-      "id": "65181580",
-      "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
-      "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
-      "date": "2026-10-20",
-      "category": "Trading",
-      "tags": [
-        "cftc",
-        "ai",
-        "commodity futures"
-      ]
-    },
-    {
-      "id": "31718349",
-      "title": "AI debt worries spark surge in default insurance trading",
-      "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
-      "date": "2026-10-20",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "volumes"
       ]
     }
   ]
