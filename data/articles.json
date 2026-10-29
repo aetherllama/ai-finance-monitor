@@ -1,24 +1,25 @@
 {
-  "last_updated": "2026-10-29T14:00:29Z",
+  "last_updated": "2026-10-29T23:09:28Z",
   "insights": {
     "risks": [
       "Regulatory: Automated Compliance Is Not Yet Defensible Compliance — review compliance obligations.",
-      "Trading risk: CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading' — assess algorithmic exposure.",
-      "Operational: The 70/30 rule: Why ASEAN banks still need humans as AI takes over — evaluate model governance gaps."
+      "Trading risk: B2Broker Group moves into agentic trading — assess algorithmic exposure.",
+      "Operational: Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Napier AI integrates LSEG World-Check On Demand for risk-based payment screening — potential infrastructure advantage.",
-      "Banking efficiency: The 70/30 rule: Why ASEAN banks still need humans as AI takes over — cost reduction opportunity."
+      "Banking efficiency: Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking — cost reduction opportunity.",
+      "InsurTech: CarbonAI Raises $12m to Automate CRE Lending Underwriting — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 5
     },
     {
       "topic": "Payments AI",
@@ -46,6 +47,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "690710547",
+      "title": "B2Broker Group moves into agentic trading",
+      "summary": "B2Broker Group, a global fintech solutions provider for financial institutions, has expanded the AI capabilities of its B2Trader platform with Model Context Protocol (MCP) support and a new in-terminal AI Chat.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111510/b2broker-group-moves-into-agentic-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-29",
+      "category": "Trading",
+      "tags": [
+        "group",
+        "ai",
+        "model context"
+      ]
+    },
+    {
+      "id": "575539103",
+      "title": "Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking",
+      "summary": "At Sibos 2026, CoCoNet’s CEO and director of product share their thoughts on how banks can build trusted AI execution layers and connect corporate ecosystems to meet evolving client demands.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3634/building-a-trusted-ecosystem-ais-changing-role-in-corporate-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-10-29",
+      "category": "Banking",
+      "tags": [
+        "building",
+        "trusted ecosystem",
+        "ai"
+      ]
+    },
+    {
+      "id": "236890013",
+      "title": "CarbonAI Raises $12m to Automate CRE Lending Underwriting",
+      "summary": "The agentic AI platform for commercial real estate lending closed a Cowboy Ventures-led round six months after reaching seven-figure contracted revenue. The post CarbonAI Raises $12m to Automate CRE Lending Underwriting appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/carbonai-raises-12m-to-automate-cre-lending-underwriting/",
+      "date": "2026-10-29",
+      "category": "InsurTech",
+      "tags": [
+        "carbonai raises",
+        "automate cre",
+        "lending underwriting"
+      ]
+    },
+    {
+      "id": "270238517",
+      "title": "Ant International CEO: Achieving inclusion is critical to re-globalisation, and AI will accelerate it by democratising opportunities",
+      "summary": "Speaking in Doha on 28 October 2026 at the United Nations Trade and Development (UNCTAD) World Investment Forum 2026 panel, “Investing in AI for an Inclusive Digital Future”, Ant International CEO Peng Yang called for a new, inclusive “re-globalisation” project that harnesses AI …",
+      "source": "e27",
+      "url": "https://e27.co/ant-international-ceo-achieving-inclusion-is-critical-to-re-globalisation-and-ai-will-accelerate-it-by-democratising-opportunities-20261029/",
+      "date": "2026-10-29",
+      "category": "Banking",
+      "tags": [
+        "ant international",
+        "ceo",
+        "achieving"
+      ]
+    },
     {
       "id": "551448667",
       "title": "Napier AI integrates LSEG World-Check On Demand for risk-based payment screening",
@@ -823,62 +880,6 @@
       "tags": [
         "talks",
         "ai"
-      ]
-    },
-    {
-      "id": "989654903",
-      "title": "Sustainable Finance Live: How can we power regenerative finance?",
-      "summary": "At Sustainable Finance Live 2026, the afternoon sessions discussed strategies to place social purpose over profit, improve access to inclusive banking, and use open data and AI to build community-led business models.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48617/sustainable-finance-live-how-can-we-power-regenerative-finance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-20",
-      "category": "Banking",
-      "tags": [
-        "sustainable finance",
-        "live",
-        "how"
-      ]
-    },
-    {
-      "id": "579974752",
-      "title": "ScribeUp raises $13m for AI-powered bill management",
-      "summary": "ScribeUp, the AI-powered embedded recurring bill solution for modern financial institutions, today announced its Series A fundraise of $13 million. The round was led by Curql, with participation from Mucker Capital and Service Ventures.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111368/scribeup-raises-13m-for-ai-powered-bill-management?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-20",
-      "category": "Banking",
-      "tags": [
-        "scribeup",
-        "ai",
-        "series"
-      ]
-    },
-    {
-      "id": "574728948",
-      "title": "Versana and Allvue partner to modernise loan market data connectivity and automation",
-      "summary": "Versana LLC (“Versana”), an industry-backed enterprise data and digital infrastructure company for the broadly syndicated loan (BSL) and private credit markets, and Allvue Systems, LLC (“Allvue”), a leading technology provider for private capital markets, today announced a strate…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111373/versana-and-allvue-partner-to-modernise-loan-market-data-connectivity-and-automation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-20",
-      "category": "Banking",
-      "tags": [
-        "versana",
-        "allvue",
-        "versana llc"
-      ]
-    },
-    {
-      "id": "559742106",
-      "title": "Modernising Core Banking Without Compromising Resilience",
-      "summary": "At Sibos 2026, Red Hat and Kyndryl reveal how banks can balance AI innovation with core system resilience and embedded trust.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3622/modernising-core-banking-without-compromising-resilience?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-20",
-      "category": "Banking",
-      "tags": [
-        "modernising core",
-        "banking without",
-        "compromising resilience"
       ]
     }
   ]
