@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-10-29T23:09:28Z",
+  "last_updated": "2026-10-30T13:55:52Z",
   "insights": {
     "risks": [
       "Regulatory: Automated Compliance Is Not Yet Defensible Compliance — review compliance obligations.",
       "Trading risk: B2Broker Group moves into agentic trading — assess algorithmic exposure.",
-      "Operational: Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking — evaluate model governance gaps."
+      "Operational: Big Tech sheds nearly $900bn in rout over soaring AI spending — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Napier AI integrates LSEG World-Check On Demand for risk-based payment screening — potential infrastructure advantage.",
-      "Banking efficiency: Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking — cost reduction opportunity.",
+      "Banking efficiency: Big Tech sheds nearly $900bn in rout over soaring AI spending — cost reduction opportunity.",
       "InsurTech: CarbonAI Raises $12m to Automate CRE Lending Underwriting — underwriting modernisation potential."
     ]
   },
@@ -47,6 +47,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "969768651",
+      "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
+      "summary": "Cash burn at Google, Amazon and Meta leads Wall Street to question price of AI boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
+      "date": "2026-10-30",
+      "category": "Banking",
+      "tags": [
+        "big tech",
+        "ai",
+        "cash"
+      ]
+    },
     {
       "id": "690710547",
       "title": "B2Broker Group moves into agentic trading",
@@ -867,19 +881,6 @@
         "ai",
         "it",
         "singapore"
-      ]
-    },
-    {
-      "id": "66952347",
-      "title": "Talks covered tokenisation AI adoption quantum security and sustainable finance.",
-      "summary": "Talks covered tokenisation AI adoption quantum security and sustainable finance.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/uk-and-singapore-align-financial-agenda-ahead-g20-and-asean-roles",
-      "date": "2026-10-21",
-      "category": "Banking",
-      "tags": [
-        "talks",
-        "ai"
       ]
     }
   ]
