@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T13:28:22Z",
+  "last_updated": "2026-10-31T22:22:02Z",
   "insights": {
     "risks": [
       "Regulatory: Automated Compliance Is Not Yet Defensible Compliance — review compliance obligations.",
@@ -7,7 +7,7 @@
       "Operational: Anthropic may not secure investment-grade rating after IPO, Blackstone says — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Kosa8 Labs Publishes AI Agent Security Benchmark for Regulated Firms — potential infrastructure advantage.",
+      "Payments: Socure Report: AI is Creating New Fraudsters, Not Just Better Ones — potential infrastructure advantage.",
       "Banking efficiency: Anthropic may not secure investment-grade rating after IPO, Blackstone says — cost reduction opportunity.",
       "InsurTech: CarbonAI Raises $12m to Automate CRE Lending Underwriting — underwriting modernisation potential."
     ]
@@ -22,11 +22,11 @@
       "count": 5
     },
     {
-      "topic": "Payments AI",
-      "count": 4
+      "topic": "Customer Service AI",
+      "count": 3
     },
     {
-      "topic": "Customer Service AI",
+      "topic": "Payments AI",
       "count": 3
     },
     {
@@ -47,6 +47,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "917266006",
+      "title": "Socure Report: AI is Creating New Fraudsters, Not Just Better Ones",
+      "summary": "Socure's inaugural Fraud Insights report finds AI-enabled fraudsters commit six times the total fraud volume of traditional offenders, driven by curiosity over hardship. The post Socure Report: AI is Creating New Fraudsters, Not Just Better Ones appeared first on The Fintech Time…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/socure-report-ai-is-creating-new-fraudsters-not-just-better-ones/",
+      "date": "2026-10-31",
+      "category": "Payments",
+      "tags": [
+        "socure report",
+        "ai",
+        "creating new"
+      ]
+    },
     {
       "id": "844819810",
       "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
@@ -867,20 +881,6 @@
         "financial solutions",
         "adds ai",
         "compliance checks"
-      ]
-    },
-    {
-      "id": "27221527",
-      "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
-      "summary": "The Series A round, which included participation from North Island Ventures and existing investors, brings New York-based Mural's total funding to $28 million.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
-      "date": "2026-10-21",
-      "category": "Payments",
-      "tags": [
-        "tether",
-        "ai",
-        "mural the"
       ]
     }
   ]
