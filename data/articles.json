@@ -1,25 +1,24 @@
 {
-  "last_updated": "2026-11-01T22:38:22Z",
+  "last_updated": "2026-11-02T16:55:23Z",
   "insights": {
     "risks": [
-      "Regulatory: Automated Compliance Is Not Yet Defensible Compliance — review compliance obligations.",
-      "Trading risk: B2Broker Group moves into agentic trading — assess algorithmic exposure.",
-      "Operational: Only 23% of Hong Kong consumers trust their banks to stop deepfake scams before money leaves their accounts, whilst 41% have been targeted by AI impersonation fraud or know someone who has. Just 19% trust banks to refund stolen money. — evaluate model governance gaps."
+      "Trading risk: Marvell to buy data centre component maker Lumentum in $115bn AI bet — assess algorithmic exposure.",
+      "Operational: HSBC to open Hong Kong AI and emerging technology institute — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: World Launches ID Verification Suite for Banking and Finance — potential infrastructure advantage.",
-      "Banking efficiency: Only 23% of Hong Kong consumers trust their banks to stop deepfake scams before money leaves their accounts, whilst 41% have been targeted by AI impersonation fraud or know someone who has. Just 19% trust banks to refund stolen money. — cost reduction opportunity.",
+      "Banking efficiency: HSBC to open Hong Kong AI and emerging technology institute — cost reduction opportunity.",
       "InsurTech: CarbonAI Raises $12m to Automate CRE Lending Underwriting — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 13
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Payments AI",
@@ -43,6 +42,76 @@
     }
   ],
   "articles": [
+    {
+      "id": "489715266",
+      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
+      "summary": "Silicon Valley companies said all-stock deal would create a ‘leader in AI connectivity’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1",
+      "date": "2026-11-02",
+      "category": "Trading",
+      "tags": [
+        "marvell",
+        "lumentum",
+        "ai"
+      ]
+    },
+    {
+      "id": "86523498",
+      "title": "HSBC to open Hong Kong AI and emerging technology institute",
+      "summary": "HSBC is building a global AI and emerging technology institute in Hong Kong that will see the bank work with academic and tech partners on developing new tools and products.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48685/hsbc-to-open-hong-kong-ai-and-emerging-technology-institute?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-02",
+      "category": "Banking",
+      "tags": [
+        "hsbc",
+        "hong kong",
+        "ai"
+      ]
+    },
+    {
+      "id": "453397147",
+      "title": "Dost launches AskDost to give finance teams their own AI agents",
+      "summary": "Dost, the native-AI finance automation platform, has launched AskDost, an AI business intelligence assistant built for finance and operations teams. AskDost connects to a company’s ERP and other financial data sources, answers questions in natural language, executes finance workf…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111529/dost-launches-askdost-to-give-finance-teams-their-own-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-02",
+      "category": "Banking",
+      "tags": [
+        "dost",
+        "askdost",
+        "ai"
+      ]
+    },
+    {
+      "id": "875662989",
+      "title": "Digital Finance in 2026: How AI, Online Privacy, and Smarter Technology Are Changing Everyday Habits",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33369/digital-finance-in-2026-how-ai-online-privacy-and-smarter-technology-are-changing-everyday-habits?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-02",
+      "category": "Banking",
+      "tags": [
+        "digital finance",
+        "how ai",
+        "online privacy"
+      ]
+    },
+    {
+      "id": "701055274",
+      "title": "Brett King’s Bank 5.0 And The Rise Of The Agentic Bank",
+      "summary": "Brett King's Bank 5.0 argues the next customer of the bank will be an AI agent. We read an advance copy ahead of its 19 November launch. The post Brett King s Bank 5.0 And The Rise Of The Agentic Bank appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/brett-kings-bank-5-0-and-the-rise-of-the-agentic-bank/",
+      "date": "2026-11-02",
+      "category": "Banking",
+      "tags": [
+        "brett king",
+        "bank",
+        "and the"
+      ]
+    },
     {
       "id": "282867512",
       "title": "World Launches ID Verification Suite for Banking and Finance",
@@ -808,76 +877,6 @@
         "robbin",
         "chatgpt",
         "claude robbin"
-      ]
-    },
-    {
-      "id": "580185987",
-      "title": "Outmarket AI brings AI-native insurance workflows to agencies of all sizes",
-      "summary": "Outmarket AI, the leading AI platform purpose-built for insurance, today launched Outmarket Lite, a new self-serve offering that lets any agency or team put Outmarket's AI to work the same day.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111393/outmarket-ai-brings-ai-native-insurance-workflows-to-agencies-of-all-sizes?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-21",
-      "category": "Banking",
-      "tags": [
-        "outmarket ai",
-        "ai",
-        "outmarket lite"
-      ]
-    },
-    {
-      "id": "556084297",
-      "title": "Beyond the Sandbox: Bridging the Execution Gap in Institutional Banking AI",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33245/beyond-the-sandbox-bridging-the-execution-gap-in-institutional-banking-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-21",
-      "category": "Banking",
-      "tags": [
-        "beyond",
-        "sandbox",
-        "bridging"
-      ]
-    },
-    {
-      "id": "659184505",
-      "title": "Loops Raises $3.5m Seed to Unify AI Commerce Tools for Retailers",
-      "summary": "The San Francisco startup closed a $3.5m seed round led by a16z Speedrun to build a single AI layer covering search, discovery and customer The post Loops Raises $3.5m Seed to Unify AI Commerce Tools for Retailers appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/loops-raises-3-5m-seed-to-unify-ai-commerce-tools-for-retailers/",
-      "date": "2026-10-21",
-      "category": "Payments",
-      "tags": [
-        "loops raises",
-        "seed",
-        "unify ai"
-      ]
-    },
-    {
-      "id": "455729089",
-      "title": "Northern FinTech Summit 2026: Trust Takes Centre Stage as Sector Tackles AI, Risk and Growth",
-      "summary": "FinTech North's Northern FinTech Summit 2026 in York put trust at the heart of discussions on AI, cybersecurity, financial inclusion and skills. The post Northern FinTech Summit 2026: Trust Takes Centre Stage as Sector Tackles AI, Risk and Growth appeared first on The Fintech Tim…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/northern-fintech-summit-2026-trust-takes-centre-stage-as-sector-tackles-ai-risk-and-growth/",
-      "date": "2026-10-21",
-      "category": "Payments",
-      "tags": [
-        "northern fintech",
-        "summit",
-        "trust takes"
-      ]
-    },
-    {
-      "id": "246352293",
-      "title": "Bank bosses under pressure to implement AI ahead of time",
-      "summary": "The vast majority of bank bosses in the UK and Ireland feel they are being pressured to implement AI technology more quickly than they feel is comfortable.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48626/bank-bosses-under-pressure-to-implement-ai-ahead-of-time?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-21",
-      "category": "Banking",
-      "tags": [
-        "bank",
-        "ai",
-        "uk"
       ]
     }
   ]
