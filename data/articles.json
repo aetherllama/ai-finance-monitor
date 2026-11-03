@@ -1,31 +1,26 @@
 {
-  "last_updated": "2026-11-03T01:28:37Z",
+  "last_updated": "2026-11-03T14:55:21Z",
   "insights": {
     "risks": [
-      "Trading risk: Marvell to buy data centre component maker Lumentum in $115bn AI bet — assess algorithmic exposure.",
-      "Operational: As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent? — evaluate model governance gaps."
+      "Trading risk: Trading 212 signs for Cardamon AI compliance platform — assess algorithmic exposure.",
+      "Operational: Wall Street braces as voters head to high-stakes polls — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: World Launches ID Verification Suite for Banking and Finance — potential infrastructure advantage.",
-      "Banking efficiency: As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent? — cost reduction opportunity."
+      "Banking efficiency: Wall Street braces as voters head to high-stakes polls — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 16
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Payments AI",
       "count": 3
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 2
     },
     {
       "topic": "Customer Service AI",
@@ -36,11 +31,117 @@
       "count": 2
     },
     {
+      "topic": "Regulatory AI",
+      "count": 1
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 1
+    },
+    {
       "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "928542670",
+      "title": "Wall Street braces as voters head to high-stakes polls",
+      "summary": "Vote will set the trajectory for everything from AI to public spending",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "vote",
+        "ai"
+      ]
+    },
+    {
+      "id": "272731986",
+      "title": "Marshall Wace hit as hedge funds suffer in October’s AI rout",
+      "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "marshall wace",
+        "october",
+        "ai"
+      ]
+    },
+    {
+      "id": "952913586",
+      "title": "Trading 212 signs for Cardamon AI compliance platform",
+      "summary": "Trading 212, the UK’s #1 savings and investment platform*, has partnered with London-based regtech firm, Cardamon, to deploy its AI compliance platform across multiple jurisdictions, markets and products in which it operates.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111549/trading-212-signs-for-cardamon-ai-compliance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-03",
+      "category": "Trading",
+      "tags": [
+        "trading",
+        "cardamon ai",
+        "uk"
+      ]
+    },
+    {
+      "id": "61520465",
+      "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO",
+      "summary": "Dmitry Zlokazov, formerly Global Head of Product and Head of Retail at Revolut, has partnered with Borja Solé (ex-YC) and Marc Sanchez (ex-Twilio) to build Murphy as co-founder and Chief Product Officer. Murphy builds AI agents that take over manual bank operations, starting with…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111552/ai-startup-murphy-appoints-former-revolut-product-exec-dmitry-zlokazov-as-cpo?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "murphy",
+        "revolut"
+      ]
+    },
+    {
+      "id": "26198263",
+      "title": "Why Trust Matters More Than AI in Financial Decision-Making",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33381/why-trust-matters-more-than-ai-in-financial-decision-making?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "why trust",
+        "matters more",
+        "than ai"
+      ]
+    },
+    {
+      "id": "654786403",
+      "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
+      "summary": "Singapore’s manufacturers are in their most buoyant mood in recent memory, and they largely have one customer category to thank: the AI data centre. A net weighted balance of 24 per cent of manufacturers expect business conditions to improve between October 2026 and March 2027, t…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "october"
+      ]
+    },
+    {
+      "id": "828704956",
+      "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
+      "summary": "Bangkok, October 26, 2026 SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet has raised an additional…",
+      "source": "e27",
+      "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "scb",
+        "invests",
+        "tasklet"
+      ]
+    },
     {
       "id": "954882324",
       "title": "As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent?",
@@ -780,103 +881,6 @@
         "capital picks",
         "newton",
         "tokenize"
-      ]
-    },
-    {
-      "id": "373503626",
-      "title": "GlobalFoundries turns its Singapore fabs into a test bed for an AI-run control room",
-      "summary": "When a chip plant is running close to full tilt, a failing chiller or a slow gas leak is not a maintenance ticket. It is lost output that cannot easily be made up elsewhere. That is the problem GlobalFoundries (GF) says it is tackling in Singapore. The New York-headquartered cont…",
-      "source": "e27",
-      "url": "https://e27.co/globalfoundries-turns-its-singapore-fabs-into-a-test-bed-for-an-ai-run-control-room-20261026/",
-      "date": "2026-10-26",
-      "category": "Banking",
-      "tags": [
-        "globalfoundries",
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "407181926",
-      "title": "AI oversight needs a different model to banking",
-      "summary": "Regulatory structures for finance were cobbled together over a century — this technology needs its own scrutiny",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f98be079-49af-45c8-9954-ea3bd774c585",
-      "date": "2026-10-23",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "regulatory"
-      ]
-    },
-    {
-      "id": "829265227",
-      "title": "Quant salaries on the rise amid AI revolution",
-      "summary": "Remuneration for quantitative finance professionals has continued to rise despite the increased use of AI, according to recently published research.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48640/quant-salaries-on-the-rise-amid-ai-revolution?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-23",
-      "category": "Trading",
-      "tags": [
-        "quant",
-        "ai",
-        "remuneration"
-      ]
-    },
-    {
-      "id": "837155439",
-      "title": "Cognitive Credit raises $40m to scale specialist data and AI for credit markets",
-      "summary": "Corporate credit data, analytics, and AI technology provider Cognitive Credit has closed a $40 million strategic growth investment led by Summit Partners with participation from ETFS Capital.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48635/cognitive-credit-raises-40m-to-scale-specialist-data-and-ai-for-credit-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-23",
-      "category": "Banking",
-      "tags": [
-        "cognitive credit",
-        "ai",
-        "corporate"
-      ]
-    },
-    {
-      "id": "357830381",
-      "title": "LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients",
-      "summary": "The Irish AI mortgage platform will deploy across SPF's UK mortgage and protection workflows, with a broader rollout planned for 2027. The post LendWell Signs Multi-Year AI Mortgage Deal with SPF Private Clients appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/lendwell-signs-multi-year-ai-mortgage-deal-with-spf-private-clients/",
-      "date": "2026-10-23",
-      "category": "Payments",
-      "tags": [
-        "lendwell signs",
-        "multi",
-        "year ai"
-      ]
-    },
-    {
-      "id": "44183377",
-      "title": "Red Hat opens Singapore AI centre to pull enterprises out of pilot purgatory",
-      "summary": "Southeast Asia does not have a shortage of AI pilots. It has a shortage of AI pilots that ever leave the lab. A recent regional survey found that 57 per cent of SEA firms can’t scale their AI pilots, a stretch of corporate limbo now known in industry jargon as the “frozen middle”…",
-      "source": "e27",
-      "url": "https://e27.co/red-hat-opens-singapore-ai-centre-to-pull-enterprises-out-of-pilot-purgatory-20261023/",
-      "date": "2026-10-23",
-      "category": "Banking",
-      "tags": [
-        "red hat",
-        "singapore ai",
-        "southeast asia"
-      ]
-    },
-    {
-      "id": "108561561",
-      "title": "Male founders are losing confidence. Women are doubling down on AI",
-      "summary": "HSBC’s latest survey of wealthy entrepreneurs contains an awkward finding for the men who still write most of the cheques. Their own confidence is slipping, while the confidence of the women they rarely fund is rising. The Global Entrepreneurial Wealth Report 2026 polled more tha…",
-      "source": "e27",
-      "url": "https://e27.co/male-founders-are-losing-confidence-women-are-doubling-down-on-ai-20261022/",
-      "date": "2026-10-23",
-      "category": "Banking",
-      "tags": [
-        "male",
-        "women",
-        "ai hsbc"
       ]
     }
   ]
