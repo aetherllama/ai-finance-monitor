@@ -1,28 +1,31 @@
 {
-  "last_updated": "2026-11-02T16:55:23Z",
+  "last_updated": "2026-11-03T01:28:37Z",
   "insights": {
     "risks": [
       "Trading risk: Marvell to buy data centre component maker Lumentum in $115bn AI bet — assess algorithmic exposure.",
-      "Operational: HSBC to open Hong Kong AI and emerging technology institute — evaluate model governance gaps."
+      "Operational: As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent? — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: World Launches ID Verification Suite for Banking and Finance — potential infrastructure advantage.",
-      "Banking efficiency: HSBC to open Hong Kong AI and emerging technology institute — cost reduction opportunity.",
-      "InsurTech: CarbonAI Raises $12m to Automate CRE Lending Underwriting — underwriting modernisation potential."
+      "Banking efficiency: As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent? — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 14
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Payments AI",
       "count": 3
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
@@ -35,13 +38,51 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "954882324",
+      "title": "As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent?",
+      "summary": "As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent?",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/commentary/next-competitive-advantage-in-banking-ai-explainability-not-automation",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "as",
+        "ai",
+        "aml"
+      ]
+    },
+    {
+      "id": "830825102",
+      "title": "AI Agents Take the Grunt Work Out of Pamarco’s Close",
+      "summary": "Pamarco, a manufacturer of precision components for the printing and packaging industries, has put artificial intelligence agents on the accounting work that once ran only through its finance staff. “We’ve been able to automate roughly 40% of financial close tasks with autonomous…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-the-grunt-work-out-of-pamarcos-close/",
+      "date": "2026-11-02",
+      "category": "Banking",
+      "tags": [
+        "ai agents",
+        "take",
+        "grunt work"
+      ]
+    },
+    {
+      "id": "759638092",
+      "title": "Casap Raises $56 Million for Agentic AI Financial Services",
+      "summary": "Casap, an artificial intelligence agent platform for financial services, has raised $56 million in new funding. The company says its Series B round, announced last week, will help Casap advance its AI platform as it looks to move its focus beyond fraud and disputes to automate ot…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/",
+      "date": "2026-11-02",
+      "category": "Banking",
+      "tags": [
+        "casap raises",
+        "million",
+        "agentic ai"
+      ]
+    },
     {
       "id": "489715266",
       "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
@@ -836,47 +877,6 @@
         "male",
         "women",
         "ai hsbc"
-      ]
-    },
-    {
-      "id": "331237073",
-      "title": "Barclays to cut 5,000 jobs amid AI expansion",
-      "summary": "Barclays is the latest high street bank to announce a headcount reduction at the same time as an expansion in the use of AI.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48632/barclays-to-cut-5000-jobs-amid-ai-expansion?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-22",
-      "category": "Banking",
-      "tags": [
-        "barclays",
-        "ai"
-      ]
-    },
-    {
-      "id": "751512638",
-      "title": "Southeast Asia’s sellers spent a decade learning to sell to people. Now they have to sell to AI",
-      "summary": "In February 2026, Sea Limited struck a partnership with Google on agentic shopping prototypes. By June, Shopee had become the first Southeast Asian e-commerce platform built directly into ChatGPT, live across Indonesia, Malaysia, the Philippines, Singapore, Thailand, Taiwan and V…",
-      "source": "e27",
-      "url": "https://e27.co/southeast-asias-sellers-spent-a-decade-learning-to-sell-to-people-now-they-have-to-sell-to-ai-20261010/",
-      "date": "2026-10-22",
-      "category": "Banking",
-      "tags": [
-        "southeast asia",
-        "now",
-        "ai in"
-      ]
-    },
-    {
-      "id": "437240457",
-      "title": "Robbin launches credit integration with ChatGPT and Claude",
-      "summary": "Robbin is launching Latin America's first credit MCP, a technology that lets finance teams work with the company's credit intelligence directly inside the AI assistants they already use. Integrated with Claude and ChatGPT, it turns credit analysis into a chat: limit recommendatio…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111392/robbin-launches-credit-integration-with-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-21",
-      "category": "Banking",
-      "tags": [
-        "robbin",
-        "chatgpt",
-        "claude robbin"
       ]
     }
   ]
