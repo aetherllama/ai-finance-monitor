@@ -1,26 +1,26 @@
 {
-  "last_updated": "2026-11-03T14:55:21Z",
+  "last_updated": "2026-11-03T23:54:10Z",
   "insights": {
     "risks": [
       "Trading risk: Trading 212 signs for Cardamon AI compliance platform — assess algorithmic exposure.",
-      "Operational: Wall Street braces as voters head to high-stakes polls — evaluate model governance gaps."
+      "Operational: Investors watch US state races for signs of backlash against AI boom — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Wall Street braces as voters head to high-stakes polls — cost reduction opportunity."
+      "Banking efficiency: Investors watch US state races for signs of backlash against AI boom — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 15
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 8
     },
     {
-      "topic": "Payments AI",
-      "count": 3
+      "topic": "Credit & Underwriting",
+      "count": 2
     },
     {
       "topic": "Customer Service AI",
@@ -31,11 +31,11 @@
       "count": 2
     },
     {
-      "topic": "Regulatory AI",
-      "count": 1
+      "topic": "Payments AI",
+      "count": 2
     },
     {
-      "topic": "Credit & Underwriting",
+      "topic": "Regulatory AI",
       "count": 1
     },
     {
@@ -44,6 +44,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "369825988",
+      "title": "Investors watch US state races for signs of backlash against AI boom",
+      "summary": "Wall Street bets that three dozen gubernatorial races could have significant impact on data centre development across America",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "investors",
+        "us",
+        "ai"
+      ]
+    },
+    {
+      "id": "511334262",
+      "title": "Will Autonomous AI Reshape the Future of Payments?",
+      "summary": "At Sibos 2026, AWS and HCLTech discuss the ways that autonomous AI and robust governance will transform banking and future payments.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3640/will-autonomous-ai-reshape-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "will autonomous",
+        "ai reshape",
+        "future"
+      ]
+    },
+    {
+      "id": "759708186",
+      "title": "Decision models: a new middle ground for AI in financial services",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33387/decision-models-a-new-middle-ground-for-ai-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "decision",
+        "ai",
+        "author"
+      ]
+    },
+    {
+      "id": "285706441",
+      "title": "Apollo’s Record AI Lending Begins to Rival Banking Giants",
+      "summary": "Apollo Global’s lending reportedly hit a record $114 billion during the quarter thanks to its AI funding efforts. That figure marked a 50% increase over the private capital group’s second quarter lending, the Financial Times (FT) reported Tuesday (Nov. 3), as Apollo lent to artif…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/",
+      "date": "2026-11-03",
+      "category": "Banking",
+      "tags": [
+        "apollo",
+        "record ai",
+        "lending begins"
+      ]
+    },
     {
       "id": "928542670",
       "title": "Wall Street braces as voters head to high-stakes polls",
@@ -825,62 +881,6 @@
         "how machine",
         "learning",
         "reshaping us"
-      ]
-    },
-    {
-      "id": "243919673",
-      "title": "Amex Publishes Intent-Authentication Framework for AI Agent Payments",
-      "summary": "American Express has detailed how it will capture and authenticate customer instructions to AI agents before a payment is made, shifting liability to intent records. The post Amex Publishes Intent-Authentication Framework for AI Agent Payments appeared first on The Fintech Times …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/amex-publishes-intent-authentication-framework-for-ai-agent-payments/",
-      "date": "2026-10-26",
-      "category": "Payments",
-      "tags": [
-        "amex publishes",
-        "intent",
-        "authentication framework"
-      ]
-    },
-    {
-      "id": "884269743",
-      "title": "Meta plans $95bn stock offering to bankroll AI expansion",
-      "summary": "Chipmakers Nvidia, AMD and Broadcom will act as cornerstone investors",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/94e5a0ae-874d-447a-bbfc-cd465a1a7555?syn-25a6b1a6=1",
-      "date": "2026-10-26",
-      "category": "Trading",
-      "tags": [
-        "meta",
-        "ai",
-        "chipmakers nvidia"
-      ]
-    },
-    {
-      "id": "188405818",
-      "title": "Is it time up for humans when it comes to financial modelling in the age of AI?",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33300/is-it-time-up-for-humans-when-it-comes-to-financial-modelling-in-the-age-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-26",
-      "category": "Banking",
-      "tags": [
-        "is",
-        "ai",
-        "author"
-      ]
-    },
-    {
-      "id": "395700383",
-      "title": "L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares",
-      "summary": "The Hong Kong investment firm will use Newton Labs' compliance protocol to put late-stage private technology holdings onchain for eligible investors. The post L2 Capital Picks Newton to Tokenize $500m Pre-IPO AI Shares appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/l2-capital-picks-newton-to-tokenize-500m-pre-ipo-ai-shares/",
-      "date": "2026-10-26",
-      "category": "RegTech",
-      "tags": [
-        "capital picks",
-        "newton",
-        "tokenize"
       ]
     }
   ]
