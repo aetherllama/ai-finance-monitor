@@ -1,33 +1,26 @@
 {
-  "last_updated": "2026-11-03T23:54:10Z",
+  "last_updated": "2026-11-04T15:15:22Z",
   "insights": {
     "risks": [
       "Trading risk: Trading 212 signs for Cardamon AI compliance platform — assess algorithmic exposure.",
-      "Operational: Investors watch US state races for signs of backlash against AI boom — evaluate model governance gaps."
+      "Operational: Trading 212 taps TrueLayer for automated deposits feature — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Investors watch US state races for signs of backlash against AI boom — cost reduction opportunity."
+      "Payments: Who is Accountable When an AI Agent Makes a Payment? — potential infrastructure advantage.",
+      "Banking efficiency: Trading 212 taps TrueLayer for automated deposits feature — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 17
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 10
     },
     {
       "topic": "Credit & Underwriting",
-      "count": 2
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 2
-    },
-    {
-      "topic": "Machine Learning",
       "count": 2
     },
     {
@@ -39,11 +32,103 @@
       "count": 1
     },
     {
+      "topic": "Customer Service AI",
+      "count": 1
+    },
+    {
+      "topic": "Machine Learning",
+      "count": 1
+    },
+    {
       "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "180579137",
+      "title": "Trading 212 taps TrueLayer for automated deposits feature",
+      "summary": "Trading 212, UK's largest investment platform, has completed its automated deposits feature using Bank on File from TrueLayer. Customers can now invest automatically, straight from their bank account, without logging into their banking app each time.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111569/trading-212-taps-truelayer-for-automated-deposits-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-04",
+      "category": "Banking",
+      "tags": [
+        "trading",
+        "truelayer",
+        "uk"
+      ]
+    },
+    {
+      "id": "804508034",
+      "title": "BRI Wealth Management integrates Aveni AI technology",
+      "summary": "BRI Wealth Management, an independent wealth management firm, has achieved almost 100% active usage of Aveni Assist across its advice, paraplanning, and administration teams.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111572/bri-wealth-management-integrates-aveni-ai-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-04",
+      "category": "Banking",
+      "tags": [
+        "bri wealth",
+        "management",
+        "aveni ai"
+      ]
+    },
+    {
+      "id": "477736160",
+      "title": "Who is Accountable When an AI Agent Makes a Payment?",
+      "summary": "As AI agents start making payments, xpate's Sofia Khatsernova says providers must set limits, trace autonomous decisions and settle liability in advance. The post Who is Accountable When an AI Agent Makes a Payment? appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/who-is-accountable-when-an-ai-agent-makes-a-payment/",
+      "date": "2026-11-04",
+      "category": "Payments",
+      "tags": [
+        "who",
+        "accountable when",
+        "ai agent"
+      ]
+    },
+    {
+      "id": "544665462",
+      "title": "Dubai Fintech Summit day two: 2,000 firms, a Japanese bridge and AI moves into production",
+      "summary": "The Dubai Fintech Summit closed its second day at Madinat Jumeirah on Tuesday with DIFC marking a milestone it set itself less than ten years ago. The centre is now home to more than 2,000 AI, fintech and innovation firms The post Dubai Fintech Summit day two: 2,000 firms, a Japa…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/dubai-fintech-summit-day-two-2000-firms-a-japanese-bridge-and-ai-moves-into-production/",
+      "date": "2026-11-04",
+      "category": "Payments",
+      "tags": [
+        "dubai fintech",
+        "summit",
+        "japanese"
+      ]
+    },
+    {
+      "id": "130136513",
+      "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
+      "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, fina…",
+      "source": "e27",
+      "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
+      "date": "2026-11-04",
+      "category": "Banking",
+      "tags": [
+        "why multiable",
+        "hcm is",
+        "best ai"
+      ]
+    },
+    {
+      "id": "956602309",
+      "title": "Could AI agents break fractional-reserve banking?",
+      "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for the…",
+      "source": "e27",
+      "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
+      "date": "2026-11-04",
+      "category": "Banking",
+      "tags": [
+        "could ai",
+        "banks",
+        "they"
+      ]
+    },
     {
       "id": "369825988",
       "title": "Investors watch US state races for signs of backlash against AI boom",
@@ -797,90 +882,6 @@
         "why open",
         "banking needs",
         "sustainable commercial"
-      ]
-    },
-    {
-      "id": "533342181",
-      "title": "An AI label alone no longer wins lenders, JPMorgan says",
-      "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "an ai",
-        "jpmorgan",
-        "as"
-      ]
-    },
-    {
-      "id": "911144310",
-      "title": "From conference attendee to intelligence node: My experience at an AI-native conference",
-      "summary": "From 5–7 October, I organised and attended the Strategic Renaissance 21 (SR21) × World Governments Summit workshop in Dubai. The three-day gathering brought together 48 senior leaders from government, finance, technology, defense, and academia to explore a common theme: The Break…",
-      "source": "e27",
-      "url": "https://e27.co/from-conference-attendee-to-intelligence-node-my-experience-at-an-ai-native-conference-20261025/",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "from",
-        "my",
-        "ai"
-      ]
-    },
-    {
-      "id": "393273016",
-      "title": "QpiAI’s Singapore bet: Put quantum hardware in the hands of finance students",
-      "summary": "Singapore has deep-pocketed banks, a national quantum strategy and plenty of conference panels on the subject. What it has rarely offered is a physical quantum computer that a finance undergraduate can actually run code on. India-based QpiAI is betting that gap is its way into th…",
-      "source": "e27",
-      "url": "https://e27.co/qpiais-singapore-bet-put-quantum-hardware-in-the-hands-of-finance-students-20261026/",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "qpiai",
-        "singapore",
-        "put"
-      ]
-    },
-    {
-      "id": "121715903",
-      "title": "Nevis raises $70m for wealth management AI operating system",
-      "summary": "Nevis, a startup founded by former Revolut executives that is building an AI operating system for wealth management, has raised $70 million in a Series B funding round led by EQT Ventures.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48649/nevis-raises-70m-for-wealth-management-ai-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-26",
-      "category": "Banking",
-      "tags": [
-        "nevis",
-        "ai",
-        "revolut"
-      ]
-    },
-    {
-      "id": "407855646",
-      "title": "B2Prime launches Claude connector for AI-assisted market research",
-      "summary": "B2Prime Group, a global financial services provider, has launched its own connector in Claude’s directory, allowing users to access market intelligence and trading analytics through an AI assistant.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111441/b2prime-launches-claude-connector-for-ai-assisted-market-research?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-26",
-      "category": "Trading",
-      "tags": [
-        "claude",
-        "ai",
-        "group"
-      ]
-    },
-    {
-      "id": "746756214",
-      "title": "How Machine Learning is Reshaping US Fintech Markets as Digital Transformation Ramps Up",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33306/how-machine-learning-is-reshaping-us-fintech-markets-as-digital-transformation-ramps-up?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-26",
-      "category": "Payments",
-      "tags": [
-        "how machine",
-        "learning",
-        "reshaping us"
       ]
     }
   ]
