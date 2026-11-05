@@ -1,20 +1,21 @@
 {
-  "last_updated": "2026-11-05T15:16:38Z",
+  "last_updated": "2026-11-05T23:58:48Z",
   "insights": {
     "risks": [
       "Regulatory: Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight — review compliance obligations.",
-      "Operational: Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited — evaluate model governance gaps."
+      "Trading risk: Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout — assess algorithmic exposure.",
+      "Operational: How AI Can Change the Economics of Financial Product Innovation — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Early Revolut employees open waitlist for wealth AI startup Haido — potential infrastructure advantage.",
-      "Banking efficiency: Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited — cost reduction opportunity.",
+      "Payments: Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform — potential infrastructure advantage.",
+      "Banking efficiency: How AI Can Change the Economics of Financial Product Innovation — cost reduction opportunity.",
       "InsurTech: Kalepa raises $75m to expand AI underwriting platform — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 14
     },
     {
       "topic": "Automation",
@@ -46,6 +47,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "291813706",
+      "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
+      "summary": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
+      "date": "2026-11-05",
+      "category": "Trading",
+      "tags": [
+        "wall street",
+        "democratic",
+        "ai"
+      ]
+    },
+    {
+      "id": "881949544",
+      "title": "Will Democrats stall the AI boom?",
+      "summary": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
+      "date": "2026-11-05",
+      "category": "Trading",
+      "tags": [
+        "will democrats",
+        "ai",
+        "newly"
+      ]
+    },
+    {
+      "id": "785029859",
+      "title": "Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform",
+      "summary": "Tabs, the AI Operating System for Revenue, today announced a partnership with Adyen, the global financial technology platform of choice for leading businesses. Adyen is the first payments partner behind Tabs Pay,",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111597/tabs-partners-adyen-to-bring-payment-processing-directly-into-invoicing-and-revenue-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-05",
+      "category": "Payments",
+      "tags": [
+        "tabs",
+        "adyen",
+        "ai operating"
+      ]
+    },
+    {
+      "id": "329884846",
+      "title": "How AI Can Change the Economics of Financial Product Innovation",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33410/how-ai-can-change-the-economics-of-financial-product-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-05",
+      "category": "Banking",
+      "tags": [
+        "how ai",
+        "can change",
+        "economics"
+      ]
+    },
+    {
+      "id": "357681336",
+      "title": "The Economics of AI in Banking: Why the Cheapest Token Is the One You Never Use",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33406/the-economics-of-ai-in-banking-why-the-cheapest-token-is-the-one-you-never-use?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-05",
+      "category": "Banking",
+      "tags": [
+        "the economics",
+        "ai",
+        "banking"
+      ]
+    },
+    {
+      "id": "206345298",
+      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+      "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+      "date": "2026-11-05",
+      "category": "Banking",
+      "tags": [
+        "justice department",
+        "ai",
+        "doj"
+      ]
+    },
     {
       "id": "435142440",
       "title": "Early Revolut employees open waitlist for wealth AI startup Haido",
@@ -799,90 +884,6 @@
         "cftc",
         "ai",
         "commodity futures"
-      ]
-    },
-    {
-      "id": "712980428",
-      "title": "NatWest slashes marketing compliance approval times with Adclear agents",
-      "summary": "NatWest has brought in AI agents from Adclear to overhaul how compliance is embedded across its marketing and communications operations, slashing approval times by 80%.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48660/natwest-slashes-marketing-compliance-approval-times-with-adclear-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-28",
-      "category": "RegTech",
-      "tags": [
-        "natwest",
-        "adclear",
-        "ai"
-      ]
-    },
-    {
-      "id": "653598360",
-      "title": "LuLu Financial and Purpleplum Launch Unified SME Banking in UAE",
-      "summary": "LuLu Financial Holdings and Purpleplum have launched a unified SME platform in the UAE, combining ruya-issued digital accounts, agentic AI onboarding, cross-border rails, and WPS payroll. The post LuLu Financial and Purpleplum Launch Unified SME Banking in UAE appeared first on T…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/lulu-financial-and-purpleplum-launch-unified-sme-banking-in-uae/",
-      "date": "2026-10-28",
-      "category": "Payments",
-      "tags": [
-        "lulu financial",
-        "purpleplum launch",
-        "unified sme"
-      ]
-    },
-    {
-      "id": "213149904",
-      "title": "The Autumn Budget 2026 – How FinTech holds the answers to Burnham’s biggest problems",
-      "summary": "UK FinTech urges the government to back SME lending, AI in financial services, investment and sterling stablecoins in the upcoming Budget to drive growth, jobs and financial inclusion nationwide. The post The Autumn Budget 2026 How FinTech holds the answers to Burnham’s biggest p…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/the-autumn-budget-2026-how-fintech-holds-the-answers-to-burnhams-biggest-problems/",
-      "date": "2026-10-28",
-      "category": "Payments",
-      "tags": [
-        "the autumn",
-        "budget",
-        "how fintech"
-      ]
-    },
-    {
-      "id": "171852333",
-      "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
-      "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
-      "date": "2026-10-28",
-      "category": "Trading",
-      "tags": [
-        "kospi",
-        "sk hynix",
-        "ai"
-      ]
-    },
-    {
-      "id": "863760763",
-      "title": "Meta’s Muse lands in Singapore with a guest list Amazon never got",
-      "summary": "When Meta switched on Muse in the US last month, it let its new personal AI agent wander into Amazon.com unannounced. Twelve days later, Amazon showed it the door, complaining that the bot did not identify itself and that nobody had asked permission. In Singapore, Meta has brough…",
-      "source": "e27",
-      "url": "https://e27.co/metas-muse-lands-in-singapore-with-a-guest-list-amazon-never-got-20261028/",
-      "date": "2026-10-28",
-      "category": "Banking",
-      "tags": [
-        "meta",
-        "muse",
-        "singapore"
-      ]
-    },
-    {
-      "id": "671318947",
-      "title": "Inside Singapore’s AI push: Lighthouses, rice importers and robot labs",
-      "summary": "Singapore has a habit of announcing its future in instalments. On Tuesday, at the Singapore Week of Innovation and Technology (SWITCH) 2026, Deputy Prime Minister Gan Kim Yong unveiled the latest chapter: a suite of AI initiatives led by Enterprise Singapore (EnterpriseSG) that i…",
-      "source": "e27",
-      "url": "https://e27.co/inside-singapores-ai-push-lighthouses-rice-importers-and-robot-labs-20261027/",
-      "date": "2026-10-28",
-      "category": "Banking",
-      "tags": [
-        "inside singapore",
-        "ai",
-        "lighthouses"
       ]
     }
   ]
