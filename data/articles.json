@@ -1,25 +1,31 @@
 {
-  "last_updated": "2026-11-05T00:13:16Z",
+  "last_updated": "2026-11-05T15:16:38Z",
   "insights": {
     "risks": [
-      "Operational: OCC issues supervisory framework on bank use of AI — evaluate model governance gaps."
+      "Regulatory: Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight — review compliance obligations.",
+      "Operational: Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Who is Accountable When an AI Agent Makes a Payment? — potential infrastructure advantage.",
-      "Banking efficiency: OCC issues supervisory framework on bank use of AI — cost reduction opportunity."
+      "Payments: Early Revolut employees open waitlist for wealth AI startup Haido — potential infrastructure advantage.",
+      "Banking efficiency: Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited — cost reduction opportunity.",
+      "InsurTech: Kalepa raises $75m to expand AI underwriting platform — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 17
     },
     {
       "topic": "Automation",
-      "count": 10
+      "count": 8
     },
     {
       "topic": "Credit & Underwriting",
+      "count": 3
+    },
+    {
+      "topic": "Stablecoin AI",
       "count": 2
     },
     {
@@ -37,13 +43,134 @@
     {
       "topic": "Payments AI",
       "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "435142440",
+      "title": "Early Revolut employees open waitlist for wealth AI startup Haido",
+      "summary": "A pair of early Revolut employees has opened the waitlist for their new venture, an AI wealth company that has secured backing from UK fintech heavyweights including Eileen Burbidge.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48706/early-revolut-employees-open-waitlist-for-wealth-ai-startup-haido?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-05",
+      "category": "Payments",
+      "tags": [
+        "early revolut",
+        "ai",
+        "haido"
+      ]
+    },
+    {
+      "id": "95498401",
+      "title": "Kalepa raises $75m to expand AI underwriting platform",
+      "summary": "Insurance AI firm Kalepa has raised $75 million in Series B funding at a $470 million valuation, as it looks to expand its AI platform across the insurance value chain and into new markets.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48707/kalepa-raises-75m-to-expand-ai-underwriting-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-05",
+      "category": "InsurTech",
+      "tags": [
+        "kalepa",
+        "ai",
+        "insurance ai"
+      ]
+    },
+    {
+      "id": "145347168",
+      "title": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited",
+      "summary": "Financial institutions are struggling to scale multi-agent AI beyond pilot projects, with just 10% of banks and insurers having achieved enterprise-wide orchestration despite 59% piloting or deploying the technology, according to Capgemini research.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-05",
+      "category": "Banking",
+      "tags": [
+        "capgemini",
+        "multi",
+        "ai"
+      ]
+    },
+    {
+      "id": "670336125",
+      "title": "Aracore and Dozn partner to bridge Korean financial infrastructure and global stablecoin settlement",
+      "summary": "BPMG, a blockchain and artificial intelligence company, said its U.S. subsidiary, Araore, has signed a memorandum of understanding (MOU) with Dozn, a South Korean fintech company listed on the KOSDAQ market, to explore stablecoin-based cross-border payment and settlement services…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111584/aracore-and-dozn-partner-to-bridge-korean-financial-infrastructure-and-global-stablecoin-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-05",
+      "category": "Payments",
+      "tags": [
+        "aracore",
+        "dozn",
+        "korean"
+      ]
+    },
+    {
+      "id": "482373020",
+      "title": "Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight",
+      "summary": "Specialist Mortgage Group has deployed Curvestone's AI platform across its advice and quality-control process to meet growing FCA suitability demands. The post Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/y3s-embeds-curvestone-ai-into-crm-for-mortgage-compliance-oversight/",
+      "date": "2026-11-05",
+      "category": "RegTech",
+      "tags": [
+        "embeds curvestone",
+        "ai into",
+        "crm"
+      ]
+    },
+    {
+      "id": "413241776",
+      "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
+      "summary": "Nine in ten Singapore internet users now reach for an AI tool every month. Barely a third say they are comfortable doing so. That gap between habit and confidence is the most telling finding in Digital 2027: Singapore, the annual report released today by creative agency We Are So…",
+      "source": "e27",
+      "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
+      "date": "2026-11-05",
+      "category": "Banking",
+      "tags": [
+        "nine",
+        "singaporeans",
+        "ai"
+      ]
+    },
+    {
+      "id": "610989949",
+      "title": "AI might be the final boss for your best ideas",
+      "summary": "Earlier this year, I was staring at our 2026 plan and thinking: there are too many things in here. Payroll, billing, cross-border payments, payment licences, more salespeople, more product development. Individually, almost every initiative had a reasonable argument behind it. The…",
+      "source": "e27",
+      "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
+      "date": "2026-11-05",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "earlier",
+        "payroll"
+      ]
+    },
+    {
+      "id": "699019235",
+      "title": "Artificial intelligence (AI) and fintech firms have eroded the value of private banking services to customers, putting pressure on banks to demonstrate the value of their advisory services to customers.",
+      "summary": "Artificial intelligence (AI) and fintech firms have eroded the value of private banking services to customers, putting pressure on banks to demonstrate the value of their advisory services to customers.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/event-news/private-banks-must-prove-advisory-value-fintech-and-ai-undercut-prices",
+      "date": "2026-11-05",
+      "category": "Payments",
+      "tags": [
+        "artificial",
+        "ai"
+      ]
+    },
+    {
+      "id": "536027854",
+      "title": "Prudential estimates AI could cut insurance product development from four to six months to six to eight weeks, helping insurers respond faster to customer needs. However, actuarial calculations and pricing decisions will still require human oversight.",
+      "summary": "Prudential estimates AI could cut insurance product development from four to six months to six to eight weeks, helping insurers respond faster to customer needs. However, actuarial calculations and pricing decisions will still require human oversight.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/insurance/event-news/prudential-says-ai-could-cut-insurance-product-development-6-weeks",
+      "date": "2026-11-05",
+      "category": "Banking",
+      "tags": [
+        "prudential",
+        "ai",
+        "however"
+      ]
+    },
     {
       "id": "914375384",
       "title": "OCC issues supervisory framework on bank use of AI",
@@ -756,131 +883,6 @@
         "inside singapore",
         "ai",
         "lighthouses"
-      ]
-    },
-    {
-      "id": "434048395",
-      "title": "The limits of hedging the AI boom",
-      "summary": "As tech investment soars, finding protection is becoming more urgent — and harder",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0b0ae366-c1e0-4c35-8cad-c924a23d33e7?syn-25a6b1a6=1",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "as"
-      ]
-    },
-    {
-      "id": "779903897",
-      "title": "Zafin to buy Naehas to expand AI-powered banking and compliance platform",
-      "summary": "Zafin, a Toronto-based AI platform for regulated institutions such as banks, has inked a deal to buy Naehas, a provider of offer management, disclosure automation and marketing compliance technology serving financial institutions in the US.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48654/zafin-to-buy-naehas-to-expand-ai-powered-banking-and-compliance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-27",
-      "category": "RegTech",
-      "tags": [
-        "zafin",
-        "naehas",
-        "ai"
-      ]
-    },
-    {
-      "id": "23084383",
-      "title": "Kenya's I&M Bank selects Otoma for end-to-end payments",
-      "summary": "I&M Bank, a leading Tier 1 commercial bank headquartered in Kenya, has partnered with Otoma, a leading provider of AI native, no-code payments infrastructure, to modernize its end to end payments technology, enhancing the speed, reliability and efficiency of payment services for …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111466/kenyas-im-bank-selects-otoma-for-end-to-end-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "kenya",
-        "bank",
-        "otoma"
-      ]
-    },
-    {
-      "id": "664291357",
-      "title": "Webull Canada launches AI-powered investing",
-      "summary": "Webull Securities (Canada) Ltd, an online investment platform and subsidiary of Webull Corporation (NASDAQ: BULL), today announced that Canadian investors can now connect their Webull accounts to AI assistants, including ChatGPT, Perplexity, Claude and Grok.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111467/webull-canada-launches-ai-powered-investing?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "webull canada",
-        "ai",
-        "webull securities"
-      ]
-    },
-    {
-      "id": "439666817",
-      "title": "Hyphenate raises $45m for autonomous finance agents",
-      "summary": "The first wave of finance AI helped teams work faster. The next is taking responsibility for the work itself. Hyphenate, the autonomous finance platform for the office of the CFO, today announced a $45 million Series A led by Nexus Venture Partners, with participation from B Capi…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "hyphenate",
-        "ai",
-        "cfo"
-      ]
-    },
-    {
-      "id": "493878135",
-      "title": "Can Open Source Drive Secure AI Innovation in Banking?",
-      "summary": "At Sibos 2026, Red Hat and Accenture talk about how open source transparency and industry collaboration drive secure AI innovation in banking.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3628/can-open-source-drive-secure-ai-innovation-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "can open",
-        "source drive",
-        "secure ai"
-      ]
-    },
-    {
-      "id": "402088300",
-      "title": "ADIB adds 200,000 customers and a first-of-its-kind open finance licence as nine-month profit climbs to AED 6.4 billion",
-      "summary": "Abu Dhabi Islamic Bank has reported a 6 per cent rise in profit before tax to AED 6.4 billion for the first nine months of 2026, with customer financing up a quarter, deposits past AED 250 billion and a non-performing asset ratio at a record low. Behind the headline numbers sits …",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/adib-secures-uaes-first-open-finance-licence-as-nine-month-profit-hits-aed-6-4b/",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "adib",
-        "aed",
-        "abu dhabi"
-      ]
-    },
-    {
-      "id": "123370143",
-      "title": "About 34% of APAC financial services firms are using AI to transform their business models, above the 31% global average. However, only 18% of financial firms globally report revenue gains from AI adoption, despite productivity improvements.",
-      "summary": "About 34% of APAC financial services firms are using AI to transform their business models, above the 31% global average. However, only 18% of financial firms globally report revenue gains from AI adoption, despite productivity improvements.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/in-focus/ai-boosts-productivity-fails-lift-revenue-most-banks",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "about",
-        "apac",
-        "ai"
-      ]
-    },
-    {
-      "id": "224195055",
-      "title": "HSBC has launched HSBCnio, a digital AI-enabled solution that simplifies and unifies its transaction banking services.",
-      "summary": "HSBC has launched HSBCnio, a digital AI-enabled solution that simplifies and unifies its transaction banking services.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/cash-management/news/hsbc-rolls-out-hsbcnio-unify-clients-transaction-banking-access",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "hsbc",
-        "hsbcnio",
-        "ai"
       ]
     }
   ]
