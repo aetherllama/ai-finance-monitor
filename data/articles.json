@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-11-04T15:15:22Z",
+  "last_updated": "2026-11-05T00:13:16Z",
   "insights": {
     "risks": [
-      "Trading risk: Trading 212 signs for Cardamon AI compliance platform — assess algorithmic exposure.",
-      "Operational: Trading 212 taps TrueLayer for automated deposits feature — evaluate model governance gaps."
+      "Operational: OCC issues supervisory framework on bank use of AI — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Who is Accountable When an AI Agent Makes a Payment? — potential infrastructure advantage.",
-      "Banking efficiency: Trading 212 taps TrueLayer for automated deposits feature — cost reduction opportunity."
+      "Banking efficiency: OCC issues supervisory framework on bank use of AI — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 16
     },
     {
       "topic": "Automation",
@@ -21,10 +20,6 @@
     },
     {
       "topic": "Credit & Underwriting",
-      "count": 2
-    },
-    {
-      "topic": "Payments AI",
       "count": 2
     },
     {
@@ -40,11 +35,57 @@
       "count": 1
     },
     {
+      "topic": "Payments AI",
+      "count": 1
+    },
+    {
       "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "914375384",
+      "title": "OCC issues supervisory framework on bank use of AI",
+      "summary": "The Office of the Comptroller of the Currency (OCC) today issued a framework for its bank examination workforce on banks’ use of Super Intelligence (SI).",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111577/occ-issues-supervisory-framework-on-bank-use-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-04",
+      "category": "Banking",
+      "tags": [
+        "occ",
+        "ai the",
+        "office"
+      ]
+    },
+    {
+      "id": "126418396",
+      "title": "Travis Credit Union turns to Finalytics.ai for personalised digital experience",
+      "summary": "Finalytics.ai, the behavioral intelligence and personalization platform for community banks and credit unions, today announced the launch of a personalized digital experience for Travis Credit Union, built around what each member is trying to accomplish.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111579/travis-credit-union-turns-to-finalyticsai-for-personalised-digital-experience?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-04",
+      "category": "Banking",
+      "tags": [
+        "travis credit",
+        "union",
+        "finalytics"
+      ]
+    },
+    {
+      "id": "117680199",
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "summary": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+      "date": "2026-11-04",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "ai",
+        "texas"
+      ]
+    },
     {
       "id": "180579137",
       "title": "Trading 212 taps TrueLayer for automated deposits feature",
@@ -840,48 +881,6 @@
         "hsbc",
         "hsbcnio",
         "ai"
-      ]
-    },
-    {
-      "id": "173516710",
-      "title": "Tech stocks rally as AI trade revives",
-      "summary": "Asia follows Wall Street higher in wake of Anthropic’s long-awaited IPO filing",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a4f9f81e-df30-4669-9eca-865d9d14e441?syn-25a6b1a6=1",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "tech",
-        "ai",
-        "asia"
-      ]
-    },
-    {
-      "id": "864637879",
-      "title": "Backbase launches AI software factory for banking",
-      "summary": "Backbase today introduced Delivery Factory, an AI software factory purpose-built for banking, in which a bank's delivery team works alongside specialist AI agents from the first agreed requirement to working code.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111436/backbase-launches-ai-software-factory-for-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "backbase",
-        "ai",
-        "delivery factory"
-      ]
-    },
-    {
-      "id": "46383264",
-      "title": "Why Open Banking Needs Sustainable Commercial Model to Scale Payments and AI Services",
-      "summary": "At Sibos 2026, NatWest’s Simon Eacott reveals how commercial models, A2A payments, and AI can drive open banking to the next level.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3627/why-open-banking-needs-sustainable-commercial-model-to-scale-payments-and-ai-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-27",
-      "category": "Banking",
-      "tags": [
-        "why open",
-        "banking needs",
-        "sustainable commercial"
       ]
     }
   ]
