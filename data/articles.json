@@ -1,21 +1,20 @@
 {
-  "last_updated": "2026-11-06T14:52:35Z",
+  "last_updated": "2026-11-06T23:40:55Z",
   "insights": {
     "risks": [
-      "Regulatory: Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight — review compliance obligations.",
       "Trading risk: Is the AI stock bubble finally bursting? — assess algorithmic exposure.",
-      "Operational: Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies — evaluate model governance gaps."
+      "Operational: Low-profile Wall Street firm to double down on Anthropic despite tech rout — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: How AI Can Help Keep Payment Exceptions Moving at Real-Time Speed — potential infrastructure advantage.",
-      "Banking efficiency: Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies — cost reduction opportunity.",
+      "Banking efficiency: Low-profile Wall Street firm to double down on Anthropic despite tech rout — cost reduction opportunity.",
       "InsurTech: Kalepa raises $75m to expand AI underwriting platform — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Automation",
@@ -32,17 +31,65 @@
     {
       "topic": "Regulatory AI",
       "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
-    },
-    {
-      "topic": "Machine Learning",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "601579069",
+      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
+      "summary": "XN amassed $5.3bn stake in AI lab through private-round investments",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
+      "date": "2026-11-06",
+      "category": "Banking",
+      "tags": [
+        "low",
+        "wall street",
+        "anthropic"
+      ]
+    },
+    {
+      "id": "626106460",
+      "title": "Visa establishes global capacity hubs in Singapore",
+      "summary": "Visa (NYSE: V), a global leader in digital payments, today announced the establishment of six global capability hubs at its new Solution Center in Singapore. Spanning AI, cybersecurity, quantum computing and next-generation payments, the hubs will develop technologies and solutio…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111605/visa-establishes-global-capacity-hubs-in-singapore?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-06",
+      "category": "Banking",
+      "tags": [
+        "visa",
+        "singapore visa",
+        "nyse"
+      ]
+    },
+    {
+      "id": "941692011",
+      "title": "BMO launches AI agent to help credit card customers get answers",
+      "summary": "BMO is introducing AI Agent Assist to help clients get faster answers and resolutions when they contact BMO's Virtual Connect contact centre about their credit card transactions.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111609/bmo-launches-ai-agent-to-help-credit-card-customers-get-answers?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-06",
+      "category": "Banking",
+      "tags": [
+        "bmo",
+        "ai",
+        "ai agent"
+      ]
+    },
+    {
+      "id": "457117338",
+      "title": "Would you trust AI with your money? The question every bank should be asking",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33417/would-you-trust-ai-with-your-money-the-question-every-bank-should-be-asking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-06",
+      "category": "Banking",
+      "tags": [
+        "would",
+        "ai",
+        "author"
+      ]
+    },
     {
       "id": "791459736",
       "title": "Is the AI stock bubble finally bursting?",
@@ -824,62 +871,6 @@
         "ant international",
         "ceo",
         "achieving"
-      ]
-    },
-    {
-      "id": "551448667",
-      "title": "Napier AI integrates LSEG World-Check On Demand for risk-based payment screening",
-      "summary": "Napier AI Transaction Screening has successfully completed the technology validation process for its integration with LSEG’s new World-Check On Demand.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111500/napier-ai-integrates-lseg-world-check-on-demand-for-risk-based-payment-screening?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-29",
-      "category": "Payments",
-      "tags": [
-        "napier ai",
-        "lseg world",
-        "check on"
-      ]
-    },
-    {
-      "id": "211995380",
-      "title": "The 70/30 rule: Why ASEAN banks still need humans as AI takes over",
-      "summary": "There was a time when a bank in Southeast Asia could win customers simply by shipping an app that did not crash on payday. That era, a new study suggests, is over. Twimbit, the Singapore-based research and advisory firm, unveiled its inaugural State of CX in ASEAN Banking 2026 at…",
-      "source": "e27",
-      "url": "https://e27.co/the-70-30-rule-why-asean-banks-still-need-humans-as-ai-takes-over-20261028/",
-      "date": "2026-10-29",
-      "category": "Banking",
-      "tags": [
-        "why asean",
-        "ai",
-        "there"
-      ]
-    },
-    {
-      "id": "644816205",
-      "title": "Thailand, not just Singapore, is Asia’s quiet AI surprise, says NetSuite’s Amit Suxena",
-      "summary": "Ask a typical AI assistant a question and it answers. Amit Suxena thinks that is already yesterday s AI. You don t need AI where I ask a question and get an answer. I think that s already passed, says the GVP and Head of NetSuite Asia, who oversees Southeast Asia, the Indian subc…",
-      "source": "e27",
-      "url": "https://e27.co/thailand-not-just-singapore-is-asias-quiet-ai-surprise-says-netsuites-amit-suxena-20261027/",
-      "date": "2026-10-29",
-      "category": "Banking",
-      "tags": [
-        "thailand",
-        "singapore",
-        "asia"
-      ]
-    },
-    {
-      "id": "41207960",
-      "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring",
-      "summary": "Hummingbird, the AI-powered orchestration platform for financial crime compliance, today announced the acquisition of Quantimon, the machine learning platform for AML risk detection.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111488/hummingbird-buys-quantimon-to-bring-machine-learning-to-aml-transaction-monitoring?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-28",
-      "category": "Banking",
-      "tags": [
-        "hummingbird",
-        "quantimon",
-        "aml"
       ]
     }
   ]
