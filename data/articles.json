@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-11-05T23:58:48Z",
+  "last_updated": "2026-11-06T14:52:35Z",
   "insights": {
     "risks": [
       "Regulatory: Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight — review compliance obligations.",
-      "Trading risk: Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout — assess algorithmic exposure.",
-      "Operational: How AI Can Change the Economics of Financial Product Innovation — evaluate model governance gaps."
+      "Trading risk: Is the AI stock bubble finally bursting? — assess algorithmic exposure.",
+      "Operational: Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform — potential infrastructure advantage.",
-      "Banking efficiency: How AI Can Change the Economics of Financial Product Innovation — cost reduction opportunity.",
+      "Payments: How AI Can Help Keep Payment Exceptions Moving at Real-Time Speed — potential infrastructure advantage.",
+      "Banking efficiency: Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies — cost reduction opportunity.",
       "InsurTech: Kalepa raises $75m to expand AI underwriting platform — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 6
     },
     {
       "topic": "Credit & Underwriting",
@@ -27,7 +27,7 @@
     },
     {
       "topic": "Stablecoin AI",
-      "count": 2
+      "count": 1
     },
     {
       "topic": "Regulatory AI",
@@ -40,13 +40,51 @@
     {
       "topic": "Machine Learning",
       "count": 1
-    },
-    {
-      "topic": "Payments AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "791459736",
+      "title": "Is the AI stock bubble finally bursting?",
+      "summary": "Any reasonable person can see the hallmarks of an unsustainable party in markets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
+      "date": "2026-11-06",
+      "category": "Trading",
+      "tags": [
+        "is",
+        "ai",
+        "any"
+      ]
+    },
+    {
+      "id": "854498488",
+      "title": "How AI Can Help Keep Payment Exceptions Moving at Real-Time Speed",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33415/how-ai-can-help-keep-payment-exceptions-moving-at-real-time-speed?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-06",
+      "category": "Payments",
+      "tags": [
+        "how ai",
+        "can help",
+        "keep payment"
+      ]
+    },
+    {
+      "id": "485731275",
+      "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
+      "summary": "Young Singaporeans are the best prepared in the Commonwealth to ride the AI wave, according to a new index. The more useful lesson for Southeast Asia, however, sits with Australia, the country in third place: having the technology is the easy part. The Ayre Index, launched this w…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
+      "date": "2026-11-06",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "commonwealth ai",
+        "australia"
+      ]
+    },
     {
       "id": "291813706",
       "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
@@ -842,48 +880,6 @@
         "hummingbird",
         "quantimon",
         "aml"
-      ]
-    },
-    {
-      "id": "397366409",
-      "title": "Automated Compliance Is Not Yet Defensible Compliance",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33329/automated-compliance-is-not-yet-defensible-compliance?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-28",
-      "category": "RegTech",
-      "tags": [
-        "automated compliance",
-        "is not",
-        "yet defensible"
-      ]
-    },
-    {
-      "id": "915153380",
-      "title": "Circle and Proof Demo Verified-ID Stablecoin Payments for AI Agents",
-      "summary": "The two firms are combining Proof's x401 identity protocol with Circle's USDC Agent Wallets to let merchants trust and settle AI agent purchases. The post Circle and Proof Demo Verified-ID Stablecoin Payments for AI Agents appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/circle-and-proof-demo-verified-id-stablecoin-payments-for-ai-agents/",
-      "date": "2026-10-28",
-      "category": "Payments",
-      "tags": [
-        "circle",
-        "proof demo",
-        "verified"
-      ]
-    },
-    {
-      "id": "974602912",
-      "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
-      "summary": "The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
-      "date": "2026-10-28",
-      "category": "Trading",
-      "tags": [
-        "cftc",
-        "ai",
-        "commodity futures"
       ]
     }
   ]
