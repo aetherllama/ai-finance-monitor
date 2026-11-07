@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-11-06T23:40:55Z",
+  "last_updated": "2026-11-07T13:49:38Z",
   "insights": {
     "risks": [
-      "Trading risk: Is the AI stock bubble finally bursting? — assess algorithmic exposure.",
+      "Trading risk: How Wall Street’s all-in bet on AI blew up — assess algorithmic exposure.",
       "Operational: Low-profile Wall Street firm to double down on Anthropic despite tech rout — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: How AI Can Help Keep Payment Exceptions Moving at Real-Time Speed — potential infrastructure advantage.",
-      "Banking efficiency: Low-profile Wall Street firm to double down on Anthropic despite tech rout — cost reduction opportunity.",
-      "InsurTech: Kalepa raises $75m to expand AI underwriting platform — underwriting modernisation potential."
+      "Banking efficiency: Low-profile Wall Street firm to double down on Anthropic despite tech rout — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -34,6 +33,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "486180777",
+      "title": "How Wall Street’s all-in bet on AI blew up",
+      "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
+      "date": "2026-11-07",
+      "category": "Trading",
+      "tags": [
+        "how wall",
+        "street",
+        "ai"
+      ]
+    },
     {
       "id": "601579069",
       "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
@@ -857,20 +870,6 @@
         "carbonai raises",
         "automate cre",
         "lending underwriting"
-      ]
-    },
-    {
-      "id": "270238517",
-      "title": "Ant International CEO: Achieving inclusion is critical to re-globalisation, and AI will accelerate it by democratising opportunities",
-      "summary": "Speaking in Doha on 28 October 2026 at the United Nations Trade and Development (UNCTAD) World Investment Forum 2026 panel, “Investing in AI for an Inclusive Digital Future”, Ant International CEO Peng Yang called for a new, inclusive “re-globalisation” project that harnesses AI …",
-      "source": "e27",
-      "url": "https://e27.co/ant-international-ceo-achieving-inclusion-is-critical-to-re-globalisation-and-ai-will-accelerate-it-by-democratising-opportunities-20261029/",
-      "date": "2026-10-29",
-      "category": "Banking",
-      "tags": [
-        "ant international",
-        "ceo",
-        "achieving"
       ]
     }
   ]
