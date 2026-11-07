@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-11-07T13:49:38Z",
+  "last_updated": "2026-11-07T22:34:53Z",
   "insights": {
     "risks": [
       "Trading risk: How Wall Street’s all-in bet on AI blew up — assess algorithmic exposure.",
       "Operational: Low-profile Wall Street firm to double down on Anthropic despite tech rout — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: How AI Can Help Keep Payment Exceptions Moving at Real-Time Speed — potential infrastructure advantage.",
+      "Payments: COLIBRIX ONE Taps Vivox AI for Automated KYB Merchant Onboarding — potential infrastructure advantage.",
       "Banking efficiency: Low-profile Wall Street firm to double down on Anthropic despite tech rout — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 7
     },
     {
       "topic": "Credit & Underwriting",
@@ -33,6 +33,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "338312600",
+      "title": "COLIBRIX ONE Taps Vivox AI for Automated KYB Merchant Onboarding",
+      "summary": "The FCA- and MFSA-authorised payments platform will use Vivox AI's explainable agents to verify corporate documents and run sanctions screening on new merchants. The post COLIBRIX ONE Taps Vivox AI for Automated KYB Merchant Onboarding appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/colibrix-one-taps-vivox-ai-for-automated-kyb-merchant-onboarding/",
+      "date": "2026-11-07",
+      "category": "Payments",
+      "tags": [
+        "colibrix one",
+        "taps vivox",
+        "ai"
+      ]
+    },
     {
       "id": "486180777",
       "title": "How Wall Street’s all-in bet on AI blew up",
@@ -856,20 +870,6 @@
         "building",
         "trusted ecosystem",
         "ai"
-      ]
-    },
-    {
-      "id": "236890013",
-      "title": "CarbonAI Raises $12m to Automate CRE Lending Underwriting",
-      "summary": "The agentic AI platform for commercial real estate lending closed a Cowboy Ventures-led round six months after reaching seven-figure contracted revenue. The post CarbonAI Raises $12m to Automate CRE Lending Underwriting appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/carbonai-raises-12m-to-automate-cre-lending-underwriting/",
-      "date": "2026-10-29",
-      "category": "InsurTech",
-      "tags": [
-        "carbonai raises",
-        "automate cre",
-        "lending underwriting"
       ]
     }
   ]
