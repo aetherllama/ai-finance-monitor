@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-07T22:34:53Z",
+  "last_updated": "2026-11-08T14:10:05Z",
   "insights": {
     "risks": [
       "Trading risk: How Wall Street’s all-in bet on AI blew up — assess algorithmic exposure.",
       "Operational: Low-profile Wall Street firm to double down on Anthropic despite tech rout — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: COLIBRIX ONE Taps Vivox AI for Automated KYB Merchant Onboarding — potential infrastructure advantage.",
+      "Payments: FCA AI Review Prompts Call to Keep Customer Needs Central — potential infrastructure advantage.",
       "Banking efficiency: Low-profile Wall Street firm to double down on Anthropic despite tech rout — cost reduction opportunity."
     ]
   },
@@ -33,6 +33,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "291552512",
+      "title": "FCA AI Review Prompts Call to Keep Customer Needs Central",
+      "summary": "EQWIRE CEO Sophie Njagi urges fintechs to anchor AI product development in customer needs, citing the FCA's latest AI good-practice findings. The post FCA AI Review Prompts Call to Keep Customer Needs Central appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/fca-ai-review-prompts-call-to-keep-customer-needs-central/",
+      "date": "2026-11-08",
+      "category": "Payments",
+      "tags": [
+        "fca ai",
+        "review prompts",
+        "call"
+      ]
+    },
     {
       "id": "338312600",
       "title": "COLIBRIX ONE Taps Vivox AI for Automated KYB Merchant Onboarding",
@@ -856,20 +870,6 @@
         "group",
         "ai",
         "model context"
-      ]
-    },
-    {
-      "id": "575539103",
-      "title": "Building a Trusted Ecosystem: AI’s Changing Role in Corporate Banking",
-      "summary": "At Sibos 2026, CoCoNet’s CEO and director of product share their thoughts on how banks can build trusted AI execution layers and connect corporate ecosystems to meet evolving client demands.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3634/building-a-trusted-ecosystem-ais-changing-role-in-corporate-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-29",
-      "category": "Banking",
-      "tags": [
-        "building",
-        "trusted ecosystem",
-        "ai"
       ]
     }
   ]
