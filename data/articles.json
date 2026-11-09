@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-11-08T22:42:48Z",
+  "last_updated": "2026-11-09T17:17:42Z",
   "insights": {
     "risks": [
       "Trading risk: How Wall Street’s all-in bet on AI blew up — assess algorithmic exposure.",
-      "Operational: Low-profile Wall Street firm to double down on Anthropic despite tech rout — evaluate model governance gaps."
+      "Operational: Financial intelligence platform geniosAI raises $19.1m — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: FCA AI Review Prompts Call to Keep Customer Needs Central — potential infrastructure advantage.",
-      "Banking efficiency: Low-profile Wall Street firm to double down on Anthropic despite tech rout — cost reduction opportunity."
+      "Payments: News & Views Podcast: Why Global FinTech Startups Are Choosing Tokyo — potential infrastructure advantage.",
+      "Banking efficiency: Financial intelligence platform geniosAI raises $19.1m — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -33,6 +33,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "700844528",
+      "title": "Financial intelligence platform geniosAI raises $19.1m",
+      "summary": "AI-powered financial analysis and modelling platform geniosAI has emerged from stealth with $19.1 million in funding led by FactSet.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48726/financial-intelligence-platform-geniosai-raises-191m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-09",
+      "category": "Banking",
+      "tags": [
+        "financial",
+        "ai",
+        "factset"
+      ]
+    },
+    {
+      "id": "911991910",
+      "title": "News & Views Podcast: Why Global FinTech Startups Are Choosing Tokyo",
+      "summary": "Chang Li of FinCity.Tokyo explains why global fintech startups are choosing Tokyo, from government support and open corporations to agentic AI and local partnerships. The post News Views Podcast: Why Global FinTech Startups Are Choosing Tokyo appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/news-views-podcast-why-global-fintech-startups-are-choosing-tokyo/",
+      "date": "2026-11-09",
+      "category": "Payments",
+      "tags": [
+        "news",
+        "views podcast",
+        "why global"
+      ]
+    },
+    {
+      "id": "506946161",
+      "title": "Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom",
+      "summary": "Artificial intelligence is attracting serious investment across Southeast Asia. Startups are using it to automate business processes, develop new products, and solve problems that once required large engineering teams. Healthcare should be a natural beneficiary. AI can assist wit…",
+      "source": "e27",
+      "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
+      "date": "2026-11-09",
+      "category": "Banking",
+      "tags": [
+        "why southeast",
+        "asia",
+        "ai"
+      ]
+    },
+    {
+      "id": "690812884",
+      "title": "Seventy-two percent of APAC buy-side firms are using AI moderately — so for Asian investment firms, the question is: What happens to a business built on analytical edge?",
+      "summary": "Seventy-two percent of APAC buy-side firms are using AI moderately — so for Asian investment firms, the question is: What happens to a business built on analytical edge?",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/commentary/cheap-intelligence-scarce-judgment-new-model-asian-institutional-investing",
+      "date": "2026-11-09",
+      "category": "Banking",
+      "tags": [
+        "seventy",
+        "apac",
+        "ai"
+      ]
+    },
     {
       "id": "291552512",
       "title": "FCA AI Review Prompts Call to Keep Customer Needs Central",
@@ -814,62 +870,6 @@
         "socure report",
         "ai",
         "creating new"
-      ]
-    },
-    {
-      "id": "844819810",
-      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-      "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-      "date": "2026-10-30",
-      "category": "Banking",
-      "tags": [
-        "anthropic",
-        "ipo",
-        "blackstone"
-      ]
-    },
-    {
-      "id": "601924537",
-      "title": "Kosa8 Labs Publishes AI Agent Security Benchmark for Regulated Firms",
-      "summary": "The startup's 46-page report tested 11 agent platforms against 13 security requirements, finding only its own system met all criteria. The post Kosa8 Labs Publishes AI Agent Security Benchmark for Regulated Firms appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/kosa8-labs-publishes-ai-agent-security-benchmark-for-regulated-firms/",
-      "date": "2026-10-30",
-      "category": "Payments",
-      "tags": [
-        "labs publishes",
-        "ai agent",
-        "security benchmark"
-      ]
-    },
-    {
-      "id": "969768651",
-      "title": "Big Tech sheds nearly $900bn in rout over soaring AI spending",
-      "summary": "Cash burn at Google, Amazon and Meta leads Wall Street to question price of AI boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c695558e-11e6-494c-aeee-0f9fb5c75afc?syn-25a6b1a6=1",
-      "date": "2026-10-30",
-      "category": "Banking",
-      "tags": [
-        "big tech",
-        "ai",
-        "cash"
-      ]
-    },
-    {
-      "id": "690710547",
-      "title": "B2Broker Group moves into agentic trading",
-      "summary": "B2Broker Group, a global fintech solutions provider for financial institutions, has expanded the AI capabilities of its B2Trader platform with Model Context Protocol (MCP) support and a new in-terminal AI Chat.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111510/b2broker-group-moves-into-agentic-trading?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-10-29",
-      "category": "Trading",
-      "tags": [
-        "group",
-        "ai",
-        "model context"
       ]
     }
   ]
