@@ -1,24 +1,23 @@
 {
-  "last_updated": "2026-11-10T01:56:12Z",
+  "last_updated": "2026-11-10T15:28:46Z",
   "insights": {
     "risks": [
       "Regulatory: Before the licence: What Singapore’s regulated institutions ask a fintech partner first — review compliance obligations.",
-      "Trading risk: How Wall Street’s all-in bet on AI blew up — assess algorithmic exposure.",
-      "Operational: The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis — evaluate model governance gaps."
+      "Operational: Finovox detects more than €100,000 in AI-related fraud every month — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: AI Agents in Fintech: Where Interpretation Should End and Execution Begin — potential infrastructure advantage.",
-      "Banking efficiency: The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis — cost reduction opportunity."
+      "Payments: Building the Foundations for AI-Ready, Future-Proof Payments — potential infrastructure advantage.",
+      "Banking efficiency: Finovox detects more than €100,000 in AI-related fraud every month — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 5
     },
     {
       "topic": "Credit & Underwriting",
@@ -26,6 +25,14 @@
     },
     {
       "topic": "Machine Learning",
+      "count": 2
+    },
+    {
+      "topic": "Fraud Detection",
+      "count": 1
+    },
+    {
+      "topic": "Predictive Analytics",
       "count": 1
     },
     {
@@ -38,6 +45,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "895601174",
+      "title": "Finovox detects more than €100,000 in AI-related fraud every month",
+      "summary": "Finovox, a European specialist in AI-powered document fraud detection that helps organisations identify falsified and manipulated documents and strengthen their verification processes, has found that document fraud is now that sophisticated that AI-related fraud is at an annualis…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48732/finovox-detects-more-than-100000-in-ai-related-fraud-every-month?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-10",
+      "category": "Banking",
+      "tags": [
+        "finovox",
+        "ai",
+        "european"
+      ]
+    },
+    {
+      "id": "956041385",
+      "title": "Oracle brings conversational AI to financial services data",
+      "summary": "Oracle today announced Oracle Financial Services Data Intelligence Treasury Analytics and Oracle Financial Services Data Intelligence Customer Analytics, new analytics applications that combine curated financial services data with AI-assisted exploration to help financial institu…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111635/oracle-brings-conversational-ai-to-financial-services-data?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-10",
+      "category": "Banking",
+      "tags": [
+        "oracle",
+        "ai",
+        "oracle financial"
+      ]
+    },
+    {
+      "id": "723488318",
+      "title": "FI Works launches Signals to turn predictive insights into action",
+      "summary": "FI Works, the Relationship Intelligence and Engagement Platform purpose-built for community banks and credit unions, today announced Signals, a new feature that uses machine learning to identify households likely to add a product, adopt checking or digital services, or leave the …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111637/fi-works-launches-signals-to-turn-predictive-insights-into-action?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-10",
+      "category": "Banking",
+      "tags": [
+        "fi works",
+        "signals",
+        "relationship intelligence"
+      ]
+    },
+    {
+      "id": "80745766",
+      "title": "Building the Foundations for AI-Ready, Future-Proof Payments",
+      "summary": "At Sibos 2026, ACI Worldwide’s Rachel Hunt reveals how banks can simplify payment modernisation and build a solid data foundation for AI.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3644/building-the-foundations-for-ai-ready-future-proof-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-10",
+      "category": "Payments",
+      "tags": [
+        "building",
+        "foundations",
+        "ai"
+      ]
+    },
+    {
+      "id": "597752264",
+      "title": "Sionic AI brings its Thai-reading model to SEA, with banks as the real exam",
+      "summary": "Most AI models read Thai the way a tourist reads a Bangkok street menu: confidently, and often wrongly. Sionic AI says it has closed part of that language gap, and it is using the result to push into Southeast Asia. The Seoul-based enterprise AI company said last week it is expan…",
+      "source": "e27",
+      "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
+      "date": "2026-11-10",
+      "category": "Banking",
+      "tags": [
+        "sionic ai",
+        "thai",
+        "sea"
+      ]
+    },
+    {
+      "id": "64889318",
+      "title": "Your AI strategy is your 2015 strategy, only cheaper",
+      "summary": "Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strate…",
+      "source": "e27",
+      "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
+      "date": "2026-11-10",
+      "category": "Banking",
+      "tags": [
+        "your ai",
+        "walk",
+        "singapore fintech"
+      ]
+    },
     {
       "id": "338311879",
       "title": "Before the licence: What Singapore’s regulated institutions ask a fintech partner first",
@@ -791,90 +882,6 @@
         "as",
         "ai",
         "aml"
-      ]
-    },
-    {
-      "id": "830825102",
-      "title": "AI Agents Take the Grunt Work Out of Pamarco’s Close",
-      "summary": "Pamarco, a manufacturer of precision components for the printing and packaging industries, has put artificial intelligence agents on the accounting work that once ran only through its finance staff. “We’ve been able to automate roughly 40% of financial close tasks with autonomous…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-take-the-grunt-work-out-of-pamarcos-close/",
-      "date": "2026-11-02",
-      "category": "Banking",
-      "tags": [
-        "ai agents",
-        "take",
-        "grunt work"
-      ]
-    },
-    {
-      "id": "759638092",
-      "title": "Casap Raises $56 Million for Agentic AI Financial Services",
-      "summary": "Casap, an artificial intelligence agent platform for financial services, has raised $56 million in new funding. The company says its Series B round, announced last week, will help Casap advance its AI platform as it looks to move its focus beyond fraud and disputes to automate ot…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/",
-      "date": "2026-11-02",
-      "category": "Banking",
-      "tags": [
-        "casap raises",
-        "million",
-        "agentic ai"
-      ]
-    },
-    {
-      "id": "489715266",
-      "title": "Marvell to buy data centre component maker Lumentum in $115bn AI bet",
-      "summary": "Silicon Valley companies said all-stock deal would create a ‘leader in AI connectivity’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/92322fad-f293-48b8-a14b-00506d78eb3b?syn-25a6b1a6=1",
-      "date": "2026-11-02",
-      "category": "Trading",
-      "tags": [
-        "marvell",
-        "lumentum",
-        "ai"
-      ]
-    },
-    {
-      "id": "86523498",
-      "title": "HSBC to open Hong Kong AI and emerging technology institute",
-      "summary": "HSBC is building a global AI and emerging technology institute in Hong Kong that will see the bank work with academic and tech partners on developing new tools and products.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48685/hsbc-to-open-hong-kong-ai-and-emerging-technology-institute?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-02",
-      "category": "Banking",
-      "tags": [
-        "hsbc",
-        "hong kong",
-        "ai"
-      ]
-    },
-    {
-      "id": "453397147",
-      "title": "Dost launches AskDost to give finance teams their own AI agents",
-      "summary": "Dost, the native-AI finance automation platform, has launched AskDost, an AI business intelligence assistant built for finance and operations teams. AskDost connects to a company’s ERP and other financial data sources, answers questions in natural language, executes finance workf…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111529/dost-launches-askdost-to-give-finance-teams-their-own-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-02",
-      "category": "Banking",
-      "tags": [
-        "dost",
-        "askdost",
-        "ai"
-      ]
-    },
-    {
-      "id": "875662989",
-      "title": "Digital Finance in 2026: How AI, Online Privacy, and Smarter Technology Are Changing Everyday Habits",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33369/digital-finance-in-2026-how-ai-online-privacy-and-smarter-technology-are-changing-everyday-habits?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-02",
-      "category": "Banking",
-      "tags": [
-        "digital finance",
-        "how ai",
-        "online privacy"
       ]
     }
   ]
