@@ -1,13 +1,14 @@
 {
-  "last_updated": "2026-11-10T15:28:46Z",
+  "last_updated": "2026-11-10T23:57:01Z",
   "insights": {
     "risks": [
       "Regulatory: Before the licence: What Singapore’s regulated institutions ask a fintech partner first — review compliance obligations.",
-      "Operational: Finovox detects more than €100,000 in AI-related fraud every month — evaluate model governance gaps."
+      "Trading risk: US regulator postpones Wall Street push to trade AI computing futures — assess algorithmic exposure.",
+      "Operational: BioCatch launches agentic AI detection tech — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Building the Foundations for AI-Ready, Future-Proof Payments — potential infrastructure advantage.",
-      "Banking efficiency: Finovox detects more than €100,000 in AI-related fraud every month — cost reduction opportunity."
+      "Banking efficiency: BioCatch launches agentic AI detection tech — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -17,15 +18,19 @@
     },
     {
       "topic": "Automation",
-      "count": 5
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 3
+      "count": 4
     },
     {
       "topic": "Machine Learning",
       "count": 2
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 2
+    },
+    {
+      "topic": "Risk Management",
+      "count": 1
     },
     {
       "topic": "Fraud Detection",
@@ -45,6 +50,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "117409799",
+      "title": "US regulator postpones Wall Street push to trade AI computing futures",
+      "summary": "The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539?syn-25a6b1a6=1",
+      "date": "2026-11-10",
+      "category": "Trading",
+      "tags": [
+        "us",
+        "wall street",
+        "ai"
+      ]
+    },
+    {
+      "id": "411190506",
+      "title": "BioCatch launches agentic AI detection tech",
+      "summary": "BioCatch, which prevents fraud, scams, and financial crime by recognizing patterns in human behavior, today launched BioCatch AiRE™ (Agentic AI Risk Essentials), the company’s new agentic AI detection capability.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111638/biocatch-launches-agentic-ai-detection-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-10",
+      "category": "Banking",
+      "tags": [
+        "biocatch",
+        "ai",
+        "biocatch aire"
+      ]
+    },
     {
       "id": "895601174",
       "title": "Finovox detects more than €100,000 in AI-related fraud every month",
@@ -854,34 +887,6 @@
         "singapore",
         "ai",
         "october"
-      ]
-    },
-    {
-      "id": "828704956",
-      "title": "SCB 10X Invests in Tasklet, AI Agent Platform for Business Workflow Automation, in Its Latest Funding Round",
-      "summary": "Bangkok, October 26, 2026 SCB 10X, the disruptive technology investment arm of SCBX Group, announced its investment in Tasklet, an AI agent platform that enables businesses to automate complex workflows and delegate operational tasks to AI agents. Tasklet has raised an additional…",
-      "source": "e27",
-      "url": "https://e27.co/scb-10x-invests-tasklet-ai-agent-platform-12-8m-funding-20261103/",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "scb",
-        "invests",
-        "tasklet"
-      ]
-    },
-    {
-      "id": "954882324",
-      "title": "As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent?",
-      "summary": "As banks push AI into lending, AML, and KYC decisions, the next edge is the question: Which policy applied, how it was interpreted, and did the outcome match the intent?",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/commentary/next-competitive-advantage-in-banking-ai-explainability-not-automation",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "as",
-        "ai",
-        "aml"
       ]
     }
   ]
