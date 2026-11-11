@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-10T23:57:01Z",
+  "last_updated": "2026-11-11T14:59:26Z",
   "insights": {
     "risks": [
       "Regulatory: Before the licence: What Singapore’s regulated institutions ask a fintech partner first — review compliance obligations.",
       "Trading risk: US regulator postpones Wall Street push to trade AI computing futures — assess algorithmic exposure.",
-      "Operational: BioCatch launches agentic AI detection tech — evaluate model governance gaps."
+      "Operational: Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Building the Foundations for AI-Ready, Future-Proof Payments — potential infrastructure advantage.",
-      "Banking efficiency: BioCatch launches agentic AI detection tech — cost reduction opportunity."
+      "Payments: What happens to the subscription economy when AI agents review every payment? — potential infrastructure advantage.",
+      "Banking efficiency: Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -43,13 +43,93 @@
     {
       "topic": "Stablecoin AI",
       "count": 1
-    },
-    {
-      "topic": "Regulatory AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "866776203",
+      "title": "Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking",
+      "summary": "A new research report released by Deutsche Bank and Ant Digital Technologies highlights the potential of agentic AI across institutional treasury, cross border payments and trade finance.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-11",
+      "category": "Banking",
+      "tags": [
+        "deutsche bank",
+        "ant",
+        "roadmap"
+      ]
+    },
+    {
+      "id": "775855804",
+      "title": "AI could cut banking industry's cost base by 20% - McKinsey",
+      "summary": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line, according to a report from McKinsey.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinsey?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-11",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "mckinsey ai",
+        "mckinsey"
+      ]
+    },
+    {
+      "id": "469704910",
+      "title": "Emirates NBD launches real-time AI market insights for digital wealth customers",
+      "summary": "Emirates NBD, a leading banking group in the Middle East, North Africa, Türkiye and South Asia (MENATSA) region, has announced the launch of real-time AI market insights for digital wealth customers on ENBD X, developed in collaboration with Bridgewise, the global leader in embed…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-11",
+      "category": "Banking",
+      "tags": [
+        "emirates nbd",
+        "ai",
+        "middle east"
+      ]
+    },
+    {
+      "id": "534890382",
+      "title": "Copper is choking AI. Staera secures US$4.6M to swap it for light",
+      "summary": "Every new AI chip arrives with a bigger compute number. Fewer arrive with an honest admission that those chips increasingly sit idle, waiting for data to trickle in over copper wires that were never designed for this kind of workload. Singapore s Staera Semiconductor is betting i…",
+      "source": "e27",
+      "url": "https://e27.co/copper-is-choking-ai-staera-secures-us4-6m-to-swap-it-for-light-20261111/",
+      "date": "2026-11-11",
+      "category": "Banking",
+      "tags": [
+        "copper",
+        "ai",
+        "staera"
+      ]
+    },
+    {
+      "id": "124425073",
+      "title": "Singapore is paying startups to secure the AI agents it is racing to deploy",
+      "summary": "Singapore’s cyber agency has a new worry list, and it reads like the agenda of every AI conference this year: agents talking to other agents, quantum computers that don’t yet exist, and small firms with nobody watching the network. On Tuesday, at CyberSG Innovation Day 2026, the …",
+      "source": "e27",
+      "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
+      "date": "2026-11-11",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai",
+        "on tuesday"
+      ]
+    },
+    {
+      "id": "108458123",
+      "title": "What happens to the subscription economy when AI agents review every payment?",
+      "summary": "Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important advantage: once the …",
+      "source": "e27",
+      "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
+      "date": "2026-11-11",
+      "category": "Payments",
+      "tags": [
+        "what",
+        "ai",
+        "subscription"
+      ]
+    },
     {
       "id": "117409799",
       "title": "US regulator postpones Wall Street push to trade AI computing futures",
@@ -803,90 +883,6 @@
         "apollo",
         "record ai",
         "lending begins"
-      ]
-    },
-    {
-      "id": "928542670",
-      "title": "Wall Street braces as voters head to high-stakes polls",
-      "summary": "Vote will set the trajectory for everything from AI to public spending",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "vote",
-        "ai"
-      ]
-    },
-    {
-      "id": "272731986",
-      "title": "Marshall Wace hit as hedge funds suffer in October’s AI rout",
-      "summary": "Wall Street’s tech correction and bond market turbulence spark losses for sector",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fae029f1-f03e-4509-852e-396fa4863271?syn-25a6b1a6=1",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "marshall wace",
-        "october",
-        "ai"
-      ]
-    },
-    {
-      "id": "952913586",
-      "title": "Trading 212 signs for Cardamon AI compliance platform",
-      "summary": "Trading 212, the UK’s #1 savings and investment platform*, has partnered with London-based regtech firm, Cardamon, to deploy its AI compliance platform across multiple jurisdictions, markets and products in which it operates.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111549/trading-212-signs-for-cardamon-ai-compliance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-03",
-      "category": "Trading",
-      "tags": [
-        "trading",
-        "cardamon ai",
-        "uk"
-      ]
-    },
-    {
-      "id": "61520465",
-      "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO",
-      "summary": "Dmitry Zlokazov, formerly Global Head of Product and Head of Retail at Revolut, has partnered with Borja Solé (ex-YC) and Marc Sanchez (ex-Twilio) to build Murphy as co-founder and Chief Product Officer. Murphy builds AI agents that take over manual bank operations, starting with…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111552/ai-startup-murphy-appoints-former-revolut-product-exec-dmitry-zlokazov-as-cpo?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "murphy",
-        "revolut"
-      ]
-    },
-    {
-      "id": "26198263",
-      "title": "Why Trust Matters More Than AI in Financial Decision-Making",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33381/why-trust-matters-more-than-ai-in-financial-decision-making?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "why trust",
-        "matters more",
-        "than ai"
-      ]
-    },
-    {
-      "id": "654786403",
-      "title": "Singapore’s factories are riding the AI wave, but the optimism rests on a narrow base",
-      "summary": "Singapore’s manufacturers are in their most buoyant mood in recent memory, and they largely have one customer category to thank: the AI data centre. A net weighted balance of 24 per cent of manufacturers expect business conditions to improve between October 2026 and March 2027, t…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-factories-are-riding-the-ai-wave-but-the-optimism-rests-on-a-narrow-base-20261103/",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "october"
       ]
     }
   ]
