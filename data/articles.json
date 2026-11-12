@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-11-11T14:59:26Z",
+  "last_updated": "2026-11-12T01:23:49Z",
   "insights": {
     "risks": [
-      "Regulatory: Before the licence: What Singapore’s regulated institutions ask a fintech partner first — review compliance obligations.",
-      "Trading risk: US regulator postpones Wall Street push to trade AI computing futures — assess algorithmic exposure.",
+      "Trading risk: Interactive Brokers Launches Autonomous AI Trading Capability — assess algorithmic exposure.",
       "Operational: Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking — evaluate model governance gaps."
     ],
     "opportunities": [
@@ -18,14 +17,10 @@
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Machine Learning",
-      "count": 2
-    },
-    {
-      "topic": "Credit & Underwriting",
       "count": 2
     },
     {
@@ -41,11 +36,29 @@
       "count": 1
     },
     {
+      "topic": "Credit & Underwriting",
+      "count": 1
+    },
+    {
       "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "794161922",
+      "title": "Interactive Brokers Launches Autonomous AI Trading Capability",
+      "summary": "IBKR Autonomous Trading lets eligible clients authorise connected AI to monitor and execute trades across 75,000+ listed instruments within a dedicated partition. The post Interactive Brokers Launches Autonomous AI Trading Capability appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/interactive-brokers-launches-autonomous-ai-trading-capability/",
+      "date": "2026-11-11",
+      "category": "Trading",
+      "tags": [
+        "interactive brokers",
+        "launches autonomous",
+        "ai trading"
+      ]
+    },
     {
       "id": "866776203",
       "title": "Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking",
@@ -869,20 +882,6 @@
         "decision",
         "ai",
         "author"
-      ]
-    },
-    {
-      "id": "285706441",
-      "title": "Apollo’s Record AI Lending Begins to Rival Banking Giants",
-      "summary": "Apollo Global’s lending reportedly hit a record $114 billion during the quarter thanks to its AI funding efforts. That figure marked a 50% increase over the private capital group’s second quarter lending, the Financial Times (FT) reported Tuesday (Nov. 3), as Apollo lent to artif…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/apollos-record-ai-lending-begins-to-rival-banking-giants/",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "apollo",
-        "record ai",
-        "lending begins"
       ]
     }
   ]
