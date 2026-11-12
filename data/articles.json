@@ -1,27 +1,32 @@
 {
-  "last_updated": "2026-11-12T01:23:49Z",
+  "last_updated": "2026-11-12T15:52:02Z",
   "insights": {
     "risks": [
-      "Trading risk: Interactive Brokers Launches Autonomous AI Trading Capability — assess algorithmic exposure.",
-      "Operational: Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking — evaluate model governance gaps."
+      "Regulatory: Your finance team’s ChatGPT habit is a cross-border data transfer — review compliance obligations.",
+      "Trading risk: HFT vs Algorithmic Trading: Two Different Universes — assess algorithmic exposure.",
+      "Operational: Jensen Huang is gone. Will the AI industry pay the price? — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: What happens to the subscription economy when AI agents review every payment? — potential infrastructure advantage.",
-      "Banking efficiency: Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking — cost reduction opportunity."
+      "Banking efficiency: Jensen Huang is gone. Will the AI industry pay the price? — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 11
+      "count": 9
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 3
     },
     {
       "topic": "Machine Learning",
       "count": 2
+    },
+    {
+      "topic": "Algorithmic Trading",
+      "count": 1
     },
     {
       "topic": "Risk Management",
@@ -45,6 +50,116 @@
     }
   ],
   "articles": [
+    {
+      "id": "580706399",
+      "title": "Jensen Huang is gone. Will the AI industry pay the price?",
+      "summary": "Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1",
+      "date": "2026-11-12",
+      "category": "Banking",
+      "tags": [
+        "jensen huang",
+        "will",
+        "ai"
+      ]
+    },
+    {
+      "id": "241586927",
+      "title": "Starling unveils AI-powered 'talk to transact' feature",
+      "summary": "Starling is launching an AI-powered feature that lets retail customers set up payments by speaking to the bank's app.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-12",
+      "category": "Banking",
+      "tags": [
+        "starling",
+        "ai"
+      ]
+    },
+    {
+      "id": "219060342",
+      "title": "Investing.com unveils AI financial analyst",
+      "summary": "Investing.com today unveiled one of its most significant advances in AI-powered financial research, introducing a next-generation virtual financial analyst specifically modeled on the way human experts research and analyze financial markets.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111650/investingcom-unveils-ai-financial-analyst?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-12",
+      "category": "Banking",
+      "tags": [
+        "investing",
+        "ai"
+      ]
+    },
+    {
+      "id": "799759462",
+      "title": "What Early Industrial Revolutions Can Teach Us About Inclusive AI Adoption",
+      "summary": "In this interview, Samantha Emery and Harrington Starr's Nadia Edwards-Dashti, describe findings from their recent report into the impact of AI on financial inclusion.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/videoarticle/3646/what-early-industrial-revolutions-can-teach-us-about-inclusive-ai-adoption?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-12",
+      "category": "Banking",
+      "tags": [
+        "what early",
+        "industrial revolutions",
+        "can teach"
+      ]
+    },
+    {
+      "id": "823766167",
+      "title": "HFT vs Algorithmic Trading: Two Different Universes",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33450/hft-vs-algorithmic-trading-two-different-universes?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-12",
+      "category": "Trading",
+      "tags": [
+        "hft",
+        "algorithmic trading",
+        "two different"
+      ]
+    },
+    {
+      "id": "868086726",
+      "title": "How I use AI in venture capital",
+      "summary": "As a Venture Capital ( VC ) investor, making timely and data-driven investment decisions sits at the core of what we do. Yet, we often come across common problems within our investment process. These have traditionally created bottlenecks, inefficiencies and ultimately sometimes …",
+      "source": "e27",
+      "url": "https://e27.co/how-i-use-ai-in-venture-capital-20261109/",
+      "date": "2026-11-12",
+      "category": "Banking",
+      "tags": [
+        "how",
+        "ai",
+        "as"
+      ]
+    },
+    {
+      "id": "409963836",
+      "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
+      "summary": "Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, financial statements, and…",
+      "source": "e27",
+      "url": "https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/",
+      "date": "2026-11-12",
+      "category": "RegTech",
+      "tags": [
+        "your",
+        "chatgpt",
+        "last"
+      ]
+    },
+    {
+      "id": "546736306",
+      "title": "OCBC has launched Velocity Smart Assist, an artificial intelligence (AI) assistant, on its Velocity business banking platform.",
+      "summary": "OCBC has launched Velocity Smart Assist, an artificial intelligence (AI) assistant, on its Velocity business banking platform.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/ocbc-debuts-ai-tool-automate-business-account-maintenance",
+      "date": "2026-11-12",
+      "category": "Banking",
+      "tags": [
+        "ocbc",
+        "velocity smart",
+        "assist"
+      ]
+    },
     {
       "id": "794161922",
       "title": "Interactive Brokers Launches Autonomous AI Trading Capability",
@@ -770,118 +885,6 @@
         "trading",
         "truelayer",
         "uk"
-      ]
-    },
-    {
-      "id": "804508034",
-      "title": "BRI Wealth Management integrates Aveni AI technology",
-      "summary": "BRI Wealth Management, an independent wealth management firm, has achieved almost 100% active usage of Aveni Assist across its advice, paraplanning, and administration teams.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111572/bri-wealth-management-integrates-aveni-ai-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-04",
-      "category": "Banking",
-      "tags": [
-        "bri wealth",
-        "management",
-        "aveni ai"
-      ]
-    },
-    {
-      "id": "477736160",
-      "title": "Who is Accountable When an AI Agent Makes a Payment?",
-      "summary": "As AI agents start making payments, xpate's Sofia Khatsernova says providers must set limits, trace autonomous decisions and settle liability in advance. The post Who is Accountable When an AI Agent Makes a Payment? appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/who-is-accountable-when-an-ai-agent-makes-a-payment/",
-      "date": "2026-11-04",
-      "category": "Payments",
-      "tags": [
-        "who",
-        "accountable when",
-        "ai agent"
-      ]
-    },
-    {
-      "id": "544665462",
-      "title": "Dubai Fintech Summit day two: 2,000 firms, a Japanese bridge and AI moves into production",
-      "summary": "The Dubai Fintech Summit closed its second day at Madinat Jumeirah on Tuesday with DIFC marking a milestone it set itself less than ten years ago. The centre is now home to more than 2,000 AI, fintech and innovation firms The post Dubai Fintech Summit day two: 2,000 firms, a Japa…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/dubai-fintech-summit-day-two-2000-firms-a-japanese-bridge-and-ai-moves-into-production/",
-      "date": "2026-11-04",
-      "category": "Payments",
-      "tags": [
-        "dubai fintech",
-        "summit",
-        "japanese"
-      ]
-    },
-    {
-      "id": "130136513",
-      "title": "Why Multiable HCM Is the Best AI HRIS in Singapore for Public Companies and Large Enterprises",
-      "summary": "Enterprise Workforce Administration for Listed Corporations in Singapore Rising Governance Expectations in Public Company Human Resources Listed corporations and large enterprise groups operating on the Singapore Exchange face intense scrutiny regarding workforce governance, fina…",
-      "source": "e27",
-      "url": "https://e27.co/ai-hris-singapore-public-company-multiable-hcm-20261104/",
-      "date": "2026-11-04",
-      "category": "Banking",
-      "tags": [
-        "why multiable",
-        "hcm is",
-        "best ai"
-      ]
-    },
-    {
-      "id": "956602309",
-      "title": "Could AI agents break fractional-reserve banking?",
-      "summary": "Banks perform a useful trick. They let customers withdraw money from checking and savings accounts at short notice, while using much of that funding to support mortgages and business loans that may not be repaid for years. The system works because customers do not all ask for the…",
-      "source": "e27",
-      "url": "https://e27.co/could-ai-agents-break-fractional-reserve-banking-20261101/",
-      "date": "2026-11-04",
-      "category": "Banking",
-      "tags": [
-        "could ai",
-        "banks",
-        "they"
-      ]
-    },
-    {
-      "id": "369825988",
-      "title": "Investors watch US state races for signs of backlash against AI boom",
-      "summary": "Wall Street bets that three dozen gubernatorial races could have significant impact on data centre development across America",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "investors",
-        "us",
-        "ai"
-      ]
-    },
-    {
-      "id": "511334262",
-      "title": "Will Autonomous AI Reshape the Future of Payments?",
-      "summary": "At Sibos 2026, AWS and HCLTech discuss the ways that autonomous AI and robust governance will transform banking and future payments.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3640/will-autonomous-ai-reshape-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "will autonomous",
-        "ai reshape",
-        "future"
-      ]
-    },
-    {
-      "id": "759708186",
-      "title": "Decision models: a new middle ground for AI in financial services",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33387/decision-models-a-new-middle-ground-for-ai-in-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-03",
-      "category": "Banking",
-      "tags": [
-        "decision",
-        "ai",
-        "author"
       ]
     }
   ]
