@@ -1,19 +1,27 @@
 {
-  "last_updated": "2026-11-13T00:00:15Z",
+  "last_updated": "2026-11-13T15:13:04Z",
   "insights": {
     "risks": [
       "Regulatory: Your finance team’s ChatGPT habit is a cross-border data transfer — review compliance obligations.",
       "Trading risk: HFT vs Algorithmic Trading: Two Different Universes — assess algorithmic exposure.",
-      "Operational: Feedzai helps banks detect AI agents accessing customer accounts — evaluate model governance gaps."
+      "Operational: Mastercard opens Singapore innovation centre of excellence — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Feedzai helps banks detect AI agents accessing customer accounts — cost reduction opportunity."
+      "Banking efficiency: Mastercard opens Singapore innovation centre of excellence — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 12
+    },
+    {
+      "topic": "Stablecoin AI",
+      "count": 2
+    },
+    {
+      "topic": "Credit & Underwriting",
+      "count": 2
     },
     {
       "topic": "Automation",
@@ -38,17 +46,65 @@
     {
       "topic": "Predictive Analytics",
       "count": 1
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "268327680",
+      "title": "Mastercard opens Singapore innovation centre of excellence",
+      "summary": "Mastercard has opened an innovation centre of excellence in Singapore that will eventually house 250 specialists working in areas such as AI, digital commerce and cybersecurity.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48751/mastercard-opens-singapore-innovation-centre-of-excellence?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-13",
+      "category": "Banking",
+      "tags": [
+        "mastercard",
+        "singapore",
+        "ai"
+      ]
+    },
+    {
+      "id": "984333226",
+      "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card",
+      "summary": "Wirex, the global stablecoin infrastructure platform, has today launched Navoka, the first AI agent that pays on behalf of users from a dedicated bank account and card.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-13",
+      "category": "Banking",
+      "tags": [
+        "wirex",
+        "navoka",
+        "ai"
+      ]
+    },
+    {
+      "id": "8172371",
+      "title": "Hyundai Card launches new AI-powered credit card model",
+      "summary": "Hyundai Card, a leading credit card company in South Korea, has officially unveiled PLCC 2.0 — a next-generation Private Label Credit Card (PLCC) model combining stronger rewards, exclusive cultural experiences, advanced AI-powered data science solutions, and strategic collaborat…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111668/hyundai-card-launches-new-ai-powered-credit-card-model?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-13",
+      "category": "Banking",
+      "tags": [
+        "hyundai card",
+        "ai",
+        "south korea"
+      ]
+    },
+    {
+      "id": "829997211",
+      "title": "AI Agents Start Paying Invoices Inside Supplier Portals",
+      "summary": "Small businesses showed more interest in using artificial intelligence to keep track of their bills than in using it to pay them. In a PYMNTS Intelligence and Velera survey of 2,474 small and mid-size businesses, 31% wanted AI from their financial institution to track expenses an…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/back-office/2026/ai-agents-start-paying-invoices-inside-supplier-portals/",
+      "date": "2026-11-13",
+      "category": "Banking",
+      "tags": [
+        "ai agents",
+        "start paying",
+        "invoices inside"
+      ]
+    },
     {
       "id": "138714685",
       "title": "Feedzai helps banks detect AI agents accessing customer accounts",
@@ -828,62 +884,6 @@
       "tags": [
         "artificial",
         "ai"
-      ]
-    },
-    {
-      "id": "536027854",
-      "title": "Prudential estimates AI could cut insurance product development from four to six months to six to eight weeks, helping insurers respond faster to customer needs. However, actuarial calculations and pricing decisions will still require human oversight.",
-      "summary": "Prudential estimates AI could cut insurance product development from four to six months to six to eight weeks, helping insurers respond faster to customer needs. However, actuarial calculations and pricing decisions will still require human oversight.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/insurance/event-news/prudential-says-ai-could-cut-insurance-product-development-6-weeks",
-      "date": "2026-11-05",
-      "category": "Banking",
-      "tags": [
-        "prudential",
-        "ai",
-        "however"
-      ]
-    },
-    {
-      "id": "914375384",
-      "title": "OCC issues supervisory framework on bank use of AI",
-      "summary": "The Office of the Comptroller of the Currency (OCC) today issued a framework for its bank examination workforce on banks’ use of Super Intelligence (SI).",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111577/occ-issues-supervisory-framework-on-bank-use-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-04",
-      "category": "Banking",
-      "tags": [
-        "occ",
-        "ai the",
-        "office"
-      ]
-    },
-    {
-      "id": "126418396",
-      "title": "Travis Credit Union turns to Finalytics.ai for personalised digital experience",
-      "summary": "Finalytics.ai, the behavioral intelligence and personalization platform for community banks and credit unions, today announced the launch of a personalized digital experience for Travis Credit Union, built around what each member is trying to accomplish.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111579/travis-credit-union-turns-to-finalyticsai-for-personalised-digital-experience?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-04",
-      "category": "Banking",
-      "tags": [
-        "travis credit",
-        "union",
-        "finalytics"
-      ]
-    },
-    {
-      "id": "117680199",
-      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
-      "summary": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
-      "date": "2026-11-04",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "ai",
-        "texas"
       ]
     }
   ]
