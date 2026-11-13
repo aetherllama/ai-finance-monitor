@@ -1,24 +1,23 @@
 {
-  "last_updated": "2026-11-12T15:52:02Z",
+  "last_updated": "2026-11-13T00:00:15Z",
   "insights": {
     "risks": [
       "Regulatory: Your finance team’s ChatGPT habit is a cross-border data transfer — review compliance obligations.",
       "Trading risk: HFT vs Algorithmic Trading: Two Different Universes — assess algorithmic exposure.",
-      "Operational: Jensen Huang is gone. Will the AI industry pay the price? — evaluate model governance gaps."
+      "Operational: Feedzai helps banks detect AI agents accessing customer accounts — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: What happens to the subscription economy when AI agents review every payment? — potential infrastructure advantage.",
-      "Banking efficiency: Jensen Huang is gone. Will the AI industry pay the price? — cost reduction opportunity."
+      "Banking efficiency: Feedzai helps banks detect AI agents accessing customer accounts — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 9
+      "count": 10
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Machine Learning",
@@ -50,6 +49,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "138714685",
+      "title": "Feedzai helps banks detect AI agents accessing customer accounts",
+      "summary": "Feedzai, the global leader in AI-native financial crime prevention, today expanded its Digital Trust solution to help banks detect AI agents accessing customer accounts.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111662/feedzai-helps-banks-detect-ai-agents-accessing-customer-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-12",
+      "category": "Banking",
+      "tags": [
+        "feedzai",
+        "ai",
+        "digital trust"
+      ]
+    },
     {
       "id": "580706399",
       "title": "Jensen Huang is gone. Will the AI industry pay the price?",
@@ -871,20 +884,6 @@
         "wall street",
         "ai",
         "texas"
-      ]
-    },
-    {
-      "id": "180579137",
-      "title": "Trading 212 taps TrueLayer for automated deposits feature",
-      "summary": "Trading 212, UK's largest investment platform, has completed its automated deposits feature using Bank on File from TrueLayer. Customers can now invest automatically, straight from their bank account, without logging into their banking app each time.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111569/trading-212-taps-truelayer-for-automated-deposits-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-04",
-      "category": "Banking",
-      "tags": [
-        "trading",
-        "truelayer",
-        "uk"
       ]
     }
   ]
