@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-11-13T15:13:04Z",
+  "last_updated": "2026-11-14T00:15:10Z",
   "insights": {
     "risks": [
-      "Regulatory: Your finance team’s ChatGPT habit is a cross-border data transfer — review compliance obligations.",
-      "Trading risk: HFT vs Algorithmic Trading: Two Different Universes — assess algorithmic exposure.",
-      "Operational: Mastercard opens Singapore innovation centre of excellence — evaluate model governance gaps."
+      "Trading risk: AI believers hold the line after Nvidia ructions — assess algorithmic exposure.",
+      "Operational: What the Microsoft 365 outage should change in a bank’s 2027 AI plan — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Banking efficiency: Mastercard opens Singapore innovation centre of excellence — cost reduction opportunity."
+      "Banking efficiency: What the Microsoft 365 outage should change in a bank’s 2027 AI plan — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Stablecoin AI",
@@ -49,6 +48,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "496441371",
+      "title": "AI believers hold the line after Nvidia ructions",
+      "summary": "Stock market bulls largely shrug off concerns about the concentration of risk",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
+      "date": "2026-11-13",
+      "category": "Trading",
+      "tags": [
+        "ai",
+        "nvidia",
+        "stock"
+      ]
+    },
+    {
+      "id": "978958239",
+      "title": "What the Microsoft 365 outage should change in a bank’s 2027 AI plan",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33467/what-the-microsoft-365-outage-should-change-in-a-banks-2027-ai-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-13",
+      "category": "Banking",
+      "tags": [
+        "what",
+        "microsoft",
+        "ai"
+      ]
+    },
+    {
+      "id": "456755086",
+      "title": "AI Law Firm Crosby Bids for Weil Gotshal’s Name and Data",
+      "summary": "A two-year-old an AI-native law firm startup is making a bid for the name and internal data of a 95-year-old Wall Street law firm. Crosby made the offer for the trademark, brand and some internal data of Weil, Gotshal Manges, TechCrunch reported Oct. 30. The data wasn’t specified…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-law-firm-crosby-bids-for-weil-gotshals-name-and-data/",
+      "date": "2026-11-13",
+      "category": "Banking",
+      "tags": [
+        "ai law",
+        "firm crosby",
+        "bids"
+      ]
+    },
+    {
+      "id": "2487696",
+      "title": "JPMorgan Stops AI Agents From Using Customer Credit Cards",
+      "summary": "JPMorgan Chase is blocking artificial intelligence (AI) agents from shopping with its customers’ credit cards when customers give the agent their card number, The Wall Street Journal reported Friday (Nov. 13). Cards from Bank of America, Capital One and Citigroup are already bein…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/",
+      "date": "2026-11-13",
+      "category": "Banking",
+      "tags": [
+        "jpmorgan stops",
+        "ai agents",
+        "from using"
+      ]
+    },
     {
       "id": "268327680",
       "title": "Mastercard opens Singapore innovation centre of excellence",
@@ -829,61 +884,6 @@
         "aracore",
         "dozn",
         "korean"
-      ]
-    },
-    {
-      "id": "482373020",
-      "title": "Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight",
-      "summary": "Specialist Mortgage Group has deployed Curvestone's AI platform across its advice and quality-control process to meet growing FCA suitability demands. The post Y3S Embeds Curvestone AI Into CRM for Mortgage Compliance Oversight appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/y3s-embeds-curvestone-ai-into-crm-for-mortgage-compliance-oversight/",
-      "date": "2026-11-05",
-      "category": "RegTech",
-      "tags": [
-        "embeds curvestone",
-        "ai into",
-        "crm"
-      ]
-    },
-    {
-      "id": "413241776",
-      "title": "Nine in ten Singaporeans use AI. Only a third are comfortable with it",
-      "summary": "Nine in ten Singapore internet users now reach for an AI tool every month. Barely a third say they are comfortable doing so. That gap between habit and confidence is the most telling finding in Digital 2027: Singapore, the annual report released today by creative agency We Are So…",
-      "source": "e27",
-      "url": "https://e27.co/nine-in-ten-singaporeans-use-ai-only-a-third-are-comfortable-with-it-20261105/",
-      "date": "2026-11-05",
-      "category": "Banking",
-      "tags": [
-        "nine",
-        "singaporeans",
-        "ai"
-      ]
-    },
-    {
-      "id": "610989949",
-      "title": "AI might be the final boss for your best ideas",
-      "summary": "Earlier this year, I was staring at our 2026 plan and thinking: there are too many things in here. Payroll, billing, cross-border payments, payment licences, more salespeople, more product development. Individually, almost every initiative had a reasonable argument behind it. The…",
-      "source": "e27",
-      "url": "https://e27.co/ai-might-be-the-final-boss-for-your-best-ideas-20261101/",
-      "date": "2026-11-05",
-      "category": "Payments",
-      "tags": [
-        "ai",
-        "earlier",
-        "payroll"
-      ]
-    },
-    {
-      "id": "699019235",
-      "title": "Artificial intelligence (AI) and fintech firms have eroded the value of private banking services to customers, putting pressure on banks to demonstrate the value of their advisory services to customers.",
-      "summary": "Artificial intelligence (AI) and fintech firms have eroded the value of private banking services to customers, putting pressure on banks to demonstrate the value of their advisory services to customers.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/event-news/private-banks-must-prove-advisory-value-fintech-and-ai-undercut-prices",
-      "date": "2026-11-05",
-      "category": "Payments",
-      "tags": [
-        "artificial",
-        "ai"
       ]
     }
   ]
