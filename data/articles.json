@@ -1,18 +1,19 @@
 {
-  "last_updated": "2026-11-14T22:54:06Z",
+  "last_updated": "2026-11-15T14:36:46Z",
   "insights": {
     "risks": [
       "Trading risk: AI believers hold the line after Nvidia ructions — assess algorithmic exposure.",
       "Operational: Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business — evaluate model governance gaps."
     ],
     "opportunities": [
+      "Payments: Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools — potential infrastructure advantage.",
       "Banking efficiency: Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 12
     },
     {
       "topic": "Credit & Underwriting",
@@ -48,6 +49,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "200984455",
+      "title": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools",
+      "summary": "Tipalti's next-generation AP Agent coordinates the full accounts payable lifecycle, while new MCP capabilities connect live financial data to tools including Claude The post Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/tipalti-launches-ap-agent-with-mcp-links-to-enterprise-ai-tools/",
+      "date": "2026-11-15",
+      "category": "Payments",
+      "tags": [
+        "tipalti launches",
+        "ap agent",
+        "mcp links"
+      ]
+    },
     {
       "id": "171454373",
       "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
@@ -870,20 +885,6 @@
         "kalepa",
         "ai",
         "insurance ai"
-      ]
-    },
-    {
-      "id": "145347168",
-      "title": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited",
-      "summary": "Financial institutions are struggling to scale multi-agent AI beyond pilot projects, with just 10% of banks and insurers having achieved enterprise-wide orchestration despite 59% piloting or deploying the technology, according to Capgemini research.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-05",
-      "category": "Banking",
-      "tags": [
-        "capgemini",
-        "multi",
-        "ai"
       ]
     }
   ]
