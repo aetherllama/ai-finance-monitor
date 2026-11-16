@@ -1,23 +1,19 @@
 {
-  "last_updated": "2026-11-15T23:20:15Z",
+  "last_updated": "2026-11-16T16:52:10Z",
   "insights": {
     "risks": [
       "Trading risk: AI believers hold the line after Nvidia ructions — assess algorithmic exposure.",
-      "Operational: Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business — evaluate model governance gaps."
+      "Operational: Trump administration to name Nvidia, OpenAI and several others as AI national champions — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools — potential infrastructure advantage.",
-      "Banking efficiency: Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business — cost reduction opportunity."
+      "Payments: Zowie Expands AI Customer-Service Agents into Romania — potential infrastructure advantage.",
+      "Banking efficiency: Trump administration to name Nvidia, OpenAI and several others as AI national champions — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
       "count": 12
-    },
-    {
-      "topic": "Credit & Underwriting",
-      "count": 2
     },
     {
       "topic": "Automation",
@@ -28,7 +24,15 @@
       "count": 2
     },
     {
+      "topic": "Customer Service AI",
+      "count": 1
+    },
+    {
       "topic": "Stablecoin AI",
+      "count": 1
+    },
+    {
+      "topic": "Credit & Underwriting",
       "count": 1
     },
     {
@@ -49,6 +53,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "807388002",
+      "title": "Zowie Expands AI Customer-Service Agents into Romania",
+      "summary": "The Polish AI firm is opening a Bucharest office, backed by $20m in prior funding, targeting banks, telecoms and insurers in a low-adoption market. The post Zowie Expands AI Customer-Service Agents into Romania appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/zowie-expands-ai-customer-service-agents-into-romania/",
+      "date": "2026-11-16",
+      "category": "Payments",
+      "tags": [
+        "zowie expands",
+        "ai customer",
+        "service agents"
+      ]
+    },
+    {
+      "id": "310050871",
+      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+      "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+      "date": "2026-11-16",
+      "category": "Banking",
+      "tags": [
+        "trump",
+        "nvidia",
+        "openai"
+      ]
+    },
+    {
+      "id": "973682970",
+      "title": "Meta wants to teach Singapore’s small businesses AI. It also wants them on WhatsApp",
+      "summary": "SpeakEasy Lab is a two-person communication training business in Singapore, which means that when both founders are teaching, nobody is answering customers. Nobody human, at least. Routine enquiries that once waited an hour or more now get near-instant replies from Meta Business …",
+      "source": "e27",
+      "url": "https://e27.co/meta-wants-to-teach-singapores-small-businesses-ai-it-also-wants-them-on-whatsapp-20261116/",
+      "date": "2026-11-16",
+      "category": "Banking",
+      "tags": [
+        "meta",
+        "singapore",
+        "ai"
+      ]
+    },
     {
       "id": "200984455",
       "title": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools",
@@ -843,48 +889,6 @@
         "the economics",
         "ai",
         "banking"
-      ]
-    },
-    {
-      "id": "206345298",
-      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-      "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-      "date": "2026-11-05",
-      "category": "Banking",
-      "tags": [
-        "justice department",
-        "ai",
-        "doj"
-      ]
-    },
-    {
-      "id": "435142440",
-      "title": "Early Revolut employees open waitlist for wealth AI startup Haido",
-      "summary": "A pair of early Revolut employees has opened the waitlist for their new venture, an AI wealth company that has secured backing from UK fintech heavyweights including Eileen Burbidge.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48706/early-revolut-employees-open-waitlist-for-wealth-ai-startup-haido?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-05",
-      "category": "Payments",
-      "tags": [
-        "early revolut",
-        "ai",
-        "haido"
-      ]
-    },
-    {
-      "id": "95498401",
-      "title": "Kalepa raises $75m to expand AI underwriting platform",
-      "summary": "Insurance AI firm Kalepa has raised $75 million in Series B funding at a $470 million valuation, as it looks to expand its AI platform across the insurance value chain and into new markets.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48707/kalepa-raises-75m-to-expand-ai-underwriting-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-05",
-      "category": "InsurTech",
-      "tags": [
-        "kalepa",
-        "ai",
-        "insurance ai"
       ]
     }
   ]
