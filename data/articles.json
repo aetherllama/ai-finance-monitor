@@ -1,23 +1,22 @@
 {
-  "last_updated": "2026-11-17T02:22:44Z",
+  "last_updated": "2026-11-17T16:46:41Z",
   "insights": {
     "risks": [
-      "Trading risk: AI believers hold the line after Nvidia ructions — assess algorithmic exposure.",
-      "Operational: AI is changing how we learn, work and invest. Venture capital must change too — evaluate model governance gaps."
+      "Operational: New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Zowie Expands AI Customer-Service Agents into Romania — potential infrastructure advantage.",
-      "Banking efficiency: AI is changing how we learn, work and invest. Venture capital must change too — cost reduction opportunity."
+      "Banking efficiency: New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 13
+      "count": 14
     },
     {
       "topic": "Automation",
-      "count": 2
+      "count": 3
     },
     {
       "topic": "Machine Learning",
@@ -53,6 +52,118 @@
     }
   ],
   "articles": [
+    {
+      "id": "645690735",
+      "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+      "summary": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "new defi",
+        "crypto",
+        "animoca brands"
+      ]
+    },
+    {
+      "id": "480996752",
+      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+      "summary": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "fed governor",
+        "michael barr",
+        "ai"
+      ]
+    },
+    {
+      "id": "600823416",
+      "title": "Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race",
+      "summary": "For six years, Iterative sold itself on one promise: a Y Combinator-style accelerator built exclusively for Southeast Asia. That promise has now expired. The Singapore-based early-stage investor will not run a Winter 2027 batch of its core programme. In its place comes a SEA to S…",
+      "source": "e27",
+      "url": "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "iterative",
+        "southeast asia",
+        "ai"
+      ]
+    },
+    {
+      "id": "220542462",
+      "title": "Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage",
+      "summary": "There was one sentence Southeast Asia s startup press could have saved as a keyboard shortcut in 2026: Singapore took almost everything. In October, Singapore-based startups collected US$3.66 billion of the US$3.68 billion raised across the region, according to TNGlobal s monthly…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "as",
+        "southeast asian"
+      ]
+    },
+    {
+      "id": "665270627",
+      "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
+      "summary": "I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never as…",
+      "source": "e27",
+      "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "my",
+        "here",
+        "ai"
+      ]
+    },
+    {
+      "id": "522489815",
+      "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
+      "summary": "My ACM Multimedia calendar in Rio came colour-coded: must-see, recommended, if time. When I counted the must-sees, the pattern was hard to miss. Most came from Asian labs, from Singapore, Shenzhen, Hefei, Hong Kong and Taipei, plus the research arms of JD, Alibaba, Kuaishou, Byte…",
+      "source": "e27",
+      "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "asian",
+        "my acm"
+      ]
+    },
+    {
+      "id": "632658431",
+      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
+      "summary": "Thailand has found itself a growth engine. It just isn t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 pe…",
+      "source": "e27",
+      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "thailand",
+        "ai",
+        "it"
+      ]
+    },
+    {
+      "id": "289954295",
+      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
+      "summary": "On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there waiting for a human …",
+      "source": "e27",
+      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "our",
+        "the ai",
+        "on"
+      ]
+    },
     {
       "id": "293805858",
       "title": "AI is changing how we learn, work and invest. Venture capital must change too",
@@ -777,118 +888,6 @@
         "low",
         "wall street",
         "anthropic"
-      ]
-    },
-    {
-      "id": "626106460",
-      "title": "Visa establishes global capacity hubs in Singapore",
-      "summary": "Visa (NYSE: V), a global leader in digital payments, today announced the establishment of six global capability hubs at its new Solution Center in Singapore. Spanning AI, cybersecurity, quantum computing and next-generation payments, the hubs will develop technologies and solutio…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111605/visa-establishes-global-capacity-hubs-in-singapore?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-06",
-      "category": "Banking",
-      "tags": [
-        "visa",
-        "singapore visa",
-        "nyse"
-      ]
-    },
-    {
-      "id": "941692011",
-      "title": "BMO launches AI agent to help credit card customers get answers",
-      "summary": "BMO is introducing AI Agent Assist to help clients get faster answers and resolutions when they contact BMO's Virtual Connect contact centre about their credit card transactions.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111609/bmo-launches-ai-agent-to-help-credit-card-customers-get-answers?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-06",
-      "category": "Banking",
-      "tags": [
-        "bmo",
-        "ai",
-        "ai agent"
-      ]
-    },
-    {
-      "id": "457117338",
-      "title": "Would you trust AI with your money? The question every bank should be asking",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33417/would-you-trust-ai-with-your-money-the-question-every-bank-should-be-asking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-06",
-      "category": "Banking",
-      "tags": [
-        "would",
-        "ai",
-        "author"
-      ]
-    },
-    {
-      "id": "791459736",
-      "title": "Is the AI stock bubble finally bursting?",
-      "summary": "Any reasonable person can see the hallmarks of an unsustainable party in markets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e185d576-c4a6-4fb0-aa03-deda69c900c8?syn-25a6b1a6=1",
-      "date": "2026-11-06",
-      "category": "Trading",
-      "tags": [
-        "is",
-        "ai",
-        "any"
-      ]
-    },
-    {
-      "id": "854498488",
-      "title": "How AI Can Help Keep Payment Exceptions Moving at Real-Time Speed",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33415/how-ai-can-help-keep-payment-exceptions-moving-at-real-time-speed?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-06",
-      "category": "Payments",
-      "tags": [
-        "how ai",
-        "can help",
-        "keep payment"
-      ]
-    },
-    {
-      "id": "485731275",
-      "title": "Singapore tops a new Commonwealth AI readiness index, but Australia’s results show where the real gap lies",
-      "summary": "Young Singaporeans are the best prepared in the Commonwealth to ride the AI wave, according to a new index. The more useful lesson for Southeast Asia, however, sits with Australia, the country in third place: having the technology is the easy part. The Ayre Index, launched this w…",
-      "source": "e27",
-      "url": "https://e27.co/singapore-tops-a-new-commonwealth-ai-readiness-index-but-australias-results-show-where-the-real-gap-lies-20261106/",
-      "date": "2026-11-06",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "commonwealth ai",
-        "australia"
-      ]
-    },
-    {
-      "id": "291813706",
-      "title": "Wall Street sheds $3.2tn as Democratic midterm sweep triggers brutal AI rout",
-      "summary": "Tech-heavy Nasdaq 100 tumbles 6.4% in day of chaotic trading",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3d079b3d-580d-400b-bf9c-56af6a08f60f?syn-25a6b1a6=1",
-      "date": "2026-11-05",
-      "category": "Trading",
-      "tags": [
-        "wall street",
-        "democratic",
-        "ai"
-      ]
-    },
-    {
-      "id": "881949544",
-      "title": "Will Democrats stall the AI boom?",
-      "summary": "Newly elected officials have pledged to curb data centre construction, rattling the trade that has powered US stock markets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5dedb9bf-bd12-4956-b2b7-ce968e1e1371?syn-25a6b1a6=1",
-      "date": "2026-11-05",
-      "category": "Trading",
-      "tags": [
-        "will democrats",
-        "ai",
-        "newly"
       ]
     }
   ]
