@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-11-16T16:52:10Z",
+  "last_updated": "2026-11-17T02:22:44Z",
   "insights": {
     "risks": [
       "Trading risk: AI believers hold the line after Nvidia ructions — assess algorithmic exposure.",
-      "Operational: Trump administration to name Nvidia, OpenAI and several others as AI national champions — evaluate model governance gaps."
+      "Operational: AI is changing how we learn, work and invest. Venture capital must change too — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Zowie Expands AI Customer-Service Agents into Romania — potential infrastructure advantage.",
-      "Banking efficiency: Trump administration to name Nvidia, OpenAI and several others as AI national champions — cost reduction opportunity."
+      "Banking efficiency: AI is changing how we learn, work and invest. Venture capital must change too — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 13
     },
     {
       "topic": "Automation",
@@ -53,6 +53,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "293805858",
+      "title": "AI is changing how we learn, work and invest. Venture capital must change too",
+      "summary": "I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to acce…",
+      "source": "e27",
+      "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "venture",
+        "nanyang technological"
+      ]
+    },
+    {
+      "id": "425809977",
+      "title": "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
+      "summary": "Federal Reserve staff are using model-based frameworks to generate scenarios of outcomes that could result from the progress of artificial intelligence (AI), Federal Reserve Board Chairman Kevin Warsh said Monday (Nov. 16). In opening remarks delivered at the Productivity and Job…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fed-builds-plans-for-best-and-worst-ai-driven-economic-outcomes/",
+      "date": "2026-11-16",
+      "category": "Banking",
+      "tags": [
+        "fed builds",
+        "plans",
+        "best"
+      ]
+    },
+    {
+      "id": "452569317",
+      "title": "PayPal Tracks $53 Billion in Treasury Cash With an AI Agent",
+      "summary": "Ask PayPal’s treasury team where its cash sits, and the answer now comes from a chat window. A Deutsche Bank case study describes how that change unfolded inside the company. The system handles $53 billion in corporate cash and customer funds, and the team once relied on 90 sprea…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent/",
+      "date": "2026-11-16",
+      "category": "Banking",
+      "tags": [
+        "paypal tracks",
+        "billion",
+        "treasury cash"
+      ]
+    },
     {
       "id": "807388002",
       "title": "Zowie Expands AI Customer-Service Agents into Romania",
@@ -847,48 +889,6 @@
         "will democrats",
         "ai",
         "newly"
-      ]
-    },
-    {
-      "id": "785029859",
-      "title": "Tabs partners Adyen to bring payment processing directly into invoicing and revenue platform",
-      "summary": "Tabs, the AI Operating System for Revenue, today announced a partnership with Adyen, the global financial technology platform of choice for leading businesses. Adyen is the first payments partner behind Tabs Pay,",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111597/tabs-partners-adyen-to-bring-payment-processing-directly-into-invoicing-and-revenue-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-05",
-      "category": "Payments",
-      "tags": [
-        "tabs",
-        "adyen",
-        "ai operating"
-      ]
-    },
-    {
-      "id": "329884846",
-      "title": "How AI Can Change the Economics of Financial Product Innovation",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33410/how-ai-can-change-the-economics-of-financial-product-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-05",
-      "category": "Banking",
-      "tags": [
-        "how ai",
-        "can change",
-        "economics"
-      ]
-    },
-    {
-      "id": "357681336",
-      "title": "The Economics of AI in Banking: Why the Cheapest Token Is the One You Never Use",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33406/the-economics-of-ai-in-banking-why-the-cheapest-token-is-the-one-you-never-use?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-05",
-      "category": "Banking",
-      "tags": [
-        "the economics",
-        "ai",
-        "banking"
       ]
     }
   ]
