@@ -1,33 +1,35 @@
 {
-  "last_updated": "2026-11-18T01:31:29Z",
+  "last_updated": "2026-11-18T16:17:55Z",
   "insights": {
     "risks": [
-      "Operational: U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization — evaluate model governance gaps."
+      "Regulatory: AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB — review compliance obligations.",
+      "Operational: Wall Street expects corporate earnings growth to halve next year — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade — potential infrastructure advantage.",
-      "Banking efficiency: U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization — cost reduction opportunity."
+      "Payments: Singapore fintechs are pouring money into AI. The returns are not keeping up — potential infrastructure advantage.",
+      "Banking efficiency: Wall Street expects corporate earnings growth to halve next year — cost reduction opportunity.",
+      "InsurTech: The Intersection of Autonomous AI Agents, Enterprise Liability, and Insurance Underwriting — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 16
+      "count": 18
     },
     {
       "topic": "Automation",
-      "count": 2
+      "count": 3
     },
     {
-      "topic": "Machine Learning",
+      "topic": "Stablecoin AI",
       "count": 2
     },
     {
       "topic": "Customer Service AI",
-      "count": 1
+      "count": 2
     },
     {
-      "topic": "Stablecoin AI",
+      "topic": "Large Language Models",
       "count": 1
     },
     {
@@ -37,21 +39,268 @@
     {
       "topic": "Algorithmic Trading",
       "count": 1
-    },
-    {
-      "topic": "Risk Management",
-      "count": 1
-    },
-    {
-      "topic": "Fraud Detection",
-      "count": 1
-    },
-    {
-      "topic": "Predictive Analytics",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "431058844",
+      "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
+      "summary": "Concerns raised that hyperscalers are building up trillions of dollars in off-balance sheet commitments through contracts with other tech groups",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
+      "date": "2026-11-18",
+      "category": "RegTech",
+      "tags": [
+        "ai",
+        "ecb concerns"
+      ]
+    },
+    {
+      "id": "699367983",
+      "title": "Wall Street expects corporate earnings growth to halve next year",
+      "summary": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "wall street",
+        "analysts",
+        "ai"
+      ]
+    },
+    {
+      "id": "764990490",
+      "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
+      "summary": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "kpmg",
+        "big four"
+      ]
+    },
+    {
+      "id": "454031184",
+      "title": "US bank outages caused by software bug at JPMorgan Chase",
+      "summary": "The service outages that hit a number of US banks earlier this week were the result of a software bug at JPMorgan Chase. Meanwhile, experts have claimed that the rash of such outages in recent days - including at Microsoft - may have been caused by firms rushing to patch issues i…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48778/us-bank-outages-caused-by-software-bug-at-jpmorgan-chase?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "us",
+        "jpmorgan chase",
+        "meanwhile"
+      ]
+    },
+    {
+      "id": "648778867",
+      "title": "The Intersection of Autonomous AI Agents, Enterprise Liability, and Insurance Underwriting",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33503/the-intersection-of-autonomous-ai-agents-enterprise-liability-and-insurance-underwriting?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-18",
+      "category": "InsurTech",
+      "tags": [
+        "the intersection",
+        "autonomous ai",
+        "agents"
+      ]
+    },
+    {
+      "id": "851529343",
+      "title": "A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres",
+      "summary": "For three years, Malaysia sold the world s AI giants a simple pitch: cheap land, abundant power and a short drive from Singapore. Washington has now added a fourth item to the checklist, and it is the hardest to tick: proof of who your customers really are. Kenanga Research warne…",
+      "source": "e27",
+      "url": "https://e27.co/a-750-chip-ceiling-how-us-curbs-redraw-the-map-for-malaysias-ai-data-centres-20261118/",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "how us",
+        "malaysia",
+        "ai"
+      ]
+    },
+    {
+      "id": "177883570",
+      "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
+      "summary": "For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has raised US$11 million in …",
+      "source": "e27",
+      "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "botsync",
+        "physical ai"
+      ]
+    },
+    {
+      "id": "482144397",
+      "title": "Singapore fintechs are pouring money into AI. The returns are not keeping up",
+      "summary": "Walk into almost any Singapore fintech today and you will find AI somewhere: writing code, sorting support tickets, flagging suspect transactions. What you are far less likely to find is an AI agent trusted to approve a loan or move a client s savings without a human hovering ove…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-fintechs-are-pouring-money-into-ai-the-returns-are-not-keeping-up-20261118/",
+      "date": "2026-11-18",
+      "category": "Payments",
+      "tags": [
+        "singapore",
+        "ai",
+        "walk"
+      ]
+    },
+    {
+      "id": "452804941",
+      "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
+      "summary": "When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one q…",
+      "source": "e27",
+      "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "why",
+        "ai",
+        "when"
+      ]
+    },
+    {
+      "id": "360197567",
+      "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
+      "summary": "Singapore is racing to cut onboarding times for the ultra-wealthy. But the clients it most wants to win are often the ones getting stuck in the queue. In October 2025, Bank of Singapore rolled out an AI tool that, the bank says, cut the time to produce a source of wealth report f…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "but",
+        "in october"
+      ]
+    },
+    {
+      "id": "785952686",
+      "title": "Four in five want AI and agentic assistance built into their main banking relationship.",
+      "summary": "Four in five want AI and agentic assistance built into their main banking relationship.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/banks-prepare-ai-agents-take-over-customer-front-end",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "four",
+        "ai"
+      ]
+    },
+    {
+      "id": "352214086",
+      "title": "Agentic artificial intelligence (AI), stablecoin use cases, and trust landed at the center of discussions in Singapore Fintech Festival Day 1, with bankers, market players, and regulators exploring how the financial system is being rewired in an era of geopolitical risks.",
+      "summary": "Agentic artificial intelligence (AI), stablecoin use cases, and trust landed at the center of discussions in Singapore Fintech Festival Day 1, with bankers, market players, and regulators exploring how the financial system is being rewired in an era of geopolitical risks.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/in-focus/ai-and-stablecoins-rewire-finance-in-day-1-singapore-fintech-festival-2026",
+      "date": "2026-11-18",
+      "category": "Payments",
+      "tags": [
+        "agentic",
+        "ai",
+        "singapore fintech"
+      ]
+    },
+    {
+      "id": "851525174",
+      "title": "Slapping an agentic artificial intelligence (AI) tool in your banking business isn’t going to automatically improve your business—processes and cultures must also be changed, banking experts said.",
+      "summary": "Slapping an agentic artificial intelligence (AI) tool in your banking business isn’t going to automatically improve your business—processes and cultures must also be changed, banking experts said.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/why-agentic-ai-alone-will-not-improve-banks-without-internal-change",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "slapping",
+        "ai"
+      ]
+    },
+    {
+      "id": "365235036",
+      "title": "The rise of agentic artificial intelligence (AI) will erode the current four-party model of the financial system, highlighting the need to define common standards.",
+      "summary": "The rise of agentic artificial intelligence (AI) will erode the current four-party model of the financial system, highlighting the need to define common standards.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/payments-could-skip-acquirers-and-networks-in-web3-era",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "492364746",
+      "title": "The government will also test AI agents that can handle financial transactions.",
+      "summary": "The government will also test AI agents that can handle financial transactions.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/singapore-unveils-ai-missions-fight-financial-crime-boost-sme-financing",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "473802256",
+      "title": "Using AI to make your business more efficient is only stage one — Singapore’s deputy PM says the real shift is building businesses with AI as the foundation, not an add-on.",
+      "summary": "Using AI to make your business more efficient is only stage one — Singapore’s deputy PM says the real shift is building businesses with AI as the foundation, not an add-on.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/singapore-firms-urged-go-beyond-efficiency-and-build-ai-native",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "using ai",
+        "singapore",
+        "pm"
+      ]
+    },
+    {
+      "id": "630368677",
+      "title": "Wealth managers across Asia are rethinking how they serve affluent clients as artificial intelligence (AI), changing investor expectations and intergenerational wealth transfers challenge traditional advisory models, forcing banks and insurers to offer more personalised services whilst maintaining human oversight.",
+      "summary": "Wealth managers across Asia are rethinking how they serve affluent clients as artificial intelligence (AI), changing investor expectations and intergenerational wealth transfers challenge traditional advisory models, forcing banks and insurers to offer more personalised services whilst maintaining human oversight.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/event-news/asia-wealth-advisers-rethink-roles-ai-erodes-research-advantage",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "wealth",
+        "asia",
+        "ai"
+      ]
+    },
+    {
+      "id": "569577712",
+      "title": "Google-backed Arva AI raises $20m",
+      "summary": "Arva AI, a research company building models and agents to help banks and fintechs automate things like financial crime compliance and lending, has raised $20 million in a Series A led by Arthur Ventures.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48772/google-backed-arva-ai-raises-20m?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-17",
+      "category": "RegTech",
+      "tags": [
+        "google",
+        "arva ai",
+        "series"
+      ]
+    },
+    {
+      "id": "532694847",
+      "title": "Google lets users connect their Wallet to Gemini for personal finance insights",
+      "summary": "Google has partnered with Plaid to let US users of its Gemini AI assistant connect their Google Wallet and financial accounts to get responses informed by their spending habits.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48768/google-lets-users-connect-their-wallet-to-gemini-for-personal-finance-insights?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-17",
+      "category": "Payments",
+      "tags": [
+        "google",
+        "wallet",
+        "gemini"
+      ]
+    },
     {
       "id": "568325775",
       "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
@@ -622,272 +871,6 @@
         "copper",
         "ai",
         "staera"
-      ]
-    },
-    {
-      "id": "124425073",
-      "title": "Singapore is paying startups to secure the AI agents it is racing to deploy",
-      "summary": "Singapore’s cyber agency has a new worry list, and it reads like the agenda of every AI conference this year: agents talking to other agents, quantum computers that don’t yet exist, and small firms with nobody watching the network. On Tuesday, at CyberSG Innovation Day 2026, the …",
-      "source": "e27",
-      "url": "https://e27.co/singapore-is-paying-startups-to-secure-the-ai-agents-it-is-racing-to-deploy-20261111/",
-      "date": "2026-11-11",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai",
-        "on tuesday"
-      ]
-    },
-    {
-      "id": "108458123",
-      "title": "What happens to the subscription economy when AI agents review every payment?",
-      "summary": "Subscription businesses have spent the past two decades making revenue more predictable. Instead of selling a product once and persuading the customer to buy again, they persuade the customer to keep paying every month or every year. That creates an important advantage: once the …",
-      "source": "e27",
-      "url": "https://e27.co/what-happens-to-the-subscription-economy-when-ai-agents-review-every-payment-20261101/",
-      "date": "2026-11-11",
-      "category": "Payments",
-      "tags": [
-        "what",
-        "ai",
-        "subscription"
-      ]
-    },
-    {
-      "id": "117409799",
-      "title": "US regulator postpones Wall Street push to trade AI computing futures",
-      "summary": "The Commodity Futures Trading Commission raises concerns over price manipulation as exchanges race to create new asset class",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539?syn-25a6b1a6=1",
-      "date": "2026-11-10",
-      "category": "Trading",
-      "tags": [
-        "us",
-        "wall street",
-        "ai"
-      ]
-    },
-    {
-      "id": "411190506",
-      "title": "BioCatch launches agentic AI detection tech",
-      "summary": "BioCatch, which prevents fraud, scams, and financial crime by recognizing patterns in human behavior, today launched BioCatch AiRE™ (Agentic AI Risk Essentials), the company’s new agentic AI detection capability.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111638/biocatch-launches-agentic-ai-detection-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-10",
-      "category": "Banking",
-      "tags": [
-        "biocatch",
-        "ai",
-        "biocatch aire"
-      ]
-    },
-    {
-      "id": "895601174",
-      "title": "Finovox detects more than €100,000 in AI-related fraud every month",
-      "summary": "Finovox, a European specialist in AI-powered document fraud detection that helps organisations identify falsified and manipulated documents and strengthen their verification processes, has found that document fraud is now that sophisticated that AI-related fraud is at an annualis…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48732/finovox-detects-more-than-100000-in-ai-related-fraud-every-month?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-10",
-      "category": "Banking",
-      "tags": [
-        "finovox",
-        "ai",
-        "european"
-      ]
-    },
-    {
-      "id": "956041385",
-      "title": "Oracle brings conversational AI to financial services data",
-      "summary": "Oracle today announced Oracle Financial Services Data Intelligence Treasury Analytics and Oracle Financial Services Data Intelligence Customer Analytics, new analytics applications that combine curated financial services data with AI-assisted exploration to help financial institu…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111635/oracle-brings-conversational-ai-to-financial-services-data?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-10",
-      "category": "Banking",
-      "tags": [
-        "oracle",
-        "ai",
-        "oracle financial"
-      ]
-    },
-    {
-      "id": "723488318",
-      "title": "FI Works launches Signals to turn predictive insights into action",
-      "summary": "FI Works, the Relationship Intelligence and Engagement Platform purpose-built for community banks and credit unions, today announced Signals, a new feature that uses machine learning to identify households likely to add a product, adopt checking or digital services, or leave the …",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111637/fi-works-launches-signals-to-turn-predictive-insights-into-action?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-10",
-      "category": "Banking",
-      "tags": [
-        "fi works",
-        "signals",
-        "relationship intelligence"
-      ]
-    },
-    {
-      "id": "80745766",
-      "title": "Building the Foundations for AI-Ready, Future-Proof Payments",
-      "summary": "At Sibos 2026, ACI Worldwide’s Rachel Hunt reveals how banks can simplify payment modernisation and build a solid data foundation for AI.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3644/building-the-foundations-for-ai-ready-future-proof-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-10",
-      "category": "Payments",
-      "tags": [
-        "building",
-        "foundations",
-        "ai"
-      ]
-    },
-    {
-      "id": "597752264",
-      "title": "Sionic AI brings its Thai-reading model to SEA, with banks as the real exam",
-      "summary": "Most AI models read Thai the way a tourist reads a Bangkok street menu: confidently, and often wrongly. Sionic AI says it has closed part of that language gap, and it is using the result to push into Southeast Asia. The Seoul-based enterprise AI company said last week it is expan…",
-      "source": "e27",
-      "url": "https://e27.co/sionic-ai-brings-its-thai-reading-model-to-sea-with-banks-as-the-real-exam-20261110/",
-      "date": "2026-11-10",
-      "category": "Banking",
-      "tags": [
-        "sionic ai",
-        "thai",
-        "sea"
-      ]
-    },
-    {
-      "id": "64889318",
-      "title": "Your AI strategy is your 2015 strategy, only cheaper",
-      "summary": "Walk the halls of the Singapore Fintech Festival this November and every bank will have an AI story. Agentic this, generative that, a shiny assistant on every stand. Here is what almost nobody on stage will say out loud: most bank AI strategies in Asia-Pacific are the 2015 strate…",
-      "source": "e27",
-      "url": "https://e27.co/your-ai-strategy-is-your-2015-strategy-only-cheaper-20261106/",
-      "date": "2026-11-10",
-      "category": "Banking",
-      "tags": [
-        "your ai",
-        "walk",
-        "singapore fintech"
-      ]
-    },
-    {
-      "id": "338311879",
-      "title": "Before the licence: What Singapore’s regulated institutions ask a fintech partner first",
-      "summary": "On 7 October the Monetary Authority of Singapore issued its Guidelines on Artificial Intelligence Risk Management, phased in over 2027 and 2028. On 3 November it announced that the Future of Finance Institute has started work, with a pillar called SafeFin.ai that will extend the …",
-      "source": "e27",
-      "url": "https://e27.co/before-the-licence-what-singapores-regulated-institutions-ask-a-fintech-partner-first-20261106/",
-      "date": "2026-11-10",
-      "category": "RegTech",
-      "tags": [
-        "before",
-        "what singapore",
-        "on"
-      ]
-    },
-    {
-      "id": "402441467",
-      "title": "The Megaspeed question: How a Singapore firm ended up in Nvidia’s biggest crisis",
-      "summary": "Nvidia s board has opened an independent investigation into whether founder and CEO Jensen Huang was the target of a foreign intelligence effort. The move pulls a Singapore-based chip buyer, and the region s booming data-centre industry, into the middle of the US-China AI rivalry…",
-      "source": "e27",
-      "url": "https://e27.co/the-megaspeed-question-how-a-singapore-firm-ended-up-in-nvidias-biggest-crisis-20261109/",
-      "date": "2026-11-10",
-      "category": "Banking",
-      "tags": [
-        "the megaspeed",
-        "how",
-        "singapore"
-      ]
-    },
-    {
-      "id": "623913639",
-      "title": "FCA explores use of quantum computing to tackle financial crime",
-      "summary": "The UK's Financial Conduct Authority is bringing together industry players to explore how quantum machine learning could help detect money laundering and fraud",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48730/fca-explores-use-of-quantum-computing-to-tackle-financial-crime?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-09",
-      "category": "Banking",
-      "tags": [
-        "fca",
-        "the uk",
-        "financial conduct"
-      ]
-    },
-    {
-      "id": "59621698",
-      "title": "AI Agents in Fintech: Where Interpretation Should End and Execution Begin",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33426/ai-agents-in-fintech-where-interpretation-should-end-and-execution-begin?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-09",
-      "category": "Payments",
-      "tags": [
-        "ai agents",
-        "fintech",
-        "where interpretation"
-      ]
-    },
-    {
-      "id": "700844528",
-      "title": "Financial intelligence platform geniosAI raises $19.1m",
-      "summary": "AI-powered financial analysis and modelling platform geniosAI has emerged from stealth with $19.1 million in funding led by FactSet.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48726/financial-intelligence-platform-geniosai-raises-191m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-09",
-      "category": "Banking",
-      "tags": [
-        "financial",
-        "ai",
-        "factset"
-      ]
-    },
-    {
-      "id": "911991910",
-      "title": "News & Views Podcast: Why Global FinTech Startups Are Choosing Tokyo",
-      "summary": "Chang Li of FinCity.Tokyo explains why global fintech startups are choosing Tokyo, from government support and open corporations to agentic AI and local partnerships. The post News Views Podcast: Why Global FinTech Startups Are Choosing Tokyo appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/news-views-podcast-why-global-fintech-startups-are-choosing-tokyo/",
-      "date": "2026-11-09",
-      "category": "Payments",
-      "tags": [
-        "news",
-        "views podcast",
-        "why global"
-      ]
-    },
-    {
-      "id": "506946161",
-      "title": "Why Southeast Asia’s healthtech startups struggle to attract investment despite the AI boom",
-      "summary": "Artificial intelligence is attracting serious investment across Southeast Asia. Startups are using it to automate business processes, develop new products, and solve problems that once required large engineering teams. Healthcare should be a natural beneficiary. AI can assist wit…",
-      "source": "e27",
-      "url": "https://e27.co/why-southeast-asias-healthtech-startups-struggle-to-attract-investment-despite-the-ai-boom-20261102/",
-      "date": "2026-11-09",
-      "category": "Banking",
-      "tags": [
-        "why southeast",
-        "asia",
-        "ai"
-      ]
-    },
-    {
-      "id": "690812884",
-      "title": "Seventy-two percent of APAC buy-side firms are using AI moderately — so for Asian investment firms, the question is: What happens to a business built on analytical edge?",
-      "summary": "Seventy-two percent of APAC buy-side firms are using AI moderately — so for Asian investment firms, the question is: What happens to a business built on analytical edge?",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/commentary/cheap-intelligence-scarce-judgment-new-model-asian-institutional-investing",
-      "date": "2026-11-09",
-      "category": "Banking",
-      "tags": [
-        "seventy",
-        "apac",
-        "ai"
-      ]
-    },
-    {
-      "id": "291552512",
-      "title": "FCA AI Review Prompts Call to Keep Customer Needs Central",
-      "summary": "EQWIRE CEO Sophie Njagi urges fintechs to anchor AI product development in customer needs, citing the FCA's latest AI good-practice findings. The post FCA AI Review Prompts Call to Keep Customer Needs Central appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/fca-ai-review-prompts-call-to-keep-customer-needs-central/",
-      "date": "2026-11-08",
-      "category": "Payments",
-      "tags": [
-        "fca ai",
-        "review prompts",
-        "call"
       ]
     }
   ]
