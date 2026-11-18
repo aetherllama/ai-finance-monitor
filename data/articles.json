@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-11-17T16:46:41Z",
+  "last_updated": "2026-11-18T01:31:29Z",
   "insights": {
     "risks": [
-      "Operational: New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest — evaluate model governance gaps."
+      "Operational: U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Zowie Expands AI Customer-Service Agents into Romania — potential infrastructure advantage.",
-      "Banking efficiency: New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest — cost reduction opportunity."
+      "Payments: Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade — potential infrastructure advantage.",
+      "Banking efficiency: U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 14
+      "count": 16
     },
     {
       "topic": "Automation",
-      "count": 3
+      "count": 2
     },
     {
       "topic": "Machine Learning",
@@ -52,6 +52,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "568325775",
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "summary": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "date": "2026-11-17",
+      "category": "Payments",
+      "tags": [
+        "coinbase ceo",
+        "ai",
+        "brian armstrong"
+      ]
+    },
+    {
+      "id": "685293906",
+      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+      "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "fed governor",
+        "waller",
+        "federal reserve"
+      ]
+    },
+    {
+      "id": "722591848",
+      "title": "Banks in Asia—particularly Japanese and Singaporean banks—have little exposure to data centres and artificial intelligence (AI), and any risks are more likely to hit revenue than credit losses, according to CreditSights, a Fitch Solutions Company.",
+      "summary": "Banks in Asia—particularly Japanese and Singaporean banks—have little exposure to data centres and artificial intelligence (AI), and any risks are more likely to hit revenue than credit losses, according to CreditSights, a Fitch Solutions Company.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/in-focus/data-centre-downturn-would-hit-bank-fees-loans",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "banks",
+        "asia",
+        "japanese"
+      ]
+    },
     {
       "id": "645690735",
       "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
@@ -846,48 +888,6 @@
         "fca ai",
         "review prompts",
         "call"
-      ]
-    },
-    {
-      "id": "338312600",
-      "title": "COLIBRIX ONE Taps Vivox AI for Automated KYB Merchant Onboarding",
-      "summary": "The FCA- and MFSA-authorised payments platform will use Vivox AI's explainable agents to verify corporate documents and run sanctions screening on new merchants. The post COLIBRIX ONE Taps Vivox AI for Automated KYB Merchant Onboarding appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/colibrix-one-taps-vivox-ai-for-automated-kyb-merchant-onboarding/",
-      "date": "2026-11-07",
-      "category": "Payments",
-      "tags": [
-        "colibrix one",
-        "taps vivox",
-        "ai"
-      ]
-    },
-    {
-      "id": "486180777",
-      "title": "How Wall Street’s all-in bet on AI blew up",
-      "summary": "US midterm elections sparked a hedge fund and retail investor exodus from a trade that had taken over equity markets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1",
-      "date": "2026-11-07",
-      "category": "Trading",
-      "tags": [
-        "how wall",
-        "street",
-        "ai"
-      ]
-    },
-    {
-      "id": "601579069",
-      "title": "Low-profile Wall Street firm to double down on Anthropic despite tech rout",
-      "summary": "XN amassed $5.3bn stake in AI lab through private-round investments",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/538bfe46-7051-4e3d-8ff3-ad71c861a1f7?syn-25a6b1a6=1",
-      "date": "2026-11-06",
-      "category": "Banking",
-      "tags": [
-        "low",
-        "wall street",
-        "anthropic"
       ]
     }
   ]
