@@ -1,48 +1,219 @@
 {
-  "last_updated": "2026-11-19T01:01:06Z",
+  "last_updated": "2026-11-19T16:26:22Z",
   "insights": {
     "risks": [
-      "Regulatory: AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB — review compliance obligations.",
+      "Regulatory: The Monetary Authority of Singapore (MAS) will further explore artificial intelligence (AI) agents and tokenisation, setting out plans for a new agent verification protocol, a new sandbox, and updated tokenisation guides.\n\nIn his keynote speech at Day 2 of SFF 2026, MAS Managing Director Chia Der Jiun called AI agents and tokenisation as the two transformative forces in finance. — review compliance obligations.",
       "Trading risk: Arcesium introduces front-to-back hedge fund platform for launching and emerging funds — assess algorithmic exposure.",
-      "Operational: Singapore sets national AI missions for financial services — evaluate model governance gaps."
+      "Operational: EmpowerFi and MetriFi bring AI-built to US credit unions — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Singapore fintechs are pouring money into AI. The returns are not keeping up — potential infrastructure advantage.",
-      "Banking efficiency: Singapore sets national AI missions for financial services — cost reduction opportunity.",
-      "InsurTech: The Intersection of Autonomous AI Agents, Enterprise Liability, and Insurance Underwriting — underwriting modernisation potential."
+      "Payments: Singapore FinTech Festival Gets to Grips with AI, Digital Money and Financial Inclusion — potential infrastructure advantage.",
+      "Banking efficiency: EmpowerFi and MetriFi bring AI-built to US credit unions — cost reduction opportunity.",
+      "InsurTech: The Download: a living liver, a billion-dollar battery deal, and AI hype — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 19
     },
     {
       "topic": "Automation",
-      "count": 4
+      "count": 5
     },
     {
       "topic": "Customer Service AI",
       "count": 3
     },
     {
-      "topic": "Stablecoin AI",
-      "count": 2
-    },
-    {
       "topic": "Large Language Models",
       "count": 1
     },
     {
-      "topic": "Credit & Underwriting",
-      "count": 1
-    },
-    {
-      "topic": "Algorithmic Trading",
+      "topic": "Stablecoin AI",
       "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "856995153",
+      "title": "EmpowerFi and MetriFi bring AI-built to US credit unions",
+      "summary": "EmpowerFi, a strategic growth partner for credit unions and community banks, is teaming up with MetriFi to bring its clients AI-built websites grounded in proven financial institution data. The partnership starts with EmpowerFi's own new website, empowerfi.org, the first full web…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111742/empowerfi-and-metrifi-bring-ai-built-to-us-credit-unions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "empowerfi",
+        "metrifi",
+        "ai"
+      ]
+    },
+    {
+      "id": "321899259",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on…",
+      "source": "MIT Tech Review",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "date": "2026-11-19",
+      "category": "InsurTech",
+      "tags": [
+        "the download",
+        "ai",
+        "this"
+      ]
+    },
+    {
+      "id": "892293172",
+      "title": "Superintelligence may still be years away. AI agents inside bank accounts aren’t.",
+      "summary": "AI agents are emerging as a cybersecurity risk for financial institutions, with their ability to exploit vulnerabilities and access bank accounts highlighting the need for stronger controls over autonomous payments. The post Superintelligence may still be years away. AI agents in…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/superintelligence-may-still-be-years-away-ai-agents-inside-bank-accounts-arent/",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "superintelligence",
+        "ai",
+        "the fintech"
+      ]
+    },
+    {
+      "id": "337976928",
+      "title": "Singapore FinTech Festival Gets to Grips with AI, Digital Money and Financial Inclusion",
+      "summary": "Georgia Hanias reports from Singapore FinTech Festival, where banks are embracing blockchain and AI is raising new questions about the future of money and inclusion. The post Singapore FinTech Festival Gets to Grips with AI, Digital Money and Financial Inclusion appeared first on…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/singapore-fintech-festival-gets-to-grips-with-ai-digital-money-and-financial-inclusion/",
+      "date": "2026-11-19",
+      "category": "Payments",
+      "tags": [
+        "singapore fintech",
+        "festival gets",
+        "grips"
+      ]
+    },
+    {
+      "id": "367697187",
+      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
+      "summary": "For two years, Indonesia has pitched itself as the place where Asia’s AI workloads would live: a huge domestic digital market, surplus power and a government eager to cut ribbons on hyperscale campuses. Washington has just added a line to that brochure: terms and conditions apply…",
+      "source": "e27",
+      "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "after megaspeed",
+        "indonesia",
+        "asia"
+      ]
+    },
+    {
+      "id": "51939761",
+      "title": "Regulators, finance executives, and market experts explored AI agent governance as well as market longevity and potential in the second day of Singapore Fintech Festival 2026 held at the Singapore EXPO, 19 November.",
+      "summary": "Regulators, finance executives, and market experts explored AI agent governance as well as market longevity and potential in the second day of Singapore Fintech Festival 2026 held at the Singapore EXPO, 19 November.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/cards-payments/in-focus/financial-players-debate-ai-agent-rules-market-prospects-sff-day-2",
+      "date": "2026-11-19",
+      "category": "Payments",
+      "tags": [
+        "regulators",
+        "ai",
+        "singapore fintech"
+      ]
+    },
+    {
+      "id": "812126550",
+      "title": "Deploying AI agents in the financial industry must involve strict boundaries where they are just shoppers and not bankers.",
+      "summary": "Deploying AI agents in the financial industry must involve strict boundaries where they are just shoppers and not bankers.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/treat-ai-agents-shoppers-not-bankers-googles-jeremy-goro",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "deploying ai"
+      ]
+    },
+    {
+      "id": "388518576",
+      "title": "Industry leaders said financial institutions using artificial intelligence (AI) agents should give each agent an identity, limit what it can do and keep a tamper-proof record of its actions.",
+      "summary": "Industry leaders said financial institutions using artificial intelligence (AI) agents should give each agent an identity, limit what it can do and keep a tamper-proof record of its actions.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/financial-firms-must-rein-in-ai-agents-identity-checks-and-audit-trails",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "industry",
+        "ai"
+      ]
+    },
+    {
+      "id": "65732616",
+      "title": "Financial firms are strengthening AI safeguards, preparing payment networks, and training staff to move beyond pilot projects, executives said at the Singapore FinTech Festival.",
+      "summary": "Financial firms are strengthening AI safeguards, preparing payment networks, and training staff to move beyond pilot projects, executives said at the Singapore FinTech Festival.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/financial-firms-strengthen-safeguards-scale-ai-beyond-pilots",
+      "date": "2026-11-19",
+      "category": "Payments",
+      "tags": [
+        "financial",
+        "ai",
+        "singapore fintech"
+      ]
+    },
+    {
+      "id": "944048425",
+      "title": "AI agents could reshape business payments, but cybersecurity and accountability concerns may slow adoption, executives said at the Singapore FinTech Festival.",
+      "summary": "AI agents could reshape business payments, but cybersecurity and accountability concerns may slow adoption, executives said at the Singapore FinTech Festival.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/ai-payment-agents-promise-b2b-gains-raise-accountability-concerns",
+      "date": "2026-11-19",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "singapore fintech",
+        "festival"
+      ]
+    },
+    {
+      "id": "314527533",
+      "title": "The Commonwealth Bank of Australia (CBA) has launched CodeCheck, which uses AI coding agents to give businesses the ability to write and check their own code.",
+      "summary": "The Commonwealth Bank of Australia (CBA) has launched CodeCheck, which uses AI coding agents to give businesses the ability to write and check their own code.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/news/cba-debuts-ai-agent-tool-business-software",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "the commonwealth",
+        "bank",
+        "australia"
+      ]
+    },
+    {
+      "id": "38622486",
+      "title": "Hyundai Card and Kinexys by J.P. Morgan completed a proof of concept validating the feasibility of automating financial operations using artificial intelligence (AI) agents.",
+      "summary": "Hyundai Card and Kinexys by J.P. Morgan completed a proof of concept validating the feasibility of automating financial operations using artificial intelligence (AI) agents.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/cash-management/news/hyundai-card-and-jp-morgans-kinexys-complete-ai-agent-treasury-trial",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "hyundai card",
+        "kinexys",
+        "morgan"
+      ]
+    },
+    {
+      "id": "886006325",
+      "title": "The Monetary Authority of Singapore (MAS) will further explore artificial intelligence (AI) agents and tokenisation, setting out plans for a new agent verification protocol, a new sandbox, and updated tokenisation guides.\n\nIn his keynote speech at Day 2 of SFF 2026, MAS Managing Director Chia Der Jiun called AI agents and tokenisation as the two transformative forces in finance.",
+      "summary": "The Monetary Authority of Singapore (MAS) will further explore artificial intelligence (AI) agents and tokenisation, setting out plans for a new agent verification protocol, a new sandbox, and updated tokenisation guides.\n\nIn his keynote speech at Day 2 of SFF 2026, MAS Managing Director Chia Der Jiun called AI agents and tokenisation as the two transformative forces in finance.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/in-focus/singapore-explores-ai-agent-protocol-and-tokenisation-framework",
+      "date": "2026-11-19",
+      "category": "RegTech",
+      "tags": [
+        "the monetary",
+        "authority",
+        "singapore"
+      ]
+    },
     {
       "id": "189469544",
       "title": "Singapore sets national AI missions for financial services",
@@ -691,186 +862,6 @@
         "mastercard",
         "singapore",
         "ai"
-      ]
-    },
-    {
-      "id": "984333226",
-      "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card",
-      "summary": "Wirex, the global stablecoin infrastructure platform, has today launched Navoka, the first AI agent that pays on behalf of users from a dedicated bank account and card.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111665/wirex-launches-navoka-an-ai-agent-that-pays-from-its-own-bank-account-and-card?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-13",
-      "category": "Banking",
-      "tags": [
-        "wirex",
-        "navoka",
-        "ai"
-      ]
-    },
-    {
-      "id": "8172371",
-      "title": "Hyundai Card launches new AI-powered credit card model",
-      "summary": "Hyundai Card, a leading credit card company in South Korea, has officially unveiled PLCC 2.0 — a next-generation Private Label Credit Card (PLCC) model combining stronger rewards, exclusive cultural experiences, advanced AI-powered data science solutions, and strategic collaborat…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111668/hyundai-card-launches-new-ai-powered-credit-card-model?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-13",
-      "category": "Banking",
-      "tags": [
-        "hyundai card",
-        "ai",
-        "south korea"
-      ]
-    },
-    {
-      "id": "829997211",
-      "title": "AI Agents Start Paying Invoices Inside Supplier Portals",
-      "summary": "Small businesses showed more interest in using artificial intelligence to keep track of their bills than in using it to pay them. In a PYMNTS Intelligence and Velera survey of 2,474 small and mid-size businesses, 31% wanted AI from their financial institution to track expenses an…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/back-office/2026/ai-agents-start-paying-invoices-inside-supplier-portals/",
-      "date": "2026-11-13",
-      "category": "Banking",
-      "tags": [
-        "ai agents",
-        "start paying",
-        "invoices inside"
-      ]
-    },
-    {
-      "id": "138714685",
-      "title": "Feedzai helps banks detect AI agents accessing customer accounts",
-      "summary": "Feedzai, the global leader in AI-native financial crime prevention, today expanded its Digital Trust solution to help banks detect AI agents accessing customer accounts.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111662/feedzai-helps-banks-detect-ai-agents-accessing-customer-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-12",
-      "category": "Banking",
-      "tags": [
-        "feedzai",
-        "ai",
-        "digital trust"
-      ]
-    },
-    {
-      "id": "580706399",
-      "title": "Jensen Huang is gone. Will the AI industry pay the price?",
-      "summary": "Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1",
-      "date": "2026-11-12",
-      "category": "Banking",
-      "tags": [
-        "jensen huang",
-        "will",
-        "ai"
-      ]
-    },
-    {
-      "id": "241586927",
-      "title": "Starling unveils AI-powered 'talk to transact' feature",
-      "summary": "Starling is launching an AI-powered feature that lets retail customers set up payments by speaking to the bank's app.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48748/starling-unveils-ai-powered-talk-to-transact-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-12",
-      "category": "Banking",
-      "tags": [
-        "starling",
-        "ai"
-      ]
-    },
-    {
-      "id": "219060342",
-      "title": "Investing.com unveils AI financial analyst",
-      "summary": "Investing.com today unveiled one of its most significant advances in AI-powered financial research, introducing a next-generation virtual financial analyst specifically modeled on the way human experts research and analyze financial markets.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111650/investingcom-unveils-ai-financial-analyst?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-12",
-      "category": "Banking",
-      "tags": [
-        "investing",
-        "ai"
-      ]
-    },
-    {
-      "id": "799759462",
-      "title": "What Early Industrial Revolutions Can Teach Us About Inclusive AI Adoption",
-      "summary": "In this interview, Samantha Emery and Harrington Starr's Nadia Edwards-Dashti, describe findings from their recent report into the impact of AI on financial inclusion.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/videoarticle/3646/what-early-industrial-revolutions-can-teach-us-about-inclusive-ai-adoption?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-12",
-      "category": "Banking",
-      "tags": [
-        "what early",
-        "industrial revolutions",
-        "can teach"
-      ]
-    },
-    {
-      "id": "823766167",
-      "title": "HFT vs Algorithmic Trading: Two Different Universes",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33450/hft-vs-algorithmic-trading-two-different-universes?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-12",
-      "category": "Trading",
-      "tags": [
-        "hft",
-        "algorithmic trading",
-        "two different"
-      ]
-    },
-    {
-      "id": "868086726",
-      "title": "How I use AI in venture capital",
-      "summary": "As a Venture Capital ( VC ) investor, making timely and data-driven investment decisions sits at the core of what we do. Yet, we often come across common problems within our investment process. These have traditionally created bottlenecks, inefficiencies and ultimately sometimes …",
-      "source": "e27",
-      "url": "https://e27.co/how-i-use-ai-in-venture-capital-20261109/",
-      "date": "2026-11-12",
-      "category": "Banking",
-      "tags": [
-        "how",
-        "ai",
-        "as"
-      ]
-    },
-    {
-      "id": "409963836",
-      "title": "Your finance team’s ChatGPT habit is a cross-border data transfer",
-      "summary": "Last week I sat with the CEO and CFO of a finance company that is genuinely top of its game in this region. Sophisticated operators. Strong compliance culture on paper. 10 minutes into the conversation, it emerged that their team pastes customer records, financial statements, and…",
-      "source": "e27",
-      "url": "https://e27.co/your-finance-teams-chatgpt-habit-is-a-cross-border-data-transfer-20261106/",
-      "date": "2026-11-12",
-      "category": "RegTech",
-      "tags": [
-        "your",
-        "chatgpt",
-        "last"
-      ]
-    },
-    {
-      "id": "546736306",
-      "title": "OCBC has launched Velocity Smart Assist, an artificial intelligence (AI) assistant, on its Velocity business banking platform.",
-      "summary": "OCBC has launched Velocity Smart Assist, an artificial intelligence (AI) assistant, on its Velocity business banking platform.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/ocbc-debuts-ai-tool-automate-business-account-maintenance",
-      "date": "2026-11-12",
-      "category": "Banking",
-      "tags": [
-        "ocbc",
-        "velocity smart",
-        "assist"
-      ]
-    },
-    {
-      "id": "794161922",
-      "title": "Interactive Brokers Launches Autonomous AI Trading Capability",
-      "summary": "IBKR Autonomous Trading lets eligible clients authorise connected AI to monitor and execute trades across 75,000+ listed instruments within a dedicated partition. The post Interactive Brokers Launches Autonomous AI Trading Capability appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/interactive-brokers-launches-autonomous-ai-trading-capability/",
-      "date": "2026-11-11",
-      "category": "Trading",
-      "tags": [
-        "interactive brokers",
-        "launches autonomous",
-        "ai trading"
       ]
     }
   ]
