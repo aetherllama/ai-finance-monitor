@@ -1,31 +1,32 @@
 {
-  "last_updated": "2026-11-18T16:17:55Z",
+  "last_updated": "2026-11-19T01:01:06Z",
   "insights": {
     "risks": [
       "Regulatory: AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB — review compliance obligations.",
-      "Operational: Wall Street expects corporate earnings growth to halve next year — evaluate model governance gaps."
+      "Trading risk: Arcesium introduces front-to-back hedge fund platform for launching and emerging funds — assess algorithmic exposure.",
+      "Operational: Singapore sets national AI missions for financial services — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Singapore fintechs are pouring money into AI. The returns are not keeping up — potential infrastructure advantage.",
-      "Banking efficiency: Wall Street expects corporate earnings growth to halve next year — cost reduction opportunity.",
+      "Banking efficiency: Singapore sets national AI missions for financial services — cost reduction opportunity.",
       "InsurTech: The Intersection of Autonomous AI Agents, Enterprise Liability, and Insurance Underwriting — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 18
+      "count": 17
     },
     {
       "topic": "Automation",
+      "count": 4
+    },
+    {
+      "topic": "Customer Service AI",
       "count": 3
     },
     {
       "topic": "Stablecoin AI",
-      "count": 2
-    },
-    {
-      "topic": "Customer Service AI",
       "count": 2
     },
     {
@@ -42,6 +43,61 @@
     }
   ],
   "articles": [
+    {
+      "id": "189469544",
+      "title": "Singapore sets national AI missions for financial services",
+      "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "ai"
+      ]
+    },
+    {
+      "id": "860495314",
+      "title": "Arcesium introduces front-to-back hedge fund platform for launching and emerging funds",
+      "summary": "Arcesium, a leading global financial technology provider to the investment industry, today launches Arcesium Blue (Blue), a comprehensive, AI-ready front-to-back hedge fund platform that combines cloud-native technology with premium managed services.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111720/arcesium-introduces-front-to-back-hedge-fund-platform-for-launching-and-emerging-funds?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-18",
+      "category": "Trading",
+      "tags": [
+        "arcesium",
+        "arcesium blue",
+        "blue"
+      ]
+    },
+    {
+      "id": "597785965",
+      "title": "Daloopa delivers audit-ready financial data directly on Snowflake Marketplace",
+      "summary": "Daloopa, the platform powering public equity professionals with trusted financial data and AI automation across the investment research cycle, today announced the launch of its cloud-native fundamental data offering on Snowflake Marketplace.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111722/daloopa-delivers-audit-ready-financial-data-directly-on-snowflake-marketplace?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "daloopa",
+        "snowflake marketplace",
+        "ai"
+      ]
+    },
+    {
+      "id": "785415703",
+      "title": "Klarna launches AI assistant",
+      "summary": "Klarna, the everyday finance network, today announced the Klarna AI-assistant, a personal assistant that handles shopping, returns, bookings, and everyday admin, so you don't have to.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111728/klarna-launches-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-18",
+      "category": "Banking",
+      "tags": [
+        "klarna",
+        "ai",
+        "klarna ai"
+      ]
+    },
     {
       "id": "431058844",
       "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
@@ -815,62 +871,6 @@
         "interactive brokers",
         "launches autonomous",
         "ai trading"
-      ]
-    },
-    {
-      "id": "866776203",
-      "title": "Deutsche Bank and Ant set out Roadmap for integrating agentic AI into wholesale banking",
-      "summary": "A new research report released by Deutsche Bank and Ant Digital Technologies highlights the potential of agentic AI across institutional treasury, cross border payments and trade finance.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48740/deutsche-bank-and-ant-set-out-roadmap-for-integrating-agentic-ai-into-wholesale-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-11",
-      "category": "Banking",
-      "tags": [
-        "deutsche bank",
-        "ant",
-        "roadmap"
-      ]
-    },
-    {
-      "id": "775855804",
-      "title": "AI could cut banking industry's cost base by 20% - McKinsey",
-      "summary": "AI could cut the banking industry's cost base by 20% or more, but most firms have so far only used the technology to boost individual employees' productivity, with negligible impact on the bottom line, according to a report from McKinsey.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48739/ai-could-cut-banking-industrys-cost-base-by-20---mckinsey?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-11",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "mckinsey ai",
-        "mckinsey"
-      ]
-    },
-    {
-      "id": "469704910",
-      "title": "Emirates NBD launches real-time AI market insights for digital wealth customers",
-      "summary": "Emirates NBD, a leading banking group in the Middle East, North Africa, Türkiye and South Asia (MENATSA) region, has announced the launch of real-time AI market insights for digital wealth customers on ENBD X, developed in collaboration with Bridgewise, the global leader in embed…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111646/emirates-nbd-launches-real-time-ai-market-insights-for-digital-wealth-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-11",
-      "category": "Banking",
-      "tags": [
-        "emirates nbd",
-        "ai",
-        "middle east"
-      ]
-    },
-    {
-      "id": "534890382",
-      "title": "Copper is choking AI. Staera secures US$4.6M to swap it for light",
-      "summary": "Every new AI chip arrives with a bigger compute number. Fewer arrive with an honest admission that those chips increasingly sit idle, waiting for data to trickle in over copper wires that were never designed for this kind of workload. Singapore s Staera Semiconductor is betting i…",
-      "source": "e27",
-      "url": "https://e27.co/copper-is-choking-ai-staera-secures-us4-6m-to-swap-it-for-light-20261111/",
-      "date": "2026-11-11",
-      "category": "Banking",
-      "tags": [
-        "copper",
-        "ai",
-        "staera"
       ]
     }
   ]
