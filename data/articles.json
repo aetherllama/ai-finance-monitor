@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-11-20T01:06:14Z",
+  "last_updated": "2026-11-20T15:58:28Z",
   "insights": {
     "risks": [
-      "Operational: FCA opens AI Spotlight Observatory — evaluate model governance gaps."
+      "Regulatory: Curvestone AI launches financial promotions and website monitoring to automate adviser oversight — review compliance obligations.",
+      "Operational: Anthropic shares tumble as AI giant swept up in tech sell-off — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Singapore FinTech Festival Gets to Grips with AI, Digital Money and Financial Inclusion — potential infrastructure advantage.",
-      "Banking efficiency: FCA opens AI Spotlight Observatory — cost reduction opportunity.",
+      "Payments: Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live — potential infrastructure advantage.",
+      "Banking efficiency: Anthropic shares tumble as AI giant swept up in tech sell-off — cost reduction opportunity.",
       "InsurTech: The Download: a living liver, a billion-dollar battery deal, and AI hype — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 19
+      "count": 18
     },
     {
       "topic": "Automation",
@@ -21,7 +22,11 @@
     },
     {
       "topic": "Customer Service AI",
-      "count": 3
+      "count": 2
+    },
+    {
+      "topic": "Regulatory AI",
+      "count": 1
     },
     {
       "topic": "Large Language Models",
@@ -33,6 +38,103 @@
     }
   ],
   "articles": [
+    {
+      "id": "443123665",
+      "title": "Anthropic shares tumble as AI giant swept up in tech sell-off",
+      "summary": "Shares of Claude developer under pressure a day after blockbuster Wall Street debut",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+      "date": "2026-11-20",
+      "category": "Banking",
+      "tags": [
+        "anthropic",
+        "ai",
+        "shares"
+      ]
+    },
+    {
+      "id": "56363691",
+      "title": "Curvestone AI launches financial promotions and website monitoring to automate adviser oversight",
+      "summary": "Curvestone AI, the AI compliance and oversight platform for regulated financial services, has today launched financial promotions monitoring and website monitoring for regulated advice firms of every size, from mortgage and protection networks and their appointed representatives …",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111749/curvestone-ai-launches-financial-promotions-and-website-monitoring-to-automate-adviser-oversight?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-20",
+      "category": "RegTech",
+      "tags": [
+        "curvestone ai",
+        "ai",
+        "da"
+      ]
+    },
+    {
+      "id": "166527460",
+      "title": "Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live",
+      "summary": "Singapore’s fintechs have embraced AI faster than almost anyone, but they have not handed it the keys. A new Kapronasia brief, co-published with Airwallex and the Singapore FinTech Association, finds 86% of Singapore fintechs already deploy AI, against 65% of the city-state’s tra…",
+      "source": "e27",
+      "url": "https://e27.co/ecosystem-roundup-singapore-fintechs-pour-money-into-ai-but-just-11-per-cent-run-agents-live-20261120/",
+      "date": "2026-11-20",
+      "category": "Payments",
+      "tags": [
+        "ecosystem roundup",
+        "singapore",
+        "ai"
+      ]
+    },
+    {
+      "id": "695579241",
+      "title": "After OpenAI and Anthropic, Mistral goes further with a full APAC HQ in Singapore",
+      "summary": "Every big AI lab now has a Singapore story. OpenAI chose the city-state for its first Applied AI Lab outside the US. Last month, Anthropic opened an office here and signed an AI safety testing pact with the government. Now Mistral AI, Europe’s best-known model maker, has gone a s…",
+      "source": "e27",
+      "url": "https://e27.co/after-openai-and-anthropic-mistral-goes-further-with-a-full-apac-hq-in-singapore-20261120/",
+      "date": "2026-11-20",
+      "category": "Banking",
+      "tags": [
+        "after openai",
+        "anthropic",
+        "mistral"
+      ]
+    },
+    {
+      "id": "479967054",
+      "title": "AI should change wealth management’s economics, not just its margins",
+      "summary": "Implementation of Artificial intelligence (AI) across the industry is giving wealth firms a choice in how they use the savings it generates, whether to lower fees, serve smaller accounts, improve access to financial advisers or retain the savings as profit. However, these benefit…",
+      "source": "e27",
+      "url": "https://e27.co/ai-should-change-wealth-managements-economics-not-just-its-margins-20261119/",
+      "date": "2026-11-20",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "implementation",
+        "artificial"
+      ]
+    },
+    {
+      "id": "135070148",
+      "title": "The quiet identity crisis behind AI productivity gains",
+      "summary": "My work in organisational psychology and clinical practice has increasingly brought me into conversations about how AI is changing people s sense of professional identity. One client, whose identifying details have been changed to protect confidentiality, leads a research team at…",
+      "source": "e27",
+      "url": "https://e27.co/the-quiet-identity-crisis-behind-ai-productivity-gains-20261116/",
+      "date": "2026-11-20",
+      "category": "Payments",
+      "tags": [
+        "ai",
+        "my",
+        "one"
+      ]
+    },
+    {
+      "id": "861115431",
+      "title": "Fintech firms face rising cybersecurity risks as AI advances, prompting greater investment in security measures to protect payment systems and customer trust.",
+      "summary": "Fintech firms face rising cybersecurity risks as AI advances, prompting greater investment in security measures to protect payment systems and customer trust.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/news/fintech-firms-rethink-cybersecurity-ai-advances",
+      "date": "2026-11-20",
+      "category": "Payments",
+      "tags": [
+        "fintech",
+        "ai"
+      ]
+    },
     {
       "id": "313062108",
       "title": "FCA opens AI Spotlight Observatory",
@@ -762,104 +864,6 @@
         "fed builds",
         "plans",
         "best"
-      ]
-    },
-    {
-      "id": "452569317",
-      "title": "PayPal Tracks $53 Billion in Treasury Cash With an AI Agent",
-      "summary": "Ask PayPal’s treasury team where its cash sits, and the answer now comes from a chat window. A Deutsche Bank case study describes how that change unfolded inside the company. The system handles $53 billion in corporate cash and customer funds, and the team once relied on 90 sprea…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-tracks-53-billion-in-treasury-cash-with-an-ai-agent/",
-      "date": "2026-11-16",
-      "category": "Banking",
-      "tags": [
-        "paypal tracks",
-        "billion",
-        "treasury cash"
-      ]
-    },
-    {
-      "id": "807388002",
-      "title": "Zowie Expands AI Customer-Service Agents into Romania",
-      "summary": "The Polish AI firm is opening a Bucharest office, backed by $20m in prior funding, targeting banks, telecoms and insurers in a low-adoption market. The post Zowie Expands AI Customer-Service Agents into Romania appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/zowie-expands-ai-customer-service-agents-into-romania/",
-      "date": "2026-11-16",
-      "category": "Payments",
-      "tags": [
-        "zowie expands",
-        "ai customer",
-        "service agents"
-      ]
-    },
-    {
-      "id": "310050871",
-      "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
-      "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
-      "date": "2026-11-16",
-      "category": "Banking",
-      "tags": [
-        "trump",
-        "nvidia",
-        "openai"
-      ]
-    },
-    {
-      "id": "973682970",
-      "title": "Meta wants to teach Singapore’s small businesses AI. It also wants them on WhatsApp",
-      "summary": "SpeakEasy Lab is a two-person communication training business in Singapore, which means that when both founders are teaching, nobody is answering customers. Nobody human, at least. Routine enquiries that once waited an hour or more now get near-instant replies from Meta Business …",
-      "source": "e27",
-      "url": "https://e27.co/meta-wants-to-teach-singapores-small-businesses-ai-it-also-wants-them-on-whatsapp-20261116/",
-      "date": "2026-11-16",
-      "category": "Banking",
-      "tags": [
-        "meta",
-        "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "200984455",
-      "title": "Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools",
-      "summary": "Tipalti's next-generation AP Agent coordinates the full accounts payable lifecycle, while new MCP capabilities connect live financial data to tools including Claude The post Tipalti Launches AP Agent with MCP Links to Enterprise AI Tools appeared first on The Fintech Times .",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/tipalti-launches-ap-agent-with-mcp-links-to-enterprise-ai-tools/",
-      "date": "2026-11-15",
-      "category": "Payments",
-      "tags": [
-        "tipalti launches",
-        "ap agent",
-        "mcp links"
-      ]
-    },
-    {
-      "id": "171454373",
-      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-      "date": "2026-11-14",
-      "category": "Banking",
-      "tags": [
-        "ethereum",
-        "megaeth",
-        "ai"
-      ]
-    },
-    {
-      "id": "496441371",
-      "title": "AI believers hold the line after Nvidia ructions",
-      "summary": "Stock market bulls largely shrug off concerns about the concentration of risk",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
-      "date": "2026-11-13",
-      "category": "Trading",
-      "tags": [
-        "ai",
-        "nvidia",
-        "stock"
       ]
     }
   ]
