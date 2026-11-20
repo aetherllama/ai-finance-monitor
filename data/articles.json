@@ -1,14 +1,12 @@
 {
-  "last_updated": "2026-11-19T16:26:22Z",
+  "last_updated": "2026-11-20T01:06:14Z",
   "insights": {
     "risks": [
-      "Regulatory: The Monetary Authority of Singapore (MAS) will further explore artificial intelligence (AI) agents and tokenisation, setting out plans for a new agent verification protocol, a new sandbox, and updated tokenisation guides.\n\nIn his keynote speech at Day 2 of SFF 2026, MAS Managing Director Chia Der Jiun called AI agents and tokenisation as the two transformative forces in finance. — review compliance obligations.",
-      "Trading risk: Arcesium introduces front-to-back hedge fund platform for launching and emerging funds — assess algorithmic exposure.",
-      "Operational: EmpowerFi and MetriFi bring AI-built to US credit unions — evaluate model governance gaps."
+      "Operational: FCA opens AI Spotlight Observatory — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Singapore FinTech Festival Gets to Grips with AI, Digital Money and Financial Inclusion — potential infrastructure advantage.",
-      "Banking efficiency: EmpowerFi and MetriFi bring AI-built to US credit unions — cost reduction opportunity.",
+      "Banking efficiency: FCA opens AI Spotlight Observatory — cost reduction opportunity.",
       "InsurTech: The Download: a living liver, a billion-dollar battery deal, and AI hype — underwriting modernisation potential."
     ]
   },
@@ -35,6 +33,62 @@
     }
   ],
   "articles": [
+    {
+      "id": "313062108",
+      "title": "FCA opens AI Spotlight Observatory",
+      "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-20",
+      "category": "Banking",
+      "tags": [
+        "fca",
+        "ai spotlight",
+        "observatory the"
+      ]
+    },
+    {
+      "id": "976535625",
+      "title": "Anthropic shares jump 17% after record Wall Street listing",
+      "summary": "AI group led by Dario Amodei raises $81bn in upsized public offering",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "anthropic",
+        "wall street",
+        "ai"
+      ]
+    },
+    {
+      "id": "108404454",
+      "title": "OpenAI Unlocks Cyber Power as Google Slashes AI Costs",
+      "summary": "Two weeks ago, OpenAI let only vetted security teams use its most capable cybersecurity model, saying the risk was too high for general release. This week, it put artificial intelligence models with comparable capabilities on open sale. A model that can find and exploit software …",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-unlocks-cyber-power-as-google-slashes-ai-costs/",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "openai unlocks",
+        "cyber power",
+        "google slashes"
+      ]
+    },
+    {
+      "id": "682093894",
+      "title": "Panel Weighs Who Pays When AI Agents Exceed Consumers’ Instructions",
+      "summary": "A bank may see what an artificial intelligence shopping agent spent without seeing what the shopper authorized. At The Clearing House’s annual conference Wednesday (Nov. 18), panelists considered who should bear the loss when an agent exceeds that authority and how existing consu…",
+      "source": "Pymnts",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/panel-weighs-who-pays-when-ai-agents-exceed-consumers-instructions/",
+      "date": "2026-11-19",
+      "category": "Banking",
+      "tags": [
+        "panel weighs",
+        "who pays",
+        "when ai"
+      ]
+    },
     {
       "id": "856995153",
       "title": "EmpowerFi and MetriFi bring AI-built to US credit unions",
@@ -806,62 +860,6 @@
         "ai",
         "nvidia",
         "stock"
-      ]
-    },
-    {
-      "id": "978958239",
-      "title": "What the Microsoft 365 outage should change in a bank’s 2027 AI plan",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33467/what-the-microsoft-365-outage-should-change-in-a-banks-2027-ai-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-13",
-      "category": "Banking",
-      "tags": [
-        "what",
-        "microsoft",
-        "ai"
-      ]
-    },
-    {
-      "id": "456755086",
-      "title": "AI Law Firm Crosby Bids for Weil Gotshal’s Name and Data",
-      "summary": "A two-year-old an AI-native law firm startup is making a bid for the name and internal data of a 95-year-old Wall Street law firm. Crosby made the offer for the trademark, brand and some internal data of Weil, Gotshal Manges, TechCrunch reported Oct. 30. The data wasn’t specified…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-law-firm-crosby-bids-for-weil-gotshals-name-and-data/",
-      "date": "2026-11-13",
-      "category": "Banking",
-      "tags": [
-        "ai law",
-        "firm crosby",
-        "bids"
-      ]
-    },
-    {
-      "id": "2487696",
-      "title": "JPMorgan Stops AI Agents From Using Customer Credit Cards",
-      "summary": "JPMorgan Chase is blocking artificial intelligence (AI) agents from shopping with its customers’ credit cards when customers give the agent their card number, The Wall Street Journal reported Friday (Nov. 13). Cards from Bank of America, Capital One and Citigroup are already bein…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/2026/jpmorgan-stops-ai-agents-from-using-customer-credit-cards/",
-      "date": "2026-11-13",
-      "category": "Banking",
-      "tags": [
-        "jpmorgan stops",
-        "ai agents",
-        "from using"
-      ]
-    },
-    {
-      "id": "268327680",
-      "title": "Mastercard opens Singapore innovation centre of excellence",
-      "summary": "Mastercard has opened an innovation centre of excellence in Singapore that will eventually house 250 specialists working in areas such as AI, digital commerce and cybersecurity.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48751/mastercard-opens-singapore-innovation-centre-of-excellence?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-13",
-      "category": "Banking",
-      "tags": [
-        "mastercard",
-        "singapore",
-        "ai"
       ]
     }
   ]
