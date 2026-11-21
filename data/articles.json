@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-11-20T15:58:28Z",
+  "last_updated": "2026-11-21T00:41:17Z",
   "insights": {
     "risks": [
       "Regulatory: Curvestone AI launches financial promotions and website monitoring to automate adviser oversight — review compliance obligations.",
-      "Operational: Anthropic shares tumble as AI giant swept up in tech sell-off — evaluate model governance gaps."
+      "Operational: Adyen merchants can offer Klarna in AI agent checkout — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live — potential infrastructure advantage.",
-      "Banking efficiency: Anthropic shares tumble as AI giant swept up in tech sell-off — cost reduction opportunity.",
-      "InsurTech: The Download: a living liver, a billion-dollar battery deal, and AI hype — underwriting modernisation potential."
+      "Banking efficiency: Adyen merchants can offer Klarna in AI agent checkout — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 18
+      "count": 19
     },
     {
       "topic": "Automation",
@@ -38,6 +37,48 @@
     }
   ],
   "articles": [
+    {
+      "id": "42050860",
+      "title": "Adyen merchants can offer Klarna in AI agent checkout",
+      "summary": "Klarna (NYSE: KLAR), the everyday finance network, and Adyen (AMS: ADYEN) today announced that shoppers can now pay with Klarna when an AI agent checks out for them through Adyen Agentic.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111751/adyen-merchants-can-offer-klarna-in-ai-agent-checkout?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-20",
+      "category": "Banking",
+      "tags": [
+        "adyen",
+        "klarna",
+        "ai"
+      ]
+    },
+    {
+      "id": "574889934",
+      "title": "Human Judgment and Inclusion Are the Real Drivers of Financial AI",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33530/human-judgment-and-inclusion-are-the-real-drivers-of-financial-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-20",
+      "category": "Banking",
+      "tags": [
+        "human judgment",
+        "inclusion are",
+        "real drivers"
+      ]
+    },
+    {
+      "id": "427972872",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing.",
+      "source": "Coindesk",
+      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "date": "2026-11-20",
+      "category": "Banking",
+      "tags": [
+        "former",
+        "ai",
+        "wall street"
+      ]
+    },
     {
       "id": "443123665",
       "title": "Anthropic shares tumble as AI giant swept up in tech sell-off",
@@ -822,48 +863,6 @@
         "thailand",
         "ai",
         "it"
-      ]
-    },
-    {
-      "id": "289954295",
-      "title": "Our event video edits went from 60 minutes to 15. The AI was the easy part",
-      "summary": "On the first morning of AICON 2026 in Singapore, a speaker came off stage, a videographer pulled the card, and someone on our team pushed the footage into a Slack channel named for that session. Roughly 15 minutes later there was a cut highlight sitting there waiting for a human …",
-      "source": "e27",
-      "url": "https://e27.co/our-event-video-edits-went-from-60-minutes-to-15-the-ai-was-the-easy-part-20261111/",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "our",
-        "the ai",
-        "on"
-      ]
-    },
-    {
-      "id": "293805858",
-      "title": "AI is changing how we learn, work and invest. Venture capital must change too",
-      "summary": "I recently started one of my lectures at Nanyang Technological University (NTU) in Singapore by asking students to think about how education has changed over the past 30 years. When I was studying engineering at university, there was no internet. Information was difficult to acce…",
-      "source": "e27",
-      "url": "https://e27.co/ai-is-changing-how-we-learn-work-and-invest-venture-capital-must-change-too-20261111/",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "venture",
-        "nanyang technological"
-      ]
-    },
-    {
-      "id": "425809977",
-      "title": "Fed Builds Plans for Best and Worst AI-Driven Economic Outcomes",
-      "summary": "Federal Reserve staff are using model-based frameworks to generate scenarios of outcomes that could result from the progress of artificial intelligence (AI), Federal Reserve Board Chairman Kevin Warsh said Monday (Nov. 16). In opening remarks delivered at the Productivity and Job…",
-      "source": "Pymnts",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fed-builds-plans-for-best-and-worst-ai-driven-economic-outcomes/",
-      "date": "2026-11-16",
-      "category": "Banking",
-      "tags": [
-        "fed builds",
-        "plans",
-        "best"
       ]
     }
   ]
