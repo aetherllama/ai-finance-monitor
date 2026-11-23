@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T15:09:14Z",
+  "last_updated": "2026-11-23T00:05:55Z",
   "insights": {
     "risks": [
       "Regulatory: Curvestone AI launches financial promotions and website monitoring to automate adviser oversight — review compliance obligations.",
@@ -7,7 +7,7 @@
       "Operational: Adyen merchants can offer Klarna in AI agent checkout — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Ecosystem Roundup: Singapore fintechs pour money into AI, but just 11 per cent run agents live — potential infrastructure advantage.",
+      "Payments: Fintech skills remain in-demand across both tech and non-tech sectors, with roles at the intersection of artificial intelligence (AI) and financial services being the hardest to fill, said Singapore Fintech Association (SFA) and Page Executive, a global executive search firm. — potential infrastructure advantage.",
       "Banking efficiency: Adyen merchants can offer Klarna in AI agent checkout — cost reduction opportunity."
     ]
   },
@@ -38,6 +38,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "459672302",
+      "title": "Fintech skills remain in-demand across both tech and non-tech sectors, with roles at the intersection of artificial intelligence (AI) and financial services being the hardest to fill, said Singapore Fintech Association (SFA) and Page Executive, a global executive search firm.",
+      "summary": "Fintech skills remain in-demand across both tech and non-tech sectors, with roles at the intersection of artificial intelligence (AI) and financial services being the hardest to fill, said Singapore Fintech Association (SFA) and Page Executive, a global executive search firm.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/banking-technology/in-focus/ai-finance-roles-hardest-fill-junior-staff-feel-pressure",
+      "date": "2026-11-22",
+      "category": "Payments",
+      "tags": [
+        "fintech",
+        "ai",
+        "singapore fintech"
+      ]
+    },
     {
       "id": "426866895",
       "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
@@ -713,6 +727,20 @@
       ]
     },
     {
+      "id": "918295021",
+      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
+      "summary": "Thailand has found itself a growth engine. It just isn t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 pe…",
+      "source": "e27",
+      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
+      "date": "2026-11-17",
+      "category": "Banking",
+      "tags": [
+        "thailand",
+        "ai",
+        "it"
+      ]
+    },
+    {
       "id": "569577712",
       "title": "Google-backed Arva AI raises $20m",
       "summary": "Arva AI, a research company building models and agents to help banks and fintechs automate things like financial crime compliance and lending, has raised $20 million in a Series A led by Arthur Ventures.",
@@ -836,34 +864,6 @@
         "singapore",
         "as",
         "southeast asian"
-      ]
-    },
-    {
-      "id": "665270627",
-      "title": "My spam folder found me a business lead. Here’s what else AI took off my plate",
-      "summary": "I run Qurious Works, a Singapore supply chain consultancy, and work as a fractional supply chain lead for SMEs and family businesses across Southeast Asia. I’m good at setting up structure and bad at keeping to it. Naming files. Keeping folders tidy. Reading the emails I never as…",
-      "source": "e27",
-      "url": "https://e27.co/my-spam-folder-found-me-a-business-lead-heres-what-else-ai-took-off-my-plate-20261111/",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "my",
-        "here",
-        "ai"
-      ]
-    },
-    {
-      "id": "522489815",
-      "title": "AI marketing research is moving from making content to choosing it, and Asian labs are leading",
-      "summary": "My ACM Multimedia calendar in Rio came colour-coded: must-see, recommended, if time. When I counted the must-sees, the pattern was hard to miss. Most came from Asian labs, from Singapore, Shenzhen, Hefei, Hong Kong and Taipei, plus the research arms of JD, Alibaba, Kuaishou, Byte…",
-      "source": "e27",
-      "url": "https://e27.co/ai-marketing-research-is-moving-from-making-content-to-choosing-it-and-asian-labs-are-leading-20261116/",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "asian",
-        "my acm"
       ]
     }
   ]
