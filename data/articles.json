@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-11-23T00:05:55Z",
+  "last_updated": "2026-11-23T19:05:17Z",
   "insights": {
     "risks": [
       "Regulatory: Curvestone AI launches financial promotions and website monitoring to automate adviser oversight — review compliance obligations.",
       "Trading risk: Tech suppliers raise AI server prices up to 45% months after deals are signed — assess algorithmic exposure.",
-      "Operational: Adyen merchants can offer Klarna in AI agent checkout — evaluate model governance gaps."
+      "Operational: Why autonomous AI agents will reshape banking, not break it — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Fintech skills remain in-demand across both tech and non-tech sectors, with roles at the intersection of artificial intelligence (AI) and financial services being the hardest to fill, said Singapore Fintech Association (SFA) and Page Executive, a global executive search firm. — potential infrastructure advantage.",
-      "Banking efficiency: Adyen merchants can offer Klarna in AI agent checkout — cost reduction opportunity."
+      "Payments: Moving Money in an AI World: Are We Adapting to the Hype or Building for What’s Next? — potential infrastructure advantage.",
+      "Banking efficiency: Why autonomous AI agents will reshape banking, not break it — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 19
+      "count": 18
     },
     {
       "topic": "Automation",
-      "count": 5
+      "count": 6
     },
     {
       "topic": "Customer Service AI",
@@ -38,6 +38,89 @@
     }
   ],
   "articles": [
+    {
+      "id": "828101600",
+      "title": "Why autonomous AI agents will reshape banking, not break it",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33546/why-autonomous-ai-agents-will-reshape-banking-not-break-it?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-23",
+      "category": "Banking",
+      "tags": [
+        "why",
+        "ai",
+        "author"
+      ]
+    },
+    {
+      "id": "140549672",
+      "title": "AI in banking has changed. The data underneath is now the real limit of 2027",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33544/ai-in-banking-has-changed-the-data-underneath-is-now-the-real-limit-of-2027?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-23",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "author"
+      ]
+    },
+    {
+      "id": "442750009",
+      "title": "Moving Money in an AI World: Are We Adapting to the Hype or Building for What’s Next?",
+      "summary": "Fintechs are looking beyond single products, using AI, stablecoins and integrated financial infrastructure to expand services, streamline operations and support global business growth. The post Moving Money in an AI World: Are We Adapting to the Hype or Building for What s Next? …",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/moving-money-in-an-ai-world-are-we-adapting-to-the-hype-or-building-for-whats-next/",
+      "date": "2026-11-23",
+      "category": "Payments",
+      "tags": [
+        "moving money",
+        "ai world",
+        "are we"
+      ]
+    },
+    {
+      "id": "870773549",
+      "title": "Top 5 Popular AI Ordering System for Manufacturers in Singapore: 2027 Enterprise Guide",
+      "summary": "Selecting an AI Ordering System for Manufacturers in Singapore has become an architecture-level priority for industrial boards, chief operating officers, and finance leaders preparing for 2027. Unlike standalone retail order-capture widgets, an enterprise manufacturing ordering e…",
+      "source": "e27",
+      "url": "https://e27.co/top-5-popular-ai-ordering-system-for-manufacturers-in-singapore-20261123/",
+      "date": "2026-11-23",
+      "category": "Banking",
+      "tags": [
+        "top",
+        "popular ai",
+        "ordering system"
+      ]
+    },
+    {
+      "id": "528343323",
+      "title": "Singapore AI startups are scaling fast. But are they ready for the security risks?",
+      "summary": "As AI shifts from test chatbots to systems that can decide and act, Singapore startups face a challenge. They must build technology that customers can trust. Imagine a Singapore-based AI startup developing an intelligent assistant for financial institutions. The product works bea…",
+      "source": "e27",
+      "url": "https://e27.co/singapore-ai-startups-are-scaling-fast-but-are-they-ready-for-the-security-risks-20261122/",
+      "date": "2026-11-23",
+      "category": "Banking",
+      "tags": [
+        "singapore ai",
+        "but",
+        "as ai"
+      ]
+    },
+    {
+      "id": "315370685",
+      "title": "Banks are moving from AI experiments to AI-run operations: What Southeast Asia can learn from Europe",
+      "summary": "AI is already gaining momentum beyond isolated banking experiments. In 2026, the technology began to be adopted as the foundation for restructuring operational models, redistributing roles among employees, automation systems, and AI agents. The primary driver of this trend is the…",
+      "source": "e27",
+      "url": "https://e27.co/ai-is-becoming-an-integral-part-of-banks-operational-model-20261122/",
+      "date": "2026-11-23",
+      "category": "Banking",
+      "tags": [
+        "banks",
+        "ai",
+        "what southeast"
+      ]
+    },
     {
       "id": "459672302",
       "title": "Fintech skills remain in-demand across both tech and non-tech sectors, with roles at the intersection of artificial intelligence (AI) and financial services being the hardest to fill, said Singapore Fintech Association (SFA) and Page Executive, a global executive search firm.",
@@ -780,90 +863,6 @@
         "coinbase ceo",
         "ai",
         "brian armstrong"
-      ]
-    },
-    {
-      "id": "685293906",
-      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-      "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "fed governor",
-        "waller",
-        "federal reserve"
-      ]
-    },
-    {
-      "id": "722591848",
-      "title": "Banks in Asia—particularly Japanese and Singaporean banks—have little exposure to data centres and artificial intelligence (AI), and any risks are more likely to hit revenue than credit losses, according to CreditSights, a Fitch Solutions Company.",
-      "summary": "Banks in Asia—particularly Japanese and Singaporean banks—have little exposure to data centres and artificial intelligence (AI), and any risks are more likely to hit revenue than credit losses, according to CreditSights, a Fitch Solutions Company.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/in-focus/data-centre-downturn-would-hit-bank-fees-loans",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "banks",
-        "asia",
-        "japanese"
-      ]
-    },
-    {
-      "id": "645690735",
-      "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-      "summary": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "new defi",
-        "crypto",
-        "animoca brands"
-      ]
-    },
-    {
-      "id": "480996752",
-      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-      "summary": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "fed governor",
-        "michael barr",
-        "ai"
-      ]
-    },
-    {
-      "id": "600823416",
-      "title": "Iterative’s pivot is an uncomfortable verdict on Southeast Asia’s place in the AI race",
-      "summary": "For six years, Iterative sold itself on one promise: a Y Combinator-style accelerator built exclusively for Southeast Asia. That promise has now expired. The Singapore-based early-stage investor will not run a Winter 2027 batch of its core programme. In its place comes a SEA to S…",
-      "source": "e27",
-      "url": "https://e27.co/iteratives-pivot-is-an-uncomfortable-verdict-on-southeast-asias-place-in-the-ai-race-20261117/",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "iterative",
-        "southeast asia",
-        "ai"
-      ]
-    },
-    {
-      "id": "220542462",
-      "title": "Singapore’s 2026 funding boom is real. As a Southeast Asian story, it’s a mirage",
-      "summary": "There was one sentence Southeast Asia s startup press could have saved as a keyboard shortcut in 2026: Singapore took almost everything. In October, Singapore-based startups collected US$3.66 billion of the US$3.68 billion raised across the region, according to TNGlobal s monthly…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-2026-funding-boom-is-real-as-a-southeast-asian-story-its-a-mirage-20261117/",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "as",
-        "southeast asian"
       ]
     }
   ]
