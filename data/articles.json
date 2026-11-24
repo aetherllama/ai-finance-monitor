@@ -1,31 +1,30 @@
 {
-  "last_updated": "2026-11-23T19:05:17Z",
+  "last_updated": "2026-11-24T18:44:29Z",
   "insights": {
     "risks": [
-      "Regulatory: Curvestone AI launches financial promotions and website monitoring to automate adviser oversight — review compliance obligations.",
       "Trading risk: Tech suppliers raise AI server prices up to 45% months after deals are signed — assess algorithmic exposure.",
-      "Operational: Why autonomous AI agents will reshape banking, not break it — evaluate model governance gaps."
+      "Operational: Trustly raises $60m from shareholders for AI-powered growth plan — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Moving Money in an AI World: Are We Adapting to the Hype or Building for What’s Next? — potential infrastructure advantage.",
-      "Banking efficiency: Why autonomous AI agents will reshape banking, not break it — cost reduction opportunity."
+      "Payments: CommerzVentures launches €50m fund for AI fintechs — potential infrastructure advantage.",
+      "Banking efficiency: Trustly raises $60m from shareholders for AI-powered growth plan — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 18
+      "count": 17
     },
     {
       "topic": "Automation",
       "count": 6
     },
     {
-      "topic": "Customer Service AI",
-      "count": 2
+      "topic": "Regulatory AI",
+      "count": 1
     },
     {
-      "topic": "Regulatory AI",
+      "topic": "Customer Service AI",
       "count": 1
     },
     {
@@ -38,6 +37,90 @@
     }
   ],
   "articles": [
+    {
+      "id": "392476012",
+      "title": "CommerzVentures launches €50m fund for AI fintechs",
+      "summary": "German fintech investor CommerzVentures has launched a €50 million fund that will back early-stage firms working on the intersection of AI and financial services.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-24",
+      "category": "Payments",
+      "tags": [
+        "commerzventures",
+        "ai",
+        "german"
+      ]
+    },
+    {
+      "id": "200415081",
+      "title": "Trustly raises $60m from shareholders for AI-powered growth plan",
+      "summary": "Swedish open banking outfit Trustly has raised around $60 million from existing shareholders to accelerate its \"AI-powered growth strategy\" shortly after slashing its workforce by a quarter.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48802/trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-24",
+      "category": "Banking",
+      "tags": [
+        "trustly",
+        "ai",
+        "swedish"
+      ]
+    },
+    {
+      "id": "825638197",
+      "title": "Lloyds publishes guide on scaling AI responsibly",
+      "summary": "Lloyds Banking Group has provided some insight into its approach to rolling out AI in a responsible way, publishing a guide sharing practical lessons from its experience of scaling the technology.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48800/lloyds-publishes-guide-on-scaling-ai-responsibly?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-24",
+      "category": "Banking",
+      "tags": [
+        "lloyds",
+        "ai",
+        "lloyds banking"
+      ]
+    },
+    {
+      "id": "535510756",
+      "title": "PT Bank Danamon Indonesia forms AI partnership with Advance Intelligence Group",
+      "summary": "PT Bank Danamon Indonesia Tbk (“Danamon”, IDX: BDMN), a member of MUFG, a global financial services group, and Advance Intelligence Group (AIGL), an AI-native financial and data platform, have signed a memorandum of understanding (MOU) to launch a strategic AI partnership between…",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111766/pt-bank-danamon-indonesia-forms-ai-partnership-with-advance-intelligence-group?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-24",
+      "category": "Banking",
+      "tags": [
+        "pt bank",
+        "danamon indonesia",
+        "ai"
+      ]
+    },
+    {
+      "id": "206364706",
+      "title": "Singapore’s 2027 hiring script: Fewer pay rises, more AI fluency",
+      "summary": "Singapore s employers have settled on a script for 2027, and it reads less like a hiring spree and more like a sorting exercise. Pay rises will be modest, hiring will be selective, and the bigger cheques will go to those who can prove they know what to do with artificial intellig…",
+      "source": "e27",
+      "url": "https://e27.co/singapores-2027-hiring-script-fewer-pay-rises-more-ai-fluency-20261124/",
+      "date": "2026-11-24",
+      "category": "Banking",
+      "tags": [
+        "singapore",
+        "fewer",
+        "ai"
+      ]
+    },
+    {
+      "id": "99508785",
+      "title": "AI reached Indonesia’s bank call centres, but it never reached the boardroom",
+      "summary": "It is 10pm in Jakarta. A bank director has a risk committee at nine tomorrow and one question she still can t answer: why is our margin below our peers? It is a fair question this year. Indonesian banks net interest margin narrowed to an average of 4.31 per cent in August, accord…",
+      "source": "e27",
+      "url": "https://e27.co/ai-reached-indonesias-bank-call-centres-but-it-never-reached-the-boardroom-20261122/",
+      "date": "2026-11-24",
+      "category": "Banking",
+      "tags": [
+        "ai",
+        "indonesia",
+        "it"
+      ]
+    },
     {
       "id": "828101600",
       "title": "Why autonomous AI agents will reshape banking, not break it",
@@ -779,90 +862,6 @@
       "category": "Banking",
       "tags": [
         "ai"
-      ]
-    },
-    {
-      "id": "473802256",
-      "title": "Using AI to make your business more efficient is only stage one — Singapore’s deputy PM says the real shift is building businesses with AI as the foundation, not an add-on.",
-      "summary": "Using AI to make your business more efficient is only stage one — Singapore’s deputy PM says the real shift is building businesses with AI as the foundation, not an add-on.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/singapore-firms-urged-go-beyond-efficiency-and-build-ai-native",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "using ai",
-        "singapore",
-        "pm"
-      ]
-    },
-    {
-      "id": "630368677",
-      "title": "Wealth managers across Asia are rethinking how they serve affluent clients as artificial intelligence (AI), changing investor expectations and intergenerational wealth transfers challenge traditional advisory models, forcing banks and insurers to offer more personalised services whilst maintaining human oversight.",
-      "summary": "Wealth managers across Asia are rethinking how they serve affluent clients as artificial intelligence (AI), changing investor expectations and intergenerational wealth transfers challenge traditional advisory models, forcing banks and insurers to offer more personalised services whilst maintaining human oversight.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/event-news/asia-wealth-advisers-rethink-roles-ai-erodes-research-advantage",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "wealth",
-        "asia",
-        "ai"
-      ]
-    },
-    {
-      "id": "918295021",
-      "title": "Thailand’s AI-fuelled upgrade comes with a brutal 2027 maths problem",
-      "summary": "Thailand has found itself a growth engine. It just isn t wired into most of the economy yet. UOB Global Economics and Markets Research on Monday raised its forecast for Thailand s 2026 GDP growth to 2.5 per cent from 1.9 per cent, and its 2027 projection to 2.3 per cent from 2 pe…",
-      "source": "e27",
-      "url": "https://e27.co/thailands-ai-fuelled-upgrade-comes-with-a-brutal-2027-maths-problem-20261117/",
-      "date": "2026-11-17",
-      "category": "Banking",
-      "tags": [
-        "thailand",
-        "ai",
-        "it"
-      ]
-    },
-    {
-      "id": "569577712",
-      "title": "Google-backed Arva AI raises $20m",
-      "summary": "Arva AI, a research company building models and agents to help banks and fintechs automate things like financial crime compliance and lending, has raised $20 million in a Series A led by Arthur Ventures.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48772/google-backed-arva-ai-raises-20m?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-17",
-      "category": "RegTech",
-      "tags": [
-        "google",
-        "arva ai",
-        "series"
-      ]
-    },
-    {
-      "id": "532694847",
-      "title": "Google lets users connect their Wallet to Gemini for personal finance insights",
-      "summary": "Google has partnered with Plaid to let US users of its Gemini AI assistant connect their Google Wallet and financial accounts to get responses informed by their spending habits.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48768/google-lets-users-connect-their-wallet-to-gemini-for-personal-finance-insights?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-17",
-      "category": "Payments",
-      "tags": [
-        "google",
-        "wallet",
-        "gemini"
-      ]
-    },
-    {
-      "id": "568325775",
-      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-      "summary": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
-      "source": "Coindesk",
-      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
-      "date": "2026-11-17",
-      "category": "Payments",
-      "tags": [
-        "coinbase ceo",
-        "ai",
-        "brian armstrong"
       ]
     }
   ]
