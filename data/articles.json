@@ -1,22 +1,25 @@
 {
-  "last_updated": "2026-11-25T02:57:51Z",
+  "last_updated": "2026-11-25T17:52:34Z",
   "insights": {
     "risks": [
-      "Operational: Asian markets lose ground as AI fears return — evaluate model governance gaps."
+      "Regulatory: Stafford Building Society adopts AI-powered financial crime checks — review compliance obligations.",
+      "Trading risk: MultiBank Group’s Vision For AI Powered Finance — assess algorithmic exposure.",
+      "Operational: Is it time up for humans when it comes to financial modelling in the age of AI? — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Brits wary about letting AI agents make payments for them — potential infrastructure advantage.",
-      "Banking efficiency: Asian markets lose ground as AI fears return — cost reduction opportunity."
+      "Payments: Is Your Fintech Outgrowing Its Board? Rethinking What Makes a Good Director — potential infrastructure advantage.",
+      "Banking efficiency: Is it time up for humans when it comes to financial modelling in the age of AI? — cost reduction opportunity.",
+      "InsurTech: OpenAI made AI mention data free. In Southeast Asia, that changes less than it first appears — underwriting modernisation potential."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 15
+      "count": 12
     },
     {
       "topic": "Automation",
-      "count": 6
+      "count": 8
     },
     {
       "topic": "Regulatory AI",
@@ -25,13 +28,135 @@
     {
       "topic": "Customer Service AI",
       "count": 1
-    },
-    {
-      "topic": "Large Language Models",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "712723249",
+      "title": "Stafford Building Society adopts AI-powered financial crime checks",
+      "summary": "The Stafford Building Society has gone live with MV Shield, Mutual Vision’s financial crime compliance platform powered by Napier AI, as it looks to make the detection and investigation of financial crime faster and more efficient.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111780/stafford-building-society-adopts-ai-powered-financial-crime-checks?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-25",
+      "category": "RegTech",
+      "tags": [
+        "stafford building",
+        "society",
+        "ai"
+      ]
+    },
+    {
+      "id": "316949769",
+      "title": "Is it time up for humans when it comes to financial modelling in the age of AI?",
+      "summary": "Author: A finextra community member",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/blogposting/33565/is-it-time-up-for-humans-when-it-comes-to-financial-modelling-in-the-age-of-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-25",
+      "category": "Banking",
+      "tags": [
+        "is",
+        "ai",
+        "author"
+      ]
+    },
+    {
+      "id": "905833806",
+      "title": "Is Your Fintech Outgrowing Its Board? Rethinking What Makes a Good Director",
+      "summary": "Fintech leaders and board search specialists share what directors need to do differently in 2027, from AI oversight to supporting global growth. The post Is Your Fintech Outgrowing Its Board? Rethinking What Makes a Good Director appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/is-your-fintech-outgrowing-its-board-what-makes-a-good-director/",
+      "date": "2026-11-25",
+      "category": "Payments",
+      "tags": [
+        "is your",
+        "fintech outgrowing",
+        "its board"
+      ]
+    },
+    {
+      "id": "142620115",
+      "title": "MultiBank Group’s Vision For AI Powered Finance",
+      "summary": "Naser Taher, founder and chairman of MultiBank Group, discusses the company’s move into interbank trading, digital assets and AI—and its plans to bring financial services together in a super app. The post MultiBank Group’s Vision For AI Powered Finance appeared first on The Finte…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/multibank-groups-vision-for-ai-powered-finance/",
+      "date": "2026-11-25",
+      "category": "Trading",
+      "tags": [
+        "multibank group",
+        "vision for",
+        "ai powered"
+      ]
+    },
+    {
+      "id": "486023775",
+      "title": "The Benefits of AI in Finance",
+      "summary": "AI is reshaping finance across transactional, analytical and strategic roles, but its value will depend on automating the right tasks while strengthening human judgement, accountability and financial controls. The post The Benefits of AI in Finance appeared first on The Fintech T…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/the-benefits-of-ai-in-finance/",
+      "date": "2026-11-25",
+      "category": "Payments",
+      "tags": [
+        "the benefits",
+        "ai",
+        "finance ai"
+      ]
+    },
+    {
+      "id": "177067862",
+      "title": "GITEX GLOBAL 2026: Autonomous AI Agents Top Cybersecurity Risk Agenda",
+      "summary": "Cybersecurity innovators at GITEX GLOBAL 2026 warn that governing autonomous AI agents will be a defining enterprise risk in 2027 as AI-enabled attacks surge 89%. The post GITEX GLOBAL 2026: Autonomous AI Agents Top Cybersecurity Risk Agenda appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/gitex-global-2026-autonomous-ai-agents-top-cybersecurity-risk-agenda/",
+      "date": "2026-11-25",
+      "category": "Payments",
+      "tags": [
+        "gitex global",
+        "autonomous ai",
+        "agents top"
+      ]
+    },
+    {
+      "id": "790884802",
+      "title": "Best HRMS for Rostering in Singapore: Compliance, Cost Control, and AI Leverage",
+      "summary": "Why Do Traditional Scheduling Tools Fall Short for Singapore Businesses? Managing shift schedules across retail outlets, logistics hubs, property management estates, hospitality venues, and field-service teams in Singapore requires far more than filling empty calendar blocks. Man…",
+      "source": "e27",
+      "url": "https://e27.co/best-hrms-for-rostering-singapore-chillhris-20261125/",
+      "date": "2026-11-25",
+      "category": "RegTech",
+      "tags": [
+        "best hrms",
+        "rostering",
+        "singapore"
+      ]
+    },
+    {
+      "id": "460814787",
+      "title": "OpenAI made AI mention data free. In Southeast Asia, that changes less than it first appears",
+      "summary": "OpenAI has started giving companies direct data on how often ChatGPT mentions them. On 10 November, it launched Businesses in ChatGPT in beta. Verified companies can claim a profile, correct their information, and see basic numbers on how often they are mentioned, how many people…",
+      "source": "e27",
+      "url": "https://e27.co/openai-made-ai-mention-data-free-in-southeast-asia-that-changes-less-than-it-first-appears-20261123/",
+      "date": "2026-11-25",
+      "category": "InsurTech",
+      "tags": [
+        "openai",
+        "ai",
+        "in southeast"
+      ]
+    },
+    {
+      "id": "251150601",
+      "title": "Over 400 staff of National Australia Bank (NAB) reportedly received an automated email revealing their employment statuses, according to the Finance Sector Union (FSU).",
+      "summary": "Over 400 staff of National Australia Bank (NAB) reportedly received an automated email revealing their employment statuses, according to the Finance Sector Union (FSU).",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/retail-banking/news/nab-sends-redundancy-email-over-400-staff-mistake-union",
+      "date": "2026-11-25",
+      "category": "Banking",
+      "tags": [
+        "over",
+        "national australia",
+        "bank"
+      ]
+    },
     {
       "id": "875225983",
       "title": "Asian markets lose ground as AI fears return",
@@ -735,131 +860,6 @@
       "tags": [
         "wall street",
         "analysts",
-        "ai"
-      ]
-    },
-    {
-      "id": "764990490",
-      "title": "AI asked ‘better questions’ than KPMG accountants in pilot audit",
-      "summary": "Big Four firm used AI agents to review financial statements of a FTSE 250 company, but human intervention was needed",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05?syn-25a6b1a6=1",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "ai",
-        "kpmg",
-        "big four"
-      ]
-    },
-    {
-      "id": "454031184",
-      "title": "US bank outages caused by software bug at JPMorgan Chase",
-      "summary": "The service outages that hit a number of US banks earlier this week were the result of a software bug at JPMorgan Chase. Meanwhile, experts have claimed that the rash of such outages in recent days - including at Microsoft - may have been caused by firms rushing to patch issues i…",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48778/us-bank-outages-caused-by-software-bug-at-jpmorgan-chase?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "us",
-        "jpmorgan chase",
-        "meanwhile"
-      ]
-    },
-    {
-      "id": "648778867",
-      "title": "The Intersection of Autonomous AI Agents, Enterprise Liability, and Insurance Underwriting",
-      "summary": "Author: A finextra community member",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/blogposting/33503/the-intersection-of-autonomous-ai-agents-enterprise-liability-and-insurance-underwriting?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-18",
-      "category": "InsurTech",
-      "tags": [
-        "the intersection",
-        "autonomous ai",
-        "agents"
-      ]
-    },
-    {
-      "id": "851529343",
-      "title": "A 750-chip ceiling: How US curbs redraw the map for Malaysia’s AI data centres",
-      "summary": "For three years, Malaysia sold the world s AI giants a simple pitch: cheap land, abundant power and a short drive from Singapore. Washington has now added a fourth item to the checklist, and it is the hardest to tick: proof of who your customers really are. Kenanga Research warne…",
-      "source": "e27",
-      "url": "https://e27.co/a-750-chip-ceiling-how-us-curbs-redraw-the-map-for-malaysias-ai-data-centres-20261118/",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "how us",
-        "malaysia",
-        "ai"
-      ]
-    },
-    {
-      "id": "177883570",
-      "title": "Singapore’s Botsync takes its Physical AI pitch to the US with US$11M in fresh funding",
-      "summary": "For most of its seven years, Botsync has been known for its heavy-duty robots that haul pallets around factory floors. Its new pitch is that the robots matter less than the software telling them what to do. The Singapore-headquartered robotics company has raised US$11 million in …",
-      "source": "e27",
-      "url": "https://e27.co/singapores-botsync-takes-its-physical-ai-pitch-to-the-us-with-us11m-in-fresh-funding-20261118/",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "botsync",
-        "physical ai"
-      ]
-    },
-    {
-      "id": "482144397",
-      "title": "Singapore fintechs are pouring money into AI. The returns are not keeping up",
-      "summary": "Walk into almost any Singapore fintech today and you will find AI somewhere: writing code, sorting support tickets, flagging suspect transactions. What you are far less likely to find is an AI agent trusted to approve a loan or move a client s savings without a human hovering ove…",
-      "source": "e27",
-      "url": "https://e27.co/singapore-fintechs-are-pouring-money-into-ai-the-returns-are-not-keeping-up-20261118/",
-      "date": "2026-11-18",
-      "category": "Payments",
-      "tags": [
-        "singapore",
-        "ai",
-        "walk"
-      ]
-    },
-    {
-      "id": "452804941",
-      "title": "Why I filed a consumer complaint against 7 global AI giants over the ‘linguistic tax’",
-      "summary": "When building production-grade enterprise artificial intelligence solutions in India, developers quickly confront an invisible financial penalty. Two users can submit the exact same prompt, identical in meaning and intent, to a commercial Large Language Model (LLM) API, yet one q…",
-      "source": "e27",
-      "url": "https://e27.co/why-i-filed-a-consumer-complaint-against-7-global-ai-giants-over-the-linguistic-tax-20261111/",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "why",
-        "ai",
-        "when"
-      ]
-    },
-    {
-      "id": "360197567",
-      "title": "Singapore’s wealth onboarding problem isn’t the review, it’s the back and forth",
-      "summary": "Singapore is racing to cut onboarding times for the ultra-wealthy. But the clients it most wants to win are often the ones getting stuck in the queue. In October 2025, Bank of Singapore rolled out an AI tool that, the bank says, cut the time to produce a source of wealth report f…",
-      "source": "e27",
-      "url": "https://e27.co/singapores-wealth-onboarding-problem-isnt-the-review-its-the-back-and-forth-20261111/",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "but",
-        "in october"
-      ]
-    },
-    {
-      "id": "785952686",
-      "title": "Four in five want AI and agentic assistance built into their main banking relationship.",
-      "summary": "Four in five want AI and agentic assistance built into their main banking relationship.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/banks-prepare-ai-agents-take-over-customer-front-end",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "four",
         "ai"
       ]
     }
