@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-11-24T18:44:29Z",
+  "last_updated": "2026-11-25T02:57:51Z",
   "insights": {
     "risks": [
-      "Trading risk: Tech suppliers raise AI server prices up to 45% months after deals are signed — assess algorithmic exposure.",
-      "Operational: Trustly raises $60m from shareholders for AI-powered growth plan — evaluate model governance gaps."
+      "Operational: Asian markets lose ground as AI fears return — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: CommerzVentures launches €50m fund for AI fintechs — potential infrastructure advantage.",
-      "Banking efficiency: Trustly raises $60m from shareholders for AI-powered growth plan — cost reduction opportunity."
+      "Payments: Brits wary about letting AI agents make payments for them — potential infrastructure advantage.",
+      "Banking efficiency: Asian markets lose ground as AI fears return — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 17
+      "count": 15
     },
     {
       "topic": "Automation",
@@ -30,13 +29,64 @@
     {
       "topic": "Large Language Models",
       "count": 1
-    },
-    {
-      "topic": "Stablecoin AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "875225983",
+      "title": "Asian markets lose ground as AI fears return",
+      "summary": "Tech stocks in Tokyo and Seoul suffer after Wall Street’s Jensen Huang bounce fades",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+      "date": "2026-11-25",
+      "category": "Banking",
+      "tags": [
+        "asian",
+        "ai",
+        "tech"
+      ]
+    },
+    {
+      "id": "598675493",
+      "title": "Brits wary about letting AI agents make payments for them",
+      "summary": "Brits are increasingly turning to AI to research purchases but scepticism remains when it comes to the checkout, with just 13% saying that they are likely to let an agent make a payment for them in the next year.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48808/brits-wary-about-letting-ai-agents-make-payments-for-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-25",
+      "category": "Payments",
+      "tags": [
+        "brits",
+        "ai"
+      ]
+    },
+    {
+      "id": "658560656",
+      "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+      "summary": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face regulatory scrutiny.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-24",
+      "category": "Banking",
+      "tags": [
+        "as meta",
+        "muse",
+        "uk"
+      ]
+    },
+    {
+      "id": "484200611",
+      "title": "Farsight launches AI-powered integration in Capital IQ Pro",
+      "summary": "Farsight, the platform bringing firm-native AI to global financial services firms, today announced that its integration with S&P Capital IQ Pro, the flagship platform from S&P Global Market Intelligence, is now live.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111777/farsight-launches-ai-powered-integration-in-capital-iq-pro?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-24",
+      "category": "Banking",
+      "tags": [
+        "farsight",
+        "ai",
+        "capital iq"
+      ]
+    },
     {
       "id": "392476012",
       "title": "CommerzVentures launches €50m fund for AI fintechs",
@@ -810,57 +860,6 @@
       "category": "Banking",
       "tags": [
         "four",
-        "ai"
-      ]
-    },
-    {
-      "id": "352214086",
-      "title": "Agentic artificial intelligence (AI), stablecoin use cases, and trust landed at the center of discussions in Singapore Fintech Festival Day 1, with bankers, market players, and regulators exploring how the financial system is being rewired in an era of geopolitical risks.",
-      "summary": "Agentic artificial intelligence (AI), stablecoin use cases, and trust landed at the center of discussions in Singapore Fintech Festival Day 1, with bankers, market players, and regulators exploring how the financial system is being rewired in an era of geopolitical risks.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/retail-banking/in-focus/ai-and-stablecoins-rewire-finance-in-day-1-singapore-fintech-festival-2026",
-      "date": "2026-11-18",
-      "category": "Payments",
-      "tags": [
-        "agentic",
-        "ai",
-        "singapore fintech"
-      ]
-    },
-    {
-      "id": "851525174",
-      "title": "Slapping an agentic artificial intelligence (AI) tool in your banking business isn’t going to automatically improve your business—processes and cultures must also be changed, banking experts said.",
-      "summary": "Slapping an agentic artificial intelligence (AI) tool in your banking business isn’t going to automatically improve your business—processes and cultures must also be changed, banking experts said.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/why-agentic-ai-alone-will-not-improve-banks-without-internal-change",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "slapping",
-        "ai"
-      ]
-    },
-    {
-      "id": "365235036",
-      "title": "The rise of agentic artificial intelligence (AI) will erode the current four-party model of the financial system, highlighting the need to define common standards.",
-      "summary": "The rise of agentic artificial intelligence (AI) will erode the current four-party model of the financial system, highlighting the need to define common standards.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/payments-could-skip-acquirers-and-networks-in-web3-era",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "ai"
-      ]
-    },
-    {
-      "id": "492364746",
-      "title": "The government will also test AI agents that can handle financial transactions.",
-      "summary": "The government will also test AI agents that can handle financial transactions.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/singapore-unveils-ai-missions-fight-financial-crime-boost-sme-financing",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
         "ai"
       ]
     }
