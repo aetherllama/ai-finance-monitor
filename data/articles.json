@@ -1,15 +1,14 @@
 {
-  "last_updated": "2026-11-26T02:05:48Z",
+  "last_updated": "2026-11-26T17:37:22Z",
   "insights": {
     "risks": [
-      "Regulatory: Stafford Building Society adopts AI-powered financial crime checks — review compliance obligations.",
+      "Regulatory: Why Chillaccount Leads AI Accounting Software for Import and Export Business in Malaysia — review compliance obligations.",
       "Trading risk: Stocks advance in Asia after volatile US trading over AI risks — assess algorithmic exposure.",
-      "Operational: Bank of Korea raises interest rates amid AI chip boom — evaluate model governance gaps."
+      "Operational: BofE says firms need to invest to keep pace with AI threat — evaluate model governance gaps."
     ],
     "opportunities": [
-      "Payments: Is Your Fintech Outgrowing Its Board? Rethinking What Makes a Good Director — potential infrastructure advantage.",
-      "Banking efficiency: Bank of Korea raises interest rates amid AI chip boom — cost reduction opportunity.",
-      "InsurTech: OpenAI made AI mention data free. In Southeast Asia, that changes less than it first appears — underwriting modernisation potential."
+      "Payments: AI Attackers Don’t Wait for the Annual Pentest. Nor can Banks — potential infrastructure advantage.",
+      "Banking efficiency: BofE says firms need to invest to keep pace with AI threat — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -19,7 +18,7 @@
     },
     {
       "topic": "Automation",
-      "count": 7
+      "count": 6
     },
     {
       "topic": "Regulatory AI",
@@ -27,6 +26,101 @@
     }
   ],
   "articles": [
+    {
+      "id": "469192062",
+      "title": "BofE says firms need to invest to keep pace with AI threat",
+      "summary": "Financial services firms need to make significant investments to take on the growing scale and sophistication of cyber threats in the era of AI while also ensuring that their own deployment of frontier models is undertaken safely, the Bank of England has warned.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "bofe",
+        "ai",
+        "financial"
+      ]
+    },
+    {
+      "id": "314281883",
+      "title": "Salt Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
+      "summary": "Neumetria, a behavioural understanding layer for financial platforms and AI agents, has partnered with Salt Edge, a leading open banking solutions provider, to serve clients in Europe and North America.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111796/salt-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "salt edge",
+        "neumetria",
+        "ai"
+      ]
+    },
+    {
+      "id": "614815009",
+      "title": "AI Attackers Don’t Wait for the Annual Pentest. Nor can Banks",
+      "summary": "Aikido Security's Selim Decamps argues banks facing AI-driven attackers must move from annual pentests to continuous AI testing inside their own data centres. The post AI Attackers Don t Wait for the Annual Pentest. Nor can Banks appeared first on The Fintech Times .",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/ai-attackers-dont-wait-for-the-annual-pentest-nor-can-banks/",
+      "date": "2026-11-26",
+      "category": "Payments",
+      "tags": [
+        "ai attackers",
+        "don",
+        "wait"
+      ]
+    },
+    {
+      "id": "305641991",
+      "title": "Mashreq Puts NEO BIZ and its Fintech Partnerships on Show at Expand North Star 2026",
+      "summary": "The UAE bank heads to Expand North Star intent on hearing where founders still hit friction, and on showing how its business banking, AI work and partner network are built to remove it. The post Mashreq Puts NEO BIZ and its Fintech Partnerships on Show at Expand North Star 2026 a…",
+      "source": "The Fintech Times",
+      "url": "https://thefintechtimes.com/mashreq-puts-neo-biz-and-its-fintech-partnerships-on-show-at-expand-north-star-2026/",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "mashreq puts",
+        "neo biz",
+        "fintech partnerships"
+      ]
+    },
+    {
+      "id": "491948052",
+      "title": "Why Chillaccount Leads AI Accounting Software for Import and Export Business in Malaysia",
+      "summary": "Meeting Malaysia e-Invoicing Mandates Across Cross-Border Trade Malaysian importers and exporters face strict compliance demands under the Inland Revenue Board of Malaysia (LHDN) MyInvois framework, where both domestic and cross-border transactions require real-time digital valid…",
+      "source": "e27",
+      "url": "https://e27.co/ai-accounting-software-import-export-malaysia-chillaccount-20261126/",
+      "date": "2026-11-26",
+      "category": "RegTech",
+      "tags": [
+        "why chillaccount",
+        "leads ai",
+        "accounting software"
+      ]
+    },
+    {
+      "id": "548149050",
+      "title": "The bank targets 900 million in projected AI value by 2030.",
+      "summary": "The bank targets 900 million in projected AI value by 2030.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/videos/uob-shifts-ai-focus-adoption-returns",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "ai"
+      ]
+    },
+    {
+      "id": "654622960",
+      "title": "Businesses already use five to six platforms on average, raising the need for integrated payment systems and stronger controls over AI agents.",
+      "summary": "Businesses already use five to six platforms on average, raising the need for integrated payment systems and stronger controls over AI agents.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/videos/mastercard-targets-sme-platform-complexity-ai-expands",
+      "date": "2026-11-26",
+      "category": "Payments",
+      "tags": [
+        "businesses",
+        "ai"
+      ]
+    },
     {
       "id": "436161468",
       "title": "Stocks advance in Asia after volatile US trading over AI risks",
@@ -762,102 +856,6 @@
       "category": "Banking",
       "tags": [
         "deploying ai"
-      ]
-    },
-    {
-      "id": "388518576",
-      "title": "Industry leaders said financial institutions using artificial intelligence (AI) agents should give each agent an identity, limit what it can do and keep a tamper-proof record of its actions.",
-      "summary": "Industry leaders said financial institutions using artificial intelligence (AI) agents should give each agent an identity, limit what it can do and keep a tamper-proof record of its actions.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/financial-firms-must-rein-in-ai-agents-identity-checks-and-audit-trails",
-      "date": "2026-11-19",
-      "category": "Banking",
-      "tags": [
-        "industry",
-        "ai"
-      ]
-    },
-    {
-      "id": "65732616",
-      "title": "Financial firms are strengthening AI safeguards, preparing payment networks, and training staff to move beyond pilot projects, executives said at the Singapore FinTech Festival.",
-      "summary": "Financial firms are strengthening AI safeguards, preparing payment networks, and training staff to move beyond pilot projects, executives said at the Singapore FinTech Festival.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/financial-firms-strengthen-safeguards-scale-ai-beyond-pilots",
-      "date": "2026-11-19",
-      "category": "Payments",
-      "tags": [
-        "financial",
-        "ai",
-        "singapore fintech"
-      ]
-    },
-    {
-      "id": "944048425",
-      "title": "AI agents could reshape business payments, but cybersecurity and accountability concerns may slow adoption, executives said at the Singapore FinTech Festival.",
-      "summary": "AI agents could reshape business payments, but cybersecurity and accountability concerns may slow adoption, executives said at the Singapore FinTech Festival.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/ai-payment-agents-promise-b2b-gains-raise-accountability-concerns",
-      "date": "2026-11-19",
-      "category": "Payments",
-      "tags": [
-        "ai",
-        "singapore fintech",
-        "festival"
-      ]
-    },
-    {
-      "id": "314527533",
-      "title": "The Commonwealth Bank of Australia (CBA) has launched CodeCheck, which uses AI coding agents to give businesses the ability to write and check their own code.",
-      "summary": "The Commonwealth Bank of Australia (CBA) has launched CodeCheck, which uses AI coding agents to give businesses the ability to write and check their own code.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/news/cba-debuts-ai-agent-tool-business-software",
-      "date": "2026-11-19",
-      "category": "Banking",
-      "tags": [
-        "the commonwealth",
-        "bank",
-        "australia"
-      ]
-    },
-    {
-      "id": "38622486",
-      "title": "Hyundai Card and Kinexys by J.P. Morgan completed a proof of concept validating the feasibility of automating financial operations using artificial intelligence (AI) agents.",
-      "summary": "Hyundai Card and Kinexys by J.P. Morgan completed a proof of concept validating the feasibility of automating financial operations using artificial intelligence (AI) agents.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/cash-management/news/hyundai-card-and-jp-morgans-kinexys-complete-ai-agent-treasury-trial",
-      "date": "2026-11-19",
-      "category": "Banking",
-      "tags": [
-        "hyundai card",
-        "kinexys",
-        "morgan"
-      ]
-    },
-    {
-      "id": "886006325",
-      "title": "The Monetary Authority of Singapore (MAS) will further explore artificial intelligence (AI) agents and tokenisation, setting out plans for a new agent verification protocol, a new sandbox, and updated tokenisation guides.\n\nIn his keynote speech at Day 2 of SFF 2026, MAS Managing Director Chia Der Jiun called AI agents and tokenisation as the two transformative forces in finance.",
-      "summary": "The Monetary Authority of Singapore (MAS) will further explore artificial intelligence (AI) agents and tokenisation, setting out plans for a new agent verification protocol, a new sandbox, and updated tokenisation guides.\n\nIn his keynote speech at Day 2 of SFF 2026, MAS Managing Director Chia Der Jiun called AI agents and tokenisation as the two transformative forces in finance.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/banking-technology/in-focus/singapore-explores-ai-agent-protocol-and-tokenisation-framework",
-      "date": "2026-11-19",
-      "category": "RegTech",
-      "tags": [
-        "the monetary",
-        "authority",
-        "singapore"
-      ]
-    },
-    {
-      "id": "189469544",
-      "title": "Singapore sets national AI missions for financial services",
-      "summary": "Singapore has set itself three \"national AI missions\" for financial services, harnessing the technology to strengthen crime prevention, boost access to financing for businesses, and enabling agents to transact safely.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-19",
-      "category": "Banking",
-      "tags": [
-        "singapore",
-        "ai"
       ]
     }
   ]
