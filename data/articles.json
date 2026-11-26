@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-25T17:52:34Z",
+  "last_updated": "2026-11-26T02:05:48Z",
   "insights": {
     "risks": [
       "Regulatory: Stafford Building Society adopts AI-powered financial crime checks — review compliance obligations.",
-      "Trading risk: MultiBank Group’s Vision For AI Powered Finance — assess algorithmic exposure.",
-      "Operational: Is it time up for humans when it comes to financial modelling in the age of AI? — evaluate model governance gaps."
+      "Trading risk: Stocks advance in Asia after volatile US trading over AI risks — assess algorithmic exposure.",
+      "Operational: Bank of Korea raises interest rates amid AI chip boom — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: Is Your Fintech Outgrowing Its Board? Rethinking What Makes a Good Director — potential infrastructure advantage.",
-      "Banking efficiency: Is it time up for humans when it comes to financial modelling in the age of AI? — cost reduction opportunity.",
+      "Banking efficiency: Bank of Korea raises interest rates amid AI chip boom — cost reduction opportunity.",
       "InsurTech: OpenAI made AI mention data free. In Southeast Asia, that changes less than it first appears — underwriting modernisation potential."
     ]
   },
@@ -19,18 +19,84 @@
     },
     {
       "topic": "Automation",
-      "count": 8
+      "count": 7
     },
     {
       "topic": "Regulatory AI",
       "count": 1
-    },
-    {
-      "topic": "Customer Service AI",
-      "count": 1
     }
   ],
   "articles": [
+    {
+      "id": "436161468",
+      "title": "Stocks advance in Asia after volatile US trading over AI risks",
+      "summary": "Tech shares decline this month over fears over whether an AI boom can be sustained",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
+      "date": "2026-11-26",
+      "category": "Trading",
+      "tags": [
+        "stocks",
+        "asia",
+        "us"
+      ]
+    },
+    {
+      "id": "47703285",
+      "title": "Bank of Korea raises interest rates amid AI chip boom",
+      "summary": "Third quarter-point increase this year takes benchmark rate to 3.25 per cent",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "bank",
+        "korea",
+        "ai"
+      ]
+    },
+    {
+      "id": "793081031",
+      "title": "UK reappoints Starling and Lloyds execs as AI champions",
+      "summary": "The UK Government has reappointed Starling Bank's Harriet Rees and Lloyds' Rohit Dhawan as its financial services \"AI champions\".",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "uk",
+        "starling",
+        "lloyds"
+      ]
+    },
+    {
+      "id": "763100941",
+      "title": "Asian banks face limited direct credit risk from a bursting artificial intelligence (AI) bubble, but falling investment could reduce fee income and weaken borrowers’ ability to repay loans, CreditSights, a Fitch Solutions company, said.",
+      "summary": "Asian banks face limited direct credit risk from a bursting artificial intelligence (AI) bubble, but falling investment could reduce fee income and weaken borrowers’ ability to repay loans, CreditSights, a Fitch Solutions company, said.",
+      "source": "Asian Banking & Finance",
+      "url": "https://asianbankingandfinance.net/investment-banking/expert-opinion/can-asian-banks-withstand-bursting-ai-bubble",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "asian",
+        "ai",
+        "creditsights"
+      ]
+    },
+    {
+      "id": "291866605",
+      "title": "Zytra AI launches AI governance platform",
+      "summary": "Zytra AI today released FinProof under CC BY 4.0 on HuggingFace — the first publicly available AI safety evaluation benchmark built for banking and financial services.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/pressarticle/111788/zytra-ai-launches-ai-governance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-25",
+      "category": "Banking",
+      "tags": [
+        "zytra ai",
+        "ai",
+        "finproof"
+      ]
+    },
     {
       "id": "712723249",
       "title": "Stafford Building Society adopts AI-powered financial crime checks",
@@ -791,75 +857,6 @@
       "category": "Banking",
       "tags": [
         "singapore",
-        "ai"
-      ]
-    },
-    {
-      "id": "860495314",
-      "title": "Arcesium introduces front-to-back hedge fund platform for launching and emerging funds",
-      "summary": "Arcesium, a leading global financial technology provider to the investment industry, today launches Arcesium Blue (Blue), a comprehensive, AI-ready front-to-back hedge fund platform that combines cloud-native technology with premium managed services.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111720/arcesium-introduces-front-to-back-hedge-fund-platform-for-launching-and-emerging-funds?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-18",
-      "category": "Trading",
-      "tags": [
-        "arcesium",
-        "arcesium blue",
-        "blue"
-      ]
-    },
-    {
-      "id": "597785965",
-      "title": "Daloopa delivers audit-ready financial data directly on Snowflake Marketplace",
-      "summary": "Daloopa, the platform powering public equity professionals with trusted financial data and AI automation across the investment research cycle, today announced the launch of its cloud-native fundamental data offering on Snowflake Marketplace.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111722/daloopa-delivers-audit-ready-financial-data-directly-on-snowflake-marketplace?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "daloopa",
-        "snowflake marketplace",
-        "ai"
-      ]
-    },
-    {
-      "id": "785415703",
-      "title": "Klarna launches AI assistant",
-      "summary": "Klarna, the everyday finance network, today announced the Klarna AI-assistant, a personal assistant that handles shopping, returns, bookings, and everyday admin, so you don't have to.",
-      "source": "Finextra",
-      "url": "https://www.finextra.com/pressarticle/111728/klarna-launches-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "klarna",
-        "ai",
-        "klarna ai"
-      ]
-    },
-    {
-      "id": "431058844",
-      "title": "AI borrowing binge has ‘historic parallels’ with subprime bubble, says ECB",
-      "summary": "Concerns raised that hyperscalers are building up trillions of dollars in off-balance sheet commitments through contracts with other tech groups",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d16475ce-efce-4dc1-b5a3-2f7c79e9dea9?syn-25a6b1a6=1",
-      "date": "2026-11-18",
-      "category": "RegTech",
-      "tags": [
-        "ai",
-        "ecb concerns"
-      ]
-    },
-    {
-      "id": "699367983",
-      "title": "Wall Street expects corporate earnings growth to halve next year",
-      "summary": "Analysts forecast profit growth will dip to 16% globally from 33.5% as pace of AI capex expansion slows",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/74fdac03-bd9b-4e68-9e6e-dc023eb47be9?syn-25a6b1a6=1",
-      "date": "2026-11-18",
-      "category": "Banking",
-      "tags": [
-        "wall street",
-        "analysts",
         "ai"
       ]
     }
