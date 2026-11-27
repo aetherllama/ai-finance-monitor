@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-27T02:03:44Z",
+  "last_updated": "2026-11-27T17:19:26Z",
   "insights": {
     "risks": [
       "Regulatory: Why Chillaccount Leads AI Accounting Software for Import and Export Business in Malaysia — review compliance obligations.",
       "Trading risk: Stocks advance in Asia after volatile US trading over AI risks — assess algorithmic exposure.",
-      "Operational: Choosing the Best ERP Software for Enterprise AI Deployment in Singapore’s Engineering Industry — evaluate model governance gaps."
+      "Operational: Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Attackers Don’t Wait for the Annual Pentest. Nor can Banks — potential infrastructure advantage.",
-      "Banking efficiency: Choosing the Best ERP Software for Enterprise AI Deployment in Singapore’s Engineering Industry — cost reduction opportunity."
+      "Banking efficiency: Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 10
+      "count": 11
     },
     {
       "topic": "Automation",
@@ -26,6 +26,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "569388356",
+      "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
+      "summary": "Truelayer, with Lloyds Bank, yesterday completed an agentic Pay by Bank transaction at Papa John’s in the UK.",
+      "source": "Finextra",
+      "url": "https://www.finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment?utm_medium=rssfinextra&utm_source=finextrafeed",
+      "date": "2026-11-27",
+      "category": "Banking",
+      "tags": [
+        "truelayer",
+        "papa john",
+        "ai"
+      ]
+    },
     {
       "id": "431183681",
       "title": "Choosing the Best ERP Software for Enterprise AI Deployment in Singapore’s Engineering Industry",
@@ -844,20 +858,6 @@
         "singapore fintech",
         "festival gets",
         "grips"
-      ]
-    },
-    {
-      "id": "367697187",
-      "title": "After Megaspeed, Indonesia pays the compliance bill for Asia’s AI chip race",
-      "summary": "For two years, Indonesia has pitched itself as the place where Asia’s AI workloads would live: a huge domestic digital market, surplus power and a government eager to cut ribbons on hyperscale campuses. Washington has just added a line to that brochure: terms and conditions apply…",
-      "source": "e27",
-      "url": "https://e27.co/after-megaspeed-indonesia-pays-the-compliance-bill-for-asias-ai-chip-race-20261119/",
-      "date": "2026-11-19",
-      "category": "Banking",
-      "tags": [
-        "after megaspeed",
-        "indonesia",
-        "asia"
       ]
     }
   ]
