@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-26T17:37:22Z",
+  "last_updated": "2026-11-27T02:03:44Z",
   "insights": {
     "risks": [
       "Regulatory: Why Chillaccount Leads AI Accounting Software for Import and Export Business in Malaysia — review compliance obligations.",
       "Trading risk: Stocks advance in Asia after volatile US trading over AI risks — assess algorithmic exposure.",
-      "Operational: BofE says firms need to invest to keep pace with AI threat — evaluate model governance gaps."
+      "Operational: Choosing the Best ERP Software for Enterprise AI Deployment in Singapore’s Engineering Industry — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Attackers Don’t Wait for the Annual Pentest. Nor can Banks — potential infrastructure advantage.",
-      "Banking efficiency: BofE says firms need to invest to keep pace with AI threat — cost reduction opportunity."
+      "Banking efficiency: Choosing the Best ERP Software for Enterprise AI Deployment in Singapore’s Engineering Industry — cost reduction opportunity."
     ]
   },
   "trending": [
     {
       "topic": "AI Agents",
-      "count": 12
+      "count": 10
     },
     {
       "topic": "Automation",
@@ -26,6 +26,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "431183681",
+      "title": "Choosing the Best ERP Software for Enterprise AI Deployment in Singapore’s Engineering Industry",
+      "summary": "Why Do Engineering Enterprises in Singapore Demand Proven AI Architecture Over Startup Experiments? Engineering contractors, precision equipment builders, and mechanical and electrical specialists in Singapore operate under tight tender margins, strict statutory milestones, and c…",
+      "source": "e27",
+      "url": "https://e27.co/erp-software-enterprise-ai-deployment-engineering-industry-singapore-20261126/",
+      "date": "2026-11-27",
+      "category": "Banking",
+      "tags": [
+        "choosing",
+        "best erp",
+        "software"
+      ]
+    },
+    {
+      "id": "495776599",
+      "title": "Andrew Bailey says unreleased AI models have raised encryption concerns",
+      "summary": "Breakthroughs in mathematics have stoked fears that data across financial systems is under threat",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/450920b9-82b8-4a66-960b-5740aa7f94ae?syn-25a6b1a6=1",
+      "date": "2026-11-26",
+      "category": "Banking",
+      "tags": [
+        "andrew bailey",
+        "ai",
+        "breakthroughs"
+      ]
+    },
     {
       "id": "469192062",
       "title": "BofE says firms need to invest to keep pace with AI threat",
@@ -830,32 +858,6 @@
         "after megaspeed",
         "indonesia",
         "asia"
-      ]
-    },
-    {
-      "id": "51939761",
-      "title": "Regulators, finance executives, and market experts explored AI agent governance as well as market longevity and potential in the second day of Singapore Fintech Festival 2026 held at the Singapore EXPO, 19 November.",
-      "summary": "Regulators, finance executives, and market experts explored AI agent governance as well as market longevity and potential in the second day of Singapore Fintech Festival 2026 held at the Singapore EXPO, 19 November.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/cards-payments/in-focus/financial-players-debate-ai-agent-rules-market-prospects-sff-day-2",
-      "date": "2026-11-19",
-      "category": "Payments",
-      "tags": [
-        "regulators",
-        "ai",
-        "singapore fintech"
-      ]
-    },
-    {
-      "id": "812126550",
-      "title": "Deploying AI agents in the financial industry must involve strict boundaries where they are just shoppers and not bankers.",
-      "summary": "Deploying AI agents in the financial industry must involve strict boundaries where they are just shoppers and not bankers.",
-      "source": "Asian Banking & Finance",
-      "url": "https://asianbankingandfinance.net/news/treat-ai-agents-shoppers-not-bankers-googles-jeremy-goro",
-      "date": "2026-11-19",
-      "category": "Banking",
-      "tags": [
-        "deploying ai"
       ]
     }
   ]
