@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-11-27T17:19:26Z",
+  "last_updated": "2026-11-28T01:49:42Z",
   "insights": {
     "risks": [
       "Regulatory: Why Chillaccount Leads AI Accounting Software for Import and Export Business in Malaysia — review compliance obligations.",
       "Trading risk: Stocks advance in Asia after volatile US trading over AI risks — assess algorithmic exposure.",
-      "Operational: Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment — evaluate model governance gaps."
+      "Operational: Can AI crack encryption? — evaluate model governance gaps."
     ],
     "opportunities": [
       "Payments: AI Attackers Don’t Wait for the Annual Pentest. Nor can Banks — potential infrastructure advantage.",
-      "Banking efficiency: Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment — cost reduction opportunity."
+      "Banking efficiency: Can AI crack encryption? — cost reduction opportunity."
     ]
   },
   "trending": [
@@ -26,6 +26,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "302027760",
+      "title": "Can AI crack encryption?",
+      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+      "date": "2026-11-27",
+      "category": "Banking",
+      "tags": [
+        "can ai",
+        "new"
+      ]
+    },
     {
       "id": "569388356",
       "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
@@ -844,20 +857,6 @@
         "superintelligence",
         "ai",
         "the fintech"
-      ]
-    },
-    {
-      "id": "337976928",
-      "title": "Singapore FinTech Festival Gets to Grips with AI, Digital Money and Financial Inclusion",
-      "summary": "Georgia Hanias reports from Singapore FinTech Festival, where banks are embracing blockchain and AI is raising new questions about the future of money and inclusion. The post Singapore FinTech Festival Gets to Grips with AI, Digital Money and Financial Inclusion appeared first on…",
-      "source": "The Fintech Times",
-      "url": "https://thefintechtimes.com/singapore-fintech-festival-gets-to-grips-with-ai-digital-money-and-financial-inclusion/",
-      "date": "2026-11-19",
-      "category": "Payments",
-      "tags": [
-        "singapore fintech",
-        "festival gets",
-        "grips"
       ]
     }
   ]
